@@ -1,0 +1,55 @@
+name: Nightly page watch
+
+# Runs every night at about 11:35pm Pacific (07:35 UTC in winter), so it finishes well before the 2:13am nightly writer.
+# In summer (daylight time) this runs at 12:35am Pacific, still in time.
+# It fetches every public vendor page in urls.txt directly (real internet, robots.txt respected,
+# polite per-host pacing), fingerprints the text, and records what changed since the last capture.
+on:
+  schedule:
+    - cron: "35 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pagewatch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and compare every watched page
+        run: |
+          DAY=$(TZ=America/Los_Angeles date +%F)
+          python3 -I tools/snapshot.py run --urls urls.txt --baseline none.csv --root snapshots --date "$DAY" --delay 4 | tee run_summary.json
+
+      - name: Publish the latest results and keep 3 days of page text
+        run: |
+          DAY=$(TZ=America/Los_Angeles date +%F)
+          mkdir -p latest
+          cp "snapshots/$DAY/changed_pages.json" latest/changed_pages.json
+          cp "snapshots/$DAY/manifest.json" latest/manifest.json
+          cp run_summary.json latest/run_summary.json
+          echo "$DAY" > latest/DATE
+          # Older page text stays in git history; only the last 3 days stay in the folder.
+          ls -d snapshots/20* 2>/dev/null | sort | head -n -3 | xargs -r git rm -r -q --
+          ls -d snapshots/20* 2>/dev/null | sort | head -n -3 | xargs -r rm -rf
+
+      - name: Commit
+        run: |
+          git config user.name "pagewatch-bot"
+          git config user.email "pagewatch-bot@users.noreply.github.com"
+          git add -A snapshots latest
+          git commit -q -m "Page watch $(TZ=America/Los_Angeles date +%F)" || echo "nothing new"
+          git push -q
