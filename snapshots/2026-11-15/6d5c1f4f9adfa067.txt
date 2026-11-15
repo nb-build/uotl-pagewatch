@@ -1,0 +1,231 @@
+Edge Point of Sale Website Integration by Punchmark
+
+Skip to primary navigationSkip to main contentSkip to footer
+
+(704) 910-4774
+
+Book My Appointment
+
+Home
+
+Websites
+What is SiteManager?
+
+Design Options
+
+Customer Success
+
+Integrations
+
+Plans & Pricing
+
+Marketing
+Marketing Plan Options
+
+Digital Marketing Made Simple
+
+Plans & Pricing
+
+Customer Stories
+
+Newsroom
+
+Our Story
+
+Why Jewelers Choose Punchmark
+
+Contact Sales
+
+Customer Support
+
+Show Appointments
+
+In the Loupe Podcast
+
+Sign In
+
+Book a Demo
+
+WebsitesToggle Websites Menu
+What is SiteManager?
+
+Design Options
+
+Customer Success
+
+Integrations
+
+Plans & Pricing
+
+MarketingToggle Marketing Menu
+Marketing Plan Options
+
+Digital Marketing Made Simple
+
+Plans & Pricing
+
+Customer Stories
+
+Newsroom
+
+Edge IntegrationPoint-of-Sale Synchronization
+
+Integrate your website with the most popular retail jewelry point-of-sale system in existence. Punchmark utilizes the Edge EDT software to communicate bi-directionally with your in-store software.
+
+Edge® Certified Partner
+
+Punchmark has worked closely with The Edge® since 2011 as the premier certified website partner to create the most comprehensive point-of-sale integration available.
+
+Why should I get integrated?
+
+The Edge® is the jewelry industry's undisputed most popular point-of-sale system with over 12,000 total stations in 3,200+ stores.
+
+Automate your website's product data, images and pricing to always match your point-of-sale.
+
+Allow customers to view and edit their Edge® wish-list directly from your website.
+
+Synchronize all of your customer data so online leads can turn into in-store sales and vice-versa.
+
+Give customers the ability to check the status of their repair jobs directly from your website.
+
+Integration Features
+
+Punchmark's Edge® Data Transfer (EDT) integration provides customers with a unique and turn-key solution for automating your online inventory, jobs, and customer management.
+
+Automated product data updates
+
+Configure your product category and vendor map so you can choose which products reach your website and where they land. From there, data is automatically updated intermittently based on your daily changes in the Edge®.
+
+Bi-directional communication
+
+Not only will your website be updated by changes made in the Edge® software, but the opposite is also true. If changes are made to customer records on the website, your point-of-sale software will receive this data as well.
+
+Customer wish list synchronization
+
+Customers who've created wish lists in your store can go home and log in to your website and continue adding to the same list from the comfort of their home. The next time that customer returns to the store, those changes will also be reflected in your in-store software.
+
+Repair status check
+
+Your customers who have active repairs can check the status of their repair job from your website. Each response is customized based on the status information posted from your point-of-sale system.
+
+Jerry ArnoldOwner at Arnold's Fine Jewelry & Gifts
+
+“These folks have it going on! Excellent service and reliability as well as response time! Thanks for everything!”
+
+How to Get Started
+
+As an Edge® Certified Partner, the setup cost with Abbott Jewelry Systems is 50% off the $2,000 list price. Once you make the purchase they will provide you with the EDT program, which is an extension to the Edge® software that makes the website integration possible. There is also a monthly fee of $100 added to your Punchmark monthly service plan—unless you're already enrolled in either our Professional or Advanced service plan.
+
+Next steps:
+
+Let your Punchmark sales rep or customer success rep know that you'd like to get integrated.
+
+Contact Abbott Jewelry Systems (The Edge®) and let them know you're interested in integrating your Punchmark website.
+
+Install the EDT software on your in-store computer where the Edge® is installed.
+
+Configure your settings and set up your category and vendor maps in SiteManager.
+
+Ready to automate your point of sale data?
+
+Get Integrated
+
+Websites
+
+Platform Overview
+
+Design Options
+
+Design Examples
+
+Integrations
+
+Customer Success
+
+Book a Demo
+
+Marketing
+
+Jewelry Marketing
+
+Marketing Plans
+
+Marketing Tactics
+
+Plans & Pricing
+
+Book a Consultation
+
+Resources
+
+Best Practices
+
+Frequent Questions
+
+Jewelry Vendors
+
+Diamond Vendors
+
+Point-of-Sale
+
+Tutorials
+
+Newsroom
+
+Latest News
+
+Technology
+
+Company Updates
+
+Product Updates
+
+AI Instructions
+
+Company
+
+About Punchmark
+
+Contact Sales
+
+Customer Support
+
+Sign In
+
+-2026 Punchmark, LLC
+
+3540 Toringdon Way, Suite 200, #185,
+Charlotte, NC 28277
+
+Privacy Policy
+Terms of Services
+Accessibility
+
+Privacy Policy
+Terms of Services
+Accessibility
+
+Privacy Policy
+
+Terms & Conditions
+
+Accessibility Statement
+
+Punchmark. All Rights Reserved.
+
+Powered by: Punchmark
+
+My Cart
+
+You have 0 items in your Cart.
+
+Loading cart items
+
+Loading
+
+Do Not Sell or Share My Personal Information. Manage Cookie Preferences.
+
+Close consent popup
+
+Decline all cookies
+Accept all cookies

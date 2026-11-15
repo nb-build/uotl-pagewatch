@@ -1,0 +1,729 @@
+﻿
+
+Product Growth Platform | Userpilot
+
+Skip to content
+
+Platform
+
+Product
+In-App EngagementOnboard, guide, and activate users
+
+Product AnalyticsUnderstand every user interaction
+
+User FeedbackRun surveys, collect NPS, get insights
+
+Session ReplayWatch real user sessions
+
+EmailSend behavior-triggered emails
+
+MobileEngage users on mobile
+
+WorkflowsOrchestrate multi-channel engagement
+
+AI
+Userpilot AIAI across the Userpilot suite
+
+Userpilot MCPConnect Userpilot to your AI tools
+
+LiaYour autonomous growth agent
+
+Agent AnalyticsMeasure your AI agents’ performance
+
+Data
+Data SyncPush data to your warehouse
+
+IntegrationsConnect your entire tech stack
+
+Ai
+
+Userpilot AI: The AI That Analyzes, Advises & Acts
+
+Powered by product growth Agent Lia and MCP
+
+Learn More
+
+Solutions
+
+Use Cases
+User OnboardingImprove activation & time-to-value
+
+Understand User BehaviorUnderstand what users do and why
+
+In-app SupportHelp users without leaving product
+
+Product Adoption & LaunchesEnsure your features get used
+
+Teams
+Product ManagementImprove product adoption
+
+UX & DesignDesign better experiences
+
+Customer Success & SupportDrive customer retention
+
+Product MarketingImprove feature adoption
+
+GrowthOptimize product funnels
+
+MarketingActivate new users
+
+EngineeringBuild guided product flows
+
+Customer Stories
+
+Discover how teams like yours use Userpilot to improve user engagement and drive growth.
+
+Hear their stories
+
+Pricing
+
+Enterprise
+
+Scale & Security
+Userpilot for EnterpriseBuilt for large-scale teams
+
+SecurityEnterprise-grade security
+
+Professional ServicesExpert implementation and strategy
+
+About UserpilotLearn more about Userpilot
+
+Resources
+
+Resources
+BlogProduct adoption insights
+
+Case StudiesHow teams grow with Userpilot
+
+Youtube ChannelExplore product growth content
+
+Benchmark ReportSaaS product metrics benchmarks
+
+Product Drive ConferenceLearn from top product thought leaders
+
+Product
+Knowledge BaseStart instantly creating product experiences
+
+Getting Started VideosFind out how we can help you save time
+
+Product NewsLatest product updates
+
+Free Trial
+
+Get a Demo
+
+Login
+
+Get a Demo
+
+The Agentic Product Adoption Platform
+
+Shipping software is getting easier.
+Getting people to use it isn’t.
+
+Userpilot understands how people use your product, identifies what’s holding them back, and prepares improvements your team can approve and measure.
+
+Get a Demo
+Explore the Platform
+
+AI Data Analytics
+
+AI Feedback Analysis
+
+AI User Engagement
+
+Agent Analytics
+
+Join 1,200 Companies Accelerating
+Product Growth with Userpilot.
+
+How it works
+
+Close the gap between user insights and in-app action
+
+Product Analytics
+User Engagement
+User Feedback
+Session Replay
+
+Userpilot AI spots issues, predicts outcomes, and build fixes in-app
+
+Userpilot AI Agent & Chatbot
+
+Predictive Analytics
+
+AI Agent Analytics
+
+MCP Server
+
+Book a Demo
+Learn More
+
+Understand user behavior and make data-driven product decisions
+
+Event Autocapture
+
+Path, Funnel, Trend, & Cohort Reports
+
+AI Insights & Real-Time Notifications
+
+Pre-defined & Custom Dashboards
+
+Book a Demo
+Learn More
+
+Onboard users, launch features & drive adoption across every channel
+
+Build in-app onboarding flows without code
+
+In-App, Email & Mobile Engagement
+
+Tooltips, Banners, Spotlights & Contextual Nudges
+
+In-app Resource Center
+
+Book a Demo
+Learn More
+
+Capture user sentiment, validate decisions, and close the feedback loop
+
+NPS & CSAT Surveys
+
+In-app, Mobile + Email Surveys
+
+Behavioral Logic
+
+Feedback Analytics
+
+Book a Demo
+Learn More
+
+Replay user sessions and uncover the why behind every drop-off
+
+Unlimited Session Replays
+
+Analytics-Linked Funnel & Drop-Off Replays
+
+Rage Clicks, Errors & Frustration Signals
+
+Tags, Notes & Team Playlists
+
+Auto-Masking with HIPAA, GDPR & SOC 2
+
+Book a Demo
+Learn More
+
+AI Intelligence
+
+AI that analyzes, forecasts, and automates
+
+Userpilot's Agent Lia
+
+Analyzes your product data, generates content, and executes actions.
+
+Learn More
+
+Agent Analytics
+
+Track every agent's performance and optimize workflows in real time.
+
+Learn More
+
+MCP Server
+
+Bring your Userpilot data into any AI tool you use.
+
+Learn More
+
+Events & features
+clicks · usage · paths
+
+User & company
+segments · attributes
+
+Surveys
+feedback · sentiment
+
+Content engagement
+guides · flows · tooltips
+
+NPS
+scores · responses
+
+Session replay
+recordings · error · frustration
+
+Userpilot MCP
+
+Bring your Userpilot data into any AI tool you use.
+
+Explore Userpilot MCP
+
+Claude
+Anthropic
+
+ChatGPT
+OpenAI
+
+Cursor
+AI code editor
+
+Copilot
+Microsoft
+
+Any MCP
+Open standard
+
+USE CASES
+
+Run the entire product experience from one place
+
+User Onboarding
+
+Guide new users to value faster with contextual in-app & email experiences.
+
+Learn More
+
+Product Adoption
+
+Drive feature discovery with targeted in-app guidance.
+
+Learn More
+
+Self-Serve Support
+
+Deflect support tickets with proactive in-app guidance that scales.
+
+Learn More
+
+Expansion Revenue
+
+Spot upsell opportunities and act on them at the right moment.
+
+Learn More
+
+Feature Launches
+
+Announce, guide, and measure impact of every feature launch.
+
+Learn More
+
+Churn Prevention
+
+Catch at-risk users early and act before they drop off.
+
+Learn More
+
+Feedback Collection
+
+Collect real-time feedback to understand user sentiment.
+
+Learn More
+
+CUSTOMER STORIES
+
+Real results from real customers
+
+Hear all of it
+
+36%
+
+Increase in customer lifetime value
+
+30%
+
+User stickiness
+
+10x
+
+Increase in webinar sign-ups
+
+79%
+
+Renewal rate for users with custom onboarding flows
+
+Data-driven UX redesign
+
+75%
+
+Increase in feature usage
+
+5-10x
+
+Faster product adoption
+
+25%
+
+Reduction in support chat requests
+
+99%
+
+Reduction in 1:1 customer training hours
+
+17%
+
+Increase in conversions
+
+100%
+
+User Onboarding Built Without Developer Involvement
+
+1%
+
+Decrease in customer churn
+
+Our Mission
+
+Empowering teams to build better products
+
+Speed
+
+Launch, iterate, and optimize without a single dev ticket.
+
+Simplicity
+
+Build powerful in-app experiences anyone on your team can launch and iterate on.
+
+Security
+
+Enterprise-grade protection with SOC 2 Type II, GDPR, and HIPAA compliance.
+
+INTEGRATIONS
+
+Connect your stack
+
+Send product data to your stack and pull CRM or analytics data back to power smarter targeting.
+
+See all Integrations
+
+Sync CRM data to power smarter in-app targeting.
+
+Teams
+
+Data everyone trusts. Tools everyone uses.
+
+Product
+UX Design
+Customer Success
+Marketing & Growth
+
+Build products users love
+
+Track feature usage, identify friction points, and make every product decision with real usage data behind it.
+
+Usage and adoption analytics
+
+Activation and funnel tracking
+
+In-app onboarding flows
+
+Session replay & surveys
+
+Book a Demo
+Learn More
+
+Design experiences backed by real behavior
+
+See exactly where users get stuck, validate design decisions with in-app feedback, and iterate fast without engineering dependencies.
+
+Session replay
+
+Path & funnel analysis
+
+In-app surveys
+
+In-app onboarding flows
+
+Book a Demo
+Learn More
+
+Scale customer success without scaling your team
+
+Reduce support tickets, guide users to value faster, and catch churn risk early with in-product education that runs on autopilot.
+
+In-app onboarding flows
+
+Resource Centre
+
+NPS, CSAT & surveys
+
+Churn signals
+
+Book a Demo
+Learn More
+
+Turn every signup into an activated user
+
+Guide users to activation, measure how campaigns drive real product behavior, and collect feedback that sharpens your messaging.
+
+In-app onboarding flows
+
+Email & Workflows
+
+Behavioral segmentation
+
+Activation & adoption analysis
+
+Book a Demo
+Learn More
+
+THE PROOF
+
+Proven. Trusted. Built for Scale.
+
+Trusted by thousands of users worldwide
+
+Consistently ranked among the top-rated platforms on G2 by real users.
+
+4.6/5
+
+988 Verified Reviews
+
+2.5T
+Events analyzed
+
+99.99%
+Platform uptime
+
+<200ms
+Processing latency
+
+39M
+Monthly users
+
+Ready to Transform
+Your User Experience?
+
+Join 1000+ companies using Userpilot to onboard,
+engage, and retain users.
+
+Get Started
+No credit card required
+
+Try Userpilot and Take Your Product Marketing to the Next Level
+
+Get Started
+
+Platform
+
+Product Analytics
+
+In-App Engagement
+
+User Feedback
+
+Session Replay
+
+Workflows
+
+Email
+
+Mobile
+
+Pricing
+
+AI
+
+Userpilot AI
+
+Lia Agent
+
+Agent Analytics
+
+Data
+
+Data Sync
+
+Integrations
+
+Userpilot MCP
+
+Roles
+
+Product Growth
+
+Product Marketing
+
+Product Management
+
+UX Design
+
+Growth
+
+Engineers
+
+Marketing
+
+Company
+
+Userpilot for Enterprise
+
+Security
+
+Customers
+
+Events
+
+Careers
+
+we are hiring
+
+Contact us
+
+About us
+
+Resources
+
+Blog
+
+Case Studies
+
+YouTube Channel
+
+Product Drive
+
+Benchmark Report
+
+Sitemap
+
+Product
+
+Product News
+
+Knowledge Base
+
+Getting Started Videos
+
+Support
+
+Help Center
+
+System Status
+
+Trust Center
+
+Read More
+
+In-App Surveys
+
+User Feedback
+
+Product Analytics
+
+Product Strategy
+
+Customer Churn
+
+User Retention
+
+Product Marketing
+
+Product Management
+
+User Onboarding
+
+User Journey Map
+
+Knowledge Base
+
+Product Adoption
+
+UX Research
+
+User Engagement
+
+SaaS Products
+
+In-App Messaging
+
+Product Launch Plan
+
+Session Replay
+
+App Monetization Strategies
+
+Product Experience
+
+Ai in SaaS
+
+Userpilot vs Alternative Solutions
+
+Userpilot vs Pendo
+
+Userpilot vs Appcues
+
+Userpilot vs Chameleon
+
+Userpilot vs UserGuiding
+
+Userpilot vs Userflow
+
+Userpilot vs Product Fruits
+
+Userpilot vs WalkMe
+
+Userpilot vs Whatfix
+
+Userpilot vs Amplitude
+
+Userpilot vs Mixpanel
+
+Userpilot vs Heap
+
+Userpilot vs PostHog
+
+Userpilot vs FullStory
+
+Userpilot vs Hotjar
+
+Userpilot vs LogRocket
+
+Userpilot vs Intercom
+
+Userpilot. All rights reserved
+
+Terms of Use
+
+Privacy Policy
+
+All Articles
+
+Sitemap
+
+Brandkit
+
+Official Userpilot logos, marks, and company description. Download any asset as SVG or PNG.
+
+Logo
+
+Primary
+
+Light
+
+On white (black)
+
+Logomark
+
+Usage
+
+Spelling
+
+Userpilot is one word with a capital U. Never UserPilot or User Pilot.
+
+Clear space
+
+Keep space equal to half the mark's height on every side.
+
+Don't alter
+
+Don't recolor, stretch, rotate, or add effects to the logo.
+
+Company description
+
+Copy
+
+Userpilot is a product growth and analytics platform that helps SaaS teams turn user insights into better product experiences. Product, growth, and customer success teams use Userpilot to understand user behavior, onboard new users, drive feature adoption, collect feedback, and reduce churn, all without code. More than 1,200 companies use Userpilot to accelerate product growth.
+
+Press inquiries: [email protected]
+
+Download All Assets

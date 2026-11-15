@@ -1,0 +1,467 @@
+What is 10DLC? 10DLC Messaging, Defined
+
+Skip to Main Content
+
+Developer docs
+
+Documentation
+
+Getting started
+
+Code samples
+
+Support
+
+U.S. & Canada
+
+Global
+
+Support plans
+
+Login
+
+Bandwidth App
+
+Legacy Global Portal
+
+911 Access Portal
+
+Bandwidth Community
+
+Products
+
+The Bandwidth Universal Platform → Featured
+
+The next level of communications with insights, numbers, and APIs all on one global platform.
+
+Bandwidth AI
+Explore all products
+
+Back
+
+Communication APIs
+
+Voice API
+
+Media streaming
+
+Messaging API (All in one)
+
+SMS
+
+MMS
+
+RCS
+
+Emergency Calling API
+
+WebRTC API
+
+Authentication API
+
+Integrations
+
+Conversational AI
+
+Salesforce Contact Center New
+
+Microsoft Teams
+
+Direct Routing
+
+Operator Connect
+
+Genesys Cloud CX
+
+Webex Calling
+
+Zoom Phone
+
+Google Voice SIP Link
+
+Five9
+
+Bland New
+
+Pindrop
+
+Wholesale
+
+Voice Activation Agent
+
+Global SIP Trunking
+
+VoIP Origination
+
+VoIP Termination
+
+Emergency Services
+
+Dynamic Location Routing (DLR)
+
+International Long Distance
+
+Toll-Free Voice
+
+Numbers And Tooling
+
+Call Intelligence New
+
+Voice and Messaging Insights
+
+Campaign Registration
+
+Contact Center Security & Trust
+
+Phone Numbers
+
+Number Management
+
+Porting
+
+Caller ID
+
+Call Verification
+
+Number Reputation Management
+
+Authenticated Branded Calling
+
+Solutions
+
+Our Customer Success Plans → Featured
+
+Our cross-functional experts hit a >99% SLA response rate for all support tickets. Never go unanswered!
+
+Volume based pricing
+
+Back
+
+Business Type
+
+Global 2000 Enterprises
+
+SaaS Product Builders
+
+Voice AI Startups
+
+Communications Providers
+
+Industry
+
+Ecommerce & Retail
+
+Finance
+
+Healthcare
+
+Hospitality
+
+Insurance
+
+Telecom
+
+Partners
+
+Become a partner
+
+Partner portal
+
+Resources
+
+Watch the Reverb® replay now → Featured
+
+Catch the highlights in infrastructure, integrations, and trust.
+
+Back
+
+Learn
+
+Blog
+
+Product Tours
+
+Resource Library
+
+Guides
+
+Research reports
+
+Virtual events
+
+News
+
+Customer Stories
+
+Glossary
+
+Reverb®
+
+Investors
+
+For Developers
+
+Documentation
+
+Getting started
+
+Code samples
+
+Articles
+
+Innovation Studio
+
+Support
+
+Help center
+
+Compliance hub
+
+Bandwidth Community
+
+Network status
+
+Coverage
+
+Pricing
+
+Support
+
+Talk to an expert
+
+Request trial
+
+Search
+
+Developer docs
+
+Support
+
+Login
+
+Search
+
+Search
+
+Home
+
+Glossary
+
+10DLC
+
+10DLC
+
+Author: Anagha Ravi
+
+Published: November 1, 2019
+
+What is 10DLC?
+
+10DLC means 10 Digit Long Code. 10DLC numbers are the traditional long-code phone number used for both voice and messaging.
+
+10DLC numbers are meant for person-to-person (P2P) communication, or conversational SMS. As such they don’t perform well in high-volume application-to-person (A2P) use cases where businesses are sending high volumes of messages to customers and users.
+
+The newest addition to the messaging landscape, 10DLC, solves for this with a sanctioned A2P channel for long code in the U.S. As with Toll-free numbers, you can use MMS, SMS, and voice-enabled numbers.
+
+Feature
+
+10DLC
+
+Geographic availability
+
+US
+(CAN as P2P)
+
+Voice Capable
+
+Yes
+
+SMS 2-Way
+
+Yes
+
+Multimedia Capable
+
+Yes
+
+Expected Time to Market
+
+1 Week
+
+Expense
+
+$
+
+👉 Note: Toll-free numbers are not 10DLC numbers. Regulations that apply to 10DLC numbers aren’t applicable for toll-free numbers.
+
+👉 Note: 10DLC is not a sanctioned A2P channel in Canada, which means the throughput is low and there are no registration requirements… yet. We will keep you updated as that situation develops.
+
+Who is 10DLC for?
+
+10DLC messaging is great for national chains looking to do mobile marketing campaigns or send notifications from local brick and mortars, or an enterprise looking to SMS-enable their landline phone number for high-throughput, A2P messaging traffic.
+
+Get started with 10DLC
+
+Bandwidth’s Local 10DLC A2P Messaging product is built on 10-digit long codes. This industry-first offering includes messaging that is ready for both high-volume and high-delivery needs as well as hyper-localization.
+
+Related resources
+
+10DLC registration & compliance, explained
+
+10DLC vs. Short codes vs. Toll-Free messaging
+
+2023 carrier requirements for 10DLC and toll-free SMS
+
+10DLC Programmable Messaging API
+
+The information provided in this glossary definition does not, and is not intended to, constitute legal advice, nor does it necessarily represent Bandwidth's products or business practices. This page is for general informational purposes only.
+
+Search glossary
+
+#
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+k
+
+l
+
+m
+
+n
+
+o
+
+p
+
+q
+
+r
+
+s
+
+t
+
+u
+
+v
+
+w
+
+x
+
+y
+
+z
+
+Related posts
+
+Blog
+AI
+Messaging
+
+US RCS adoption depends on operator alignment
+
+Blog
+Messaging
+
+Your message travels farther than you think
+
+Blog
+Messaging
+Voice
+
+Voice API advantage: When your CPaaS owns vs rents its network
+
+Looking for expert resources on cloud comms?
+
+Our communications pros have created and curated migration guides, state of industry reports, buying guides, helpful how-to webinars, quick-reference checklists and much more.
+
+Get them here
+
+Get monthly updates, insights, and strategies
+
+Our company
+
+Company
+
+Contact
+
+Newsroom
+
+Careers
+
+Investor Relations
+
+Leadership
+
+Quick links
+
+Service Status
+
+Developers
+
+Resources
+
+Security
+
+Partner Program
+
+Blog
+
+Customers
+
+Release Notes
+
+Glossary
+
+Twilio Alternative
+
+Sinch Alternative
+
+Lumen Alternative
+
+Submit RFI / RFP
+
+Legal
+
+General
+
+Law Enforcement Guide
+
+Report a Phone Number
+
+Privacy Notice
+
+Terms Of Use
+
+Canada ACA Consultation Process
+
+Regulations
+
+Request trial
+Talk to an expert
+
+Call Us
+
++852 581 8800
+
+Bandwidth.com CLEC, LLC is a wholly owned subsidiary of Bandwidth Inc.

@@ -1,0 +1,157 @@
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers - WhatTheyThink
+
+Search News & Articles
+
+Sign In
+Become a Member
+
+Quarterly
+Commentary & Analysis
+News
+Data
+Video
+Webinars
+Magazine
+
+SECTIONS
+
+PrintStats
+
+Wide-Format & Signage
+
+Packaging
+
+Software
+
+Finishing & Embellishment
+
+Digital & Inkjet
+
+Textiles & Apparel
+
+Offset
+
+Print Geeks
+
+FEATURED
+Artificial Intelligence Resource Center
+Printing United Expo
+2026 Technology Outlook
+Installations and Placements
+In Memoriam
+
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers
+
+Monday, October 05, 2026
+
+Press release from the issuing company
+
+DENVER, CO – PrintReleaf today announced a new integration with CEO Juice that connects PrintReleaf directly to e-automate, the most widely used service management system among North American office technology dealers. The integration runs through CEO Juice's ID136 API and is available now for any e-automate dealer that subscribes to ID136.
+
+Most PrintReleaf use by MPS dealers draws page volume from Device Collection Agents (DCAs) or spreadsheet uploads. A DCA can miss devices that aren't on a network or record rogue meter reads, so the volume in PrintReleaf sometimes comes in different from the volume on the client's bill.
+
+Connecting to e-automate billing data gives dealers:
+
+Complete coverage: devices that were never connected to a DCA are included.
+
+Accuracy: pages reforested or offset in PrintReleaf match the pages on the client's invoice.
+
+Easier management: switching DCAs has no effect on PrintReleaf, so there's no customer-by-customer migration.
+
+Easier scaling: when a dealer acquires an MPS provider, moving those clients into its e-automate database brings them into PrintReleaf too.
+
+Billing model options: dealers can align PrintReleaf with actuals only, or with base allowances plus actuals.
+
+"When a client asks how their pages were counted, a dealer should be able to point to the invoice," said Jordan Darragh, CEO of PrintReleaf. "Now they can, and the integration takes much of the friction out of the acquisitions and DCA changes that are so common in the MPS Dealer channel right now."
+
+"We are always happy to connect e-automate to the tools our clients’ businesses depend on," said Gary Lavin, Founder at CEO Juice. "More of our clients are hearing sustainability questions from their customers, and the PrintReleaf integration lets them answer with data they already trust."
+
+Availability
+
+Dealers subscribe to ID136 through CEO Juice, receive their API credentials, and register their CEO Juice server in PrintReleaf. To get started, contact PrintReleaf or visit the ID136 page on the CEO Juice website and subscribe.
+
+Share on LinkedIn
+
+Share via Email
+
+Video Center
+
+The Little Machine That Changed the World
+
+EFI VUTEk X5r Roll-to-Roll LED Printer Update
+
+Cool Tools with Mary Schilling: ArtisJet DIIIPS
+
+More Video
+
+Recent Printing Industry News
+
+Friday, November 13, 2026
+
+HEIDELBERG Sees Sequential Improvement in Business Performance in a Challenging Geopolitical Environment
+
+Hybrid Software Helix and Toyo Ink Sign Worldwide ICC Profile Distribution Agreement
+
+Siegwerk’s UniLEAF Wins Sustainability Award 2026 for Research & Development
+
+Domino Expands K300 High-Resolution Digital Inkjet Printing Solution with New High-Contrast White Ink
+
+VIVAS Inc. Delivers Damage-Free Google for Startups Event Graphics with Drytac SpotOn White Matte
+
+Hanrun Paper Introduces Clear 3D Label Film and Integrated Production Solution
+
+InfusePrint Launches an AI-Ready Print MIS That Automates Quoting, Proofing, Production and Fulfillment
+
+CARTES Launches TOUCHPOINT AMERICAS, A Multi-Million-Dollar Investment in Technology and Application Testing
+
+LOUPE India 2026 (Formerly Labelexpo India) Reports Strong Growth in Dynamic Market
+
+TOPPAN and BitGo Conduct Proof-of-Concept for Decentralized Key Management Scheme to Securely and Seamlessly Manage Digital Assets
+
+Product Quality Along the Entire Line: KHS Presents Process Technology Portfolio at BrauBeviale
+
+RDM Test Equipment Invests in Future with Office and Factory Expansion
+
+Industry Veteran Matt Venable Joins Arcus Printers as a Sales Consultant
+
+AATCC Co-Hosts International Textile Conference on Standards, Innovation, and Green Smart Manufacturing
+
+Appetite Creative Joins the GS1 US Solution Partner Program as Brands Prepare for the Move to QR Codes on Pack
+
+Pulse Technology Earns 2026 MPSA (Managed Print Services Association) Certification
+
+E-Commerce Packaging Expands as Online Retailers Adopt Sustainable Solutions
+
+International Industry Dialogue: “We Can Only Change the Plastics Debate Together”
+
+Contact Us
+
+Member Center
+Premium membership, reset password,
+set email and notification preferences.
+
+Explore
+
+About
+
+Editorial Team
+
+Reprints
+
+Syndication
+
+Submit Your News
+
+Marketing Programs
+
+Advertising
+
+Media Planner
+
+Lead Gen
+
+Custom Content Development
+
+Video Production
+
+Copyright © WhatTheyThink. All Rights Reserved. | Privacy Policy | Terms

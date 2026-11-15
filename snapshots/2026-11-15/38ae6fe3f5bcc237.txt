@@ -1,0 +1,862 @@
+Manufacturing Management Software - Katana
+
+Skip to content
+
+Features Back
+
+Feature overview
+
+Streamline your operations and boost productivity with features made for business like yours.
+
+Learn more about features
+
+Inventory management No more stockouts or guesswork, see what’s available in real time.
+
+Manufacturing Gain a clear view of production, from materials to finished goods.
+
+Purchasing Keep sales moving by purchasing the right items at the right time.
+
+Order management Channel syncing and order tracking keep you from ever missing a sale.
+
+Warehousing Minimize stock misplacement and keep your locations organized.
+
+Why Katana See how Katana helps growing businesses run easier and smarter.
+
+Integrations
+
+Learn how Katana integrates with your favorite tools.
+
+Learn more about integrations
+
+Shopify
+
+Amazon
+
+QuickBooks Online
+
+HubSpot
+
+AI integrations (MCP)
+
+Community Solutions
+
+See all integrations
+
+Integrations Back
+
+Integrations
+
+Learn how Katana integrates with your favorite tools.
+
+Learn more about integrations
+
+Shopify
+
+Amazon
+
+QuickBooks Online
+
+HubSpot
+
+AI integrations (MCP)
+
+Community Solutions
+
+See all integrations
+
+Solutions Back
+
+Ask our AI
+
+Overwhelmed by options? Learn how Katana can elevate your business and meet your unique needs with the help of our AI Assistant.
+Learn more about solutions
+
+Trace every batch and serial Track lots, serial numbers, and expiry dates from supplier to customer. Stay audit-ready.
+
+Track production as it happens See tasks, materials, and costs update in real time. Keep work orders on schedule.
+
+Sync sales across every channel Keep orders and stock aligned across Shopify, wholesale, retail, and 3PLs without double entry.
+
+Take full control of inventory Control stock across locations and plan replenishment with personalized AI recommendations.
+
+Integrate your entire tech stack Connect e-commerce, accounting, shipping, and custom tools through integrations and open API.
+
+Manage outsourced production Coordinate co-manufacturers, 3PLs, and in-house teams with shared production data.
+
+Control tariffs and supplier costs Track duties, shipping, and supplier pricing to maintain accurate product margins.
+
+Grow beyond spreadsheets Replace manual tracking with real-time inventory, production, and sales data in one shared system.
+
+Industries
+
+Katana's Inventory Software adapts to business needs across tens of different industries.
+
+Learn more about industries
+
+Food & Beverage
+
+Cosmetics
+
+Pharmaceuticals
+
+Industrial machinery and equipment
+
+Apparel & Footwear
+
+Electronics
+
+See all industries
+
+Why Katana
+
+Industries Back
+
+Industries
+
+Katana's Inventory Software adapts to business needs across tens of different industries.
+
+Learn more
+
+Food & Beverage
+
+Cosmetics
+
+Pharmaceuticals
+
+Industrial machinery and equipment
+
+Apparel & Footwear
+
+Electronics
+
+See all industries
+
+Resources Back
+
+Resources
+
+Case studies Real stories from product brands using Katana
+
+Blog Advice, news, and ideas for product-selling teams
+
+Downloadables Guides, templates, and other free tools
+
+Webinars Sign up and replay expert talks
+
+Product updates What’s new and improved in Katana
+
+Partners and Services
+
+Partner with us Grow with Katana as a verified partner
+
+Technology partners Apps and tools that plug into your stack
+
+Implementation services Hands-on help to get Katana up and running
+
+Partner directory Get expert help to set up and run Katana
+
+Agencies and consultants Streamline inventory and production management for your clients
+
+Support
+
+Katana Academy Courses, educational videos, and demos
+
+Knowledge base How-to articles for everyday Katana questions
+
+Developer portal Build your own workflows and apps with Katana API
+
+AI Assistant Instant answers to all your Katana questions.
+
+Training videos Live and recorded sessions to get the most out of Katana
+
+Company
+
+About us Who we are and what we care about
+
+Contact us Get in touch with the people behind Katana
+
+Security How we keep your business and data safe
+
+Careers All the reasons to become a Katanaut
+
+2026 Product Business Trends
+
+What's coming for SMBs buying, ops and cash.
+Get the report
+
+Fixing the 3 most common data silos in SMB ops
+
+How to make your channels talk.
+Read on blog
+
+Pricing
+
+Log in Get started
+
+Home / Features / Manufacturing software
+
+Run your manufacturing business on software built for SMBs
+
+The manufacturing software SMBs choose when they outgrow spreadsheets and aren’t ready for the overhead to enterprise systems. Get full oversight over every step of your production process, from planning and scheduling to shop floor execution and delivery.
+
+Get started
+
+Plan smarter, produce faster
+
+Demand-driven production scheduling keeps your plans grounded in what’s selling and what’s in stock. Build accurate schedules from real data, automatically.
+
+Maximize shop floor efficiency
+
+Track every work order in real time and see exactly who’s working on what. Assign tasks to operators and catch delays before they slow you down.
+
+No limits on your team
+
+Add as many users and operators as you need. No extra fees, no limits. Just smooth collaboration to keep production moving.
+
+One platform for job shops, batch producers, and contract manufacturers
+
+See how Katana gives you real-time oversight of every order, material, and task — in-house or outsourced. Plan ahead, ensure materials are ready, and track progress at every stage. With accurate data and clear priorities, you keep production on schedule, control costs, and meet quality standards.
+
+Keep manufacturing on time
+and on target
+
+Get full visibility into your production from managing BOMs to tracking tasks in real time. Plan capacity, allocate resources, and ensure materials are ready when needed. Live shop floor updates let you catch and resolve issues early to keep production on track.
+
+Shop Floor App
+
+BOM and subassemblies
+
+Insights for real-time planning
+
+Role-based access
+
+MTS and MTO workflows
+
+Manufacturing cost calculations
+
+Control contract manufacturing and outsourced workflows
+
+Get full visibility into outsourced production from one place with Katana’s contract manufacturing software. Track purchase orders sent to co-manufacturers, monitor delivery timelines, and keep quality checks on record without chasing updates from external partners.
+
+Contract manufacturing
+
+Purchasing insights
+
+Multilocation support
+
+3PL & WMS integrations support
+
+Turn inventory insights into confident decisions
+
+Use live, connected data to align your manufacturing plans with material availability and demand forecasts. Katana’s manufacturing software ensures you produce the right products at the right time, avoid costly delays, and keep resources working where they deliver the most value.
+
+Real-time inventory management
+
+Automated stock movements
+
+Serial number tracking
+
+Batch/lot number tracking
+
+Planning and forecasting
+
+Barcode-enabled workflows
+
+Integrate your tech stack and
+simplify your operations
+
+Build a system tailored to your workflow, with Katana unifying inventory across channels, ensuring accuracy, and automating the tasks that keep operations moving.
+
+See all integrations
+
+Stay on top of every order and stock movement with live updates across sales, inventory, and production
+
+Save hours by automating order fulfillment in Katana and extending workflows with integrations, open API, and AI chats via Katana MCP.
+
+Unlock full customization with Katana’s robust API, connecting every tool to your unique workflows
+
+Tools to success
+
+Tools that enable smarter Manufacturing
+
+Explore the capabilities that help you plan, execute, and optimize production for maximum efficiency and quality.
+
+Shop Floor App
+
+Give your production team clear task lists, priorities, and instructions directly on the shop floor with no limits on the number of users. Track shop floor execution in real time and ensure every order moves smoothly from start to finish.
+
+BOM and subassemblies
+
+Create and manage bills of materials, including subassemblies, to ensure accuracy in production. Keep every component, operation, and process organized in your BOM for consistent quality and easier scaling.
+
+Insights for real-time planning
+
+Access live production and inventory data to drive production scheduling decisions. Adjust schedules, allocate resources, and respond to changes without slowing down operations.
+
+Manufacturing cost calculations
+
+Automatically calculate manufacturing costs based on your BOMs, operations, and material usage. Compare planned and actual consumption to get accurate margin insights and make smarter pricing and production decisions.
+
+Contract manufacturing
+
+Track outsourced production alongside in-house operations. Monitor timelines, costs, and quality so you can maintain control and consistency across every manufacturing partner.
+
+Real-time inventory management
+
+Track material availability and consumption as production happens. Demand planning starts here: accurate stock data ensures materials are replenished on time and production never stalls due to shortages.
+
+Role-based access
+
+Control what each team member can see and do within Katana. Shop floor operators only see their assigned tasks, helping them stay focused, while sensitive data remains protected across your entire operation.
+
+MTS and MTO workflows
+
+Manage both make-to-stock and make-to-stock production in one system. Katana MRP drives both workflows: calculating material needs and timing automatically to match demand and optimize resources.
+
+Barcode scanning
+
+Speed up shop floor processes with barcode-enabled material tracking. Use scanning to find ingredients, add them, and report consumption accurately while keeping your system instantly updated.
+
+Get started with Katana
+
+Book a personalized demo and see how Katana can help you manage inventory in real time, or create a free account first, no credit card required, to explore at your own pace.
+
+Get started
+
+Real results from real people
+
+“Katana allowed us to strategically manage our capacity and increase how many orders we could get by over 50%”
+
+Lisa Diep
+Chief Operating Officer (COO) at Peace Collective
+
+View case study
+
+“Every step from labor costs to final extraction is tracked in Katana. It’s given us true visibility and control.”
+
+Karson Hardy
+Operations Director at Cornbread Hemp
+
+View case study
+
+“Since implementing Katana, we’ve grown our product offering, and that wouldn’t be possible without it. It freed up my time so I can focus more on products.”
+
+Thomas Judge Owner at GJ Motorsports
+
+View case study
+
+“Our revenue has gone up because we’re able to have much, much bigger orders without having to take on more management.”
+
+Simon Bedding Managing Director at Sylmasta
+
+View case study
+
+Built for every manufacturing workflow
+
+Discrete and make-to-order manufacturing
+
+Schedule production jobs against real demand, track work orders from start to finish, and keep every job on time. Katana gives make-to-order manufacturers the visibility to move fast without losing control.
+
+Batch and process manufacturing
+
+Keep every batch traceable from raw materials to finished goods. Katana’s batch manufacturing software tracks lot numbers, manages expiry dates, and supports recipe-based BOMs – and gives process manufacturers the traceability and control their workflows demand.
+
+Job shop and contract manufacturing
+
+Manage quoting, track contract production purchase orders, and keep outsourced work order progress visible from one place. Purpose-built for job shops that run multiple concurrent jobs and contract manufacturers coordinating with external partners.
+
+Lean manufacturing
+
+Get lean manufacturing software that drives production from real demand data. Keep inventory tight, eliminate over-ordering, and ensure materials arrive when they’re truly needed.
+
+All Katana features
+
+Powerful features — easy to use
+
+With the right software and workflows, it will feel like your products are selling themselves. Here are just some of Katana’s features that will make that feeling achievable
+
+Inventory management
+
+Full visibility of your stock to cut waste and prevent stockouts.
+
+Read more
+
+Purchasing
+
+Maintain a perfect balance between supply and demand.
+
+Read more
+
+Order management
+
+Manage orders seamlessly across all of your channels.
+
+Read more
+
+Warehousing
+
+Reliably move stock in and out of warehouses.
+
+Read more
+
+See all features
+
+Everything you need to sync inventory and track orders
+
+Read more
+
+Pricing
+
+Inventory clarity, made to fit
+
+Explore Katana at no cost. When you’re ready for more, Advantage covers a fully customized build, setup, and support, all in one contract.
+
+Free
+
+$0, no card required
+
+For exploring Katana on a small product catalog.
+
+Try it free
+
+What’s included
+
+Up to 30 SKUs
+
+Unlimited users,integrations and inventory locations
+
+All Katana features
+
+API access
+
+AI assistant and Knowledge Base for support
+
+Advantage
+
+Custom pricing
+
+For businesses that want a setup built around them, running their way.
+
+Talk to our team
+
+Build around you
+
+Scoped and built your way
+
+Unlimited SKUs, users and integrations
+
+Everything your business needs, set up for you
+
+The same team building and maintaining your integrations, reports and automations
+
+Workflows that automatically run multi-step tasks from start to finish
+
+One Customer Success Manager from your first training through every review
+
+Live support available 24/7
+
+Katana AI and AI Replenishment, set up around your data
+
+Regular inventory consultations with our team
+
+Ongoing maintenance as your business grows
+
+The favorite software for
++1600 business
+
+Frequently asked questions
+
+What is manufacturing management software?
+
+Manufacturing management software gives product businesses a live view of production, inventory, and purchasing in one connected system. It replaces the manual coordination of spreadsheets, emails, and disconnected tools with a single platform that tracks orders, materials, and shop floor activity in real time and gives teams the data to make faster, more accurate decisions.
+
+What is the difference between MRP, MRPII and ERP?
+
+MRP (material requirements planning) focuses on calculating what materials are needed, when, and in what quantities to meet production demand. MRPII expanded that scope to include capacity planning, labor, and machine scheduling alongside materials. ERP goes further still, covering the entire business — finance, HR, sales, and supply chain — under one system.
+Katana sits closest to the MRPII end of that spectrum: purpose-built for manufacturing and inventory, with integrations that connect your accounting, ecommerce, and shipping tools rather than trying to replace them.
+
+How much does manufacturing software cost?
+
+Katana offers a free plan to get started, with no credit card required. The Advantage plan is personalized for your business. Unlike legacy manufacturing systems that require expensive implementation projects, Katana is designed to be up and running in days.
+
+What types of manufacturers use Katana?
+
+Katana is used by job shops, batch producers, contract manufacturers, and lean operations across industries including food and beverage, apparel, electronics, cosmetics, and pharmaceuticals. The common thread is scale: product businesses that have outgrown spreadsheets but don’t need the complexity or cost of an enterprise system.
+
+Do I need a consultant to get started?
+
+No. Katana is designed to be set up without specialist help. Most businesses are up and running within days using the knowledge base, Katana Academy, and onboarding support included with every plan. For more complex operations, our team can help.
+
+Get visibility over your sales and stock
+
+Wave goodbye to uncertainty with Katana Cloud Inventory — AI-powered for total inventory control
+
+Get a demo
+
+Real-time Inventory management
+
+The inventory optimization and control you need
+
+End-to-end inventory insights that put an end to stockouts and overstock
+
+Get total inventory control for finished products and raw materials
+
+Know where your products are, when they are arriving, and how much for each location
+
+Automate inventory transactions and set reorder points to prevent stock-outs
+
+Track on-hand, committed, and expected stock amounts in real-time
+
+Manage product variants and materials in one place
+
+Monitor your inventory across multiple warehouses
+
+Use barcodes to receive and count stock
+
+Use stocktakes to find and eliminate discrepancies in your stock levels
+
+Receive restock notifications to keep your stock levels optimal
+
+Treaceability
+
+Tracing for batches, expiry dates, serial numbers and more
+
+Keep an eye on your inventory beyond the warehouse
+
+End-to-end traceability for materials and products with batch tracking
+
+Track the expiry date of items and stay in control of expiring stock
+
+Autogenerate batch and internal barcodes
+
+Use serial numbers to identify individual products for warranty claims, maintenance, and customer support
+
+Quickly locate items across multiple warehouses, giving all teams access to the same live data
+
+Trace faulty batches, materials, and products from materials to sold goods for effective quality assurance and recalls
+
+Product
+Pricing
+
+Inventory management
+
+Production management
+
+Built-in purchasing
+
+Financial visibility
+
+Sales order management
+
+Warehouse management
+
+Planning and Forecasting
+
+Product updates
+
+See all features
+
+Industries
+Apparel and footwear
+
+Coffee roasting
+
+Food and beverage
+
+Furniture
+
+Electronics
+
+Jewelry
+
+Pharmaceutical
+
+See all industries
+
+Solutions
+Traceability and compliance
+
+Full manufacturing control
+
+Omnichannel sales and operations
+
+Smart inventory
+
+Integrations & API-first workflows
+
+Tariff management
+
+Contract manufacturing and outsourced workflows
+
+From spreadsheets to Katana
+
+Integrations
+Shopify
+
+BigCommerce
+
+WooCommerce
+
+QuickBooks Online
+
+Xero
+
+See all integrations
+
+Support
+Katana academy
+
+Getting started
+
+Knowledge base
+
+Video library
+
+Onboarding services
+
+Partner directory
+
+Contact us
+
+Company
+About us
+
+Data security and protection
+
+Company news
+
+Newsroom
+
+Contact us
+
+Careers
+
+Resources
+Case studies
+
+Business tips
+
+Inventory management guide
+
+Blog
+
+Developers
+Developer portal
+
+API documentation
+
+Partners
+Partner with us
+
+Technology Partner program
+
+Partner directory
+
+Let’s get started
+
+Get started
+
+Sign in
+
+Katana Technologies OÜ. All rights reserved.
+
+Terms of Service
+
+Privacy Policy
+
+Responsible Disclosure
+
+Features Back
+
+Feature overview
+
+Streamline your operations and boost productivity with features made for business like yours.
+
+Learn more about features
+
+Inventory management No more stockouts or guesswork, see what’s available in real time.
+
+Manufacturing Gain a clear view of production, from materials to finished goods.
+
+Purchasing Keep sales moving by purchasing the right items at the right time.
+
+Order management Channel syncing and order tracking keep you from ever missing a sale.
+
+Warehousing Minimize stock misplacement and keep your locations organized.
+
+Why Katana See how Katana helps growing businesses run easier and smarter.
+
+Integrations
+
+Learn how Katana integrates with your favorite tools.
+
+Learn more about integrations
+
+Shopify
+
+Amazon
+
+QuickBooks Online
+
+HubSpot
+
+AI integrations (MCP)
+
+Community Solutions
+
+See all integrations
+
+Integrations Back
+
+Integrations
+
+Learn how Katana integrates with your favorite tools.
+
+Learn more about integrations
+
+Shopify
+
+Amazon
+
+QuickBooks Online
+
+HubSpot
+
+AI integrations (MCP)
+
+Community Solutions
+
+See all integrations
+
+Solutions Back
+
+Ask our AI
+
+Overwhelmed by options? Learn how Katana can elevate your business and meet your unique needs with the help of our AI Assistant.
+Learn more about solutions
+
+Trace every batch and serial Track lots, serial numbers, and expiry dates from supplier to customer. Stay audit-ready.
+
+Track production as it happens See tasks, materials, and costs update in real time. Keep work orders on schedule.
+
+Sync sales across every channel Keep orders and stock aligned across Shopify, wholesale, retail, and 3PLs without double entry.
+
+Take full control of inventory Control stock across locations and plan replenishment with personalized AI recommendations.
+
+Integrate your entire tech stack Connect e-commerce, accounting, shipping, and custom tools through integrations and open API.
+
+Manage outsourced production Coordinate co-manufacturers, 3PLs, and in-house teams with shared production data.
+
+Control tariffs and supplier costs Track duties, shipping, and supplier pricing to maintain accurate product margins.
+
+Grow beyond spreadsheets Replace manual tracking with real-time inventory, production, and sales data in one shared system.
+
+Industries
+
+Katana's Inventory Software adapts to business needs across tens of different industries.
+
+Learn more about industries
+
+Food & Beverage
+
+Cosmetics
+
+Pharmaceuticals
+
+Industrial machinery and equipment
+
+Apparel & Footwear
+
+Electronics
+
+See all industries
+
+Why Katana
+
+Industries Back
+
+Industries
+
+Katana's Inventory Software adapts to business needs across tens of different industries.
+
+Learn more
+
+Food & Beverage
+
+Cosmetics
+
+Pharmaceuticals
+
+Industrial machinery and equipment
+
+Apparel & Footwear
+
+Electronics
+
+See all industries
+
+Resources Back
+
+Resources
+
+Case studies Real stories from product brands using Katana
+
+Blog Advice, news, and ideas for product-selling teams
+
+Downloadables Guides, templates, and other free tools
+
+Webinars Sign up and replay expert talks
+
+Product updates What’s new and improved in Katana
+
+Partners and Services
+
+Partner with us Grow with Katana as a verified partner
+
+Technology partners Apps and tools that plug into your stack
+
+Implementation services Hands-on help to get Katana up and running
+
+Partner directory Get expert help to set up and run Katana
+
+Agencies and consultants Streamline inventory and production management for your clients
+
+Support
+
+Katana Academy Courses, educational videos, and demos
+
+Knowledge base How-to articles for everyday Katana questions
+
+Developer portal Build your own workflows and apps with Katana API
+
+AI Assistant Instant answers to all your Katana questions.
+
+Training videos Live and recorded sessions to get the most out of Katana
+
+Company
+
+About us Who we are and what we care about
+
+Contact us Get in touch with the people behind Katana
+
+Security How we keep your business and data safe
+
+Careers All the reasons to become a Katanaut
+
+2026 Product Business Trends
+
+What's coming for SMBs buying, ops and cash.
+Get the report
+
+Fixing the 3 most common data silos in SMB ops
+
+How to make your channels talk.
+Read on blog
+
+Pricing
+
+Log in Get started
+
+Close menu
+
+Search

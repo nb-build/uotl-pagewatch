@@ -1,0 +1,233 @@
+E2 Shop System (Shoptech): Status After the ECI Acquisition and the Path to JobBOSS2
+
+Skip to main content
+
+Menu
+
+Home
+
+What is ERP?
+
+Guides
+
+Software
+
+Glossary
+
+Industries
+
+Use Cases
+
+Home
+
+›
+
+Software
+
+›
+
+Manufacturing ERP (Discrete & Job Shop)
+
+›
+
+E2 Shop System (Shoptech)
+
+E2 Shop System (Shoptech)
+
+E2 Shop System (Shoptech) at a glance
+
+Vendor
+
+ECI Software Solutions (formerly Shoptech Systems)
+
+Headquarters
+
+Fort Worth, Texas, USA (ECI)
+
+Ownership
+
+ECI Software Solutions, majority-owned by Leonard Green & Partners since late 2020
+
+Deployment
+
+On-premises client/server (legacy); successor JobBOSS2 is cloud-based
+
+Support status
+
+Legacy: Shoptech was acquired by ECI Software Solutions in Q4 2020, and JobBOSS2 launched in May 2021 as the combined successor to E2 Shop and JobBOSS. Legacy E2 still receives support as of mid-2026, but development focus is on JobBOSS2 and no public end-of-life date has been announced.
+
+Target market
+
+US job shops and make-to-order machine shops (historical install base)
+
+Industries
+
+Precision machining, job shops, contract manufacturing
+
+Pricing
+
+Not published; legacy product no longer sold to new customers
+
+Website
+
+ecisolutions.com/products/jobboss2
+
+The short version
+
+E2 is a legacy product. Shoptech Systems built it into one of the best-known job-shop management packages in the United States, sold for decades to machine shops and make-to-order manufacturers. Its functionality now lives on in JobBOSS2, the cloud successor ECI Software Solutions created by merging E2 Shop with the original JobBOSS. A US shop searching for E2 today is really doing one of two things: evaluating JobBOSS2, or planning a way off an installed legacy system.
+
+Where E2 comes from
+
+Shoptech was a family-founded software company with roots in the 1980s, and E2 became one of the most widely installed shop-management systems among small American machine shops. ECI Software Solutions bought it in the fourth quarter of 2020. ECI is a Fort Worth, Texas consolidator of vertical business software, majority-owned by the private-equity firm Leonard Green & Partners since late that same year.
+
+The follow-up came quickly. ECI launched JobBOSS2 a few months after the acquisition, pairing E2 Shop's cloud-friendly platform with the functional depth of JobBOSS. The Shoptech brand has since disappeared into ECI, and shoptech.com routes visitors to JobBOSS2 material.
+
+What it covers
+
+Legacy E2 runs the classic job-shop cycle end to end: estimating and quoting, job orders and routings, scheduling, purchasing and inventory, shop-floor data collection, job costing, and shipping with invoicing, plus accounting. None of that scope was thrown away. It carried over into JobBOSS2, which adds a cloud-native architecture, a modernized interface, and the ongoing feature development that legacy E2 no longer receives as a priority.
+
+Typical customers
+
+The historical install base is small: US machine shops, job shops, and contract manufacturers, often with well under 100 employees. ECI serves that same profile with JobBOSS2 today, so the audience has not shifted. Only the product generation has.
+
+Licensing, hosting, cost
+
+Legacy E2 is an on-premises client/server installation. JobBOSS2 is sold as cloud software on subscription, which changes both the cost structure and who carries the IT responsibility. ECI publishes no price list for legacy support or for JobBOSS2, so terms come out of a direct conversation with the vendor. Shops about to have that conversation should treat it as a full selection project rather than a renewal; our ERP selection guide lays out the steps.
+
+Where it wins, where it loses
+
+Nobody should put E2 on a new-purchase shortlist. It is not positioned for new sales, and ECI points prospects to JobBOSS2 instead. For the sizeable base still running it, the real questions are support quality, the cost of standing still, and when to move.
+
+JobBOSS2 is the path of least resistance, backed by ECI migration tooling and an incentive structure, and for a shop that is happy with E2's logic it is the lowest-risk landing spot. Shops that resent trading a local server for a subscription, or that have outgrown what a job-shop package does, should use the forced platform change to compare competitors seriously, because switching costs run about the same in any direction. No public end-of-life date exists, so there is no reason to panic. There is also no reason to wait: data migration planning takes months, and negotiating after an end-of-life announcement is the weakest position available.
+
+What the E2 Shop System (Shoptech) website looks like
+
+Current view of the vendor homepage, captured by our editorial team.
+
+Comparable products
+
+Cetec ERP
+
+DBA Manufacturing
+
+DELMIAworks (formerly IQMS)
+
+Epicor CMS
+
+Epicor Kinetic
+
+Epicor LumberTrack
+
+Related Topics
+
+ERP Software Directory
+
+Manufacturing ERP (Discrete & Job Shop)
+
+The ERP Selection Process
+
+ERP TCO Calculator
+
+User reviews for E2 Shop System (Shoptech)
+
+No published reviews for E2 Shop System (Shoptech) on usa.erp-software.org yet.
+
+Write the first review →
+
+Share your experience with E2 Shop System (Shoptech)
+
+Reviews are checked editorially for plausibility before publication (usually 1–3 business days). Your email address is never published and is stored only as a hash. Fields marked * are required.
+
+Overall rating *
+
+Please choose…
+5 stars — excellent
+4 stars — good
+3 stars — average
+2 stars — poor
+1 star — very poor
+
+Review title * (10–100 characters)
+
+What works well (one point per line, max 5)
+
+What could be better (one point per line, max 5)
+
+Your review * (100–3000 characters)
+
+Your role
+
+Industry
+
+Company size
+
+Please choose…
+1–9 employees
+10–49 employees
+50–249 employees
+250–999 employees
+1,000+ employees
+
+Deployment
+
+Please choose…
+Cloud / SaaS
+On-premises
+Hybrid
+
+How long have you used it?
+
+Please choose…
+Less than a year
+1–2 years
+2–5 years
+More than 5 years
+
+Display name (shown publicly, e.g. "Mark K.")
+
+Email * (never published; stored as a hash only)
+
+I agree that my review is processed and published as described in the privacy policy. *
+
+Submit review
+
+Frequently asked questions
+
+Can I still buy the E2 Shop System?
+
+No. After acquiring Shoptech, ECI Software Solutions merged E2 with JobBOSS into JobBOSS2 and directs all new prospects to that cloud product. A shop that specifically wants the E2 feature set today ends up evaluating JobBOSS2, which carries the combined functionality forward.
+
+Is legacy E2 still supported by ECI?
+
+As of mid-2026, ECI still operates support for legacy E2 installations, including the long-standing Shoptech support line and customer portal. E2 is no longer the development priority, though, and new functionality flows into JobBOSS2 instead. Existing customers should get their individual support terms confirmed in writing, because public communication about legacy timelines is thin.
+
+Is there an announced end-of-life date for E2?
+
+None has been published. That takes the immediate pressure off, but it also means the timeline belongs to ECI rather than to the customer.
+
+What happened to Shoptech Systems?
+
+Shoptech, the family-founded company behind E2, was acquired by ECI Software Solutions in the fourth quarter of 2020 as part of ECI's manufacturing portfolio build-out. ECI itself is a Fort Worth, Texas software group majority-owned by the private-equity firm Leonard Green & Partners. The Shoptech brand has been retired in practice, and its former web presence now leads to JobBOSS2 material.
+
+What actually changes when a shop moves from E2 to JobBOSS2?
+
+Functionally, less than shop owners expect: JobBOSS2 combines the E2 Shop platform with functionality from the original JobBOSS product, so the working logic is familiar territory. Commercially, quite a lot changes. Legacy E2 is an on-premises client/server system that still works but no longer receives priority development, while JobBOSS2 gets the ongoing releases, integrations, and interface modernization. Moving from a local server to a cloud subscription also shifts the cost structure and reassigns IT responsibilities that used to sit in the building.
+
+How should an E2 shop plan its migration?
+
+Start by getting ECI's current migration offer and support commitments for your legacy installation in writing, so the real timeline and the real cost are on paper. Then scope the data migration honestly: part numbers, BOMs, routings, open jobs, and history all need mapping decisions, and that work runs in months rather than weeks. Finally, treat the forced platform change as a selection moment and compare JobBOSS2 against competing job-shop systems before committing, since switching costs are similar whichever direction you go.
+
+erp-software.org · the independent, vendor-neutral ERP comparison for the US — from small business to enterprise
+
+Imprint
+· Privacy
+· Contact
+· Software Directory
+· Glossary
+· Guides
+· Industries
+· Use Cases
+· TCO Calculator
+· Sitemap
+· Germany
+· France

@@ -1,0 +1,117 @@
+Encompass CRM Sunset: Your Options in 2026 | SpyGlass
+
+Skip to content
+SpyGlass Menu Platform Ownership Guides Book a demo
+
+Guides
+Encompass CRM is going away. Here are your options.
+
+ICE is retiring Encompass CRM and moving its customers onto Surefire. The migration is happening on the vendor’s schedule, not yours. Here is what is actually changing, and the three realistic paths out of it.
+
+Updated Jul 10, 2026 The SpyGlass team
+
+What is happening
+
+ICE Mortgage Technology is retiring its legacy Encompass CRM and consolidating customers onto
+Surefire, the marketing platform it picked up when it acquired Black Knight in 2023. A guided
+pilot ran through late 2024, and since January 2025 remaining customers migrate by self-service
+package or through ICE professional services at standard rates, as reported by
+HousingWire.
+ICE has said Surefire comes at current Encompass CRM pricing for early movers, with a two-year
+lock for pilot participants.
+
+It is not an isolated event. ICE has also set a hard retirement date for the Encompass SDK of
+December 31, 2026, with transitional access billed after January 2027, per
+National Mortgage News.
+Two forced migrations, announced within a couple of years, from the vendor at the center of
+most lenders' stacks.
+
+What it means for your operation
+
+A migration you did not schedule. Contacts, campaigns, triggers, consent
+records, and Encompass field mappings all move, and loan officers retrain, on a timeline set
+by the vendor's roadmap.
+
+Pricing leverage moves to the vendor. A locked rate for two years is an
+answer to a question worth asking twice: what happens in year three, when your data, your
+LOS, and your CRM all renew with the same counterparty?
+
+The rented-stack lesson. Any tool you subscribe to can be retired, repriced,
+or merged on someone else's schedule. That is not an ICE problem; it is the structure of
+renting.
+
+Your three options
+
+The migration effort is being spent either way. That makes this the rare moment when switching
+costs are equal across every destination, including the ones ICE does not offer.
+
+Questions to ask before you migrate anywhere
+
+What export formats do we get for contacts, activity history, and consent records, and can we run a full export ourselves at any time?
+
+What does the same seat count cost at renewal, in writing?
+
+How does the Encompass integration work after the SDK retires: API, EPC, or something proprietary?
+
+Which automated campaigns rebuild automatically and which rebuild by hand?
+
+If we leave in three years, what do we keep?
+
+If your team is also carrying custom SDK integrations toward the December 2026 deadline, that
+is a separate workstream with its own clock. Our consulting practice handles those migrations
+at encompasslosconsulting.com.
+
+The paths
+Three ways out, one migration each.
+
+01
+Accept the migration to Surefire
+
+The path of least resistance. Surefire is a capable platform and ICE has offered migration packages. Before you sign, get the renewal pricing in writing, confirm your data export rights, and price what the same seats cost in year three.
+
+02
+Move to an independent CRM
+
+Total Expert, BNTouch, Shape, or Jungo decouple your CRM from your LOS vendor. You keep negotiating leverage and vendor diversity, and you keep paying rent per seat, with one more integration to maintain.
+
+03
+Consolidate onto a platform you own
+
+SpyGlass folds CRM, the borrower application, the borrower portal, and marketing automation into one system you license once and run in your own Azure tenant. One migration instead of a different rented tool every few years.
+
+Questions
+Encompass CRM sunset FAQ.
+
+When do we have to move off Encompass CRM?
+
+ICE began the sunset with a guided pilot in late 2024 and opened self-service migration to Surefire in January 2025. Exact timing for your organization depends on your contract, so get your date from your ICE account team in writing and plan backward from it.
+
+Is this related to the Encompass SDK retirement?
+
+They are separate programs with the same theme. The SDK sunsets on December 31, 2026, with transitional access fees beginning January 2027, which affects custom integrations and plugins. The CRM sunset affects your marketing database. Both are ICE consolidating its stack on its own schedule.
+
+What does migrating a mortgage CRM actually involve?
+
+Exporting contacts, deals, activity history, and consent records; rebuilding automated campaigns and triggers; remapping Encompass field sync; and retraining loan officers. Budget the same effort regardless of destination, which is exactly why the destination deserves scrutiny.
+
+Keep reading
+Surefire alternatives for mortgage lendersWith Encompass CRM folding into Surefire, your LOS vendor now owns your CRM. The alternatives, compared on structure.How mortgage POS pricing actually worksPer funded loan, per user, enterprise contract, or one-time license. The four pricing models, the hidden line items, and the math at your volume.Mortgage tech TCO calculatorEnter your volume and your quoted fees. See what rented lending technology costs over 1, 3, and 5 years, and where a one-time license breaks even.
+
+Migrating anyway? See the destination you would own.
+
+A 30 minute walkthrough of a live SpyGlass deployment, including the CRM your team would land in, then a fixed-scope proposal.
+
+Book a demo
+
+SpyGlass
+
+The white-label lending platform you own. One-time license, your brand, your cloud.
+
+Product Platform tour Ownership and pricing Book a demo Live demo site Resources Guides Compare platforms TCO calculator Encompass CRM sunset Company Encompass consulting hello@spyglasscrm.com
+
+SpyGlass. All rights reserved.
+
+Encompass® is a registered trademark of ICE Mortgage Technology, Inc. SpyGlass integrates
+with Encompass® and is not affiliated with, endorsed by, or sponsored by ICE Mortgage
+Technology. DocuSign, Twilio, and other product names are trademarks of their respective
+owners. The SpyGlass demo site depicts a fictional lender for demonstration purposes only.

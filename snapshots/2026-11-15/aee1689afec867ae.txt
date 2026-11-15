@@ -1,0 +1,212 @@
+ISO360 · The ERP & CRM for ISOs and agents | Electronic Payments
+
+Skip to main content
+
+Payments Anywhere
+
+Payments
+Payment ProcessingEvery way to get paid, funded fastMerchant360Payments, billing & operationsMobileThe payment app and Bluetooth readerBrowser extensionPayments inside any web softwareeGiftSolutionsGift cards & loyaltyFundingEPI Capital business funding
+
+Point of Sale
+TableTurnCloud POS for restaurantsExatouchAll-in-one installed POSCloverSmart terminals, Station to GoCompare POSPick by how you sell
+Your Brand
+Private LabelYour brand on Merchant360, statements & ISO360
+
+Developers
+Cygma platformThe rails, the path, and how to buildIntegration pathsTerminal, SmartPOS, web, e-commerceAPIs & docsCygma, eGift, ISO360 & HandpointHandpointEmbedded payments for POS SaaS
+
+Partners
+Reseller programResiduals, bonuses, and supportISO360The ERP & CRM that runs your officeBanks & financial institutionsMonetize depository relationshipsISVs & platformsEmbed payments, share revenue
+
+Pricing
+Resources
+BlogPayments, POS & business insightsNewsroomAnnouncements & pressSuccess storiesReal merchants, real resultsAbout EPISince 2000 · 23rd largest U.S. acquirerPOS Bill of RightsTen commitments, in writing
+
+Sign in →
+
+Payments
+Payment ProcessingMerchant360Merchant360 MobilePayment ExtensioneGiftSolutionsEPI Capital
+Point of Sale
+TableTurnExatouchCloverCompare POS
+Developers
+Platform overviewAPIs & docsHandpoint
+Partners
+Reseller programISO360
+More
+PricingBlogNewsroomSuccess storiesAbout EPIContact
+
+The operating system for the payments business.
+
+ISO360 is a complete ERP and CRM for ISOs and agents: digital boarding, portfolio CRM, a to-the-penny residual engine, downline payouts, equipment logistics, and tax compliance in one login. Built by EPI, on the rails your merchants already run on.
+
+Get a walkthrough →See the reseller program
+
+Minutesfrom lead to signed application with Quick App
+
+The 5thCygma residuals land before anyone else in the industry pays
+
+Weeklydownline payouts by ACH: residuals and bonuses, net of equipment
+
+1099stax compliance built in: TIN matching, W-9s, year-end filing
+
+iso360 · portfolio
+
+The platform
+
+One login runs the whole office.
+
+Most offices duct-tape a CRM, a boarding portal, residual spreadsheets, and a payroll process together. ISO360 replaces the stack: every module reads and writes the same portfolio.
+
+BoardingDigital applications & e-signQuick App takes a merchant from lead to signed application in minutes, with three intake paths, ESIGN-compliant signatures, and in-house underwriting measured in hours.
+
+CRMThe whole book, one recordEvery merchant, lead, call note, document, and data point, organized by division, office, and rep, with visibility that follows your org chart.
+
+ResidualsA real residual enginePer-MID, per-rep attribution that reconciles to the penny, with adjustments, bonuses, and statements you can drill into line by line.
+
+PayoutsDownline payouts by ACHSplits across divisions, offices, and reps computed automatically and settled weekly: residuals and bonuses netted against equipment, every Friday.
+
+OperationsEquipment & logisticsTerminal, POS, and paper orders with automatic shipping labels, deployment tracking, ticketing, and even field-driver dispatch.
+
+ComplianceTax season, handledW-9 collection, IRS TIN matching, and 1099 reporting on every payout, plus PCI tracking and chargeback workflows on every MID.
+
+Boarding & underwriting
+
+From lead to live MID in hours, not weeks.
+
+Quick App is a six-step digital application your reps can run three ways: send the merchant a link, sit with them face to face, or email a pre-filled app for review. Signatures are ESIGN-compliant, bank details validate instantly, and EPI's in-house underwriters pick the file up the moment it lands.
+
+Three intake paths: link, face-to-face, or emailed app
+
+E-signature with affirmative ESIGN consent, built in
+
+Instant bank-account validation on the DDA
+
+Statement analysis to price the win before you pitch
+
+Restricted verticals underwritten in-house: smoke & vape, CBD, adult retail, MOTO
+
+The residual engine
+
+Residuals that reconcile to the penny.
+
+ISO360's residual engine attributes every basis point to the merchant, the rep, and the schedule that earned it. Cygma residuals pay on the 5th, the earliest in the industry, and monthly residuals on the 15th, with drill-down statements that survive an audit.
+
+Per-merchant, per-rep attribution on every MID
+
+Signing, conversion, and milestone bonuses computed automatically
+
+Adjustments and true-ups applied with a paper trail
+
+Statement exports for your accountant, or the ISO360 API
+
+Downline payouts
+
+Pay your whole downline without a spreadsheet.
+
+Divisions, offices, sub-agents, reps: ISO360 models your org the way it actually splits money. Every week it nets residuals and bonuses against equipment debits per agent, then settles the whole downline by ACH on Friday. Clawbacks, holds, and collection states are handled, not hand-tracked.
+
+Division → office → rep hierarchy with per-deal splits
+
+Weekly net settlement: residuals + bonuses − equipment, by ACH
+
+Commissions release when funds actually collect
+
+Every payout visible to the agent who earned it
+
+Operations
+
+The unglamorous stuff, automated.
+
+The work that eats an office manager's week (orders, paper, tickets, chargebacks, taxes) is a module, not a side hustle.
+
+EquipmentOrders that ship themselvesTerminals, POS bundles, and paper orders with live pricing, automatic FedEx labels, and deployment tracking from warehouse to countertop.
+
+ChargebacksA chargeback desk per MIDDisputes land as alerts with the evidence workflow built in. Respond, represent, and track outcomes without leaving the platform.
+
+TicketingTickets & field dispatchSupport tickets tied to the merchant record, plus dispatch for field techs and delivery drivers, with a login-free day view on their phone.
+
+Merchant billingFees, invoices & collectionsMonthly fees, ad-hoc charges, and equipment billing with retry logic and collection states. Collect before you ship, automatically.
+
+RiskRisk that watches with youACH return handling, first-transaction flags, ticket-size anomalies, and hold workflows, surfaced on the portfolio, not buried in email.
+
+Taxes1099s without January panicW-9s collected at onboarding, TINs matched against the IRS in real time, and year-end 1099s generated from the payout ledger you already have.
+
+ISO360 API
+
+Everything ISO360 shows you, your systems can pull.
+
+Boarding applications, statement analysis, portfolio data: the ISO360 API exposes the platform to your own tools. Documentation lives with the rest of EPI's APIs on the Cygma developer hub.
+
+ISO360 API docs →
+
+# price a prospect before the pitch
+POST /v1/statement-analysis
+{
+"prospect": "Beacon Hill Bagels",
+"statement_pdf": "…"
+}
+# → effective rate, savings, proposal
+
+Residuals show up early, funding is same-day, and boarding a merchant takes minutes instead of a week of faxes. My office runs on ISO360.Independent agent · 140+ merchant portfolio
+
+See your book in ISO360.
+
+Partner sales will walk you through the platform on your own portfolio's shape: boarding, residuals, and payouts, end to end.
+
+Get a walkthrough →The reseller program
+
+Enabling commerce, everywhere it happens.
+
+Solutions
+
+Payments Anywhere
+
+Your Brand
+
+Point of Sale
+
+Pricing
+
+Products
+
+Exatouch
+
+TableTurn
+
+Handpoint
+
+Clover
+
+eGiftSolutions
+
+EPI Capital
+
+Partners
+
+Resellers
+
+ISO360
+
+Developers
+
+Financial institutions
+
+Company
+
+About EPI
+
+Blog
+
+Newsroom
+
+Success stories
+
+Welcome kit
+
+Time change help
+
+Ombudsman
+
+Privacy Policy · Privacy Rights · Cookie Preferences · Subscribe to E-News · Facebook · Instagram · LinkedIn · YouTube
+
+Copyright © Electronic Payments, Inc. All Rights Reserved. Electronic Payments is a registered Independent Sales Organization of KeyBank, N.A., Cleveland, OH; Citizens Bank, N.A., Providence, RI; and Commercial Bank of California, Los Angeles, CA. American Express may require separate approval.

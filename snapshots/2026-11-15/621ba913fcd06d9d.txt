@@ -1,0 +1,704 @@
+DealerSocket: CRM & sales enablement
+
+Skip to main contentCDVCar Dealer VendorsMarketingCategoriesCompaniesSearch mapQuestionsGuidesBlogFind software →
+
+Companies / DealerSocket
+DealerSocket
+
+DealerSocket is a Solera dealership-technology brand with CRM, inventory and independent-dealer operating products. CRM by Solera, also called DealerSocket CRM, concerns customer engagement; iDMS concerns independent and buy-here-pay-here operations. A proposal must identify which application is being purchased before comparing the wider supplier catalog.
+Official website
+
+DealerSocket CRM and the current Solera naming
+
+Solera’s current CRM page describes calls, texts and emails from the customer record, communication history and vehicle/equity opportunities. Its 2026 upgrade announcement separately describes conversational lead response and video in email. The older Accelerate label does not establish a separately available current package.
+
+Inventory+, iDMS and Auto/Mate have different roles
+
+Inventory+ addresses acquisition, appraisal, pricing and merchandising. iDMS instead supplies the operating record for independent and BHPH dealers. The separate Auto/Mate line addresses a franchise DMS purchase. Common Solera ownership does not make those product names synonyms.
+
+For an illustrative independent-store proposal, keep a customer inquiry, vehicle choice, completed deal and later account payment separate. The CRM employee task ends at a different point from the receivable’s servicing or financial entry. Have the order identify which application owns each step.
+
+A CRM change beside a retained DMS
+
+For a franchise CRM proposal retaining another DMS, inspect a changed vehicle interest and the resulting customer conversation before testing the specific deal exchange. Obtain the supported object, permission and receiving action. A vendor-wide suite presentation cannot establish that particular outside-system handoff.
+
+Product or service
+
+Function
+
+CRM by Solera / DealerSocket CRM
+
+Customer conversations, opportunity work and proposed AI actions.
+
+Inventory+
+
+Acquisition, appraisal, pricing and merchandising.
+
+iDMS
+
+Independent and BHPH operating records.
+
+DealerSocket product portfolio
+
+Product
+
+Workflow categories
+
+Source
+
+CRM
+
+CRM & sales enablement
+
+Products / Dealersocket / CRM
+
+Auto/Mate DMS
+
+Dealer management systems (DMS)
+
+Products
+
+Inventory+
+
+Inventory management
+
+Products / Dealersocket / Inventory
+
+iDMS
+
+Dealer management systems (DMS)
+
+Products / Dealersocket / Idms
+
+DealerSocket CRM versus DriveCentric Engagement Hub
+
+Solera’s current named offer is DealerSocket CRM; the older Accelerate label is insufficient package information. DriveCentric currently calls its CRM Engagement Hub and separates agents, desking and other add-ons. Identify the customer-workflow purchase on both orders.
+
+For a video follow-up, retain the customer’s original inquiry, the employee’s message and the opportunity stage. In each quoted configuration, have another employee continue after reassignment and inspect the received conversation. Compare the purchased video, role and DMS handoff rather than assume all functions in either brand’s catalog are included.
+
+[1] [2]
+dealer.solera.com: Products / Dealersocket / CRM
+
+drivecentric.com: Products / Engagement Hub
+
+DealerSocket certification, product versions and partner charges
+
+DealerSocket's certified partners page is a searchable directory that can be filtered by platform and category and shows special offers from some partners. The product matters: DealerSocket CRM, independent-dealer iDMS and a separate DMS configuration perform different work. Retain the named application, partner product and relevant release when requesting the supported connection, rather than interpret a company-level directory entry as every available handoff in the portfolio.
+
+A certification is a statement by DealerSocket about a relationship, not a measure of how well data moves. A dealer should ask which partners are certified for its CRM version, whether the connection is bidirectional, what each partner charges for the link and whether a special offer changes the contract term. The supplier’s certification label should remain attributed to that supplier; it is not this directory’s rating of a company or a guarantee for the store’s proposed configuration.
+
+The same partner may behave differently on DealerSocket's CRM than on its DMS, so name the product when you ask. Request the certification date and current supported version.
+
+An earlier relationship can be useful discovery evidence without establishing new fields or a later release. Identify the customer, deal, message or other object the dealership needs and inspect it in the receiving application.
+
+Before a first call, write down the partners you already pay for and ask DealerSocket whether each is certified for the CRM you would use, and since when. Ask what the partner charges for the connection and who supports a failing link, DealerSocket or the partner. Where another commercial arrangement affects the proposal, ask for the resulting price and term in writing rather than infer a referral fee or conflict from the existence of a partnership.
+
+Ask for a reference at a store that uses the same partner on the same product, and ask that store how setup was organized and which receiving tasks required attention. Keep that scope with the account of its experience.
+
+Also ask for the full list in a file you can keep. Request the certified partners by product and version with the date each was last confirmed, then retain the actual store configuration and accepted test beside the supplier’s list.
+
+For a hypothetical CRM messaging connection, follow a corrected customer phone number and a conversation into the receiving record. Inspect assignment, history and the employee’s next action.
+
+If the connection concerns credit or vehicle data instead, use that specific receiving task rather than reusing a messaging demonstration. An available partner offer and a completed operational test answer different purchasing questions.
+
+[1]
+dealersocket.com
+
+Resources / Certified Partners
+
+Use the named partner group to identify the required transaction
+
+The recorded relationships span credit and compliance (700Credit, Equifax, Experian Automotive, ComplyNet), vehicle data and history (AutoCheck, CARFAX, Black Book, Kelley Blue Book, Manheim), communications and reputation (ActivEngage, Birdeye, CallRevu, CallSource, Conversica, Covideo, Podium), marketing and analytics (automotiveMastermind, LotLinx, Marchex, Orbee) and services such as Better Car People. These groups explain the different tasks behind the company names; they do not establish identical certification scope for every DealerSocket product.
+
+Ask which of these links your store already pays for elsewhere, since a certified partner you do not use is only a name on a page. Compare the existing order with the proposed application and connection before assuming the new subscription replaces it.
+
+For a credit task, retain the permitted inquiry and receiving finance record; for a messaging task, retain the received conversation and employee assignment. Request the current product-specific confirmation for the task being purchased.
+
+[1]
+dealersocket.com
+
+Resources / Certified Partners
+
+What DealerSocket's own integrations page shows
+
+DealerSocket's certified partners page is a searchable directory that can be filtered by platform and category and shows special offers from some partners. Because the list loads by script, the static page gives little text, so the former connection record rests on the 38 partners the directory captured.
+
+They span credit and compliance (700Credit, Equifax, Experian Automotive, ComplyNet), vehicle data and history (AutoCheck, CARFAX, Black Book, Kelley Blue Book, Manheim), communications and reputation (ActivEngage, Birdeye, CallRevu, CallSource, Conversica, Covideo, Podium), marketing and analytics (automotiveMastermind, LotLinx, Marchex, Orbee) and services such as Better Car People. That was a recorded subset, not the current complete supplier network.
+
+A certification is a statement by DealerSocket about a relationship, not a measure of how well data moves. A dealer should ask which partners are certified for its CRM version, whether the connection is bidirectional, what each partner charges for the link and whether a special offer changes the contract term.
+
+The same partner may behave differently on DealerSocket's CRM than on its DMS, so name the product when you ask. Request the certification date, since a link certified years ago may not reflect the partner's current product.
+
+Within the dated inventory, reading the list as a dealer would, the 38 names sort into jobs. Credit and compliance names such as 700Credit, Equifax, Experian Automotive and ComplyNet support the finance office.
+
+Vehicle data names such as AutoCheck, CARFAX, Black Book, Kelley Blue Book and Manheim support appraisal and pricing. A large third group, including ActivEngage, Birdeye, CallRevu, CallSource, Conversica, Foureyes, Gubagoo and Podium, supports communication and reputation.
+
+Marketing names such as LotLinx, Marchex, Orbee and TrueCar round it out. Ask which of these links your store already pays for elsewhere, since a certified partner you do not use is only a name on a page.
+
+Before a first call, write down the three partners you already pay for and ask DealerSocket whether each is certified for the CRM you would use, and since when. Certification dates matter because a link built for an earlier version of a product may not carry new fields.
+
+Ask what the partner charges for the connection, whether DealerSocket takes a referral fee that affects the price, and who supports a failing link, DealerSocket or the partner. Ask for a reference at a store that uses the same partner on the same product, and ask that store how long setup took and what broke in the first month.
+
+Also ask for the full list in a file you can keep. A directory that loads by script is hard to archive, so request the certified partners by product and version with the date each was last confirmed. .
+
+[1]
+dealersocket.com
+
+Resources / Certified Partners
+
+DealerSocket modules behind a proposed partner exchange
+
+For the directory inventory captured on October 18, 2026, the named product lines here are DealerSocket CRM, Auto/Mate DMS, Inventory+, RevenueRadar, DealerSocket Accelerate, DealerSocket Data Exchange, DealerSocket Desking, DealerSocket iDMS. Those are the names in that dated inventory; current packaging, availability and included functions require the corresponding present supplier description and order.
+
+The current public catalog separately names CRM, RevenueRadar, DealerFire, PrecisePrice, Inventory+, Auto/Mate and IDMS. Inventory pricing, customer follow-up, a finance proposal and receivables servicing involve different records.
+
+Ask which current module performs the proposed exchange and how an older Accelerate or Data Exchange label maps to that order. Shared suite ownership does not establish the field-level scope of a particular partner connection.
+
+[1]
+dealersocket.com
+
+Official website
+
+DealerSocket connections
+
+Connected company
+
+Directory workflow categories
+
+Published relationship
+
+Impel
+
+AI lead handling & follow-up · Inventory merchandising · Chat, text & conversational commerce · Service marketing & retention
+
+Vendor-reported integration
+
+Orbee
+
+Customer data platforms (CDP) · Data integration & middleware · Analytics & attribution · Digital advertising
+
+Vendor-reported integration
+
+automotiveMastermind
+
+Equity & database mining · Customer data platforms (CDP) · Dealer intelligence & BI
+
+Vendor-reported integration
+
+700Credit
+
+Credit, identity & compliance · Fraud & cybersecurity
+
+Certified integration partner
+
+ActivEngage
+
+Chat, text & conversational commerce · AI lead handling & follow-up · Service BDC & call handling
+
+Certified integration partner
+
+AutoCheck
+
+Inventory management
+
+Certified integration partner
+
+AutoRaptor
+
+CRM & sales enablement · AI lead handling & follow-up · Email, SMS & lifecycle marketing
+
+Certified integration partner
+
+automotiveMastermind
+
+Equity & database mining · Customer data platforms (CDP) · Dealer intelligence & BI
+
+Certified integration partner
+
+Better Car People
+
+CRM & sales enablement
+
+Certified integration partner
+
+Birdeye
+
+Social media & reputation
+
+Certified integration partner
+
+Black Book
+
+Inventory management · Vehicle data & syndication
+
+Certified integration partner
+
+CallRevu
+
+Call tracking & intelligence · Voice AI & virtual BDC · Service BDC & call handling
+
+Certified integration partner
+
+CallSource
+
+Call tracking & intelligence
+
+Certified integration partner
+
+CARFAX
+
+Vehicle data & syndication
+
+Certified integration partner
+
+CarNow
+
+Digital retailing · Chat, text & conversational commerce · Trade appraisal & valuation · AI lead handling & follow-up
+
+Certified integration partner
+
+Car Wars
+
+Call tracking & intelligence · Analytics & attribution · Service BDC & call handling
+
+Certified integration partner
+
+Client Command
+
+Service marketing & retention
+
+Certified integration partner
+
+KPA (ComplyNet)
+
+Facilities, safety & environmental · Training, coaching & LMS · HR, payroll & workforce
+
+Certified integration partner
+
+Conversica
+
+AI lead handling & follow-up · Email, SMS & lifecycle marketing · Chat, text & conversational commerce
+
+Certified integration partner
+
+Covideo
+
+Inventory merchandising
+
+Certified integration partner
+
+DealerOn
+
+Dealership websites & CMS · Digital advertising · SEO, local & AI-search visibility · Analytics & attribution
+
+Certified integration partner
+
+Equifax
+
+Credit, identity & compliance
+
+Certified integration partner
+
+Experian Automotive
+
+Credit, identity & compliance
+
+Certified integration partner
+
+Foureyes
+
+Customer data platforms (CDP) · Analytics & attribution · AI lead handling & follow-up · Data integration & middleware
+
+Certified integration partner
+
+Spireon GoldStar
+
+GPS & payment-assurance tracking
+
+Certified integration partner
+
+Gubagoo
+
+Chat, text & conversational commerce · Digital retailing · AI lead handling & follow-up · Voice AI & virtual BDC
+
+Certified integration partner
+
+Kelley Blue Book
+
+Marketplaces & lead providers
+
+Certified integration partner
+
+LotLinx
+
+Inventory management · Digital advertising · Analytics & attribution
+
+Certified integration partner
+
+Manheim
+
+Wholesale & auctions
+
+Certified integration partner
+
+Marchex
+
+Call tracking & intelligence · Analytics & attribution · AI lead handling & follow-up
+
+Certified integration partner
+
+Market Scan
+
+Inventory management · Desking & deal structuring
+
+Certified integration partner
+
+Orbee
+
+Customer data platforms (CDP) · Data integration & middleware · Analytics & attribution · Digital advertising
+
+Certified integration partner
+
+Podium
+
+Chat, text & conversational commerce · Social media & reputation · Payment processing & merchant services · AI lead handling & follow-up
+
+Certified integration partner
+
+ProMax
+
+CRM & sales enablement · Desking & deal structuring · Credit, identity & compliance · Dealership websites & CMS
+
+Certified integration partner
+
+RouteOne
+
+Credit, identity & compliance · Digital contracting & titling · Desking & deal structuring
+
+Certified integration partner
+
+Tekion
+
+Dealer management systems (DMS) · CRM & sales enablement · Digital retailing · Service lane platforms · Dealer intelligence & BI
+
+Certified integration partner
+
+CallRevu (TotalCX)
+
+Call tracking & intelligence · Voice AI & virtual BDC · Service BDC & call handling
+
+Certified integration partner
+
+TruVideo
+
+Digital MPI & video inspection
+
+Certified integration partner
+
+TrueCar
+
+Marketplaces & lead providers · Trade appraisal & valuation · Digital retailing
+
+Certified integration partner
+
+Urban Science
+
+Analytics & attribution · Dealer intelligence & BI · Data integration & middleware
+
+Certified integration partner
+
+Vicimus
+
+Dealership websites & CMS
+
+Certified integration partner
+
+impel.ai /integrations/
+
+orbee.com /integrations
+
+automotivemastermind.com /mastermind-platform-integrations/
+
+dealersocket.com /resources/certified-partners/
+
+DealerSocket: documented connection scope
+
+Connected company
+
+Published scope, data and source limits
+
+DealerSocket → 700Credit
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against 700Credit documentation.
+
+DealerSocket → ActivEngage
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against ActivEngage documentation.
+
+DealerSocket → AutoCheck
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against AutoCheck documentation.
+
+DealerSocket → AutoRaptor
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against AutoRaptor documentation.
+
+DealerSocket → automotiveMastermind
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against automotiveMastermind documentation.
+
+DealerSocket → Better Car People
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Better Car People documentation.
+
+DealerSocket → Birdeye
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Birdeye documentation.
+
+DealerSocket → Black Book
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Black Book documentation.
+
+DealerSocket → CallRevu
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against CallRevu documentation.
+
+DealerSocket → CallSource
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against CallSource documentation.
+
+DealerSocket → CARFAX
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against CARFAX documentation.
+
+DealerSocket → CarNow
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against CarNow documentation.
+
+DealerSocket → Car Wars
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Car Wars documentation.
+
+DealerSocket → Client Command
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Client Command documentation.
+
+DealerSocket → ComplyNet
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against ComplyNet documentation.
+
+DealerSocket → Conversica
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Conversica documentation.
+
+DealerSocket → Covideo
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Covideo documentation.
+
+DealerSocket → DealerOn
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against DealerOn documentation.
+
+DealerSocket → Equifax
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Equifax documentation.
+
+DealerSocket → Experian Automotive
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Experian Automotive documentation.
+
+DealerSocket → Foureyes
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Foureyes documentation.
+
+DealerSocket → Spireon GoldStar
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Spireon GoldStar documentation.
+
+DealerSocket → Gubagoo
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Gubagoo documentation.
+
+DealerSocket → Kelley Blue Book
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Kelley Blue Book documentation.
+
+DealerSocket → LotLinx
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against LotLinx documentation.
+
+DealerSocket → Manheim
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Manheim documentation.
+
+DealerSocket → Marchex
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Marchex documentation.
+
+DealerSocket → Market Scan
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Market Scan documentation.
+
+DealerSocket → Orbee
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Orbee documentation.
+
+DealerSocket → Podium
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Podium documentation.
+
+DealerSocket → ProMax
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against ProMax documentation.
+
+DealerSocket → RouteOne
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against RouteOne documentation.
+
+DealerSocket → Tekion
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Tekion documentation.
+
+DealerSocket → TotalCX
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against TotalCX documentation.
+
+DealerSocket → TruVideo
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against TruVideo documentation.
+
+DealerSocket → TrueCar
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against TrueCar documentation.
+
+DealerSocket → Urban Science
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Urban Science documentation.
+
+DealerSocket → Vicimus
+
+Named in DealerSocket's own certified-integration-partner directory. One-sided: not separately confirmed against Vicimus documentation.
+
+DealerSocket partner workflow inventory
+
+Category
+
+Recorded partners
+
+Names
+
+AI lead handling & follow-up
+
+8
+
+ActivEngage, AutoRaptor, CarNow, Conversica, Foureyes, Gubagoo and 2 more
+
+Analytics & attribution
+
+7
+
+Car Wars, DealerOn, Foureyes, LotLinx, Marchex, Orbee and 1 more
+
+Credit, identity & compliance
+
+6
+
+700Credit, ComplyNet, Equifax, Experian Automotive, ProMax, RouteOne
+
+Call tracking & intelligence
+
+5
+
+CallRevu, CallSource, Car Wars, Marchex, TotalCX
+
+Chat, text & conversational commerce
+
+5
+
+ActivEngage, CarNow, Conversica, Gubagoo, Podium
+
+CRM & sales enablement
+
+4
+
+AutoRaptor, Better Car People, ProMax, Tekion
+
+Digital retailing
+
+4
+
+CarNow, Gubagoo, Tekion, TrueCar
+
+Inventory management
+
+4
+
+AutoCheck, Black Book, LotLinx, Market Scan
+
+Service BDC & call handling
+
+4
+
+ActivEngage, CallRevu, Car Wars, TotalCX
+
+Customer data platforms (CDP)
+
+3
+
+automotiveMastermind, Foureyes, Orbee
+
+2026-10-18 · Connection count definitions
+
+Explore providers in the same workflow categories
+Activix
+
+ACV
+
+Advent Resources
+
+AutoAlert
+
+AutoCheck
+
+AutoIMS
+
+AutoManager
+
+AutoRaptor
+
+Autosoft
+
+Companies in the same corporate family
+Auto/Mate
+
+Browse the company directory · Suggest a factual correction
+
+dealer.solera.com
+
+Products / Dealersocket
+
+Products / Dealersocket / CRM
+
+Products / Dealersocket / Idms
+
+Products / Dealersocket / Inventory
+
+Blog / Solera Announces Landmark AI Investment and Major Dealersocket CRM Upgrade Ahead of Nada Show 2026
+
+CRM & sales enablement · Dealer management systems (DMS) · Inventory management
+
+Continue researching DealerSocket in 682 dealership technology companies: DealerSpike, Read DealerStar: Dealer management systems (DMS), DealerSync.
+
+CDVCar Dealer Vendors
+Independent decision support for dealership technology buyers.
+
+Explore
+Car dealer marketingTechnology categoriesCompany directoryComplete search mapDealership typesDepartmentsProblems and triggers
+
+Research
+CapabilitiesProcurementIntegration guidesDealer questionsBuying guidesProcurement calendar blogResearch change log
+
+Standards & tools
+Procurement templatesStack assessment toolCompany comparisonsProduct comparisonsAlternativesMethodologyLimitationsTerms of usePrivacyAccessibilityHTML sitemap
+
+Car Dealer VendorsRecords are decision support, not a substitute for vendor, OEM, legal, compliance or security diligence.

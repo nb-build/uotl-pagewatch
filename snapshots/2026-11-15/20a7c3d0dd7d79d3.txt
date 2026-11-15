@@ -1,0 +1,492 @@
+Review call recordings and transcripts
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+CRM
+
+Calling
+
+Review call recordings and transcripts
+
+Review call recordings and transcripts
+
+Last updated:
+
+October 9, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+All products and plans
+
+You can review recordings made through HubSpot’s calling tool or through a third-party calling provider that is integrated with HubSpot.
+
+If you're a user with an assigned Sales Hub or Service Hub Professional or Enterprise seat, you can transcribe and analyze recordings. This enables you to coach your team more effectively and gain valuable customer insights from the recordings and transcripts.
+
+Please note:
+
+Any user who is recording calls made from HubSpot can review and coach on the call recording. Only recordings made by users with assigned Sales Hub or Service Hub Professional or Enterprise seats will be automatically transcribed.
+
+Voicemails for numbers connected to a shared workspace like inbox or help desk won't be transcribed.
+
+Recordings made through video conferencing integrations (e.g., Zoom, Microsoft Teams, etc.) create meeting records in HubSpot. Learn how to review these types of recordings.
+
+If you're using the HubSpot mobile app, learn how to review recordings while on the go.
+
+Before you get started
+
+Set up the calling tool. You can:
+
+Acquire a HubSpot provided phone number.
+
+Register your outbound phone number with HubSpot.
+
+Integrate with a third-party calling provider.
+
+Please note: HubSpot only supports a select group of third-party calling providers. Learn more about which calling providers are supported in the HubSpot App Marketplace.
+
+HubSpot call recordings are turned on by default. Make sure that call recording is turned on in your settings.
+
+Review call recording laws for your area.
+
+Turn on Call Recording and Transcription and Analysis
+
+Subscription required
+
+A Sales Hub or Service Hub Professional or Enterprise subscription is required to use transcription analysis powered by Conversation Intelligence.
+
+Conversation Intelligence (CI) powers transcription and analysis for calls made by users with a Sales Seat or Service Seat. This includes calls made through HubSpot's calling tool and some third-party calling providers. Using CI in HubSpot, you can:
+
+Review recordings: Use speaker tracks, sharing options, transcripts, and search capabilities to review calls.
+
+Access recordings in the Calls Index: Calls in the Call Index are filterable by properties such as user, team, call outcome, and durations.
+
+Search key terms: Use global search to find key terms in call recordings.
+
+Access associated records: Preview recording details on associated records for added context.
+
+Review tracked terms: Use tracked terms to build reports on call content (Enterprise only).
+
+To turn on Call Recording and Transcription and Analysis powered by CI:
+
+In your HubSpot account, click the settings icon in the top navigation bar.
+
+In the left sidebar menu, navigate to Calling > Call Setup.
+
+Click the Call Configurations tab.
+
+Toggle the Call recording switch on. If this setting isn't turned on, the Record button won't appear when making a call.
+
+Transcription and analysis is turned on by default. If it is not switched on, Super Admin can toggle the Transcriptions and analysis switch on. Learn more about how HubSpot uses data to improve the quality of your transcripts.
+
+To turn on tracked terms:
+
+Click Edit tracked terms.
+
+In the right panel, click + Add category.
+
+Edit the category name and tracked terms.
+
+Click Save.
+
+Automatic associations
+
+Subscription required
+
+A Sales Hub or Service Hub Professional or Enterprise subscription is required to use automatic associations.
+
+With Conversation Intelligence, you can access Automatic Associations. This tool allows you to associate calls to relevant CRM records such as contacts, companies, deals, and tickets.
+
+Call to Contact: for each meeting associated with the call, up to five contacts associated with that meeting will be associated with the call.
+
+Call to Company: for each contact associated with the call, up to five companies associated with that contact will be associated with the call.
+
+Call to Deal: an AI model looks for similarities between the call and deals in your account. For example, the model may see if the deal and call are associated to the same company, or if the deal name is in the call name.
+
+Call to Ticket: an AI model looks for similarities between the call and tickets in your account. For example, the model may see if the ticket and call are both associated to the same contact, or if the ticket subject is in the call name.
+
+By default, HubSpot AI will automatically associate call recordings to the primary company associated with the call's participants. To turn this off:
+
+In your HubSpot account, click the settings icon in the top navigation bar.
+
+In the left sidebar menu, navigate to Calling > Call Setup.
+
+Click the Call Configurations tab.
+
+Toggle the Automatically link calls to associated objects using HubSpot AI switch off.
+
+Review recordings
+
+To access the recording and add notes:
+
+In your HubSpot account, click More, then navigate to CRM > Calls. If More doesn't appear in your account, navigate to CRM > Calls directly.
+
+Click the call title.
+
+To start the recording, on the left of the review screen, click playerPlay Play. You can also use the controls to playerFastForward skip or playerRewind rewind. If you're reviewing a Zoom cloud recording, you can also play, pause, or skip ahead.
+
+At the bottom, click Notes, then click Add notes to add call notes. To send a notification to another team member, type @ followed by the user's name. Enter your note, then click Save. If you have a Sales Hub or Service Hub Professional or Enterprise account, you can also add threaded inline comments.
+
+At the bottom, you can view an AI generated call summary (Sales Hub or Service Hub Professional or Enterprise). The summary is divided into several sections: purpose of the call, key discussion points, decisions made, sentiment, and next steps. This field isn't editable. Use the Notes text box below to add additional information.
+
+If you want to ask Breeze Assistant for more information about the call, type your question in the Ask a question text field. Example questions include: "Did the customer mention a budget?" or "What was the overall tone of the speaker?"
+
+You can select tailored templates for your call summaries by clicking Auto, and then selecting Support Rep, Sales Rep, or + Add custom template. For support reps, summaries are focused on case resolution. This gives reps a fast and easy way to understand the issue at hand, root causes/diagnostics, actions taken, the outcome, and customer sentiment. For sales reps, summaries are focused on deal/prospect insights. They provide an overview of sales objectives and discussion points, helpful coaching advice/tips, and objections/concerns.
+
+To provide feedback on the summary, click the thumbsUp thumbs up or thumbsDown thumbs down icon.
+
+To copy the summary, click the copy message icon.
+
+To hide the summary, click Close.
+
+Please note: to use Breeze call summaries, you must turn on Breeze Assistant and call recording in your account.
+
+If you have a Sales Hub or Service Hub Professional or Enterprise account, on the right, click between the Insights, Stats, and Transcript tabs to view tracked terms, call stats, and the call transcript. To copy a transcript, on the Transcript tab, click Copy transcript to clipboard. You'll only be able to view tracked terms if you have a Sales Hub or Service Hub Enterprise account and a super admin has added tracked terms.
+
+Share recordings or add recordings to playlists
+You can share recordings with team members or add recordings to
+coaching playlists to help train reps.
+
+To share the recording:
+
+Click the share Share button at the top right.
+
+Click the Send email to dropdown menu to add team members to share the recording with.
+
+Type a message in the text box.
+
+Use the playback handles or the Start and End text boxes to adjust the portion of the recording you want to share.
+
+Click Share or Copy link. If you have a Sales Hub or Service Hub Professional or Enterprise account, you can also share specific transcript excerpts.
+
+Please note: users with permission to view a recording clip can also listen to the entire recording. The intent of the clip is to provide clear focus and direction.
+
+To add a recording to a playlist:
+
+Click + Add to Playlist.
+
+Click the Select playlist dropdown menu to add the recording to different playlists.
+
+Type a description in the text box.
+
+Use the playback handles or the Start and End text boxes to adjust the portion of the recording you want to share.
+
+Click Add.
+
+Review tracked terms
+
+You can create tracked terms to go to parts of the transcript where the term is mentioned.
+
+Subscription required
+
+A Sales Hub or Service Hub Enterprise subscription is required to use tracked terms.
+
+Permissions required
+
+Only Super Admins can add or edit tracked terms.
+
+In the right panel, click the Insights tab to view tracked terms.
+
+To edit tracked terms, click Edit.
+
+In the right panel, you can click + Add category to add categories for tracked terms.
+
+To add a tracked term to a category, click + Add tracked term, then type the tracked term in the text box.
+
+At the bottom of the right panel, Click Save.
+
+Add call speakers and view call stats
+
+Subscription required
+
+A Sales Hub or Service Hub Professional or Enterprise subscription is required to add call speakers and view call stats.
+
+You can review call stats by linking participants' contact records to the call.
+
+To link call participants to records, click Participants at the top. In the right panel, click the link link button next to the speaker in the Call Recipient section. In the search bar, type the name of the contact. If a record doesn't exist, click + Add Contact to create a record for the contact. Then, click Link. To unlink a contact, click the link link button again to break the link.
+
+To access the call recipient's contact information, in the right panel, click the contact's name to be taken to that contact record.
+
+After adding speakers, on the right panel, click the Stats tab to review the following call stats.
+
+Call owner talk time: the percentage of time the call owner talks.
+
+Talk Speed: the number of words per minute for the call owner.
+
+Longest monologue: the longest amount of time the call owner speaks.
+
+Longest customer story: the longest amount of time a customer speaks.
+
+Interactivity: the amount of interaction within the call.
+
+Patience: the amount of pauses between participants.
+
+Review transcripts and add threaded inline comments
+
+Subscription required
+
+A Sales Hub or Service Hub Professional or Enterprise subscription is required to review transcripts and add threaded inline comments.
+
+When you review transcripts, you can add threaded inline comments or share a link to a specific part of the transcript. Reps can easily respond to comments, keeping conversations focused and ensuring all relevant information is in one place.
+
+Please note: automatic transcription is available for HubSpot's call transcription languages. HubSpot will use automatic language detection and will transcribe in the language(s) detected in the recording. Learn more about HubSpot's language offerings.
+
+In the right panel, click the Transcript tab to view the call transcript. Use the search bar to lookup specific keywords. The results will return any part of the transcript where the keyword was used.
+
+To send a notification to another team member or add a timestamped comment, do one of the following:
+
+Click the Comments tab below the recording playback. In the text box, type @ followed by the user's name. Enter your comment, then click Save.
+
+To add a timestamp:
+
+Below the text box, type the timestamp then click the text box to apply the timestamp. On the Transcript tab on the right, it will jump to that portion of the transcript.
+
+In the transcript, hover over the part of the transcript excerpt you want to add a comment to. Click the comments Comment button. In the Comments tab below the recording playback, a text box will open with the correct timestamp.
+
+Click Comment.
+
+Click the Reply button below one of the comments to begin a thread. After writing your reply, click Reply.
+
+To share a specific part of the transcript, hover over that transcript excerpt, then click the share Share button. In the dialog box, use the handles along the speaker track or type the Start and End time to alter the length of the recording clip. If you'd like to share the entire recording, make sure the handles along the speaker track are at the beginning and end of the recording.
+
+Please note: users with permission to view a recording clip can also listen to the entire recording. The intent of the clip is to provide clear focus and direction.
+
+Conversational enrichment for call transcripts (BETA)
+
+An Enterprise subscription is required to use conversational enrichment for call transcripts.
+
+Conversational enrichment for call transcripts can update contact and company records from the insights found inside unstructured call transcripts.
+
+Please note: if you're a Super Admin, you can enroll in the Conversational Enrichment for Transcripts beta.
+
+When turned on, conversational enrichment:
+
+Reviews incoming call transcripts
+
+Identifies different speakers in the conversation
+
+Extracts relevant data points
+
+Updates existing records or creates new ones as configured
+
+Requirements
+
+To use conversational enrichment for call transcripts, the following requirements apply:
+
+Conversational Intelligence must be activated.
+
+Call transcripts must be logged to your account.
+
+Turn on conversational enrichment for call transcripts
+
+To turn on conversational enrichment for call transcripts:
+
+In your HubSpot account, click the settings icon in the top navigation bar.
+
+In the left sidebar menu, navigate to Data Management > Data Enrichment
+
+Click the Conversational Enrichment tab.
+
+Toggle the Call transcript enrichment switch on.
+
+Now, the following contact and company properties will be updated:
+
+Contacts:
+
+Job title
+
+Seniority level
+
+Phone number
+
+Preferred name
+
+Buying role
+
+Other determinable standard contact attributes
+
+Company:
+
+Industry
+
+Number of employees
+
+Annual revenue
+
+Key web technologies
+
+Current tech stack
+
+Additional company insights when available
+
+Associate recordings with other records
+
+By default, HubSpot AI will automatically associate recordings to the primary company associated with the call’s participants.
+
+You can also associate a recording with other contact, company, deal, ticket, or meeting records in your CRM. The recording will appear on the associated record's timeline so you can access the recording details for more context.
+
+In your HubSpot account, click More, then navigate to CRM > Calls. If More doesn't appear in your account, navigate to CRM > Calls directly.
+
+Click the call title.
+
+At the top, click Associations.
+
+To add an association, in right panel, click + Add next to one of the object or activity tabs. It will now associate to that object or activity.
+
+The associated records will also appear on the Call Index page. If the associated records don't appear in the table, edit the table's columns.
+
+Calling
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Set up calling
+
+A guide to your calls home
+
+Coach your sales team with Conversation Intelligence
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

@@ -1,0 +1,475 @@
+Dealertrack DMS | Podium Integrations Marketplace
+
+AI Employee
+
+Industry Solutions
+
+Auto
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Plans
+
+Resources
+
+Resource Center
+
+What's new
+
+Customer Stories
+
+Webinars
+
+Podcasts
+
+Guides
+
+Free Tools
+
+Tools for your Business
+
+Test Your Response Times
+
+Online Reputation Grader
+
+Business Valuation Calculator
+
+ROI of Phones
+
+Texting Templates
+
+Test our Product
+
+Text an AI Employee
+
+Google Review Link Generator
+
+Test Drive Webchat
+
+Download
+
+Desktop App
+
+Mobile App
+
+Podium Pass Chrome Extension
+
+Help Center
+
+Contact Us
+
+Sales: 1-801-438-4425
+
+Watch a demo
+
+Sign in
+
+AI Employee
+
+Plans
+
+Industry Solutions
+
+Auto
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Resources
+
+Resource Center
+
+What's new
+
+Customer Stories
+
+Webinars
+
+Podcasts
+
+Free Tools
+
+Tools for your Business
+
+Test Your Response Times
+
+Online Reputation Grader
+
+Business Valuation Calculator
+
+ROI of Phones
+
+Texting Templates
+
+Test our Product
+
+Text and AI Employee
+
+Google Review Link Generator
+
+Test Drive Webchat
+
+Download
+
+Desktop App
+
+Mobile App
+
+Podium Pass Chrome Extension
+
+Help Center
+
+Contact Us
+
+Get a demo
+
+Sign in
+
+Sales: 1-801-438-4425
+
+AI Employee
+
+Plans
+
+Industry Solutions
+
+Auto
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Resources
+
+Resource Center
+
+What's new
+
+Customer Stories
+
+Webinars
+
+Podcasts
+
+Free Tools
+
+Tools for your Business
+
+Test Your Response Times
+
+Online Reputation Grader
+
+Business Valuation Calculator
+
+ROI of Phones
+
+Texting Templates
+
+Test our Product
+
+Text and AI Employee
+
+Google Review Link Generator
+
+Test Drive Webchat
+
+Download
+
+Desktop App
+
+Mobile App
+
+Podium Pass Chrome Extension
+
+Help Center
+
+Contact Us
+
+Get a demo
+
+Sign in
+
+Sales: 1-801-438-4425
+
+Directory/Dealertrack DMS
+
+Dealertrack DMS
+
+Contact
+
+Collections
+
+Integrations
+
+Categories
+
+Automotive
+
+Dealertrack DMS integrates with Podium
+
+Generate more revenue per customer with the Dealertrack DMS integration with Podium! This connection enhances post-sale engagement by allowing Jerry, your AI employee, to re-engage past customers with personalized reminders, boosting revenue through lease renewals and service reminders. Additionally, they enrich contact data with information from Dealertrack and automate post-sale follow-ups, service reminders, and review invitations, streamlining customer re-engagement.
+
+Post-sale revenue mining: Let Jerry, your AI employee help you re-engage past customers with lease renewals, service reminders, and more.
+
+Rich Contact Data: Contacts augmented with data directly from Dealertrack.
+
+Automate More: Re-engage your past customers with post-sale check-in, service reminders, post-sale and service review invites, and more.
+
+Podium and Dealertrack DMS
+
+Compatibility
+
+All Versions
+
+Setup Process
+
+Step 1: Enable Podium in Dealertrack DMS
+
+• Open the Dealertrack DMS.
+
+• Select “Data Exchange” from the 1st dropdown.
+
+• Select “Opentrack” from the 2nd dropdown.
+
+• In the “Vendor Access” screen, add 4 methods one at a time.
+
+NOTE: Even if you select all the methods simultaneously, it will only add 1 of the 4 methods.
+
+• Methods: Vehicles, Customers, Deals, Service
+
+• Select “Podium” or “PDU” as the vendor.
+
+• Select today’s date as the “Access Begins” date.
+
+• Leave the "Access Ends" date blank.
+
+• Click “Ok.”
+
+• Locate and provide the dealership information (account codes).
+
+Step 2: Connect Dealertrack to Podium by entering your enterprise code, company number, and server name.
+
+Step 3: Select the businesses country
+
+Step 4: Click Finish
+
+Step 5: Enable any automation
+
+Use Cases
+
+Unlock more value
+
+Service Appointment Reminder
+
+Read more
+
+Request a review
+
+Send a review invitation after a closed repair order in Dealertrack
+
+Read more
+
+Request a review
+
+Send a review invitation after a closed deal in Dealertrack
+
+Read more
+
+Unlock more value
+
+Sales Mining: Lease Renewal
+
+Read more
+
+Unlock more value
+
+Service Marketing: Appointment Reminder + Appraisal
+
+Read more
+
+Unlock more value
+
+Service Marketing: First Service
+
+Read more
+
+Ready to connect with Dealertrack DMS?
+
+Contact
+
+industry Solutions
+
+Auto Dealerships
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Resources
+
+Resource Center
+
+Blog
+
+Pricing
+
+Refer a Business
+
+Download apps
+
+Company
+
+Why Podium AI
+
+Contact Sales
+
+Careers
+
+Help Center
+
+Legal
+
+Partners
+
+Find a Solution Partner
+
+Integrations
+
+Marketplace
+
+Developer Platform
+
+© Podium Corp Inc. 2026
+
+Sitemap
+
+Terms & Conditions
+
+Privacy Policy
+
+Privacy Center
+
+Do Not Sell or Share My Personal Information
+
+industry Solutions
+
+Auto Dealerships
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Resources
+
+Resource Center
+
+Blog
+
+Pricing
+
+Refer a Business
+
+Download apps
+
+Company
+
+Why Podium AI
+
+Contact Sales
+
+Careers
+
+Help Center
+
+Legal
+
+Partners
+
+Find a Solution Partner
+
+Integrations
+
+Marketplace
+
+Developer Platform
+
+© Podium Corp Inc. 2026
+
+Sitemap
+
+Terms & Conditions
+
+Privacy Policy
+
+Privacy Center
+
+Do Not Sell or Share My Personal Information
+
+industry Solutions
+
+Auto Dealerships
+
+Home Services
+
+Aesthetics
+
+Retail
+
+Resources
+
+Resource Center
+
+Blog
+
+Pricing
+
+Refer a Business
+
+Download apps
+
+Company
+
+Why Podium AI
+
+Contact Sales
+
+Careers
+
+Help Center
+
+Legal
+
+Partners
+
+Find a Solution Partner
+
+Integrations
+
+Marketplace
+
+Developer Platform
+
+© Podium Corp Inc. 2026
+
+Sitemap
+
+Terms & Conditions
+
+Privacy Policy
+
+Privacy Center
+
+Do Not Sell or Share My Personal Information

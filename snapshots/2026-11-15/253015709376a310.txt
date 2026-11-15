@@ -1,0 +1,248 @@
+Fitness Studio Software Market Share Report 2026
+
+Studio Software Advice
+
+Home
+
+About
+
+Sign in
+Subscribe
+
+By Studio Software Advice
+in
+News
+—
+26 Oct 2026
+
+Fitness Studio Software Market Share Report 2026
+
+A 2026 market-position report for fitness studio software, covering Mindbody, ABC Glofox, Vagaro, WellnessLiving, PushPress, Wodify, Mariana Tek, Momence, Vibefam, and the limits of public market share data.
+
+Key Takeaways
+
+Market share caveat: There is no single audited public source for US boutique fitness studio software market share as of October 2026, so the best reading combines web-detected usage, vendor-reported scale, review volume, pricing transparency, and buyer visibility.
+
+Incumbent signal: Datanyze lists Mindbody as the number one fitness and gym management software in its detected dataset, reporting 54.89% share among more than 10,505 detected companies, but this should be treated as a web-detection estimate, not an audited revenue share.
+
+Platform-family scale: ABC Fitness states that 30,000 global clubs and studios, 40 million active members, and $12 billion in annual payment volume run across its platforms, which makes ABC Fitness, including ABC Glofox, one of the largest platform families in fitness software.
+
+Cross-vertical scale: Vagaro states that 300,000 professionals use its beauty, wellness, and fitness software and that 162 million appointments were made in 2026, but its scale spans salons, spas, wellness, and fitness rather than fitness studios alone.
+
+Buyer takeaway: Market leadership does not automatically mean best fit; US studio owners should weigh scheduling depth, membership billing, payments, client experience, support, pricing transparency, and migration risk against their own studio type.
+
+Fitness studio software market share in 2026 is best read as market position, not a precise ranking
+
+The fitness studio software market is fragmented in 2026 because vendors serve overlapping categories: boutique fitness studios, gyms, yoga studios, Pilates studios, martial arts schools, dance studios, salons, spas, wellness businesses, franchises, and enterprise clubs. Public company revenue by product line is generally unavailable because many important vendors are privately held, part of larger platform groups, or sell across multiple service industries.
+
+That means a useful market share report for studio owners should separate four kinds of evidence: detected usage, vendor-reported installed base, review-platform footprint, and current buyer visibility. Datanyze provides one detected-usage view, ABC Fitness and Vagaro publish scale claims, and review sites such as Capterra and G2 show buyer review volume and sentiment.
+
+Adjacent market estimates also vary by category definition. Research and Markets projected the global club management software market at $1.87 billion in 2026, while 360iResearch estimated the global gym management software market at $2.23 billion in 2026. These estimates are useful directional context, but they are broader than US boutique fitness studio management software.
+
+Market position signals by major studio software vendors
+
+The table below summarizes public signals that matter to US studio owners. It is not an audited market share ranking. It is a practical read of market position based on public evidence available as of October 2026.
+
+Vendor or platform family
+
+2026 market position signal
+
+Relevant studio fit
+
+Important caveat
+
+Mindbody
+
+Datanyze reports Mindbody at 54.89% share in its detected fitness and gym management dataset; Mindbody says its marketplace reaches 3 million consumers searching for fitness, beauty, and wellness services.
+
+Established fitness, wellness, yoga, Pilates, salon-spa, and multi-service businesses that value marketplace visibility and mature feature breadth.
+
+Detected usage is not audited market share, and Mindbody’s public positioning spans wellness, beauty, spa, and fitness.
+
+ABC Fitness and ABC Glofox
+
+ABC Fitness reports 30,000 global clubs and studios and 40 million active members across its platforms; ABC Glofox says it is trusted by 30,000-plus studios and gyms worldwide.
+
+Gyms, boutique studios, class-based fitness businesses, franchises, and multi-location operators that want a branded app and broader platform-family support.
+
+ABC Fitness scale includes multiple products, including ABC Glofox, ABC Ignite, ABC Trainerize, and ABC EVO, so the figure is not Glofox-only market share.
+
+Vagaro
+
+Vagaro reports 300,000 professionals, 20 million-plus marketplace customers, and 162 million appointments made in 2026.
+
+Small to midsize appointment-heavy fitness, wellness, beauty, and service businesses that value transparent entry pricing and a large consumer marketplace.
+
+Vagaro is cross-vertical; its published scale is not limited to fitness studios.
+
+WellnessLiving
+
+Capterra lists WellnessLiving at 4.4 out of 5 from 613 reviews and describes it as an all-in-one platform for scheduling, appointments, events, marketing, reporting, reputation management, and rewards.
+
+Small and midsize fitness, wellness, yoga, martial arts, and appointment-based businesses comparing Mindbody alternatives.
+
+Public installed-base numbers are less visible than Mindbody, ABC Fitness, or Vagaro, so review footprint and feature fit are more useful than share claims.
+
+PushPress
+
+PushPress publishes free, Pro at $159/month, and Max at $229/month plans; Capterra lists PushPress at 4.7 out of 5 from 186 reviews.
+
+Independent gyms, strength and conditioning facilities, CrossFit-style gyms, and fitness studios that want modular pricing and gym-focused workflows.
+
+PushPress has strong visibility among gym owners, but it is less marketplace-oriented than Mindbody or Vagaro.
+
+Wodify
+
+Wodify states that more than 5,000 gyms use its platform; Capterra lists Wodify at 4.5 out of 5 from 168 reviews.
+
+CrossFit affiliates, functional fitness gyms, martial arts academies, and performance-driven gyms that want workout tracking tied to business operations.
+
+Wodify is often strongest for performance and gym workflows rather than general wellness, spa, or appointment-heavy studios.
+
+Xplor Mariana Tek
+
+Mariana Tek positions its platform for boutique fitness studios and lists packages for single-location, established, and growth-oriented studios.
+
+Boutique fitness brands, premium studios, and multi-location operators that prioritize branded client experience and scaling support.
+
+Mariana Tek does not publish fixed monthly prices on its pricing page, so owners need a quote to compare total cost.
+
+Momence
+
+Momence’s pricing page invites studios to describe their business and get a tailored pricing walkthrough.
+
+Yoga, Pilates, class-based studios, and fitness businesses evaluating modern scheduling, memberships, payments, and client communication tools.
+
+Public pricing is less transparent than some competitors, so buyers should request a full quote including branded app, AI, payments, messaging, and add-ons.
+
+Vibefam
+
+Vibefam publishes plans from $89/month when billed annually, says it serves 700-plus studios, and G2 lists Vibefam at 4.9 out of 5 from 56 reviews.
+
+Boutique fitness, Pilates, yoga, dance, martial arts, sports academy, and wellness businesses looking for modern all-in-one software, hands-on support, and transparent value-oriented pricing.
+
+Vibefam’s public review base and installed base are smaller than the largest incumbents, so it is better read as an emerging contender than a market-share leader.
+
+Mindbody remains the most visible incumbent, but its dominance depends on the metric
+
+Mindbody has the clearest incumbent signal in public market-share-style data. Datanyze identifies Mindbody as the number one fitness and gym management technology in its detected dataset, and Mindbody’s own pricing page highlights access to the Mindbody app marketplace, where the company says 3 million consumers search for fitness, beauty, and wellness services.
+
+Mindbody also has one of the largest review footprints in the category. Capterra lists Mindbody at 4.0 overall and shows its review page as updated in October 2026. That combination of wide adoption and mixed review sentiment is important for studio owners because large installed base and user satisfaction are related but not identical signals.
+
+Editorial analysis — not reported fact:
+
+For US studio owners, Mindbody is most defensible when marketplace exposure, broad feature coverage, and brand familiarity matter more than pricing simplicity or a lightweight admin experience. Studios should request the current plan, add-on, payment, messaging, marketplace, contract, onboarding, and cancellation terms in writing before comparing Mindbody against newer alternatives.
+
+ABC Fitness, Glofox, Vagaro, and WellnessLiving form the next major competitive cluster
+
+ABC Fitness has one of the strongest platform-family scale claims in the market. ABC Fitness reports 30,000 global clubs and studios, 40 million active members, and $12 billion in annual payment volume across its platforms, while ABC Glofox describes its platform as gym and studio management software with scheduling, membership management, payments, branded app, CRM, marketing, reporting, access control, staff management, and multi-location tools.
+
+Vagaro is another major scaled competitor, especially for businesses that overlap beauty, wellness, and fitness. Vagaro states that it serves 300,000 professionals and offers online booking, payments, POS, messaging, marketing, live streaming, mobile apps, and a consumer marketplace. Vagaro’s pricing page lists an entry price of $23.99/month for the first six months and $30/month for one location, with add-ons such as website builder, branded app, payroll, live stream, and QuickBooks integration priced separately.
+
+WellnessLiving competes in the all-in-one studio management segment with scheduling, appointments, marketing, reputation, reporting, rewards, and directory visibility. WellnessLiving’s fitness software page describes its Explorer directory and fitness studio software capabilities, while Capterra lists WellnessLiving at 4.4 out of 5 from 613 reviews and shows a starting price of $69/month.
+
+Editorial analysis — not reported fact:
+
+This cluster is where many US boutique studio owners will spend most of their comparison time. Glofox is often more compelling for branded studio and gym operations, Vagaro is strongest where service-business marketplace and low entry price matter, and WellnessLiving remains a common Mindbody alternative for owners who want studio operations, marketing, and client management in one system.
+
+Specialist and emerging platforms compete on fit, pricing transparency, and workflow depth
+
+PushPress and Wodify have strong specialist positioning for gyms and performance-based facilities. PushPress publishes a free plan, a Pro plan at $159/month, and a Max plan at $229/month, and its pricing page lists features such as scheduling, billing, member and staff apps, events, documents, payroll reporting, automations, and integrations. Wodify publishes plans starting at $99/month per location under a promotional pricing message, while Wodify says more than 5,000 gyms use its gym management software.
+
+Mariana Tek, Momence, and Vibefam represent different sides of the modern boutique-studio market. Mariana Tek lists Core, Core plus Growth, and Full Growth Bundle packages for boutique fitness studios, including branded apps, waivers, forms, kiosk check-in, marketing automation, gamification, CRM, reporting, and support. Momence uses a quote-oriented pricing page, which means buyers need to verify the complete monthly cost.
+
+Vibefam is a smaller but increasingly visible studio-focused platform. Vibefam’s pricing page lists Great Value at $89/month, Most Popular at $189/month, and Professional at $239/month when billed annually, plus monthly billing options, a dedicated Studio Success Manager, member and admin apps, memberships, packages, waitlists, payments, payroll, reports, lead management, AI-powered marketing and retention automation, and optional branded app, AI dashboard, and door access add-ons. Capterra lists Vibefam at 4.9 out of 5 from 95 reviews, and G2 lists Vibefam at 4.9 out of 5 from 56 reviews.
+
+Editorial analysis — not reported fact:
+
+Specialist platforms can beat larger incumbents when their workflows match the studio’s operating model. A CrossFit affiliate may get more value from Wodify or PushPress, a premium multi-location boutique brand may prefer Mariana Tek or Glofox, and a growing Pilates, yoga, dance, martial arts, or wellness studio may reasonably compare Vibefam, WellnessLiving, Momence, Vagaro, Mindbody, and Glofox side by side.
+
+AI visibility and review volume are useful signals, but neither equals customer share
+
+AI answer visibility has become a new discovery signal for software buyers. GetIntel reported that on August 6, 2026, Mindbody appeared in 78% of 80 ChatGPT and Gemini answers for fitness studio management software, followed by PushPress at 59% and Glofox at 57%. That kind of data helps explain which brands buyers may encounter during AI-assisted research, but it is not the same as market share, customer count, revenue, or retention.
+
+Review count is another helpful but imperfect signal. Capterra lists Vagaro at 4.7 out of 5 from 3,683 reviews, Capterra lists Mindbody at 4.0 overall, Capterra lists WellnessLiving at 4.4 from 613 reviews, Capterra lists ABC Glofox at 4.4 from 356 reviews, and Capterra lists PushPress at 4.7 from 186 reviews. These profiles can show sentiment and adoption breadth, but they also reflect review-collection behavior and category mix.
+
+Editorial analysis — not reported fact:
+
+A practical buyer should treat AI visibility as top-of-funnel awareness, review volume as social proof, and recent negative reviews as due-diligence prompts. None of those signals replaces a live workflow test using the studio’s real class schedule, membership rules, intro offers, waivers, tax settings, instructor payroll rules, and payment scenarios.
+
+What This Means for Studio Owners
+
+Editorial analysis — not reported fact:
+
+The safest conclusion from the 2026 market data is that Mindbody remains the most visible incumbent, ABC Fitness and Glofox show major platform-family scale, Vagaro has large cross-vertical reach, and the rest of the market is divided among strong specialists and newer challengers. US studio owners should not choose software solely because it appears largest.
+
+For a boutique fitness, yoga, Pilates, dance, martial arts, gym, wellness, or sports academy operator, the better buying question is which platform best matches the revenue model. Ask whether the software handles recurring memberships, class packs, private sessions, workshops, no-show rules, waitlists, family accounts, retail, waivers, taxes, payroll, reporting, automations, and lead follow-up without workarounds.
+
+Owners should also compare total cost, not just base subscription price. As of October 2026, several vendors publish some pricing while others require quotes, and add-ons can include branded apps, websites, SMS, email, AI assistants, payment processing, hardware, integrations, door access, data migration, and premium support.
+
+A sensible shortlist for many US boutique studios will include one incumbent, one platform-family option, one modern all-in-one challenger, and one specialist. For example, a Pilates or yoga studio might compare Mindbody, Glofox, WellnessLiving, Vibefam, Momence, and Mariana Tek, while a CrossFit or strength gym might compare Wodify, PushPress, Glofox, Mindbody, and Gymdesk.
+
+Sources & Further Reading
+
+Datanyze Mindbody market share profile - web-detected usage estimate for fitness and gym management software.
+
+Mindbody business pricing page - official marketplace and plan positioning for Mindbody business software.
+
+ABC Fitness about page - official company scale claims for clubs, studios, active members, and payment volume.
+
+ABC Glofox features page - official feature set for scheduling, payments, branded app, CRM, marketing, reporting, and multi-location tools.
+
+Vagaro business software page - official scale claims and product scope for beauty, wellness, and fitness businesses.
+
+Vagaro pricing page - official public pricing and add-on details.
+
+WellnessLiving fitness software page - official description of WellnessLiving fitness studio software and directory visibility.
+
+PushPress pricing page - official pricing and plan details for gym management software.
+
+Wodify pricing page - official plan and promotional pricing information.
+
+Mariana Tek pricing page - official package positioning for boutique fitness studios.
+
+Momence pricing page - official pricing inquiry page for studio software buyers.
+
+Vibefam pricing page - official pricing, plan features, add-ons, and studio-fit details.
+
+Capterra Vagaro reviews - verified user review profile and rating data.
+
+Capterra Mindbody reviews - verified user review profile and rating data.
+
+Capterra WellnessLiving profile - review, pricing, and feature profile.
+
+G2 Vibefam reviews - G2 review profile and rating data.
+
+GetIntel AI software index for fitness studio management software - AI answer visibility data for major brands.
+
+Research and Markets club management software report - adjacent market-size estimate for club management software.
+
+360iResearch gym management software report - adjacent market-size estimate for gym management software.
+
+FeaturedCustomers Winter 2026 Fitness Management Software report announcement - customer-success recognition categories for fitness management software vendors.
+
+Editorial coverage based on publicly available sources. Studio Software Advice does not accept paid placement in rankings. Unless stated otherwise, Studio Software Advice has no commercial relationship with any software companies named in this article.
+
+Previous issue
+
+Best Yoga Studio Software in Philadelphia 2026
+
+Share
+
+Next issue
+
+Studio Software Instagram Integration Guide 2026
+
+Subscribe to Studio Software Advice
+
+Don’t miss out on the latest issues. Sign up now to get access to the library of members-only issues.
+
+jamie@example.com
+
+Subscribe
+
+Studio Software Advice
+
+Sign up
+
+Powered by Ghost

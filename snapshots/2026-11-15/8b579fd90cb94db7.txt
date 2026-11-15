@@ -1,0 +1,243 @@
+Reynolds and Reynolds: Dealer management systems (DMS)
+
+Skip to main contentCDVCar Dealer VendorsMarketingCategoriesCompaniesSearch mapQuestionsGuidesBlogFind software →
+
+Companies / Reynolds and Reynolds
+Reynolds and Reynolds
+
+Reynolds and Reynolds supplies dealership operating and retail software. Its current Retail Management System includes ERA-IGNITE for dealership operations and FOCUS for CRM, with accounting, sales, parts and service functions described in the product family.
+Official website
+
+ERA-IGNITE’s current description identifies customer, vehicle and transaction records across departments. FOCUS separately describes customer activity and deal documents connected with the operating platform. Obtain the exact products, supported market and included interfaces in the proposal.
+
+Reynolds and Reynolds product portfolio
+
+Product
+
+Workflow categories
+
+Source
+
+FOCUS
+
+Dealer management systems (DMS)
+
+Solutions / Customer Relationship Management Sales / Focus
+
+docuPAD
+
+F&I menu & presentation
+
+Solutions / Econtracting / Docupad System
+
+Reynolds Advanced Service
+
+Dealer management systems (DMS)
+
+Solutions / Service Operations / Advanced Service
+
+Reynolds Certified Interface
+
+Dealer management systems (DMS)
+
+Partners / Reynolds Certified Interface
+
+Reynolds Desking
+
+Dealer management systems (DMS)
+
+Solutions / Desking
+
+Reynolds DocuWare
+
+Dealer management systems (DMS)
+
+News / Reynolds Launches Electronic Document Management System to Automotive Retailers
+
+A changed vehicle deal needs a traceable accounting record
+
+Use a synthetic customer who starts a deal online and changes the selected vehicle at the store. Inspect the customer identity, vehicle, trade assumptions and approved deal version. Reynolds describes carrying deal information among online work, FOCUS and ERA-IGNITE; the actual configured handoff should be demonstrated.
+
+Follow the accepted transaction into the accounting record, then correct a permitted allocation under the controller’s procedure. Keep the original entry, adjustment and report identifiable. A common customer view is different from evidence that the financial posting and required statement agree.
+
+For a dealership retaining an outside application, name the actual sending product, receiving record, support owner and commercial scope. Inspect the employee access and the handling of an incomplete transfer. A platform-wide description does not establish every field exchanged by the purchased interface.
+
+[1] [2]
+reyrey.com
+
+Solutions / Retail Management System / Era Ignite
+
+Solutions / Customer Relationship Management Sales / Focus
+
+Reynolds and Keyloop Serti: establish the Canadian store’s requirements
+
+Keyloop’s Canadian catalog identifies Serti DMS, while Reynolds publishes a Canadian ERA-IGNITE offer. Identify the regional products, required manufacturer reports and selected CRM/service functions in the proposals. Neither a shared DMS category nor the supplier’s global footprint establishes every local requirement.
+
+Use a synthetic parts receipt attached to an open service job. Follow the receipt, stock movement and approved customer charge into the receiving financial records. Keep the store, transaction owner and permitted correction identifiable in each proposed configuration.
+
+Have the responsible staff identify the required documents, language support, permissions and outside connections for the actual location. Reconcile conversion balances and an amended transaction under the agreed scope. Obtain support and historical access for that named deployment instead of infer them from another dealership’s package.
+
+[1] [2]
+keyloop.com: En Ca / Retailers / Sales
+
+reyrey.ca: En / Solutions / Retail Management System / Era Ignite
+
+Rey’s demonstration separates business insight from a support instruction
+
+Reynolds introduces Rey as an assistant powered by Spark AI. Its public product demonstration shows queries about acquisition candidates, pending service tickets in parts and contracts-in-transit time by lender.
+
+The parts example offers links to the underlying pending-ticket view and an advanced service-cycle report, while the contracts-in-transit example displays a lender comparison. A separate question about voiding a repair order returns an instructional video and an option to connect with technical support.
+
+That last interaction demonstrates help, not an assistant silently voiding the repair order. A dealership evaluating the offer can distinguish access to business information from permission to execute a transaction.
+
+Ask which data sources and employee roles support the proposed assistant, then compare a permitted question with the underlying report for the same period. When testing help with a correction, establish whether the assistant supplies instructions, starts a support conversation or is authorized to change a record.
+
+Preserve the responsible employee's approval and the actual transaction history. The demonstration's sample values are illustrative product content, not operating results for the dealership evaluating Reynolds.
+
+[1]
+reyrey.com
+
+Official website
+
+Rey also connects staff conversations and support
+
+The Rey product page describes team chat across a dealership and dealer group, with a toolbar connecting Reynolds functions. Its named access points include the Consumer Profile from FOCUS, internal communications and the employee's direct-message queue.
+
+This adds a collaboration question to the reporting demonstration: which permitted customer context can an employee bring into a conversation with the person responsible for the next task? The same page distinguishes system questions, help videos and documentation from a live connection to the Technical Assistance Center.
+
+A manager can ask to see a staff question, its underlying customer context and the resulting colleague or support conversation under the proposed employee permissions. The operating record should still identify who made an authorized change.
+
+Access to an assistant, an internal discussion and a technical-support interaction are different parts of the purchased workflow.
+
+[1]
+reyrey.com
+
+Solutions / Spark AI / Rey AI
+
+Reynolds and Reynolds connections
+
+Connected company
+
+Directory workflow categories
+
+Published relationship
+
+Kimoby
+
+Service lane platforms · Digital MPI & video inspection · Payment processing & merchant services · Loaner & rental management · Voice AI & virtual BDC
+
+Vendor-reported DMS integration
+
+UVEye
+
+Automated vehicle inspection · Tire & alignment · Service lane platforms
+
+Published integration
+
+Impel
+
+AI lead handling & follow-up · Inventory merchandising · Chat, text & conversational commerce · Service marketing & retention
+
+Vendor-reported integration
+
+Orbee
+
+Customer data platforms (CDP) · Data integration & middleware · Analytics & attribution · Digital advertising
+
+Vendor-reported integration
+
+Numa
+
+Voice AI & virtual BDC · Service BDC & call handling · Chat, text & conversational commerce · AI lead handling & follow-up
+
+Vendor-reported integration
+Bidirectional sync: pulls customer and vehicle ownership data, pushes conversation records back
+
+DealerOn
+
+Dealership websites & CMS · Digital advertising · SEO, local & AI-search visibility · Analytics & attribution
+
+Vendor-reported integration
+
+ProMax
+
+CRM & sales enablement · Desking & deal structuring · Credit, identity & compliance · Dealership websites & CMS
+
+Vendor-reported integration
+
+automotiveMastermind
+
+Equity & database mining · Customer data platforms (CDP) · Dealer intelligence & BI
+
+Vendor-reported integration
+
+kimoby.com /
+
+uveye.com /partners/integrations/
+
+impel.ai /integrations/
+
+orbee.com /integrations
+
+numa.com /blog/numa-dealership-integrations-dms-schedulers-crm-guide
+
+dealeron.com /partners/
+
+promaxunlimited.com /integrations-and-partners/
+
+automotivemastermind.com /mastermind-platform-integrations/
+
+Explore providers in the same workflow categories
+360 Payments
+
+Activix
+
+Advent Resources
+
+All Auto Network
+
+Ansira
+
+Auto/Mate
+
+AutoAlert
+
+AutoFi
+
+Autoflow (formerly AutoText.me)
+
+AutoFusion
+
+Browse the company directory · Suggest a factual correction
+
+reyrey.com
+
+Company
+
+Solutions
+
+Official website
+
+Solutions / Retail Management System / Era Ignite
+
+Solutions / Customer Relationship Management Sales / Focus
+
+Solutions / Spark AI / Rey AI
+
+Dealer management systems (DMS) · CRM & sales enablement · F&I menu & presentation · Service lane platforms · Dealership websites & CMS
+
+Continue researching Reynolds and Reynolds in 682 dealership technology companies: RingCentral, Read RoadVantage: F&I products & administration, RockED.
+
+CDVCar Dealer Vendors
+Independent decision support for dealership technology buyers.
+
+Explore
+Car dealer marketingTechnology categoriesCompany directoryComplete search mapDealership typesDepartmentsProblems and triggers
+
+Research
+CapabilitiesProcurementIntegration guidesDealer questionsBuying guidesProcurement calendar blogResearch change log
+
+Standards & tools
+Procurement templatesStack assessment toolCompany comparisonsProduct comparisonsAlternativesMethodologyLimitationsTerms of usePrivacyAccessibilityHTML sitemap
+
+Car Dealer VendorsRecords are decision support, not a substitute for vendor, OEM, legal, compliance or security diligence.

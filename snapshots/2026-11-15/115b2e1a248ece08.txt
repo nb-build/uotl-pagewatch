@@ -1,0 +1,72 @@
+Why Use the Patient Exit Workflow in Dentrix Ascend?
+
+Skip to content
+
+Menu
+
+Menu
+
+Resource Center Home
+
+Dentrix Ascend Academy
+
+New User Resources
+
+Product News & Updates
+
+Practice Success
+
+Why Use the Patient Exit Workflow in Dentrix Ascend?
+
+04/12/2023 by Betty Leh
+
+At Henry Schein One, we’re committed our customers’ success. We designed Dentrix Ascend to support processes that will help you make your practice more successful, things like best practices and efficient workflows. One important workflow is your patient visit workflow. Beyond being welcoming, friendly, and courteous, you want to make sure that staff work consistently to help the practice enjoy reduced A/R, a fuller schedule, and higher patient retention.
+
+We believe one way to help your staff is to provide automatic reminders to complete key appointment tasks before the patient leaves. We call this patient exit workflow.
+
+Patient exit workflow is a set of task reminders presented to your staff so they remember to perform three critical tasks: scheduling the next recare appointment, collecting payment, and making sure the patient contact information is complete. You reduce A/R when you collect an over-the-counter payment the same day as the patient visit. You keep your schedule full by scheduling the next recare appointment before patients walk out the door. And you keep your patients coming back by making sure you have their contact information so their reminders can find them.
+
+Dentrix Ascend includes a tool for managing patient visits called the routing panel. It is available from any page in the program, which you open by clicking the blue bar on the left side.
+
+Within the routing panel, Ascend displays an appointment card for each patient’s visit. The cards display different information at different stages of the visit, depending on what you need to know at each stage of the visit. We refer to the stages as the appointment status.
+
+The routing panel tracks each patient’s visit through a series of status checkpoints, beginning with Arriving and ending with Complete.
+
+When the patient appointment card reaches Checkout status in the routing panel, reminders appear to help you remember to complete critical patient exit workflow tasks. Up to four tasks appear automatically when the patient gets to this point. They are Schedule Recare, Collect Phone Number, Collect Email, and Collect Payment.
+
+Schedule Recare
+Scheduling every patient for recare helps you maintain a full, productive schedule and helps your patients maintain their oral health. The exit workflow Schedule Recare task is a reminder to schedule the next recare appointment; or, if the patient has fallen through the cracks and has not had recare attached, to get them started. From within the routing panel, you can click Add New Recare to attach recare, or click the Unscheduled link to open the Calendar on the due date and set the next appointment.
+
+When you complete an exit workflow task, the routing panel provides a visual cue: a green checkmark indicates success.
+
+Collect Phone Number and Email
+No-shows and cancellations negatively affect every dental practice. Asking every patient for an email address and mobile number helps you engage and retain more patients with automated reminders. Email and SMS appointment confirmations and reminders are included with your Dentrix Ascend subscription, but what happens if you haven’t captured a patient’s email address or mobile number? Nothing, that’s what. The patient won’t receive the appointment reminders. That’s why Dentrix Ascend checks that you have an email and a phone number for the patient’s primary contact. When Ascend finds a gap, an exit workflow task appears, reminding you to ask the patient for the missing contact information. You can add the missing information directly in the routing panel.
+
+Collect Payment
+Collecting the patient portion at the time of service helps you reduce the amount of money you must collect later. The Collect Payment task reminder opens a ledger window to create a claim, submit a claim electronically, collect an over-the-counter payment, and print a walkout statement.
+
+Workflow Compliance
+Having a visible workflow in Dentrix Ascend makes it easier for you to train employees on best practices when patients check out, and trained employees are easier to hold accountable. Developing a culture of accountability in your dental practice can improve productivity and employee morale—and have a healthy impact on your practice’s bottom line.
+
+Dentrix Ascend includes a report to help you evaluate your team’s compliance with patient exit workflow best practices. The Workflow Compliance Report is a standard report available directly from the Home menu. Reviewing the Workflow Compliance Report helps you monitor and improve the consistency of your patient checkout process.
+
+You can filter the report by location, date range, team member, or appointment task, so you can zoom out to see the big picture or drill down to examine how consistently individual team members are completing specific exit workflow tasks.
+
+The summary portion of the report shows your team’s success and failure rates for each of the appointment tasks that appear in the routing panel during patient checkout.
+
+The remainder of the report helps you improve accountability by spelling out the team member, appointment, and patient information tasks that were not completed.
+
+Conclusion
+Why use the patient exit workflow? Sometimes busy team members forget to do things. Dentrix Ascend always remembers. At the end of every patient appointment, Dentrix Ascend reminds team members to collect payment, schedule the next recare visit, and verify patient contact information—before the patient walks out the door.work
+
+Consistent processes. More production. Better patient care. You can have it all when you use the patient exit workflow in Dentrix Ascend.
+
+Categories Dentrix Ascend Academy Tags collect payment, patient contact information, Patient Exit Workflow, patient walkout, production, routing panel, schedule recare, task reminders, workflow compliance
+
+Setting Up a Virtual Waiting Room with Dentrix Ascend Webinar (June 2020)
+
+5 Easy Ways to Increase Patient Collections Webinar (Oct 2020)
+
+Privacy Policy
+
+• Built with GeneratePress

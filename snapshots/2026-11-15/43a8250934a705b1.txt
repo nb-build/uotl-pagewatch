@@ -1,0 +1,434 @@
+SendGrid Free Plan Ended - Cheapest Next Step | BulkEmailSetup
+
+BulkEmailSetupProductResourcesPricing
+Contact UsSchedule a Call
+
+0 min left
+
+HomeBlogSendGrid Free Plan Ended - Cheapest Next Step
+
+SendGrid Free Plan Ended - Cheapest Next Step
+
+BulkEmailSetup Team
+
+November 6, 2026
+
+6 min read
+
+SendGrid no longer has a free plan. Twilio retired the Free Email API and Free Marketing Campaigns plans starting May 27, 2025, with a 60-day transition, after which free accounts stopped sending. New accounts now get a 60-day trial at 100 emails a day, then the cheapest paid plan is Essentials from $19.95 a month. If you send under about 6,000 emails a month, a free tier elsewhere (Mailjet, Brevo, Resend) is the cheapest next step. If you send far more, skip the free tiers entirely.
+
+What Twilio changed, and when
+
+Twilio announced the change in its own changelog.
+
+What
+
+Before
+
+After
+
+Free plan
+
+permanent, 100 emails a day
+
+retired from May 27, 2025
+
+Transition
+
+none
+
+60 days of full access
+
+Sending on free accounts
+
+allowed
+
+paused after the transition
+
+Stored contacts over 100
+
+kept
+
+deleted, not restorable by upgrading
+
+New accounts
+
+free plan
+
+60-day trial, 100 emails a day
+
+The contact deletion caught people out. Accounts that held more than 100 contacts and did not export them in time lost the lot. If you still have access to an old account, export now.
+
+How the SendGrid free plan was retired
+
+What SendGrid costs now
+
+From Twilio's Email API pricing page:
+
+Plan
+
+Price
+
+Dedicated IP
+
+Good for
+
+Free trial
+
+$0 for 60 days
+
+no
+
+testing setup, 100 emails a day
+
+Essentials
+
+from $19.95 a month
+
+no, shared pools
+
+small opt-in lists, app email
+
+Pro
+
+from $89.95 a month
+
+1 included
+
+steady volume, own reputation
+
+Premier
+
+custom quote
+
+1 included, more as add-ons
+
+very high volume
+
+Two details matter for small senders. Essentials sends from shared IPs, so another customer's bad list can hurt your delivery. And Marketing Campaigns, the newsletter editor and list tool, is billed separately from the Email API. Our SendGrid verdict covers where it fits and where it stops making sense.
+
+Free tiers that still exist
+
+As of October 2026, these providers still have a free tier that does not expire. Figures come from each provider's own pricing page, and we keep the full list in SMTP free trials in 2026.
+
+Provider
+
+Free volume
+
+Daily cap
+
+First paid step
+
+Mailjet
+
+6,000 a month
+
+200 a day
+
+Essential $19 a month (15,000)
+
+Brevo
+
+about 9,000 a month
+
+300 a day
+
+Starter, low monthly fee
+
+Resend
+
+3,000 a month
+
+100 a day
+
+Pro $20 a month (50,000)
+
+SMTP2GO
+
+1,000 a month
+
+none stated
+
+Starter $10 a month (10,000)
+
+Mailgun
+
+about 3,000 a month
+
+100 a day
+
+Basic from $15 a month
+
+Postmark
+
+100 a month
+
+none stated
+
+Basic $15 a month (10,000)
+
+Free tiers are for testing and very small lists. They send from shared IPs, and most cap daily volume, so a 5,000 person newsletter on a 200 a day cap takes 25 days.
+
+The cheapest setup at 10,000 emails a month
+
+This is the volume most former free-plan users actually send.
+
+Option
+
+Monthly cost
+
+Catch
+
+Amazon SES
+
+about $1
+
+sandbox approval, you build bounce handling
+
+Mailjet or Brevo free
+
+$0
+
+daily caps, shared IPs, their branding
+
+SMTP2GO Starter
+
+$10
+
+shared IPs
+
+Postmark or Mailgun Basic
+
+$15
+
+shared IPs
+
+SendGrid Essentials
+
+$19.95
+
+shared IPs
+
+Your own dedicated server
+
+about $11 hosting after $549 once
+
+overkill at this volume
+
+We will say it plainly: at 10,000 emails a month, do not buy a dedicated server. A free or $10 tier is the right answer. The Amazon SES review process is worth reading before you pick SES for the $1 price.
+
+At 10,000 a month the prices are close. The catches are not.
+
+Pick by how much you send
+
+The right move depends on volume, not on which provider you left.
+
+Monthly volume
+
+Best next step
+
+Why
+
+Under 6,000
+
+Mailjet, Brevo or Resend free
+
+$0 and enough headroom
+
+6,000 to 100,000
+
+a $10 to $90 paid plan
+
+cheap, no setup work
+
+100,000 to 750,000
+
+your own server, Basic
+
+25,000 a day, flat cost, own IPs
+
+750,000 to 6 million
+
+your own server, Advance
+
+200,000 a day, 15 IPs
+
+Above roughly 100,000 a month, per-email pricing and shared IPs start working against you. That is where SendGrid alternatives and a server you own come in. If you just hit the ceiling of a free tier, outgrew the free SMTP tier walks through the jump.
+
+Choose by volume, not by brand
+
+Before you switch
+
+Export what you can. Suppression lists, unsubscribes and bounces from SendGrid, even on a paused account.
+
+Re-check DNS. Remove SendGrid's CNAMEs for DKIM if you leave, and add the new provider's records. Two half-working DKIM setups are worse than one.
+
+Do not import unsubscribes as active. Load them into the new suppression list first.
+
+Start small. Even on a free tier, send to your most engaged contacts first.
+
+How BulkEmailSetup helps
+
+If you send more than about 100,000 emails a month, we set up a dedicated SMTP server you own, so you stop paying per email and stop sharing IPs. Each setup includes SPF, DKIM, DMARC and PTR, bounce handling, a campaign platform and a warm-up plan.
+
+Plan
+
+One-time fee
+
+Emails per day
+
+Dedicated IPs
+
+Hosting you pay your host
+
+Basic
+
+$549
+
+25,000
+
+3
+
+about $11 a month
+
+Advance
+
+$1,199
+
+200,000
+
+15
+
+about $49 a month
+
+No monthly fee to us, no contact limit, and a 15-day money-back guarantee. Below 100,000 a month, use a free or cheap tier from the tables above. Above it, see the Basic plan or all pricing.
+
+Frequently asked questions
+
+Does SendGrid still have a free plan?
+
+No. Twilio's changelog says the Free Email API and Free Marketing Campaigns plans were retired starting May 27, 2025, with a 60-day transition. After that, sending stopped on free accounts. New accounts now get a 60-day free trial capped at 100 emails a day with no credit card required, and then need a paid plan to keep sending.
+
+What is the cheapest SendGrid plan now?
+
+Essentials, listed from $19.95 a month on Twilio's Email API pricing page. It sends from shared IP pools and does not include a dedicated IP. The next step, Pro, starts at $89.95 a month and includes one dedicated IP. Marketing Campaigns, the newsletter editor and contact list tool, is priced separately from the Email API.
+
+Which providers still offer a free SMTP tier?
+
+Several, as of October 2026: Mailjet allows 6,000 emails a month (200 a day), Brevo 300 a day, Resend 3,000 a month (100 a day), SMTP2GO 1,000 a month, Mailgun 100 a day, and Postmark 100 a month. Free tiers change often, so check each provider's own pricing page before you build around one.
+
+What is cheapest for 10K emails a month?
+
+Amazon SES is cheapest on paper at about $1 for 10,000 emails ($0.10 per 1,000), but new accounts start in a sandbox and need approval. Without that hassle, Mailjet's or Brevo's free tier covers most of 10,000 a month, and SMTP2GO Starter covers 10,000 for $10. At this volume a dedicated server is not worth it yet.
+
+What happened to my contacts when the SendGrid free plan ended?
+
+Twilio's changelog says free accounts with more than 100 stored contacts would lose all of them at the end of the transition, and that this could not be restored by upgrading later. If you still have the account, export what is left now. If the contacts are gone, rebuild from your own signup database or CRM, not from old campaign exports.
+
+When does a paid plan or own server beat free tiers?
+
+Free tiers stop working around 6,000 to 9,000 emails a month. Cheap paid plans cover roughly 10,000 to 100,000 a month for $10 to $90. Past about 100,000 a month, or once you need dedicated IPs, a server you own gets cheaper: BulkEmailSetup's Basic setup is $549 one-time for 25,000 emails a day, with about $11 a month in hosting.
+
+Tags
+
+sendgrid free plansendgrid free plan endedsendgrid free trialsendgrid essentials pricefree smtp tiersendgrid alternativescheap smtp
+
+Written by BulkEmailSetup Team
+
+We help businesses set up their own bulk email infrastructure, dedicated SMTP servers, IP rotation, and full deliverability control. One-time setup, no monthly platform fees.
+
+ContactView pricing
+
+Related Articles
+
+Getting Started19 min read
+
+How to Set Up an SMTP Server for Bulk Email - Postfix on a VPS in Under an Hour
+
+IP Warm-Up16 min read
+
+IP Warm-Up Schedule for Email - Day-by-Day Guide to Build Sender Reputation
+
+Authentication16 min read
+
+How to Set Up SPF, DKIM, and DMARC Records - Step-by-Step DNS Configuration Guide
+
+Ready to set up your email infrastructure?
+
+Get dedicated SMTP servers, IP rotation, and expert support to scale your email sending.
+View Pricing
+
+Ready to own your email infrastructure?
+
+Join 1,600+ businesses sending millions of emails with their own SMTP setup.
+
+Contact UsSchedule a Call →
+
+BulkEmailSetup
+Premium bulk email infrastructure setup. Own your SMTP servers, dedicated IPs, and email platform with a one-time cost.
+
+Email Us
+
+Est. 2015 · Serving customers in 60+ countries
+
+Product
+
+Pricing
+
+Basic Setup
+
+Advance Setup
+
+Custom Setup
+
+Upgrade Plan
+
+Services
+
+Email Marketing
+
+Cold Emailing
+
+White Label
+
+API Integration
+
+Resources
+
+Blog
+
+Send 1 Million Emails/Day
+
+Send Emails Without Blacklist
+
+FAQ
+
+Demo Account
+
+Documentation
+
+Support
+
+Contact Us
+
+About Us
+
+Quick Start
+
+Refund Policy
+
+Legal
+
+Privacy Policy
+
+Terms of Use
+
+CAN-SPAM Act
+
+Cookie Policy
+
+Anti-Spam Policy
+
+Goletro Technologies Pvt. Ltd. All rights reserved.
+
+PrivacyTermsRefundsIncorporated Oct 2015

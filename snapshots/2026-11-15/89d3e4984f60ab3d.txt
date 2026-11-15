@@ -1,0 +1,110 @@
+AI and email pricing changes — the running log (2025–2026)
+
+StackPricing
+AI Stack Newsletter Email API SMS Changes About
+
+Price tracker
+
+The email pricing change log
+
+Most tools don't announce price increases — they quietly edit the pricing page. We keep the
+receipts. Every change below is dated, described, and reflected in our calculators; entries
+marked reported are changes we verified against the live pricing page without a
+published effective date.
+
+July 2026 · reported Price increase
+
+DeepSeek V4
+
+DeepSeek roughly triples V4 pricing and moves to peak/off-peak billing
+
+DeepSeek V4 Flash went from $0.14 in / $0.28 out to $0.44 in / $1.32 out per 1M at peak, and V4 Pro from $0.435 / $0.87 to $1.32 / $3.96 — output rates rose about 4.6x. DeepSeek also introduced time-of-day billing: peak is 01:00-04:00 and 06:00-10:00 UTC, with off-peak (the other 17 hours) at half price. Cache-hit input rose in step, taking V4 Pro's cached discount from roughly 0.8% of its input rate to about 3.3%. DeepSeek remains cheap by frontier-lab standards, but it is no longer an order of magnitude below the field.
+Current DeepSeek V4 pricing →
+
+July 2026 · reported Price cut
+
+OpenAI GPT-5.6
+
+OpenAI cuts GPT-5.6 Luna five-fold and drops Terra by 20%
+
+GPT-5.6 Luna fell from $1.00 in / $6.00 out to $0.20 / $1.20 per 1M — a five-fold cut that moves current-generation OpenAI quality into budget-tier pricing. GPT-5.6 Terra dropped from $2.50 / $15.00 to $2.00 / $12.00. Sol, GPT-5.4 Mini and GPT-5.4 Nano were unchanged. Price cuts are rare enough in this category to be worth noting: most 2026 movement has been upward.
+Current OpenAI GPT-5.6 pricing →
+
+June 16, 2026 Price increase
+
+MailerLite
+
+MailerLite raises prices across every tier and cuts its free plan to 250 subscribers
+
+New pricing took effect June 16, 2026: paid plans rose roughly 10–30% across subscriber tiers, the free plan now covers 250 subscribers (down from 1,000), and the free sending cap dropped to 2,500 emails/month. MailerLite remains one of the cheapest full-featured platforms — but the gap narrowed.
+Current MailerLite pricing →
+
+2026 · reported Free tier cut
+
+Kit (ConvertKit)
+
+Kit's free Newsletter plan now caps at 1,000 subscribers
+
+Kit's pricing page now lists the free plan at up to 1,000 subscribers — many 2026 reviews still cite the older 10,000-subscriber free tier, which no longer appears for new signups. The Creator plan starts at $39/mo at 1,000 subscribers.
+Current Kit (ConvertKit) pricing →
+
+Early 2026 · reported Free tier cut
+
+Mailchimp
+
+Mailchimp's free plan shrinks to 250 contacts
+
+The free tier now covers 250 contacts (down from 500) with 1,000 sends/month — and total contacts, including unsubscribed, count toward the limit. Mailchimp remains the priciest mainstream option as lists grow.
+Current Mailchimp pricing →
+
+2026 · reported Free tier cut
+
+GetResponse
+
+GetResponse drops its permanent free plan
+
+GetResponse no longer offers a free-forever plan — new users get a 14-day trial, then must pick a paid tier (Starter from $19/mo at 1,000 contacts). It stays one of the best-value paid options at larger list sizes.
+Current GetResponse pricing →
+
+December 2, 2025 Plan change
+
+Flodesk
+
+Flodesk retires its famous flat-rate unlimited plan
+
+Flodesk's $38/mo unlimited-subscribers plan — its signature differentiator — closed to new customers on December 2, 2025 (existing subscribers were grandfathered). New pricing scales by subscriber count like the rest of the market: Lite from $19/mo at 1,000 subscribers, up to $149/mo at 25,000.
+Current Flodesk pricing →
+
+2025 · reported Free tier cut
+
+SendGrid
+
+SendGrid replaces its free plan with a 60-day trial
+
+The long-running free tier (100 emails/day forever) was retired in favour of a 60-day trial — after it ends, you must move to a paid plan (Essentials from ~$20/mo). Developers wanting a permanent free tier now look to Brevo (300/day) or Resend (3,000/month).
+Current SendGrid pricing →
+
+Stay ahead of price hikes
+Get the next change before it costs you
+
+We track these pricing pages continuously. Join the alert list and we'll email you when any tool here raises prices or cuts a free tier — nothing else, unsubscribe anytime.
+
+Email address Notify me
+
+Log started July 2026; earlier entries were back-filled from documented changes. See our
+methodology for how we verify pricing. Journalists and bloggers:
+free to cite with a link.
+
+StackPricing
+AI model calculator Stack builder Newsletter calculator Email API calculator SMS calculator Compare Price changes Cost cliffs 2026 report Awards Widgets About Methodology Contact
+Real, verified pricing for the tools in your stack. We compile pricing from each provider's
+public pricing pages and re-check it regularly. Always confirm the live price on the
+provider's own site before you subscribe — plans change.
+
+Some outbound links are affiliate links; if you subscribe through one we may earn a
+commission at no extra cost to you. It never affects the rankings — every table is
+sorted by price alone.
+
+StackPricing · Prices verified July 2026
+· Privacy
+· Terms

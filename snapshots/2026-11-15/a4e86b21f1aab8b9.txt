@@ -1,0 +1,634 @@
+Deploy Zoom Virtual Agent Receptionist across any telephony environment | Zoom
+
+Skip to main content
+Accessibility Overview
+
+Products
+
+AI
+
+Solutions
+
+Pricing
+
+Support
+
+Sign In
+
+Contact Sales
+
+Get in touch
+
++1.888.799.9666/+1.888.303.1012
+
+Sign Up Free
+
+Contact Sales
+
+What's New
+
+Download on the
+
+App Store
+
+Get it on
+
+Google Play
+
+Search
+
+Meet
+
+Join a meeting
+Host a meeting
+Download app
+
+Sign In
+
+Support
+
+Contact Sales
+
+Sign Up Free
+
+What's New
+
+Settings Preferences
+
+Add Account Add Account
+
+Web App Web App
+
+Sign Out Sign Out
+
+Install on desktop
+
+Download center
+
+Download on the
+
+App Store
+
+Get it on
+
+Google Play
+
+Zoom Workplace
+
+View All
+
+Meetings
+Chat
+Phone
+Mail & Calendar
+Scheduler
+Whiteboard
+Clips
+Zoom Marketplace
+
+Business Services
+
+Revenue Accelerator
+Webinars & Events
+Bonsai
+
+Zoom CX
+
+Contact Center
+Virtual Agent
+AI Expert Assist
+Workforce Engagement
+CX Insights
+
+Zoom AI
+
+ZoomMate
+My Notes
+AI Services
+AI On-Prem
+AI Productivity Suite
+Canvas
+Slides
+Sheets
+Paper
+
+Developers
+
+Overview
+Video SDK
+Co-Browse
+
+Contact Sales
+
+Popular
+
+Zoom Workplace
+
+Zoom Workplace
+
+Collaboration tools in an AI-first work platform.Learn more
+
+Communication
+
+Meetings
+Chat
+Phone
+Mail & Calendar
+Scheduler
+
+Productivity
+
+Canvas
+Whiteboard
+Clips
+Hub
+Video Management
+
+Spaces
+
+Rooms
+Workspace Reservation
+Digital Signage
+Visitor Management
+
+Employee Engagement
+
+Workvivo
+
+Zoom Business Services
+
+Zoom Business Services
+
+Tools designed to help organizations build and grow more efficiently across teams.Learn more
+
+Sales & Marketing
+
+Revenue Accelerator
+Webinars & Events
+Bonsai
+
+Human Resources
+
+BrightHire
+
+Zoom CX
+
+Zoom CX
+
+Powerful solutions to help Customer Experience teams deliver better, more impactful customer service.Learn more
+
+Contact Center
+Workforce Engagement
+Virtual Agent
+CX Insights
+AI Expert Assist
+
+Zoom AI
+
+Zoom AI
+
+AI that turns conversations into action.Learn more
+
+ZoomMate
+AI Services
+My Notes
+AI On-Prem
+Virtual Agent
+
+AI Productivity Suite
+
+Turn inspired discussions into impressive deliverables.Learn more
+
+Canvas
+Sheets
+Slides
+Paper
+
+Developers
+
+Developers
+
+APIs and SDKs for developers.Learn more
+
+Build
+
+Embed Zoom technology into your product
+
+Video SDK
+Co-Browse
+AI Services
+
+Integrate
+
+Connect your tools and Zoom
+
+Zoom Marketplace
+MCP
+Realtime Media Streams
+APIs
+Zoom Apps
+Meeting SDK
+
+Apps and Integrations
+
+Apps and Integrations
+
+Get more done wherever you work.Learn more
+
+Microsoft
+ServiceNow
+Google
+Oracle
+Salesforce
+Atlassian
+
+Explore thousands of possibilities on the Zoom Marketplace.
+
+Popular
+
+What’s hot, what’s trending, what’s building buzz — the solutions Zoom customers are into right now.
+
+My Notes
+Meetings
+ZoomMate
+Rooms
+Phone
+Canvas
+Contact Center
+CX Insights
+Bonsai
+Webinars & Events
+
+Download on the
+App Store
+
+Get it on
+Google Play
+
+Get in touch
+
++1.888.799.9666 /
++1.888.303.1012
+
+Contact Sales
+
+AI at Zoom
+
+AI at Zoom
+
+AI that turns conversations into action.Learn more
+
+ZoomMate
+AI Services
+My Notes
+AI On-Prem
+Virtual Agent
+
+AI Productivity Suite
+
+Turn inspired discussions into impressive deliverables.Learn more
+
+Canvas
+Sheets
+Slides
+Paper
+
+AI Resources
+
+AI Resources
+
+Learn more about AI at Zoom.Get AI support
+
+Success Guide: Zoom AI
+Success Guide: ZoomMate
+AI Privacy and Security
+AI ROI Calculator
+AI Research
+
+By industry
+
+Education
+Financial Services
+Professionals
+Government
+Healthcare
+Manufacturing
+Retail
+Frontline
+Broadcast
+
+By audience
+
+Small and midsize business
+
+Enterprise
+
+Information Technology
+Customer Experience
+Sales and Revenue
+Facilities
+Marketing and Events
+
+For Developer
+
+Build
+
+Video SDK
+Co-Browse
+AI Services
+
+Integrate
+
+Zoom Marketplace
+MCP
+Realtime Media Streams
+APIs
+Zoom Apps
+Meeting SDK
+
+For partners
+
+Partner Solutions
+Find a Partner
+Become a Partner
+Partner Portal
+Partner Learning Center
+
+Install on desktop
+
+Download center
+
+Get in touch
+
++1.888.799.9666/
++1.888.303.1012
+
+Contact Sales
+
+Download on the App Store
+
+Get it on Google Play
+
+Home
+
+News
+
+Product
+
+Article
+
+Deploy Zoom Virtual Agent Receptionist across any telephony environment
+
+Published July 9, 2026
+
+Link copied!
+
+New standalone offering extends Zoom Virtual Agent Receptionist beyond Zoom Phone, bringing AI-powered call handling capabilities to any existing phone system.
+
+SAN JOSE, Calif., July 9, 2026 — Zoom Communications, Inc. (NASDAQ: ZM) today announced a standalone offering for Zoom Virtual Agent (ZVA) Receptionist, enabling organizations to add an AI-powered front desk to their existing phone system without requiring Zoom Phone, helping organizations improve customer responsiveness, extend business availability, and capture more opportunities.
+
+For many businesses, inbound calls are opportunities to win a customer, book an appointment, or strengthen an existing relationship. Yet according to research, 71% of consumers find calling a business more stressful than the issue they’re trying to resolve, and 50% say they would switch to a competitor after a single bad experience.
+
+With Zoom Virtual Agent Receptionist, organizations can provide fast, always-available customer assistance through natural, conversational AI that answers calls, assists customers, and routes inquiries around the clock. With support for more than 10 languages, built-in live transcription, appointment scheduling, and intelligent call routing, Zoom Virtual Agent Receptionist helps businesses deliver responsive customer experiences while enabling employees to focus on the conversations that matter most.
+
+“Businesses shouldn’t have to replace their phone system to benefit from AI,” said Chris Moss, general manager of Zoom Phone. “Every inbound call is an opportunity to serve a customer or nurture a prospect. With the standalone Zoom Virtual Agent Receptionist offering, organizations can quickly add an AI-powered front desk to their existing systems, helping them answer more calls, respond faster, and stay available around the clock.”
+
+Extending AI Receptionist capabilities beyond Zoom Phone
+
+Originally introduced as part of Zoom Phone, Zoom Virtual Agent Receptionist is now available across existing business phone systems, making it easier for organizations to adopt AI without changing their communications infrastructure.
+
+Zoom Virtual Agent Receptionist helps organizations:
+
+Answer and greet every caller with natural, conversational AI in multiple languages.
+
+Resolve common customer needs by answering business questions, scheduling appointments, and providing after-hours support.
+
+Connect customers to the right person with intelligent call routing and seamless handoff when human assistance is needed.
+
+Organizations can now add an AI-powered front desk without changing their existing phone system, making it easier to improve customer responsiveness while preserving existing technology investments and avoiding major migrations.
+
+Whether supporting a retail store, healthcare practice, law office, or growing small business, Zoom Virtual Agent Receptionist helps ensure every caller receives timely, professional assistance while enabling employees to remain focused on serving customers.
+
+Helping organizations capture every opportunity
+
+Since every inbound call has the potential to generate new business, appointments, or revenue, responsiveness is key to maintaining a competitive edge. During busy periods, after hours, or when employees are focused on helping customers in person, businesses often struggle to respond as quickly as customers expect.
+
+By bringing AI receptionist capabilities to existing phone systems, Zoom is helping organizations improve responsiveness, extend business availability, and create better first impressions without disrupting the technology they already trust.
+
+Available now
+
+Standalone Zoom Virtual Agent Receptionist is available for purchase online beginning today, starting at $29.99 USD per month/100 minutes, or $24.99 USD per month/100 minutes with annual billing. To learn more, visit Zoom.com.
+
+Organizations can also explore Zoom Virtual Agent Receptionist through a free trial program available to both new and existing customers.
+
+About Zoom
+
+Zoom (NASDAQ:ZM) is a system of action for modern work, turning live collaboration into completed results. From entrepreneurs to global enterprises, customers choose Zoom to seamlessly collaborate, communicate, and drive outcomes across meetings, phone, contact center, and more — all with the built-in assistance of Zoom AI. Founded in 2011, Zoom is headquartered in San Jose, CA. For more information, visit zoom.com.
+
+Related News
+
+Product
+01/04/2023
+
+Take your meetings to the next level with Zoom-curated Essential Apps
+
+Read More
+
+Product
+03/03/2023
+
+Meet Zoom Virtual Agent
+
+Read More
+
+Product
+03/16/2023
+
+Play Ball! Major League Baseball and Zoom Announce First-of-its-kind Partnership; Zoom Contact Center to Power ‘Zoom Replay Operations Center’
+
+Read More
+
+Product
+02/24/2023
+
+Zoom’s AI innovations empower people
+
+Read More
+
+Zoom Media Kit
+
+Explore our Media Kit for essential information and resources to help you out.
+
+Learn more
+
+Sign up to receive updates
+
+By checking this box, I’m opting in to receive the latest news and updates from Zoom.
+
+By entering your email, you agree to our Privacy Policy
+
+Get in touch
+
++1.888.799.9666 +1.888.799.9666
+
++1.888.303.1012 +1.888.303.1012
+
+Download on Apple Store
+
+Zoom Workplace for Apple
+
+Download on Google Play
+
+Zoom Workplace for Android
+
+Download Center
+
+Get the most out of Zoom
+
+Language
+
+English
+
+English
+
+日本語
+
+Currency
+
+US Dollar $
+
+US Dollar $
+
+Get in touch
+
++1.888.799.9666 +1.888.799.9666
+
++1.888.303.1012 +1.888.303.1012
+
+About
+
+Zoom Blog Zoom Blog
+
+Customers
+
+Our Team
+
+Careers
+
+Integrations
+
+Analyst Coverage
+
+Partners
+
+Investors
+
+Press
+
+Sustainability & ESG
+
+Zoom Cares Zoom Cares
+
+Media Kit
+
+Developer Platform
+
+AI Research
+
+Zoom Ventures
+
+Zoom Merchandise Store Zoom Merchandise Store
+
+Download
+
+Zoom Workplace App Zoom Workplace App
+
+Zoom Rooms App Zoom Rooms App
+
+Zoom Rooms Controller
+
+Browser Extension
+
+Outlook Plug-in
+
+iPhone/iPad App iPhone/iPad App
+
+Android App Android App
+
+Zoom Virtual Backgrounds
+
+Sales
+
++1.888.799.9666 Click to call
+
++1.888.303.1012 +1.888.303.1012
+
+Contact Sales
+
+Plans & Pricing
+
+Request a Demo
+
+Webinars and Events
+
+Zoom Experience Center Zoom Experience Center
+
+Zoom for Startups Zoom for Startups
+
+Support Support
+
+Test Zoom
+
+Account
+
+Support Center Support Center
+
+Learning Center
+
+Zoom Community
+
+Technical Content Library Technical Content Library
+
+Feedback
+
+Contact Us
+
+Accessibility
+
+How To Videos
+
+Developer Support
+
+Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement
+
+Language
+
+English
+
+English
+
+日本語
+
+Currency
+
+US Dollar $
+
+US Dollar $
+
+Copyright Zoom Communications, Inc. All rights reserved.
+
+Terms
+
+Privacy
+
+Trust Center
+
+Acceptable Use Guidelines
+
+Legal & Compliance
+
+Your Privacy Choices
+
+Cookies Settings
+
+Site Map Site Map

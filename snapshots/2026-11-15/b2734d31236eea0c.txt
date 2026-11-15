@@ -1,0 +1,448 @@
+Use the Voice Agent Dashboard in Contact Center Pro
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+Use the Voice Agent Dashboard in Contact Center Pro
+
+Updated on Nov 5, 2026
+
+Published on Apr 23, 2026
+
+11 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+The Inbound Dashboard gives you a central view of your AI Voice Agent's performance. Track booking rates, calls handled, and revenue from jobs the Voice Agent booked. See why calls were escalated or went unbooked, where escalated calls were sent, and which Job Types and business units the Voice Agent books most. Review trends over time and drill into any metric to see the calls, summaries, transcripts, and recordings behind it.
+
+Who uses this feature
+
+Administrators and office employees
+
+Applies to all business types
+
+Applies to all trades
+
+Feature configuration
+
+Account configuration is required to use this feature.
+
+Contact Center Pro is currently in Early Access and available for specific accounts. It is subject to change. If you want to enable this feature for your account, book a demo here.
+
+Contact Center Pro requires an Enterprise Hub network. Contact your Customer Success Manager or Pro Account Manager to request a network.
+
+Things to know
+
+If certain features are not enabled, such as Voice Agent Job Booking, related metrics will show as 0%. We recommend enabling all Voice Agent features for the best experience and most complete data.
+
+To view the Inbound Dashboard, users need the View Inbound Dashboard permission.
+
+Call recordings and transcripts are stored securely. Only users with permission to view call recordings can play audio from the dashboard.
+
+Escalation reasons, unbooked call reasons, and call summaries are generated automatically from each call's conversation.
+
+Paid Revenue appears only after a job is invoiced. Booked jobs that haven't been invoiced yet don't show revenue.
+
+Use cases
+
+Administrators check Paid Revenue and Avg per Booking to report on the Voice Agent's monthly ROI.
+
+Managers compare Booking Rate for Business and Booking Rate for AI to see how the Voice Agent performs on the calls it could realistically book.
+
+Office employees review Escalation Reasons, such as Existing or Past Appointment or Requested Live Agent, to see when callers need a person.
+
+Managers use Escalation Path to see which escalation paths receive the most transfers.
+
+Managers review Unbooked Call Reasons to spot demand they’re missing, such as job types the Voice Agent isn’t set up to book, and the Out of Service Area tab to see which ZIP or postal codes callers ask for most outside the service area.
+
+Managers use Historical Trends to track booking rate and escalation rate month over month after changing Voice Agent settings.
+
+Access the Inbound Dashboard
+
+Open the dashboard from the Contact Center Pro side menu to review your Voice Agent's performance.
+
+In the side menu, under Reports, click Voice Agent Dashboard.
+
+The Inbound Dashboard opens. Ensure you have selected the Voice Agent tab.
+
+Apply filters
+
+Filter the dashboard to review performance for a specific timeframe or for specific Voice Agents. Each filter has its own Apply button.
+
+Filter by date range
+
+At the top of the Inbound Dashboard, click the date range dropdown. The default is Last 30 Days.
+
+Choose a preset range, such as Today, Last Week, Last 90 Days, Quarter to Date, or Year to Date. Or, to set a custom range, enter a start and end date in the date fields or select them on the calendar.
+
+Click Apply.
+
+Filter by Voice Agent
+
+Click the Accounts and Agents dropdown. It shows how many agents and accounts are selected, for example 2 accounts, 4 agents.
+
+Note: When only one agent is selected, the dropdown shows that agent's name instead of a count.
+
+On the left, select the accounts to include. Search for an account in Find account, click Select all or Deselect all, or check and uncheck individual accounts. Each account shows how many of its agents are selected, for example 3/3 agents.
+
+Click an account to see its agents on the right. Search for an agent in Find agent, click Select all or Deselect all, or check and uncheck individual agents.
+
+Click Apply.
+
+Understanding Voice Agent metrics
+
+The cards at the top of the dashboard show the Voice Agent's key results for the selected period. Hover over any metric name to see its definition.
+
+Performance KPIs
+
+Metric
+
+What it shows
+
+Booking Rate for Business
+
+How often a bookable call became a booked job. Hover over the name to see the counts, for example 5 of 16 bookable calls.
+
+Booking Rate for AI
+
+Your booking rate, counting only the outcomes each account marks as bookable. Click the edit (pencil) icon to choose which reasons count. See Configure Booking Rate for AI.
+
+CSR Escalated Rate
+
+The share of booked calls that were escalated to a live CSR.
+
+Calls Handled
+
+Every call the Voice Agent handled during the period, and that number as a percentage of all inbound calls.
+
+VA Avg Duration
+
+The average time the Voice Agent was on a call.
+
+Paid Revenue
+
+Revenue from jobs booked on calls the Voice Agent handled.
+
+Avg per Booking
+
+The average paid revenue per booked job.
+
+Configure Booking Rate for AI
+
+Booking Rate for AI shows how well the Voice Agent books jobs on calls it could reasonably have booked. Choose which unbooked-call reasons still count as bookable. Unchecking a reason removes those calls from the calculation, so calls the Voice Agent couldn't have booked anyway don't lower the rate.
+
+On the Booking Rate for AI card, click the edit (pencil) icon. The Booking Rate for AI Configuration window opens.
+
+On the left, select an account. Each account shows how many outcomes count as bookable, for example 5/10 outcomes.
+
+Uncheck any reason you don't want counted as bookable for that account. The reasons are listed below these steps.
+
+Repeat for other accounts if needed, then click Save. To return to the original settings, click Reset to Default in the bottom left of the window. To close without saving, click Cancel.
+
+Reasons you can include or exclude:
+
+Scheduling or Availability Conflict (no acceptable times offered, or none accepted)
+
+Job Type – Disabled Job Type
+
+Job Type – Out of Service Area
+
+Customer Information Not Captured (declined to provide it, or a language barrier prevented it)
+
+Live Agent Requested (at any point in the call)
+
+Pricing Objection or Bid Follow-Up (includes accepted quotes that still went unbooked)
+
+Address Could Not Be Validated
+
+Caller Hung Up or Stopped Responding
+
+Prior Work, Callback, or Warranty Issue
+
+Membership or Maintenance Plan (not a new job)
+
+Notes:
+
+All reasons are counted as bookable by default.
+
+Changes apply to that account's Booking Rate for AI and can take up to 30 minutes to appear.
+
+Booking Rate for Business doesn't change. It always counts all bookable calls, so you can compare the two rates side by side.
+
+Escalated and bookable calls
+
+Total Escalated Calls
+
+Calls the Voice Agent handed off to a live agent, whether or not a job was booked.
+
+Shows the total and its percentage of all calls handled.
+
+The bar splits escalated calls into Unbooked and Booked.
+
+Total Bookable Calls
+
+Calls that could have been booked: booked jobs plus unbooked leads.
+
+Shows the total and its percentage of all calls handled.
+
+The bar splits bookable calls into Unbooked and Booked. The Booked share is your Booking Rate for Business.
+
+Click View all on either card to see the calls behind the numbers.
+
+Escalation Reasons
+
+Shows why the Voice Agent transferred calls to a live agent, with the number and percentage of escalated calls for each reason.
+
+Reason
+
+What it includes
+
+Availability/Scheduling
+
+No appointment time worked for the caller.
+
+Billing or Solicitation
+
+Billing questions, or sales and solicitation calls.
+
+Cancel Appointment
+
+The caller wanted to cancel an appointment.
+
+Existing or Past Appointment
+
+Questions about an existing appointment, including arrival times (ETA), appointments the caller expected that aren't on file, and post-service or warranty issues.
+
+Frustration
+
+The caller became frustrated during the call.
+
+Membership or Maintenance Plan
+
+The call was about a membership or maintenance plan, not a new job.
+
+Out of Service Area
+
+The service location is outside your service area.
+
+Pricing or Estimate Request
+
+The caller asked about pricing or wanted an estimate.
+
+Requested Callback or Specific Person
+
+The caller asked for a callback, left a voicemail, or asked for a specific person.
+
+Requested Live Agent
+
+The caller asked for a live agent, either right away or partway through the call.
+
+Other
+
+Any reason not listed above.
+
+Escalation Path
+
+Shows where escalated calls were transferred, with the number and percentage for each destination. Destinations use the labels set up under Escalation Paths in your Voice Agent settings, such as Billing Questions. Calls that didn’t match a path go to your default escalation number, shown as Default Escalation Number.
+
+Not Transferred (Caller Left Before Handoff): the caller hung up before the transfer completed. These calls aren’t counted as transfers to a destination.
+
+Unbooked Call Reasons
+
+Shows why bookable calls didn't result in a booked job, with the number and percentage for each reason.
+
+Reason
+
+What it includes
+
+Address Validation
+
+The service address couldn't be validated.
+
+Availability/Scheduling
+
+No appointment time worked for the caller.
+
+Caller Disconnected
+
+The caller hung up or stopped responding before the job was booked.
+
+Declined to Provide Info
+
+The caller didn't provide the information needed to book.
+
+Job Type Out of Scope
+
+The service requested isn't a job type the Voice Agent is set up to book.
+
+Live Agent Request
+
+The caller asked for a live agent, either right away or partway through the call.
+
+Membership or Maintenance Plan
+
+The call was about a membership or maintenance plan, not a new job.
+
+Outside Service Area
+
+The service location is outside your service area.
+
+Post-Service or Warranty Issue
+
+The call was about previous work or a warranty issue.
+
+Pricing or Fee Dispute
+
+The caller objected to the price or a fee.
+
+Other
+
+Any reason not listed above.
+
+Call Outcomes
+
+Shows the number and percentage of all calls handled by outcome.
+
+Outcome
+
+What it means
+
+Appointment Confirmed
+
+The Voice Agent confirmed an existing appointment.
+
+Appointment Rescheduled
+
+The Voice Agent moved an existing appointment to a new time.
+
+Booked
+
+The Voice Agent booked a new job.
+
+Not a Lead
+
+The call wasn't about a job, such as a wrong number or a vendor call.
+
+Unbooked
+
+The caller wanted service, but no job was booked.
+
+Other
+
+Any outcome not listed above.
+
+Booked job tables
+
+At the bottom of the dashboard, use the tabs to switch between three views:
+
+Booked Jobs by Job Type: booked jobs for each job type, with the number of jobs and the percentage of all booked jobs.
+
+Booked Jobs by Business Unit: the same breakdown by business unit.
+
+Out of Service Area: the ZIP or postal codes outside your service area that callers asked for most, with the number of calls and the percentage of all out-of-area calls for each. A summary above the table shows how many calls came from outside every business unit's service area. Use this to decide whether to expand your service area.
+
+To sort a table, click the Jobs column header, or Calls on the Out of Service Area tab. The arrow next to the header shows the sort direction.
+
+Historical Trends
+
+Track how a metric changes over time.
+
+In Historical Trends, select a metric: Booking Rate, Calls Handled, Paid Revenue, Escalation Rate, or Booked Calls.
+
+Select a time range: 1M, 3M, 6M, or 12M.
+
+Select how to group the data: Daily, Weekly, or Monthly.
+
+The line chart updates to show the metric for each day, week, or month in the range.
+
+View detailed results and transcripts
+
+Open any metric to see the calls behind it.
+
+On the Inbound Dashboard, click View all on either the Calls Handled, Total Escalated Calls, or Total Bookable Calls cards, or click any segment in a chart, such as an escalation reason. The Calls panel opens and shows the number of matching calls. The list is filtered to match what you clicked, and the Filters button shows how many filters are applied. To see all calls, click Clear all in Filters. Calls Handled shows all calls.
+
+Review the call list. For each call, you can see the Date, Duration, Account, Agent, Customer, Phone Number, and Call Type (such as Booked, Unbooked, Excused, or Not a Lead). The list shows 50 calls per page. Use the page controls at the bottom to see more.
+
+(Optional) Customize the list. Use the date range and Accounts and Agents dropdowns to change the timeframe, accounts, or Voice Agents. Click Filters to show, hide, or filter columns:
+
+Click the eye icon to show or hide a column.
+
+Click the filter icon to filter by a column's values. Check the values you want, or use Select all or Clear. For example, filter Intent to Bookable or Unbookable, or filter Escalation to Yes or No and then by a specific reason.
+
+Active filters appear next to the column name, for example Bookable. Click Clear all to remove all filters.
+
+Available columns are Standard (Account, Agent, Customer, Phone Number, Call Type), Insights (Outcome, Intent, Escalation, Unbooked Reason), and Jobs (Job Type, Business Unit).
+
+(Optional) To download the calls, click Download Call List. Under Columns to Export, check the columns you want, then click Download. To return to the default columns, click Reset. Standard columns: Account ID, Date/Time, Caller ID, Duration, Customer Name, Customer ID, Job ID, Agent, Call Type. Insights columns: Caller's Intent, Outcome, Escalated + Reason, Unbooked Reason, Revenue, Summary, Transcript.
+
+Click a call. The Call Details panel opens.
+
+Review the Summary, an AI-generated overview of the call. Depending on the call, it may list key points, such as the issue reported, urgency, service location, or action taken, along with a short written recap.
+
+Review the call information: Date/Time, Duration, and Call Type; Outcome, which links to the job for booked calls; Customer, which links to the customer record; and Phone and Agent.
+
+In Recording and Transcript, click Play to listen to the call, search for a word or phrase in Search transcript, and read the conversation turn by turn, labeled Agent and Customer, to find where the outcome was decided. To save a copy, click Download, then select Download Recording or Download Transcript.
+
+Want to learn more?
+
+See Contact Center Pro
+
+See Set call routing rules in Contact Center Pro
+
+See View and manage Voice Agent Follow Ups
+
+Configurable categories that classify jobs (e.g., HVAC Install, Drain Cleaning, Roof Replacement) for reporting and routing.
+
+What it does: Enables targeted pricing, technician skill matching, reporting segmentation, and correct workflow routing by type of work.
+
+Also called: Service types, Work categories
+
+Tags: Core
+
+See the full glossary →
+
+Was this article helpful?
+
+Yes No
+
+Related articles
+
+Configure Voice Agent Account Level settings in Contact Center Pro
+
+Product Areas > Contact Center Pro > Contact Center Pro Voice Agents (VA)
+
+AI Voice Agent Onboarding Part 2: Monitor calls as a CSR
+
+Product Areas > Phones > Virtual Agents
+
+Access and view the Call Center Dashboard
+
+Product Areas > Phones Pro > Call center managers
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use

@@ -1,0 +1,123 @@
+Podium Release 25.3 - Podium
+
+AI Employee
+
+Industry Solutions
+
+Plans
+
+Resources
+
+Sales: 1-801-438-4425Watch a demoSign in
+
+What's New>Podium Release 25.3
+
+< Back
+
+Podium Release 25.3
+
+“Send an Email” via Automations
+
+Automatically send emails to customers for re-engagement, review invitations, appointment reminders, or special occasions like birthdays, ensuring timely and personalized communication.
+
+Supercharge your Automations with New Actions
+
+Now, you can automate review invitations, appointment confirmations, surveys, internal lead summaries, and AI follow-ups using our new automation builder, streamlining workflows and improving engagement.
+
+Text from Multiple Phone Numbers (Beta)
+
+Do you have multiple phone numbers set up in Podium? Now you can text from more than just your default number – text from any phone number. This feature is still in beta testing – if you’re interested in participating, sign up here.
+
+Answer Calls with Voice AI for HVAC
+
+Use Podium’s AI CSR to answer inbound phone calls about scheduling and rescheduling service appointments. Drop your expensive answering service and use AI to streamline your business operations. See it in action and test it out.
+
+Assign Desk Phones to Users (Beta)
+
+Assigning a desk phone to a Podium user ensures every call to their extension rings to their deskphone as well—and carries over their personalized voicemail greeting and privacy settings. It’s a seamless, professional experience for both your team and your customers. This feature is still in beta testing – if you’re interested in participating, sign up here.
+
+Communicate with Multiple Team Members on a Single Call (Beta)
+
+Collaborate more quickly and seamlessly with our new softphone group calling feature, allowing multiple team members or customers to join and communicate in a single call—no extra hardware needed. This feature is still in beta testing – if you’re interested in participating, sign up here.
+
+Get Deeper Call Insights Using Phones Reporting (Beta)
+
+Make data-driven decisions with our new phones reporting tab – a single destination for deeper call insights and performance metrics. Gain a clearer understanding of call volume trends, team phone usage, and call outcomes at a glance. This feature is still in beta testing – if you’re interested in participating, sign up here.
+
+New Integration with Tekion Leads
+
+Auto customers who use Tekion as a CRM can now integrate with Podium – sync inbound leads, write back updates to the conversation to Podium, and more.
+
+Revenue Mining for CDK Drive
+
+Auto customers who use CDK Drive can add on Revenue Mining – which pulls data and objects from your DMS and creates curated, AI-powered marketing campaigns based on your customer data.
+
+Inventory Integrations for Auto AI
+
+Customers who use HomeNet can now connect to Podium’s AI and reference data from your vehicles, such as availability synced from your other inventory systems or DMS.
+
+Improved Product Recommendations
+
+We’ve given our AI Employee an upgrade in salesmanship – Jerry is now much better at asking questions and providing highly relevant and personalized recommendations for vehicles and products.
+
+Auto Dealerships
+
+Aesthetics
+
+Home Services
+
+Retail
+
+Other
+
+Enterprise
+
+Industry Solutions
+
+Resource Center
+
+Blog
+
+Pricing
+
+Refer a Business
+
+Download apps
+
+Resources
+
+Why Podium AI
+
+Contact Sales
+
+Careers
+
+Help Center
+
+Legal
+
+Company
+
+Become a Partner
+
+Find a Solution Partner
+
+Integrations
+
+Marketplace
+
+Developer Platform
+
+Partners
+
+© Podium Corp Inc. 2026
+
+Sitemap
+
+Terms & Conditions
+
+Privacy Policy
+
+Privacy Center
+
+Do Not Sell or Share My Personal Information

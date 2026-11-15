@@ -1,0 +1,533 @@
+{
+ "schema": "tools-of-record/changed-pages/v1",
+ "date": "2026-11-15",
+ "fetched": 679,
+ "first_seen": 679,
+ "unchanged": 0,
+ "changed": [],
+ "problems": [
+  {
+   "url": "http://www.businesswire.com/news/home/20240917914093/en/Meal-Ticket-Partners-with-Pepper-to-Streamline-Ordering-for-Restaurant-Operators-and-Distributors",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.vetsoftwarehub.com/papers/companion-animal-veterinary-software-ai-paper-part-8.pdf",
+   "status": "http_429",
+   "robots": "robots 429: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://channelfutures.com/channel-sales-marketing/intelisys-simply-quote-tackles-barriers-to-entry",
+   "status": "http_403",
+   "robots": "robots 418: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://docs.connectwise.com/ConnectWise_Business_Knowledge/Strategically_Grow_your_MSP_Business_with_ConnectWise_Products/Manage_Service_Delivery_Performance",
+   "status": "http_302",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.g2.com/products/marketsharp/reviews",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://d7estimator.com/",
+   "status": "http_404",
+   "robots": "robots 404: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://status.henryscheinone.com/history.rss",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://oroinc.com/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.mcleodsoftware.com/press-releases/convoy-platform-named-certified-digital-freight-matching-partner-with-mcleod-software",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://trimech.com/delmiaworks/manufacturing-sales-quoting-and-estimating",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.routeone.com/release-notes",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://get.dealercenter.com/get-a-demo/tiada",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://servicetrade.com/company-news/servicetrade-acquires-mura",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.capterra.com/medical-spa-software",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.sage.com/en-us/products/sage-100-contractor/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.pandadoc.com",
+   "status": "http_429",
+   "robots": "robots 429: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/5711528092045-Call-Attribution-report",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.thryv.com",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.yardbook.com",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20240822372463/en/Aviont-Acquires-AkkenCloud-a-Staffing-Software-Company",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/community/posts/49441551374989-Fall-2026-Product-Updates",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://hsps.pro/DentrixAscend/dentrix_ascend_reports.html",
+   "status": "http_301",
+   "robots": "robots 404: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://epssw.com/press-releases/print-eps-strengthens-midmarket-leadership-through-acquisition-of-avanti-systems?hs_amp=true",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.revolvecore.com/industries/exteriors",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.facebook.com/business/ads",
+   "status": "skipped_robots",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://help.servicetitan.com/docs/phones-pro-faq",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.capterra.com/reviews/183703/EFI-MarketDirect-StoreFront",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.scorpion.co",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/homebot",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://pitchbook.com:8443/profiles/company/226138-87",
+   "status": "skipped_robots",
+   "robots": "robots unreachable (TimeoutError): treated as disallow",
+   "detail": null
+  },
+  {
+   "url": "https://manychat.com",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.iianc.com/websites",
+   "status": "skipped_crawl_delay",
+   "robots": "site asks for 120s between pages; skipped politely",
+   "detail": null
+  },
+  {
+   "url": "https://linkedin.com/company/customer-lobby",
+   "status": "skipped_robots",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.capterra.com/p/79014/One-System-ERP-Solutions/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://enxmag.com/twii/news/2016/07/compass-sherpa-4-0-the-evolution-of-sales-automation",
+   "status": "skipped_crawl_delay",
+   "robots": "site asks for 90s between pages; skipped politely",
+   "detail": null
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20210622005744/en/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://help.housecallpro.com/en/articles/9001031-how-to-create-and-manage-leads",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://cloud.tekion.com/products/arc",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.vendormotive.com/vendors/dealer-spike",
+   "status": "http_429",
+   "robots": "robots 429: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/5711581658125-Form-submission-notifications",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://activatedinsights.com/latest-news/activated-insights-axiscare-partnership",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/37933901800845-Voice-Assist-setup",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260219620984/en/Weave-Announces-Strategic-CareCredit-Integration-Partnership-with-Patient-Financing-Leader-Synchrony",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.successware.com",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.google.com/forms/about/",
+   "status": "skipped_robots",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.morningstar.com/news/pr-newswire/20251126ph33016/msp360-and-halopsa-join-forces-to-simplify-msp-operations-through-deep-integration",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.scheduleengine.com",
+   "status": "skipped_robots",
+   "robots": "robots 501: treated as disallow",
+   "detail": null
+  },
+  {
+   "url": "https://help.workiz.com/hc/en-us/articles/28907946434321-Customizing-your-Genius-Answering-settings",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/37933897778061-Voice-Assist-overview",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.mhelpdesk.com/about-2",
+   "status": "http_404",
+   "robots": "robots 404: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://docs.connectwise.com/ConnectWise_Business_Knowledge/Strategically_Grow_your_MSP_Business_with_ConnectWise_Products/Create_a_Renewal_Process",
+   "status": "http_302",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.capterra.com/home-health-care-software",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://jobber.statuspage.io/history.rss",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://assets.epicor.com/m/63302c83c86cc1ae/original/Epicor-Prophet-21-Overview-Brochure.pdf",
+   "status": "skipped_robots",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://capterra.com/p/10042941/ProLine/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://docs.connectwise.com/ConnectWise_Documentation/060/010/010/001?psa=1",
+   "status": "http_302",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.traderinteractive.com/trader-interactive-expands-marine-marketplace-rebrands-boatline-to-boatmart",
+   "status": "http_405",
+   "robots": "robots 405: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.verisk.com/4a78da/siteassets/monday-web-seminars/2026/pdfs/unlocking-the-xactimate-experience-webinar.pdf",
+   "status": "too_large",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.poolmagazine.com/news/press-releases/structure-studios-launches-version-4-of-its-professional-pool-and-landscape-design-software-suite",
+   "status": "skipped_crawl_delay",
+   "robots": "site asks for 10000s between pages; skipped politely",
+   "detail": null
+  },
+  {
+   "url": "https://www.mcleodsoftware.com/powerbroker",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.thezebra.com",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.clio.com/about/press/clio-signs-definitive-agreement-to-acquire-vlex",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.daxko.com/news/zen-planner-adds-classpass-to-drive-revenue-and-fill-classes-for-gyms-and-studios",
+   "status": "http_429",
+   "robots": "robots 429: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://business.facebook.com",
+   "status": "skipped_robots",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://community.hubspot.com/c/hubspot-developer-support/developer-announcements/113",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.crunchbase.com/organization/briostack",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://classpass.com/partners/2026-industry-impact-report",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://hmndp.org/guides/2026-landscape-software-report/",
+   "status": "skipped_robots",
+   "robots": "robots unreachable (URLError): treated as disallow",
+   "detail": null
+  },
+  {
+   "url": "https://www.g2.com/products/fin/reviews",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20250115570560/en/CareStack-Integrates-Sunbit%E2%80%99s-Leading-Pay-Over-Time-Tech-in-CareStack-PMS",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.paypal.com/us/business",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.boatsgroup.com/",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://www.networx.com",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/5711422972429-The-CallRail-Glossary",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/5711858588813-Notifications",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://pos.toasttab.com/products/online-ordering",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://buildertrend.com/press-releases/buildertrend-acquires-bizjet-ai",
+   "status": "http_403",
+   "robots": "robots 403: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://help.hotjar.com/hc/en-us/articles/36819964833169-Hotjar-Plans",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://engage.financialplanningassociation.org/hubfs/T3Inside%20Information%202025%20Software%20Survey.pdf",
+   "status": "too_large",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.g2.com/compare/intercom-vs-zendesk",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.sage.com/en-us/sage-business-cloud/intacct/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://taxdome.com/",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://www.globaldata.com/company-profile/outreach-corp",
+   "status": "error_URLError",
+   "robots": "ok",
+   "detail": "<urlopen error [Errno 111] Connection refused>"
+  },
+  {
+   "url": "https://www.vendormotive.com/insights/best-dealership-dms-software-2026",
+   "status": "http_429",
+   "robots": "robots 429: treated as allow-all",
+   "detail": null
+  },
+  {
+   "url": "https://docs.connectwise.com/ConnectWise_Documentation/090/020/070/130?psa=1",
+   "status": "http_302",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://support.callrail.com/hc/en-us/articles/16333436815501-Reports-overview",
+   "status": "http_403",
+   "robots": "ok",
+   "detail": null
+  },
+  {
+   "url": "https://proshoperp.com/module/quotes/",
+   "status": "http_404",
+   "robots": "ok",
+   "detail": null
+  }
+ ],
+ "recheck_cells": []
+}

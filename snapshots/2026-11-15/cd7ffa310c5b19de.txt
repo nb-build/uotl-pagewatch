@@ -1,0 +1,110 @@
+SEMSEE Unveils Agent Intelligence for Small Commercial Submissions
+
+Skip to content
+
+Solutions
+
+For Agents
+
+Boost your efficiency and access more markets
+
+For Carriers & MGA's
+
+Access appointed agents and find new ones
+
+For Partners
+
+Digitize your workflow for efficient submission management
+
+Semsee Market Access
+
+Broaden your quoting power
+
+Resources
+
+Blog
+
+Discover the latest updates, insights, & announcements from the Semsee team.
+
+Help Center
+
+Helpful library and documentation on how to get the most out of Semsee's platform.
+
+Company
+
+About Us
+
+We're Semsee. We take the pain out of small commercial quoting.
+
+Careers
+
+Great tech takes great people.
+
+Contact
+
+Reach out to us with general questions and inquiries.
+
+SEMSEE Unveils Agent Intelligence for Small Commercial Submissions
+
+by
+Semsee HQ
+on
+December 3, 2025
+
+News
+
+Press releases
+
+Embedding Agent IntelligenceTM into the submission workflow creates faster intake, cleaner data, and efficient quoting.
+
+NEW YORK, NEW YORK – December 4, 2025 — Semsee, the platform transforming how agents quote small commercial insurance, today announced a major milestone in making distribution easy with the launch of Agent IntelligenceTM (Semsee’s AI)-powered submissions.
+
+“The industry has long struggled with changing agent behavior and fragmented submission data that slows down the entire quoting process,” said Philip Charles-Pierre, co-founder and chief product officer at Semsee. “By enabling agents to upload any document and have Semsee intelligently transform it into a structured submission, we advance our broader vision of a more modern, efficient, and connected distribution workflow, while meeting agents where they are.”
+
+Semsee’s AI enables agents to start a commercial submission simply by uploading a document instead of being restricted to specific ACORD forms or forced to retype data into multiple systems. The technology reads the document, extracts and structures the key fields, identifies what is missing, and ultimately prepares the submission for review so the agent can move straight into the quoting process.
+
+“We built a document intelligence engine that can understand nearly any PDF or image and extract the information needed to start a submission,” said James Van Lommel, senior vice president of engineering at Semsee. “It requires no manual effort and turns whatever the agent uploads into structured data ready for the next step.”
+
+Built on the company’s proprietary data foundation and carrier connectivity, Semsee’s AI goes well beyond basic intake to classify the business, surface appetite, fill in missing details, and produce a cleaner, more complete submission that moves to quote faster. This tool is also made available to Semsee Partners giving managing general agents (MGAs), wholesalers, networks, and placement teams a major efficiency lift by eliminating the need to read thousands of emails and documents for help in placing a risk.
+
+This new capability is available today for all Semsee users. To learn more about this feature and about Semsee, contact info@semsee.com.
+
+About SEMSEE
+
+Semsee is a purpose-built platform that simplifies small commercial insurance quoting and distribution for independent agents, carriers, MGAs, and partners. Grounded in the principles of single entry, multiple company interfaces, Semsee removes repetitive data entry and streamlines the entire workflow, allowing agents to submit once and receive multiple quotes instantly. With advanced AI classification, risk appetite matching, ACORD form integration, and a modern digital storefront, Semsee brings underwriting, quoting, and binding into a unified, frictionless experience for faster quoting, expanded market access, cleaner submissions, and a more efficient path from submission to bind. For more information, please visit semsee.com.
+
+Spread the word:
+
+Related Articles
+
+Bulk Quoting has the potential to transform the small commercial insurance industry
+
+Bulk insurance quoting is a process that allows insurance agents to obtain quotes for multiple...
+
+by Semsee HQ
+
+How duplicating a quote makes your life easier when using a commercial rater
+
+Duplicating a quote in a commercial insurance rating system can offer several advantages,...
+
+by Semsee HQ
+
+Lessors of Nonresidential Buildings (except Miniwarehouses) is the #1 NAICS code quoted in Semsee... We know LRO risks are tricky!
+
+Did you know that 531120 - Lessors of Nonresidential Buildings (except Miniwarehouses) is the #1...
+
+by Shawna Edwards
+
+Semsee
+
+Careers
+
+Term of Service
+
+Privacy Policy
+
+Disclosure
+
+State Licences
+
+Semsee. All Rights Reserved.

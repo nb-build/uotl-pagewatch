@@ -1,0 +1,308 @@
+Agentforce: The AI Agent Platform | Salesforce
+
+Skip to content
+
+Agentforce
+
+with Agentforce
+
+Agentforce is the AI agent platform that delivers 24/7 autonomous support at enterprise scale. Lose the rigid chatbots and hold times. Extend agents anywhere customers are: On the web, on the phone, or in apps. Let humans do what they do best, and let Agentforce do the rest.
+
+Drive outcomes
+
+Scale service
+
+Resolve cases
+
+Access all demos
+
+Customer Service
+
+Resolving open case | Drafting follow-up email | Escalating to specialist
+
+Contact Center
+
+Routing incoming call | Pulling customer history | Logging interaction notes
+
+Field Service
+
+Scheduling technician visit | Updating work order status | Confirming parts availability
+
+Employee Service
+
+Processing leave request | Answering HR policy query | Onboarding new hire
+
+Sales Service
+
+Qualifying inbound lead | Updating opportunity | Closing renewal deal
+
+IT Service
+
+Resolving help desk ticket | Patching system alert | Resetting user access
+
+Explore what's new
+
+Five new ways to put agents to work
+
+Purpose-built agents
+
+Start ready for the job
+
+Launch agents for sales, service, HR, and more, with job-specific subagents, prebuilt actions, and Salesforce context already in place.
+
+Long-Horizon Runtime
+
+Keep work moving
+
+Let agents pursue goals across days and weeks, retain context, adapt their plans, and complete multi-touch workflows with human oversight.
+
+Agent Optimizer
+
+Improve every agent
+
+Find bottlenecks, understand performance, and get actionable recommendations from a built-in tuning partner.
+
+AI Skills in Coworker
+
+Teach once, work everywhere
+
+Create reusable capabilities for AI teammates and bring them into the tools where work already happens.
+
+Multi-Agent Orchestration
+
+Turn agents into teams
+
+Route work, share context, and coordinate specialized agents across complex customer and operational journeys.
+
+Check out what's new
+
+Over 18K companies already run on Agentforce. Join them.
+
+Why Agentforce
+
+The best customer experiences start with service. So does Agentforce. On the phone. Online. In apps. Humans and agents help customers better together.
+
+Learn more
+
+How Agentforce Works
+
+Data. Reasoning. Actions. See what really makes Agentforce work.
+
+Learn more
+
+Experience Agentforce
+
+Explore real AI agents driving live results for global brands. See how they configured them in Agentforce.
+
+Learn more
+
+Explore Customer Proof
+
+Hear how customers across every industry are using Agentforce to transform their business.
+
+Learn more
+
+Better outcomes for everyone. That's the point.
+
+Resolve cases. Recommend products. Engage customers and prospects. Around the clock. Hand off to humans only when needed.
+
+Customer Service
+
+Provide always-on support for customers to help with answering questions, resolving cases, managing orders, and
+troubleshooting issues
+
+Benefit: Reduced response times, always on service, cost savings.
+
+Employee Support
+
+Give every employee a task-specific, highly specialized AI agent to help them by answering questions and automating routine tasks.
+
+Benefit: Higher productivity, faster resolution time.
+
+Appointment Scheduling
+
+Schedule appointments based on history and context, send appointment follow-ups, send reschedule and reminder notifications.
+
+Benefit: Accelerated scale and personalization, op cost savings.
+
+Sales Development
+
+Drive growth around the clock by autonomously answering product questions, handling objections, and booking meetings for sales reps.
+
+Benefit: Efficiency boost, increased win rates, shorter deal cycles.
+
+Product Recommendation
+
+Automate communications about event information and details, book sessions, provide event logistics and surveys.
+
+Benefit: Personalized marketing, streamlined experience.
+
+Event Support
+
+Automate communications about event information and details, book sessions, provide event logistics and surveys.
+
+Benefit: Personalized marketing, streamlined experience.
+
+Learn more about the Agentforce Platform.
+
+Agent Development Lifecycle
+
+Build, run, and scale AI agents with a complete set of tools.
+
+Learn more
+
+Agent Builder
+
+Configure Agentforce, Subagents, Actions, and Instructions in a few clicks.
+
+Learn more
+
+Agent Script
+
+Agent Script gives builders precise control to create business-ready agents that deliver reliable results.
+
+Learn more
+
+Agentforce Voice
+
+Bring AI-powered voice to every channel with Agentforce Voice.
+
+Learn more
+
+Agentforce Observability
+
+Monitor, analyze, and optimize agent performance in near real time so you can deliver faster resolutions, higher accuracy, and better customer experiences.
+
+Learn more
+
+Agentforce MCP Support
+
+Connect Agentforce to new tools and resources with secure, open interoperability through verified MCP server support from AgentExchange partners.
+
+Learn more
+
+Multi-Agent Orchestration
+
+Build a collaborative AI agent team that works together to solve complex problems faster.
+
+Learn more
+
+Salesforce is a Leader in Agentic AI Platforms
+
+Discover Salesforce’s position in the IDC MarketScape: Worldwide Agentic AI Platforms 2026 Vendor Assessment.
+
+Get the excerpt
+
+The #1 Leader by G2 for:
+
+AI Agents
+
+AI Customer Support Agents
+
+AI Agent Builders
+
+Conversational Interface Agents
+
+Read the reviews
+
+Unlock your Agentforce potential.
+
+Partner
+
+Find the right Consulting Partner for Agentforce
+
+Learn more
+
+Guide
+
+The Grown-Up's Guide to Operating an Agentic Enterprise
+
+Get the guide
+
+Guide
+
+A Practical Guide to Reliable AI Agents That Work
+
+Learn more
+
+Demo
+
+Demo Series: Beyond IVR - See Agentforce Voice in Action
+
+Watch demo
+
+Blog
+
+How Indeed Builds, Tests, and Deploys Agents Without Ever Opening a Browser
+
+Learn more
+
+Ready to take the next step with Agentforce?
+
+Build agents fast.
+
+Take a closer look at how agent building works in our library.
+
+Watch demos
+
+Get expert guidance.
+
+Launch Agentforce with speed, confidence, and ROI you can measure.
+
+See how
+
+Talk to a rep.
+
+Tell us about your business needs, and we’ll help you find answers.
+
+Contact us
+
+Agentforce Frequently Asked Questions
+
+What is an AI agent?
+
+AI Agents are autonomous, proactive applications designed to execute specialized tasks to help employees and customers. Agents use large language models (LLMs) to analyze and understand the full context of customer interactions or an automated trigger, then reason through decisions on the next steps autonomously.
+
+These agents generate responses that are consistent with your company’s brand voice and guidelines using trusted business data, including Salesforce CRM data, external data from Data 360, and more. These agents are capable of operating 24/7 across various platforms like self-service portals and messaging channels, handling tasks proactively within set guardrails. When faced with complex issues beyond their scope, they can escalate the matter to human agents, ensuring that queries are resolved efficiently and accurately.
+
+How do you build AI agents?
+
+Businesses can build agents with Agent Builder using existing Salesforce Platform tools to create standard and custom subagents and actions. You can use prompts grounded in trusted enterprise data. You can use Flows to create automations across any system. You can use MuleSoft API connectors to connect Agents to any system. And last, you can use your Apex & Javascript to create the custom code and business logic for your Agent.
+
+What types of AI agents are there?
+
+Businesses can create an agent for any role, any industry and to solve any use case. With Agentforce, it's ready to spin up out-of-the-box agents across service, sales, marketing, commerce, and more.
+
+Service Agent replaces traditional chatbots with AI that can handle a wide range of service issues without preprogrammed scenarios, improving customer service efficiency.
+
+Sales Development Representative (SDR) engages with prospects 24/7, answering questions, managing objections, and scheduling meetings based on CRM and external data, allowing your sellers to focus on building deeper customer relationships.
+
+Sales Coach provides personalized role-play sessions for your sales team, using Salesforce data and generative AI to help sellers practice pitches and objections tailored to specific deals.
+
+Merchandiser assists your ecommerce merchandisers with site setup, goal setting, personalized promotions, product descriptions, and data-driven insights, simplifying daily tasks.
+
+Buyer Agent enhances the B2B buying experience, helping your buyers find products, make purchases, and track orders via chat or within sales portals. Personal Shopper acts as a digital concierge on your ecommerce sites or messaging apps, offering personalized product recommendations and assisting with search queries.
+
+Campaign Optimizer automates the full campaign lifecycle, using AI to analyze, generate, personalize, and optimize marketing campaigns based on business goals.
+
+Agentforce (formerly Einstein Copilot) supports employees in the flow of their work with specific tasks by searching for data, creating action plans, and executing them to increase workplace efficiency.
+
+How does Einstein work?
+
+Einstein is natively embedded into the Salesforce Platform and leverages data from CRM and external applications to provide insights, predictions, and generated content directly in the flow of work.
+
+What is an AI agent builder?
+
+An ai agent builder is a platform for building and customizing AI agents. With Agentforce, our low-code Agent Builder that makes it easy to customize out-of-the-box agents or build new agents for any role, any industry, or any use case using existing tools like Flows, Prompts, Apex, and MuleSoft APIs to configure their agents. Using Agent Builder, businesses can create a job to be done for their agent by defining subagents, writing natural language instructions within that subagent, and creating a library of actions for it to choose from. Users can also easily observe an agent’s plan of action and test their responses in Agent Builder.
+
+What is Agentforce?
+
+Agentforce is a proactive, autonomous AI application that answers questions, takes actions, and improves productivity. You can equip Agentforce with any necessary business knowledge to execute tasks according to its specific role. With Agentforce, customers can unlock a limitless digital labor force by leveraging autonomous AI agents that support their employees and customers 24/7.
+
+How does Agentforce work?
+
+Agentforce can reason through complex requests, safely retrieve accurate knowledge about your business, take action on your behalf, and scale across teams and departments. It starts with the Atlas Reasoning Engine, which breaks down the initial prompt into smaller tasks, evaluating at each step and proposing a plan for how to proceed until the complete answer or action is achieved.
+
+How much does Agentforce cost?
+
+Every Salesforce customer can get started with Agentforce for free, for any use case, with Salesforce Foundations. Our pricing options include Flex Credits, Resolutions, or per-user licensing, designed to fit how and where you deploy AI.

@@ -1,0 +1,293 @@
+Business - MAS
+
+< Back to Building Automation
+
+|
+
+Close
+
+Products
+
+Products
+
+Product Overview
+
+Advanced security solutions for the modern business world
+
+MASterMind EX
+
+MASterMind™ EX is a customizable next-gen platform that unifies MASterMind Monitoring and Business apps, offering a smooth, low-impact transition using your existing system.
+
+Monitoring
+
+MASterMind™ Monitoring is trusted worldwide for reliable alarm processing and advanced tools, offering cutting-edge tech for security and monitoring center operations.
+
+Business
+
+MASterMind™ Business enhances monitoring centers by adding customer data to sites, boosting efficiency, tracking prospects, managing service, and streamlining operations.
+
+Web & Mobile
+
+Extend customer data tools and services with MASweb+ and MASmobile, enabling real-time access to MASterMind™ data and job management via web browsers and mobile devices.
+
+Demos
+
+Support
+
+Support
+
+MAS Support
+
+Training
+
+Tech Talks
+
+3 Ways to Improve Dispatching Efficiency Using Workflows
+
+Optimizing Your Auto Notification Process
+
+Enhancing Customer Service by Streamlining Action Management
+
+Moderating Excessive Alarm Activity Using Auto Clear
+
+Expanding Your Accessibility Using the VRT and IVR System
+
+Efficiently Managing Operators in Dispatch Queues
+
+Auditing Data with Data Change Archiving
+
+Enhanced Security for MASterMind Tasks
+
+Creating Payment Plans for Job Invoices
+
+Product Lifecycle
+
+Find a Partner
+
+Find a Partner
+
+MAS Vendor Partners & Integrations
+
+Discover MAS vendor partners and system integrations that enhance your monitoring operations.
+
+MAS News
+
+Contact Us
+
+< Back to Building Automation
+
+|
+
+You are browsing the product catalog for
+
+You are viewing the overview and resources for
+
+/content/hbtbt/us/en/search-results.html
+
+MASmonitoring
+
+Business
+
+Business
+
+Streamlining business operations and improving efficiency
+
+Working seamlessly with your monitoring data, the MASterMind™ Business application augments the capabilities of your monitoring center. By adding customer details to monitored sites, you can realize improved front line efficiency, track prospects and proposals, manage service and installation processes, and streamline back-office functions. Choose the modules that best suit your needs for total operational control.
+
+Standard Features
+
+Fully integrated with your MASterMind Monitoring application data for increased efficiency and profitability.
+
+Easy access to view and/or edit full customer account information such as billing and monitored service addresses, contacts, and phone numbers.
+
+Summary banner highlights critical customer and site data including A/R balances, collection level, monitoring system status, branch information, and number of active sites per customer or customers per site.
+
+Configurable action tracking for unlimited types of customer service follow-ups.
+
+Logging of inbound calls guiding agents through incident, issues, and resolution steps.
+
+Consolidated view of customer activity including monitoring events, incidents, actions, data changes, and jobs.
+
+Customizable audit function to ensure data consistency based on your data standards.
+
+Track leads, keep detailed prospect records, schedule sales appointments, create quotes, assess promotional effectiveness.
+
+Convert prospects to customers and sales proposals to jobs and ready-to-bill contracts with one click.
+
+Manage a job from proposal through installation, applying standard pricing, assigning parts, scheduling technicians, collecting payments, and billing.
+
+Control warranty provisions and related service billing.
+
+Initiate, schedule, and bill field service, inspection, and patrol jobs for installed systems.
+
+Centralize contract administration including salesperson commissions.
+
+Define default values for contract options, pricing schedules, and usage.
+
+Support for multiple business models including direct to consumer, third party, or wholesale dealer billing.
+
+Produce automated contract recurring billing, automated recurring payments, action-based one-time billing, manual invoices, and job invoices as well as output for customizable invoices and statements.
+
+Flexible and easy-to-use billing codes improve accuracy of invoicing for recurring services, equipment, and adjustments.
+
+Manage collections based on user-defined rules.
+
+Extensive reporting and data output for integrating with your General Ledger.
+
+Billing and Accounts Receivable
+
+The MASterMind™ Business application billing and accounts receivable module allows you to create and maintain contracts for automatic recurring charges and payment generation, post and apply payments, create invoices and statements, and maintain detailed data for your General Ledger program for complete management of your back-office functions.
+
+Contract Management
+
+The customer contract is the framework for tailoring your unique recurring services billing requirements and subsequent revenue recognition processing. All terms and conditions can be defaulted or customized and are presented clearly and concisely. Scanned images of any signed agreements associated with the contract can be attached to the digital contract record for easy reference.
+
+Monthly fees and discounts for specific services can also be defaulted and customized. On-going price changes and maintenance are automated so that changes by specific groupings can be updated. Price changes also allow for the creation of “what if” scenarios, for example, “If I increase price, what happens at…?”
+
+Contracts are associated with one customer but can be used for billing multiple sites. Alternatively, different services for the same site can be billed to different customers. Examples include an HOA that might be billed for basic alarm monitoring services and the homeowner is billed for additional services such as fire monitoring on a separate contract. Billed services on the same contract can be grouped onto different invoices based on several factors such as service type or site address. You can have as many billing cycles as needed to improve efficiency and prevent call volume spikes if everyone were billed at once. Frequencies can also be used for billing monthly, quarterly, annually or end of contract.
+
+Recur lines can be defined as a flat fee for a service or for a specified per occurrence fee for monitoring activity. Flexible activity plans help you customize what kinds of events are billable, how to group the activity, whether the plan is prepaid, and the threshold over which activity becomes billable.
+
+Several levels of invoice or statement groupings are available so that you can track detailed service revenue within the MASterMind application while summarizing a package price for bill presentation. Contracts can be open-ended or have an associated expiration date with user definable renewal terms. Recurring rate and revenue reports provide valuable information for your business analysis.
+
+The MASterMind Business application offers dealer contract functionality for billing your customers with wholesale monitored sites. Among the standard features for these contract types are specialized activation fees, dealer standard monthly charges, recurring ceiling or tier price schemes based upon the number of monitored systems, and per-occurrence activity plans.
+
+Automatic payment instructions can be assigned to a contract so that each time an invoice is generated, a corresponding payment is set up for debiting the customer’s bank or credit card account.
+
+Recurring Billing
+
+The recurring billing process uses the contract data to generate periodic invoices and their associated payments. The invoice provides the data for subsequent revenue recognition processing based upon your accounting periods and rules you can customize for consistency in calculating pro-rations.
+
+The recurring billing process also handles contract terminations and adjusts the customer account accordingly. A customer might be due a credit if they were billed annually in advance and the contract was cancelled prior to the end of that service period. The cancellation could also trigger an acceleration to billing due to failing to fulfill the contract terms. In either case, the appropriate revenue recognition is adjusted as required to reflect the proper earnings.
+
+There are options for bill presentation to your customers. Invoices can be emailed, printed, and mailed, or sent to a print house if you have a customized format. You can choose to use open item or balance forward statements, either of which can be generated, printed, and mailed or sent to a print house to incorporate your custom formatting.
+
+Cash Receipts and Collections
+
+Cash receipts and collections are designed to meet your needs and the requirements of your customers. Cash transactions can be manually entered, imported from a file received from your financial institution, or generated based on one-time or recurring automatic payment methods that you send to a payment processor for collection. Credits can be configured to automatically apply to the oldest debit on the account when posted, and you can easily make manual application adjustments as needed.
+
+Powerful collection rules allow you to define broad or very specific criteria for past due escalations. Options for different rules by customer type, aging, minimum balances, or MSIF multiplier are offered. The collection process evaluates each account and applies the correct collection level and next action.
+
+Options are also provided for adjustment classifications. They can be defined by billing code with different GL distribution categories or broadly with non-financial credit reasons assigned for reporting. Credit and debit limits can be defined for an employee group or individual employees to aid in consistency and level of authority controls.
+
+Customer Service
+
+The MASterMind™ Business application uses incidents and actions for tracking your customer service inquires and other non-monitored activities. Incidents are typically used to log activity related to inbound or outbound telephone calls or other automated customer touchpoints. Actions are used for customer service follow-up activities.
+
+Logging an incident includes identifying the customer and the person calling. Issues within an incident identify the reasons for the call. Multiple issues can be included and resolved within a single incident. Each issue can be defined so when selected, they automatically open the appropriate MASterMind application window most likely to aid in resolving the issue. Examples include displaying A/R History for a billing issue, opening the Job Summary window for a service-related issue, or launching the Customer Site window to update contact information. Codes are assigned to complete each issue, and the incident close time is noted.
+
+Actions represent follow-up tasks that may involve automatically generating reminder letters or track activities that require an agent’s follow-up. Examples of actions include mailing alarm history, sending yard signs, or researching a billing dispute. Actions can be created manually such as follow-ups to an incident or automatically such as in the collection process. Actions can also be billable. For example, actions can be automatically created to bill an NSF charge when an ACH payment is declined.
+
+Each action task defaults a pre-determined due date and is assigned to a specific user or work group. A powerful action queue manager dashboard can be used to review productivity and assign or reassign actions as needed.
+
+The incident and action features standardize customer service calls and give front-line representatives access to one source of customer data. Additionally, all customer related activity can be easily viewed in one window where incidents, actions, alarm events, jobs, and data change history are displayed in chronological order. In one call, you can select A/R history to verify a payment has been received, drill into job history to verify a service employee is in transit, access event history to provide details of a recent alarm event, update a contact PIN code, check the action queue to close any follow-up activity and review the contract for sales opportunities. These customer service features help you efficiently manage the workflow of inbound calls and follow-up activity no matter what the issue may be.
+
+Job Management
+
+Installation
+
+Installation jobs provide seamless billing and configuration for new or upgraded monitored systems. Inventory items can be maintained in standard packages and automatically create a system and zones as the job progresses. Default contracts can be tied to the package so that the contract is automatically created, and recurring billing can start immediately after the equipment is installed and billed. Service plans that will be used to define billing parameters for future service jobs can be assigned to the installation jobs. You can choose the level of detail desired when creating the system in order to maintain an installed equipment record with important information such as location, zone, or serial numbers.
+
+For larger commercial projects, job costing features and progress billing to bill customers before the job is finished are offered. Reporting features provide work-in-process (WIP) detail for these large-scale jobs.
+
+For larger residential or small business projects, the job installment feature delivers the ability to set up flexible financing. Equipment can be installed, billed, and revenue recognized while deferring the payments to a monthly payment plan.
+
+Service
+
+The Job Management module of the MASterMind™ Business application extends to automating your post sales service management processes. Service jobs can be categorized by type with options for ensuring consistency in both financial and operational reporting. Use service plans to outline pricing for both warranty and non-warranty replacement parts. Update system installed equipment when items are added or replaced. Predefine and require entry of job problems, diagnoses, and resolutions. Reporting aids in troubleshooting recurring problems and identifying patterns to reduce unnecessary future service calls.
+
+Fully integrated with the MASterMind Monitoring application, monitoring incidents can be defined to automatically create a service job – no need for a monitoring dispatcher to create a service job or contact a service dispatcher in response to a low battery signal.
+
+Multiple scheduling methods accommodate your unique needs for tracking availability of technicians. Equipment types, site location, and service job types can all be used to determine the most logical job assignments. Optional service maps provide a real-time visual aid to assign the closest available employee.
+
+Service jobs assignments can be e-mailed to minimize office visits. Using the optional Service Map feature, daily routes with detailed directions to each service job can be provided to optimize driving times and provide reliable technician ETAs. Optional remote applications, such as VRT ensure real-time data access and remote system testing for your field technicians.
+
+Inspections
+
+Routine site visits for periodic fire or preventive maintenance inspections can be generated automatically based on the site’s contracted inspection schedule. Inspection routes group sites into geographical areas, and a technician is pre-assigned to the route. When the inspection is due, the technician is assigned.
+
+If a service job is created for a site with an upcoming inspection, an alert notifies you and the inspection can be accelerated and scheduled at the same time as the service call.
+
+Patrol
+
+Managing guard and patrol issues is easily achieved with access to the necessary information on a single page to ensure timely dispatch and response. The Patrol Queue offers flexible ways to view patrol issues based on specified status such as employee welfare checks, or all open or completed patrol jobs for a specific site.
+
+Each site is assigned a patrol service area defaulted from the associated zip code. Patrol guards are available based on their schedule, proximity to the location, and their ability to handle each type of patrol job. An simple schedule page allows for viewing of available guards for timely dispatch.
+
+Prospects, Promotions and Proposals
+
+The MASterMind™ Business Prospects and Promotions module helps you track your sales leads and promotions. You can schedule sales appointments and assign sales representatives who can then create proposals to identify the installation equipment, assign recurring services, and track associated project costs. Converting a prospect into a customer and a proposal into an installation job is done with a click of a button, reducing the amount of post-sales data entry needed to begin servicing new customers.
+
+Prospects can be linked to a promotion where you have defined the default equipment, contract, and pricing options. Entering prospect information is as simple as entering customer information and when the sale is confirmed, the data easily transfers to the customer and site records.
+
+Market source data helps you identify how your customer heard about your company. Examples include targeted campaigns, print advertising, sales shows, or recommendations from other customers. Marketing effectiveness can be quantified by analyzing prospect or customer responses based on market source. The affiliation feature allows you to group and report on prospects and customers by association or membership.
+
+Products
+
+toggle view
+
+Product Overview
+
+MAStermind EX
+
+Monitoring
+
+Business
+
+Web & Mobile
+
+Support
+
+toggle view
+
+MAS Support
+
+Product Lifecycle
+
+Training
+
+Tech Talks
+
+MAS News
+
+Demos
+
+toggle view
+
+Demos
+
+Contact Us
+
+toggle view
+
+Contact Us
+
+Subscribe
+
+FIND A PARTNER
+
+toggle view
+
+MAS Vendor Integrations
+
+MAS Office
+
+2955 Red Hill Ave, Suite 100
+
+Costa Mesa, CA 92626
+
+(949) 737-7800
+
+FOLLOW US
+
+Copyright Honeywell International Inc.
+
+Terms & Conditions
+
+Privacy Statement
+
+Your Privacy Choices
+
+Cookies
+
+Global Unsubscribe

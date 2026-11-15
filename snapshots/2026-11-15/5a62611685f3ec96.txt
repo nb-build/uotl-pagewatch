@@ -1,0 +1,214 @@
+Find and manage abandoned and unbooked calls
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+Find and manage abandoned and unbooked calls
+
+Updated on Oct 15, 2026
+
+Published on Mar 9, 2026
+
+6 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+If a call is marked as Abandoned, it means ServiceTitan is unable to determine which Customer Service Representative (CSR) answered it or connect it to a particular customer or job. Monitoring and managing unbooked and Abandoned Calls is key to optimizing business performance and ensuring that no potential leads are lost.
+
+Things to know
+
+Customer Service Representatives (CSRs) need to ensure to click the green incoming call icon each time they answer a call to prevent unnecessary abandoned calls and minimize the time spent on reclassifying calls.
+
+Note: This works differently for Phones Pro users. In Phones Pro, advanced seat employees don’t need to manually click the call bubble to claim it—it’s done automatically for them. For more, see Understand standard and advanced seats.
+
+Find abandoned and unbooked calls
+
+Find unbooked calls within Agent Scorecards
+
+Go to the navigation bar and click Dashboard.
+
+Scroll down to the CSR Metrics section and click an Agent Scorecard to open it.
+
+On the Scorecard that opens, click the Unbooked tab.
+
+Use the Unbooked tab to see calls that require special attention.
+
+Note: If a call is in the Unbooked calls tab, it requires the manager's attention.
+
+Click any call in the Unbooked Calls section to listen to the call, add tags to the call, fill out call forms, or reclassify the call.
+
+Note: Ideally, every call you see in the Unbooked Calls tab should be a call that truly requires your attention. For example, an after-hours call or an unbooked call. Not a call where the CSR booked a job or talked to an existing customer, but simply forgot to click the call bubble.
+
+Find abandoned calls on your Dashboard
+
+If you have abandoned calls, ServiceTitan automatically generates a CSR profile called Abandoned in the CSR Metrics > Agent Scorecards section of your Dashboard. This profile shows the number of abandoned calls only, not unbooked calls.
+
+Use Search to find abandoned and unbooked calls
+
+Go to the top toolbar and click Search
+
+Click the Search dropdown then select Call.
+
+Use the Call Type filter to search for abandoned or unbooked calls.
+
+Tip: You can search for other types of calls too.
+
+Manage abandoned and unbooked calls
+
+Your office manager needs to attach the correct CSR and reclassify the call:
+
+Click the call to listen to it.
+
+Determine who the CSR was and what happened during the call. Consider the following:
+
+Was it a wrong number?
+
+Was a job booked?
+
+Is this an unbooked call lead?
+
+Does the customer need a call back?
+
+Perform the necessary follow-up.
+
+Click I’d like to reclassify the call and then:
+
+Correctly log the call (Excused call, unbooked call, related to existing job, or booked job).
+
+Attach the correct CSR to the call.
+
+Select a Call Reason.
+
+If needed, enter additional details.
+
+When finished, click Update.
+
+For more, see Reclassify and edit calls.
+
+Abandoned Calls - FAQ
+
+What is the difference between an abandoned call and an unbooked call?
+
+An abandoned call is not the same as an unbooked call.
+
+Abandoned call: A call is classified as Abandoned when ServiceTitan can't determine which CSR took the call, or which customer or job should be attached to the call. This can happen when a call is answered, but the CSR didn’t click the incoming call bubble. Or, no one picked up the phone and the call was unanswered. Abandoned calls also represent calls that are unassigned. For more, see the Abandoned call section of the ServiceTitan Glossary (commonly used ServiceTitan terms).
+
+Unbooked call: A call is classified as Unbooked when a CSR clicked the incoming call bubble, but a job was not booked. The call must also be classified as a Lead (duration over 60 seconds) for it to be considered an unbooked call. For more, see the Unbooked call section of the ServiceTitan Glossary (commonly used ServiceTitan terms).
+
+The chart below shows what actions at what point in the call booking process lead to which classifications.
+
+Note: This process applies to basic phone integration only.
+
+For more information, see Understand call classifications.
+
+Why are there so many abandoned calls in the ServiceTitan Dashboard?
+
+Abandoned calls occur when ServiceTitan can't determine which CSR took the call, or which customer or job should be attached to the call. This can happen when a call is answered, but the CSR didn’t click the incoming call bubble. Or, no one picked up the phone and the call was unanswered.
+
+With Phones Pro, you can have a Standard Seat or an Advanced Seat. If you have a Standard Seat, CSRs should click the green call bubble to claim the call. If a CSR answers a call but doesn’t click the green call bubble, the call appears as Abandoned in the ServiceTitan Dashboard.
+
+To confirm if a call is unanswered, a Dialpad administrator can follow the steps below:
+
+Impersonate an admin in Dialpad.
+
+Click Call History.
+
+Click Users or Groups and enter the caller’s phone number.
+
+Search for the call.
+
+Hover over the phone icon between the user/group and the participant to view the status of the call.
+
+If the status of the call in Dialpad is Abandoned, Missed, Missed & Voicemail, or Voicemail, the call is expected to appear as Abandoned in the ServiceTitan Dashboard.
+
+If I don't click the green call bubble, does this mean ServiceTitan won't record the call?
+
+If you don't click the green call bubble, the call will still be recorded. ServiceTitan automatically records every call answered within the office, even if the call is abandoned (green call bubble isn't clicked).
+
+To maintain accurate records and reporting, your office manager needs to listen to all abandoned calls, and attach the correct CSR to the call. Clicking the green call bubble avoids this unnecessary step.
+
+Why are abandoned calls listed separately in Agent Scorecards?
+
+Abandoned / unanswered calls usually require an immediate response. Unbooked calls might take the manager more time to review and identify the issue.
+
+That's why abandoned calls are listed separately on your dashboard in the Agent Scorecards section under the profile, Abandoned. This makes it easy for you to stay on top of abandoned calls, which usually require a quick call back.
+
+A call where the customer hung up before reaching a CSR. It cannot be attached to a customer or job and does not count toward CSR conversion metrics.
+
+What it does: Tracks unanswered call volume so you can spot staffing gaps and recover lost revenue opportunities.
+
+Where to find it: Dashboard › Agent Scorecards (Abandoned); or Search by Call type: Abandoned.
+
+Tags: Phones Pro
+
+Learn more → · See the full glossary →
+
+ServiceTitan's integrated phone system that routes calls, records conversations, and connects call data to job and customer records.
+
+What it does: Gives businesses a CSR productivity platform with call tracking, recording, and booking analytics built into the same system as their jobs.
+
+Also called: ST Phones, Integrated phone system
+
+Tags: Phones Pro
+
+See the full glossary →
+
+A CSR answers a call lead, but no job is booked. This is an unbooked call.
+What this triggers in ServiceTitan
+Unbooked calls will have an impact on the CSR call booking rate (CSR conversion rate).
+• On the dashboard: You'll see unbooked calls in the Unbooked Calls section of the dashboard.
+
+Learn more → · See the full glossary →
+
+A customer calls in who intends to hire someone (the lasts over 60 seconds). This is a call lead.
+What this triggers in ServiceTitan
+The call is classified as a lead. On the dashboard, the call lead appears as a Lead under Call Metrics.
+
+Learn more → · See the full glossary →
+
+A call comes in from UPS. Or, someone calls in with a wrong number.
+These are excused calls.
+
+Learn more → · See the full glossary →
+
+Was this article helpful?
+
+Yes No
+
+Related articles
+
+Understand call classifications
+
+Product Areas > Call Booking > Manage call centers
+
+View and manage Abandoned Calls
+
+Product Areas > Contact Center Pro > Contact center managers
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use
