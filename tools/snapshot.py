@@ -26,7 +26,7 @@ there on a capture at least 20 hours later (filters A/B tests and CDN churn). Go
 older sha is "flip_back". Pages that cannot be fetched are listed, never guessed.
 """
 import argparse, csv, difflib, hashlib, html.parser, json, re, sys, threading, time, urllib.error, urllib.request
-import urllib.robotparser, random
+import os, urllib.robotparser, random
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -120,15 +120,31 @@ def pick_urls(a, cells):
 # ---------------------------------------------------------------------------------------------
 # polite fetcher
 # ---------------------------------------------------------------------------------------------
-class Fetcher:
-    def __init__(self, delay):
-        self.delay, self.robots, self.last = delay, {}, {}
+class OutOfTime(Exception):
+    pass
 
-    def _get(self, url, timeout=20):
+
+MAX_CRAWL_DELAY = 60  # seconds; a site asking for more is skipped politely instead of waited on
+
+
+class Fetcher:
+    def __init__(self, delay, deadline=None):
+        self.delay, self.robots, self.last = delay, {}, {}
+        self.deadline = deadline
+
+    def _get(self, url, timeout=20, total=45):
+        """Fetch with a per-read timeout AND a total time cap, so a server that drips bytes can't hang us."""
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,text/plain;q=0.9,*/*;q=0.5"})
+        start = time.time()
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            body = r.read(MAX_BYTES + 1)
-            return r.status, r.headers.get("Content-Type", ""), body
+            chunks, size = [], 0
+            while size <= MAX_BYTES:
+                if time.time() - start > total:
+                    raise TimeoutError(f"page took over {total}s to download")
+                c = r.read1(65536) if hasattr(r, 'read1') else r.read(65536)
+                if not c: break
+                chunks.append(c); size += len(c)
+            return r.status, r.headers.get("Content-Type", ""), b"".join(chunks)[:MAX_BYTES + 1]
 
     def robots_for(self, url):
         p = urlparse(url); base = f"{p.scheme}://{p.netloc}"
@@ -148,7 +164,11 @@ class Fetcher:
     def _wait(self, host, extra=0):
         gap = max(self.delay, extra) + random.uniform(0, self.delay * 0.5)  # small jitter, never faster
         t = self.last.get(host)
-        if t is not None and time.time() - t < gap: time.sleep(gap - (time.time() - t))
+        if t is not None and time.time() - t < gap:
+            pause = gap - (time.time() - t)
+            if self.deadline is not None and time.time() + pause > self.deadline:
+                raise OutOfTime("time budget reached while waiting politely")
+            time.sleep(pause)
         self.last[host] = time.time()
 
     def fetch(self, url):
@@ -156,6 +176,8 @@ class Fetcher:
         if not rp.can_fetch(UA, url):
             return {"status": "skipped_robots", "robots": rstate or "disallowed"}
         cd = rp.crawl_delay(UA) or 0
+        if cd > MAX_CRAWL_DELAY:
+            return {"status": "skipped_crawl_delay", "robots": f"site asks for {cd}s between pages; skipped politely"}
         self._wait(urlparse(url).netloc, cd)
         try:
             st, ctype, body = self._get(url)
@@ -278,23 +300,29 @@ def cmd_run(a):
     """Fetch every URL. Different sites are visited at the same time (a.workers threads), but each
     site is still visited one page at a time with the polite per-site gap. A time budget stops new
     fetches after a.budget minutes, so results are always saved even when some sites are slow."""
-    from concurrent.futures import ThreadPoolExecutor
+    from concurrent.futures import ThreadPoolExecutor, wait
     cells = load_cells(a.baseline); urls = pick_urls(a, cells)
     by_host = {}
     for u in urls: by_host.setdefault(urlparse(u).netloc, []).append(u)
     deadline = time.time() + a.budget * 60
+    hard_stop = deadline + a.grace * 60  # in-flight pages get a.grace more minutes, then we save and exit regardless
     out = {}
     def work(host_urls):
-        f = Fetcher(a.delay)
+        f = Fetcher(a.delay, deadline)
         for u in host_urls:
             if time.time() > deadline:
                 out[u] = {"status": "skipped_time_budget", "detail": f"not started within {a.budget} min"}; continue
             try: out[u] = f.fetch(u)
+            except OutOfTime as e: out[u] = {"status": "skipped_time_budget", "detail": str(e)}
             except Exception as e: out[u] = {"status": f"error_{type(e).__name__}", "detail": str(e)[:200]}
-    with ThreadPoolExecutor(max_workers=max(1, a.workers)) as ex:
-        list(ex.map(work, by_host.values()))
-    res = [(u, out.get(u, {"status": "not_run"})) for u in urls]
+    ex = ThreadPoolExecutor(max_workers=max(1, a.workers))
+    futs = [ex.submit(work, v) for v in by_host.values()]
+    wait(futs, timeout=max(1, hard_stop - time.time()))
+    ex.shutdown(wait=False, cancel_futures=True)
+    res = [(u, dict(out.get(u) or {"status": "not_run_hard_stop", "detail": "still running at the hard stop"})) for u in urls]
     rep = store_and_diff(Path(a.root), a.date or date.today().isoformat(), res, cells); print(summary(rep))
+    sys.stdout.flush()
+    os._exit(0)  # don't wait on any thread still stuck on a slow site; results are already saved
 
 
 def load_parallel(path):
@@ -414,7 +442,7 @@ def main():
         p.add_argument("--date")
         if name == "run":
             p.add_argument("--urls"); p.add_argument("--shard"); p.add_argument("--limit", type=int); p.add_argument("--delay", type=float, default=5.0)
-            p.add_argument("--workers", type=int, default=24); p.add_argument("--budget", type=float, default=100.0)
+            p.add_argument("--workers", type=int, default=24); p.add_argument("--budget", type=float, default=100.0); p.add_argument("--grace", type=float, default=5.0)
         else:
             p.add_argument("--parallel-json", nargs="*"); p.add_argument("--inbox")
     sp.add_parser("selftest")
