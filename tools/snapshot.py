@@ -124,7 +124,7 @@ class Fetcher:
     def __init__(self, delay):
         self.delay, self.robots, self.last = delay, {}, {}
 
-    def _get(self, url, timeout=30):
+    def _get(self, url, timeout=20):
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,text/plain;q=0.9,*/*;q=0.5"})
         with urllib.request.urlopen(req, timeout=timeout) as r:
             body = r.read(MAX_BYTES + 1)
@@ -136,7 +136,7 @@ class Fetcher:
         rp = urllib.robotparser.RobotFileParser(); state = "ok"
         try:
             self._wait(p.netloc)
-            st, _, body = self._get(base + "/robots.txt", timeout=15)
+            st, _, body = self._get(base + "/robots.txt", timeout=10)
             rp.parse(body.decode("utf-8", "replace").splitlines())
         except urllib.error.HTTPError as e:
             if 400 <= e.code < 500: rp.parse([]); state = f"robots {e.code}: treated as allow-all"
@@ -275,8 +275,25 @@ def summary(rep):
 # commands
 # ---------------------------------------------------------------------------------------------
 def cmd_run(a):
+    """Fetch every URL. Different sites are visited at the same time (a.workers threads), but each
+    site is still visited one page at a time with the polite per-site gap. A time budget stops new
+    fetches after a.budget minutes, so results are always saved even when some sites are slow."""
+    from concurrent.futures import ThreadPoolExecutor
     cells = load_cells(a.baseline); urls = pick_urls(a, cells)
-    f = Fetcher(a.delay); res = [(u, f.fetch(u)) for u in urls]
+    by_host = {}
+    for u in urls: by_host.setdefault(urlparse(u).netloc, []).append(u)
+    deadline = time.time() + a.budget * 60
+    out = {}
+    def work(host_urls):
+        f = Fetcher(a.delay)
+        for u in host_urls:
+            if time.time() > deadline:
+                out[u] = {"status": "skipped_time_budget", "detail": f"not started within {a.budget} min"}; continue
+            try: out[u] = f.fetch(u)
+            except Exception as e: out[u] = {"status": f"error_{type(e).__name__}", "detail": str(e)[:200]}
+    with ThreadPoolExecutor(max_workers=max(1, a.workers)) as ex:
+        list(ex.map(work, by_host.values()))
+    res = [(u, out.get(u, {"status": "not_run"})) for u in urls]
     rep = store_and_diff(Path(a.root), a.date or date.today().isoformat(), res, cells); print(summary(rep))
 
 
@@ -397,6 +414,7 @@ def main():
         p.add_argument("--date")
         if name == "run":
             p.add_argument("--urls"); p.add_argument("--shard"); p.add_argument("--limit", type=int); p.add_argument("--delay", type=float, default=5.0)
+            p.add_argument("--workers", type=int, default=24); p.add_argument("--budget", type=float, default=100.0)
         else:
             p.add_argument("--parallel-json", nargs="*"); p.add_argument("--inbox")
     sp.add_parser("selftest")
