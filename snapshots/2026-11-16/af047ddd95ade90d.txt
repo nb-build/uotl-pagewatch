@@ -1,0 +1,73 @@
+Changelog
+
+Jump to Content
+
+GuidesAPI ReferenceChangelog
+
+Changelog
+
+GuidesAPI ReferenceChangelog
+
+Changelog
+
+Added
+
+New Endpoints: Created and Update Review Response
+
+about 4 years ago by Matthew Rine
+
+Added
+
+New Feature: Test Accounts for Developers
+
+about 4 years ago by Matthew Rine
+
+Added
+
+New Endpoints: Adjust Review Attribution
+
+about 4 years ago by Matthew Rine
+
+Added
+
+New Endpoint: List Review Responses
+
+about 4 years ago by Matthew Rine
+
+Added
+
+New Webhooks: Review Invitations
+
+over 4 years ago by Matthew Rine
+
+Added
+
+New Endpoints: Create, Update, Delete, & List Templates
+
+over 4 years ago by Matthew Rine
+
+Added
+
+New Endpoints: CRUD Campaigns
+
+over 4 years ago by Matthew Rine
+
+Added
+
+New Webhooks: Contacts
+
+over 4 years ago by Matthew Rine
+
+Added
+
+New Endpoints: List Webhooks & List Campaign Interactions
+
+over 4 years ago by Matthew Rine
+
+Added
+
+New Endpoints: Add/Remove/Update Attribute Values and Tags on a Contact
+
+over 4 years ago by Matthew Rine
+
+1 of 2

@@ -1,0 +1,583 @@
+Dentrix Ascend Reports
+
+Dentrix Ascend Reports
+
+This is an interactive guide that can help you decide which reports to use in various circumstances, according to the type of inquiry you want to make and data you are interested in.
+
+Select whether you want to filter the list or show all reports:
+
+Filter Show All
+
+Filter by action:
+
+Analyze Assess Collect Contact Evaluate Follow Up With Identify Improve Increase Monitor Optimize Pay Prepare For Provide Reconcile
+
+Filter by topic:
+
+Budget Clinical Information to Medicaid Clinical Information to Patients Clinical Note Tasks Clinical Information to Specialists Collections Data Entry and Changes Due Lab Cases Employees Fees Financial Health Financial Information to Accountants Financial Information to Patients Fraud or Embezzlement Growth Hours Worked Insurance Payers Insurance Usage Money Online Booking Patient Billing Patient Health Patient Records Patients Paying Providers on Collections Paying Providers on Production Payments Practice Value Production Production Potential Providers on Collections Providers on Production Recare Referral Sources Scheduling Staffing Needs Transactions Unrealized Production Upcoming Appointments
+
+You may be interested in one of these reports:
+
+Active Patient Count Report
+
+The Active Patient Count Report displays the number of patients seen in a specified date range. A Henry Schein One representative can use this report to help you assess your practice. You can customize the default report as needed.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production Potential
+
+Active Patients in Recare Report
+
+The Active Patients in Recare Report displays how many patients have been seen and of those how many are actively participating in prophy and perio recare.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production Potential, Optimize Schedule
+
+Active Patients in Recare - Chart Report
+
+The Active Patients in Recare - Chart Report displays the number of patients who are actively participating in prophy recare in the current location and the number of patients who are not. The report includes patients who have been seen in the past 18 months.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production Potential, Optimize Schedule
+
+Active Patients in Recare - Dashboard Report
+
+The Active Patients in Recare - Dashboard Report displays the number of patients who are actively participating in prophy recare in the current location and the number of patients who are not. The report includes patients who have been seen in the past 18 months.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production Potential, Optimize Schedule
+
+Adjustment Summary Report
+
+The Adjustment Summary Report displays details regarding adjustments that have been made in your practice during the past three months. Next to each dollar amount on the report, either an upward-pointing, diagonal, green arrow (indicating a positive number) or a downward-pointing, diagonal, red arrow (indicating a negative number) appears for easier identification. The report groups adjustments by the production type (collection or production) and then by category (charge or credit).
+
+Purposes: Analyze Collections, Analyze Production
+
+Aged Receivables Report
+
+The Aged Receivables Report displays the aged balances of accounts and the total aging of all receivables as of today or for a specified aging bracket. You can send this report to your accountant monthly.
+
+Purposes: Assess Financial Health, Provide Financial Information to Accountants, Analyze Collections
+
+Applied Collection Report
+
+The Applied Collection Report displays payments based on the dates that they are applied to procedures. You can customize the default report as needed. This is the recommended report to use if you pay your providers on collections.
+
+Purposes: Analyze Collections, Pay Providers on Collections
+
+Appointments Booked Online Report
+
+The Appointments Booked Online Report displays that appointments that were booked online by patients within or for a specified date range.
+
+Purposes: Evaluate Online Booking, Optimize Scheduling
+
+Audit log
+
+The audit log is a record of various activities performed by users in Dentrix Ascend.
+
+Purposes: Monitor Data Entry and Changes, Identify Fraud or Embezzlement
+
+Audit Report
+
+The Audit Report is a record of various activities performed by users in Dentrix Ascend.
+
+Purposes: Monitor Data Entry and Changes, Identify Fraud or Embezzlement
+
+Billing statement (individual patient)
+
+You can generate a billing statement for a specific patient or account. You can then send it electronically, print it in-office to mail it, or use Dentrix Ascend's print-and-mail statement fulfillment service to have it printed and mailed to the patient or guarantor.
+
+Purposes: Contact Patients, Collect Money
+
+Billing statements
+
+You can generate a batch of billing statements, review any of the statements, and then send all or only specific statements electronically, print all or only specific statements in-office to mail them, or use Dentrix Ascend's print-and-mail statement fulfillment service to have all or only specific statements printed and mailed.
+
+Purposes: Contact Patients, Collect Money
+
+Calendar (printed)
+
+You can print the schedule as viewed. Up to four provider or operatory columns fit on a page (additional columns appear on subsequent pages). You can print the schedule in black and white or color (if supported by the printer).
+
+Purpose: Prepare For Upcoming Appointments
+
+Clinical Note Tasks Report
+
+The Clinical Notes Tasks Report displays providers who have any Unsigned, Not Entered, and/or In Progress clinical notes in specified locations. For each provider on the report, the number of clinical notes with each status appear along with a total count.
+
+Purpose: Monitor Clinical Note Tasks
+
+Collection Detail Report
+
+The Collection Detail Report displays collections by month and year for each provider. You can customize the default report as needed.
+
+Purpose: Evaluate Paying Providers on Collections
+
+Collection Success Report
+
+The Collection Success Report displays the successfulness of collections as a percentage (the collections divided by the production) over the past 12 months across multiple locations. For each location that you have permission to view, the report displays the production, collections, and success percentage by month and totals. To make it easier for you to see the relative success from month to month, the percentages are shaded: greener is better; redder is worse. The report includes prepayments and unallocated amounts as part of collections. You can customize the default report as needed.
+
+Purpose: Analyze Collections
+
+Collections - MTD
+
+The report displays the dollar amount of collections (as a negative number) since the beginning of the month at your location. The report displays amounts by category, such as guarantor payments and insurance payments, and displays a grand total of those amounts.
+
+Purposes: Analyze Collections, Analyze Budget
+
+Collections - Yesterday
+
+The report displays the dollar amount of collections (as a negative number) from yesterday at your location. The report displays amounts by category, such as guarantor payments and insurance payments, and displays a grand total of those amounts.
+
+Purpose: Analyze Collections
+
+Collections % - MTD
+
+The report displays the percentage of collections (as a negative number) since the beginning of the month at your location.
+
+Purpose: Analyze Collections
+
+Collections % - Yesterday
+
+The report displays the percentage of collections (as a negative number) from yesterday at your location.
+
+Purpose: Analyze Collections
+
+Completed Production - MTD
+
+The report displays the total dollar amount of production per specialty (such as General Practice or Hygienist) of the providers of procedures posted since the beginning of the month at your location. The report also displays a combined total dollar amount for your location.
+
+Purpose: Analyze Production
+
+Completed Production - Yesterday
+
+The report displays the total dollar amount of production per specialty (such as General Practice or Hygienist) of the providers of procedures posted yesterday at your location. The report also displays a combined total dollar amount for your location.
+
+Purpose: Analyze Production
+
+Credit Card Processed Payments
+
+The Credit Card Processed Payments Report lists credit card payments (in-office or online) that have been posted, voided, or refunded within the past week using Dentrix Ascend Pay across multiple Worldpay accounts. You can use this report to help you reconcile credit card transactions in Dentrix Ascend with Worldpay reports.
+
+Purpose: Reconcile Collections
+
+Credit card receipts
+
+You can reprint a receipt for a credit card payment (in-office or online) that was posted using Dentrix Ascend Pay. You can also reprint a receipt for a voided or refunded amount that corresponds to the payment.
+
+Purpose: Provide Financial Information to Patients
+
+Daily Huddle Dashboard - New Patients
+
+The Daily Huddle Dashboard - New Patients displays daily practice details for new patients and scheduling. Use this dashboard during your office's morning staff meetings to provide some daily statistics to help you focus on the patients coming in for treatment on the current day and/or the following day.
+
+Purpose: Prepare For Upcoming Appointments
+
+Daily Huddle Dashboard - Production, Collections
+
+The Daily Huddle Dashboard - Production, Collections displays daily practice details for production and collections. Use this dashboard during your office's morning staff meetings to provide some daily statistics to help you focus on the patients coming in for treatment on the current day and/or the following day
+
+Purpose: Prepare For Upcoming Appointments
+
+Day sheet
+
+The day sheet displays charges, payments, adjustments, and unearned revenue for your organization, locations, and individual providers for a specified date range.
+
+Purposes: Reconcile Collections, Reconcile Production
+
+Deposit Report
+
+The Deposit Report displays cash, check, and credit card payments from patients and electronic funds transfers (EFTs) and check payments from insurance carriers. By default, the report includes payments that were received today from only the current location. Unlike the deposit slip, you can filter the Deposit Report to include payments from multiple locations. The report also displays a total for each type of payment and a grand total of all payments.
+
+Purpose: Reconcile Collections
+
+Deposit Slip
+
+You can view and print a deposit slip for a specified date or date range. The deposit slip includes cash, check, and credit card payments from patients and electronic funds transfers (EFTs) and check payments from insurance carriers. The deposit slip also displays totals for each type of payment.
+
+Purpose: Reconcile Collections
+
+Fee Schedule Report
+
+The Fee Schedule Report lists the description, code, and fee for each procedure in a specified fee schedule. The report is grouped by procedure code category.
+
+Purpose: Evaluate Fees
+
+Insurance Utilization Report
+
+For the Insurance Utilization Report, you can use the analysis report builder tools to customize this report, which displays production and collections from insurance within a specified time frame.
+
+Purpose: Evaluate Insurance Usage
+
+Integrated Payments Report
+
+The Integrated Payments Report lists credit card payments (in-office or online) that have been posted, voided, or refunded using Dentrix Ascend Pay. You can use this report to help you reconcile credit card transactions in Dentrix Ascend with Worldpay reports.
+
+Purpose: Reconcile Collections
+
+Lab Case - Appointments Report
+
+The Lab Case - Appointments Report displays information regarding lab cases that are due, starting from yesterday out to the next seven days. For each lab case, the appointment details and lab details also appear. The report also displays a count of the total number of appointments with lab cases on the report.
+
+Purposes: Monitor Due Lab Cases, Prepare For Upcoming Appointments
+
+Ledger Report
+
+The Ledger Report displays the following transactions for a specific patient or account on a specified date or within a specified date range: Procedures, claims, payments, and adjustments; or procedures only.
+
+Purposes: Provide Financial Information to Patients
+
+Missed Appointments Report
+
+The Missed Appointments Report displays a graph that represents the number of missed appointments with each of the specified statuses. The report displays, for each provider, the number of missed appointments and the production that was not realized from those appointments with each of the specified statuses. The report also displays the details of each missed appointment. The report includes only missed appointments that are within the specified date range that have not been rescheduled.
+
+Purposes: Analyze Unrealized Production, Increase Production
+
+Multi-location Aged Receivables Report
+
+The Multi-location Aged Receivables Report displays the aged receivables by location. By default, the report includes any account with a non-zero balance (a positive or negative dollar amount). For each account on the report, the following information appears: the primary guarantor's name, the aged balances (expressed as positive numbers in each applicable aging bracket), the unapplied credits (expressed as a negative number), and the total account balance (the difference between the sum of the aged amounts and the amount of the unapplied credits).
+
+Purposes: Assess Financial Health, Provide Financial Information to Accountants, Analyze Collections
+
+New Patients by Month - Chart Report
+
+The report displays the number of new patients (based on the first visit date) that have visited your practice in the past 12 months. For each month, the report displays a colored, vertical bar whose height corresponds to the patient count.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production Potential
+
+New Patients Seen - MTD
+
+The report displays the number of patients who have a first visit date since the beginning of the month at your location.
+
+Purposes: Monitor Growth, Optimize Scheduling
+
+New Patients Seen - Yesterday
+
+The report displays the number of patients who have a first visit date yesterday at your location.
+
+Purposes: Monitor Growth, Optimize Scheduling, Follow Up With Patients
+
+New Patients Seen Chart
+
+The chart represents the number of patients who have a first visit date this month or in any of the previous five months at your location.
+
+Purposes: Monitor Growth, Optimize Scheduling
+
+New Patients Seen Report
+
+The New Patients Seen Report displays the number of patients with a first visit date that is within a specified date range. The count is broken down by year and then month for each location, specialty, and provider. Also, there are totals for each location and grand totals.
+
+Purposes: Monitor Growth, Optimize Scheduling
+
+New Patients Scheduled - Remaining Month
+
+The report displays the number of patients who have an appointment scheduled for today or any day until the end of the month at your location. The report also displays a combined total dollar amount for your location.
+
+Purposes: Monitor Production Potential, Prepare For Upcoming Appointments
+
+New Patients Scheduled - Today
+
+The report displays the number of new patients who have an appointment scheduled for today at your location.
+
+Purposes: Monitor Production Potential, Prepare For Upcoming Appointments
+
+New Patients Scheduled Chart
+
+The chart represents the number of new patients who have an appointment scheduled at your location this month or in any of the previous five months.
+
+Purposes: Monitor Production Potential, Prepare For Upcoming Appointments
+
+Outstanding Claims Report
+
+The Outstanding Claims Report displays unresolved claims that are outstanding as of a specified date. The report also displays the aged totals for those claims.
+
+Purposes: Monitor Production Potential, Evaluate Insurance Payers, Follow Up With Insurance Payers
+
+Patient & Production by Referral Type - Chart Report
+
+Keeping track of new-patient referral sources helps you identify which referral sources generate the most new patients and production. Knowing this can help you know where to spend your marketing time, money, and efforts. The Patient &amp; Production by Referral Type - Chart Report displays referral production statistics in the current location for the past 12 months. The Patient Count chart displays the number of new patients (patients who have a first visit date in the past 12 months) by referral type. The Production chart displays the resulting production amount by referral type.
+
+Purpose: Analyze Referral Sources
+
+Patient Clinical Report
+
+The Patient Clinical Report displays information from a patient's clinical record for a specified date range.
+
+Purposes: Provide Clinical Information to Patients, Provide Clinical Information to Specialists
+
+Patient Health Report
+
+The Patient Health Report displays health statistics in the current location for the past calendar month, but you can select other locations and change the date range as needed. The report displays the number of evaluations, number of healthy evaluations, and the percentage of healthy patients in each location selected for the report. The report also displays the total number of evaluations, the total number of healthy evaluations, and the total percentage of healthy patients in all locations selected for the report. The report displays the name and service date of each patient and groups them by healthy and unhealthy. The report focuses on cavities to determine healthiness.
+
+Purposes: Evaluate Patient Health, Improve Patient Health
+
+Patient Insurance Report
+
+The Patient Insurance Report displays a list of insurance carriers and the patients covered under each carrier's plans.
+
+Purpose: Analyze Insurance Usage
+
+Patient List Report
+
+The Patient List Report lists patients and their contact information. For each patient on the report, the following information appears: name, preferred name, date of birth, status, primary contact, and that contact person's contact information (phone number, email address, and mailing address).
+
+Purpose: Contact Patient
+
+Patients not Recently Seen Report
+
+The Patients not Recently Seen Report lists the patients who have not received treatment since the specified date. For each patient, the date of the patient's most recent treatment and the patient's contact information appear on the report. Patients on the report are grouped by household (patients with the same primary contact person).
+
+Purposes: Increase Production, Optimize Scheduling
+
+Patients Seen Report
+
+The Patients Seen Report displays the number of patients with at least one procedure that was posted within a specified date range. The count is broken down by year and then month for each location, specialty, and provider. Also, there are totals for each location and grand totals.
+
+Purposes: Assess Practice Value, Evaluate Staffing Needs, Monitor Production
+
+Payment Analysis Report
+
+The payment analysis report displays how, when, and what types of payments are received at your practice for a specified date range.
+
+Purpose: Analyze Payments
+
+Payment plan
+
+You can print the details of a payment plan from the Ledger of the guarantor with whom the plan is associated or from the Ledger of any of the patients who have that guarantor in common. Also, included with the details of the payment plan is a truth-in-lending disclosure.
+
+Purpose: Provide Financial Information to Patients
+
+Payment Plan Status Report
+
+The Payment Plan Status Report allows you to review the status of all active payment plans or only those with a past due payment for the location that you are currently logged in to. You can use this report to help you contact guarantors who you need to collect money from. For each guarantor on the report, the following information appears: the name and phone number of the guarantor, the date and amount of the last payment, the starting date of the payment plan, the agreed upon payment amount (and interval), the total past due amount, and the balance of the payment plan.
+
+Purposes: Collect Money, Contact Patients
+
+Payment Tags Report
+
+The Payment Tags Report displays statistics regarding tags that are attached to posted payments. By default, the report provides data from the previous month, but you can change the filters as needed. For each primary tag, the total number of payments with that tag and the total amount collected from payments with that tag appear.
+
+Purpose: Analyze Payments
+
+Perio exam
+
+You can print the details of a perio exam in a patient's record.
+
+Purposes: Provide Clinical Information to Patients, Provide Clinical Information to Specialists
+
+Predetermination - Tracking Report
+
+The Predetermination - Tracking Report displays the status (as Dentrix Ascend receives it from the clearinghouse) for each predetermination that has been sent to payers in the last 180 days. Use this report to follow up with or resubmit predeterminations to payers and to follow up with patients regarding their predeterminations. Also, because the report is grouped by insurance carrier, it may help you identify patterns with certain payers. For example, if a specific carrier consistently takes an extended period of time to accept predeterminations, you can follow up to find out why this is happening.
+
+Purpose: Monitor Production Potential, Follow Up With Insurance Payers, Follow Up With Patients
+
+Predetermination - Unsent Report
+
+The Predetermination - Unsent Report lists the predeterminations that have been created in the last 180 days but have not been sent to payers.
+
+Purpose: Monitor Production Potential
+
+Primary Contacts without Phone Numbers Report
+
+The Primary Contacts without Phone Numbers Report lists patients who are missing a phone number, an email address, and/or a mailing address in their patient records. The patients on the report are grouped by primary contact. Also, for each patient, the report displays any existing contact information, blank space where information is missing), and the patient status (such as New or Active).
+
+Purpose: Improve Patient Records
+
+Production by Provider Type - Pie Chart Report
+
+The Production by Provider Type - Pie Chart Report displays the total production for each type of provider, according to the providers' selected specialties (such as dentists or hygienists), for the past 12 months. Each slice of the pie chart corresponds to the production for all providers of a given type.
+
+Purpose: Analyze Production
+
+Production by Referral Source Report
+
+The Production by Referral Source Report displays production amounts during the previous 12 months as a result of referrals from professional, marketing, and other non-patient sources. For each referral source on the report, the number of referred patients and total production appear. The report also displays the total production from all referral sources combined.
+
+Purpose: Analyze Referral Sources
+
+Production by Referring Patient Report
+
+The Production by Referring Patient Report displays production amounts during the previous 12 months as a result of patient referrals. For each referring patient on the report, the number of referred patients and total production appear. The report also displays the total production from all referring patients combined.
+
+Purpose: Analyze Referral Sources
+
+Production Detail Report
+
+The Production Detail Report displays production by month and year for each provider. You can customize the default report as needed.
+
+Purpose: Analyze Production
+
+Production Summary Report
+
+The Production Summary Report displays production by category. A Henry Schein One representative can use this report to help you assess your practice. You can customize the default report as needed.
+
+Purposes: Assess Practice Value, Monitor Production
+
+Production Trends - Chart Report
+
+The Production Trends - Chart Report displays net production over the past 12 months for each type of provider, according to the providers' selected specialties (such as dentists or hygienists). Each dot on the line graph corresponds to the net production for all providers of a given type.
+
+Purposes: Monitor Growth, Monitor Production
+
+Provider A/R Totals Report
+
+The Provider A/R Totals Report can indicate how effective your collection efforts are. This report displays total accounts receivable, total production, total collections, and a ratio (%) of collections to production. The report can also include unapplied credits. You should run this report and review it with your staff at least once a month (some consultants even suggest running it weekly).
+
+Purpose: Analyze Collections
+
+Provider Aging Report
+
+The longer outstanding balances go unpaid, the less likely they are to be paid. That's why it's vital to understand how much money is outstanding and for how long (30, 60, 90, or over 120 days). The Provider Aging Report displays a summary of how much remains uncollected and for how long for all the providers in your organization at once. You should run this report and discuss it with your providers at least monthly.
+
+Purpose: Analyze Collections
+
+Provider Production Report
+
+The Provider Production Report displays total amounts of adjustments and procedures that are associated with a provider within a month. This report is useful if you pay providers based on production.
+
+Purposes: Pay Providers on Production, Analyze Production
+
+Provider Production History Report
+
+The Provider Production History Report displays the transaction revision history and the provider production for the previous month. This report is useful if you pay providers based on production and need to investigate and explain provider production numbers, especially if there is confusion or misunderstanding.
+
+Purpose: Evaluate Paying Providers on Production
+
+Providers Contracted with Insurance Carriers Report
+
+The Providers Contracted with Insurance Carriers Report displays a list of insurance carriers and the providers and locations (which are set up as billing providers) that are contracted with each carrier.
+
+Purpose: Analyze Insurance Usage
+
+Recare Management Report
+
+The Recare Management Report lists the patients with and/or without recare attached and who have and/or do not have scheduled recare appointments.
+
+Purposes: Analyze Recare, Improve Patient Records, Increase Production
+
+Recare Report
+
+The Recare Report lists patients with recare attached to their records. The list is organized alphabetically by recare type. And, for each recare type listed, the following information is also displayed: the recare due date, the date of the next appointment scheduled for that recare type, the patient name, the patient's primary contact, the primary contact's phone number, and the date of the patient's last visit.
+
+Purposes: Analyze Recare, Prepare For Upcoming Appointments
+
+Referral Analysis Report
+
+The Referral Analysis Report displays an analysis of professional, marketing, patient, and other referrals that led to new patients being seen at your office. The report displays the number and percentage of each referral type within a specified analysis period. The statistics for referrals within another specified period that you want to compare to the analysis period also appear. Additionally, for the analysis period, the referred patients and their first visit dates appear for each referral type. This is an organization-wide report.
+
+Purpose: Analyze Referral Sources
+
+Referred Patients & Production Report
+
+The Referred Patients & Production Report displays the total number of patients who were referred to your practice from all sources in the past 12 months and the total amount of the production from those visits.
+
+Purpose: Analyze Referral Sources
+
+Route slip
+
+For the current date, you can print route slips for all patients with appointments in all operatories or a specified operatory, and you can print a route slip for an individual patient. Also, you can print route slips for patients with appointments scheduled on your location's next business day.
+
+Purposes: Provide Clinical Information to Patients, Prepare For Upcoming Appointments
+
+Scheduled and actual production (Calendar)
+
+You can view the scheduled and actual production for a given day or week. The amounts are available in numerical and graphical form.
+
+Purposes: Analyze Production, Optimize Scheduling
+
+Scheduled Production - Remaining Month
+
+The report displays the gross scheduled production per specialty (such as General Practice or Hygienist) of the providers assigned to appointments scheduled for today or any day until the end of the month at your location. The report also displays a combined total of the gross scheduled production amounts for your location. Gross scheduled production is the sum of the charges for scheduled procedures without any discounts or adjustments deducted.
+
+Purposes: Evaluate Staffing Needs, Monitor Production Potential, Optimize Scheduling
+
+Scheduled Production - Today
+
+The report displays the gross scheduled production per specialty (such as General Practice or Hygienist) of the providers assigned to appointments scheduled for today at your location. The report also displays a combined total of the gross scheduled production amounts for your location. Gross scheduled production is the sum of the charges for scheduled procedures without any discounts or adjustments deducted.
+
+Purposes: Evaluate Staffing Needs, Monitor Production Potential, Optimize Scheduling
+
+Scheduled Production By Month Report
+
+The Scheduled Production By Month Report displays production for scheduled appointments by month and year for each provider. You can customize the default report as needed.
+
+Purposes: Evaluate Staffing Needs, Monitor Production Potential, Optimize Scheduling
+
+Statement Submission Report
+
+The Statement Submission Report provides insight into your billing activity. The report lists the billing statements that have been sent electronically and printed during a specified date range. Also, the report provides details regarding each of those statements.
+
+Purposes: Analyze Patient Billing, Reconcile Collections, Reconcile Patient Billing
+
+Time clock history (individual user)
+
+You can check your time clock history for a specific date range.
+
+Purpose: Reconcile Hours Worked
+
+Time Clock Summary Report
+
+The Time Clock Summary Report displays time clock history for all users within a specific date range.
+
+Purposes: Reconcile Hours Worked, Pay Employees
+
+Transaction Detail Report
+
+The Transaction Detail Report displays transactions by location, provider, and patient for the current day. The report includes the total charges and credits for each transaction, provider, and location. Also, for most measures on the report, you can view more details.
+
+Purpose: Analyze Transactions
+
+Transaction Summary Report
+
+The Transaction Summary Report displays the sum of each transaction type by location and provider for the current day. The report includes a patient count and the average production per patient for each provider and location. Also, for most measures on the report, you can view the items that have been used in the calculation.
+
+Purpose: Analyze Transactions
+
+Treatment Tracker Report
+
+The Treatment Tracker Report displays patients who have scheduled and unscheduled treatment-planned procedures. For each patient, the name of the treatment plan case and the total amount presented to the patient appears. The report groups the patients by location, by provider, and then by whether the planned treatment is scheduled or unscheduled. The report also displays the total amount presented for each provider and the total amount presented for each location.
+
+Purposes: Monitor Production Potential, Optimize Scheduling, Increase Production
+
+Unapplied Credits Report
+
+The Unapplied Credits Report displays each patient account that has unapplied credits. For each account, the report lists the date, type, and amount of the credit.
+
+Purposes: Improve Collections, Improve Patient Records
+
+Unscheduled Treatment - Pie Chart Report
+
+The Unscheduled Treatment - Pie Chart Report displays the percent of treatment-planned procedures that have been scheduled and those that are still unscheduled. The report displays a pie chart for each provider.
+
+Purpose: Monitor Production Potential
+
+Unscheduled Treatment Report
+
+The Unscheduled Treatment Report lists patients with treatment-planned procedures that have not been scheduled yet. For each patient on the report, the following information appears: his or her last visit date, the insurance renewal month, any remaining benefits, and the treatment-planned procedures and their corresponding providers and fees. Also, patients are grouped by their primary contact, and that contact person's name, phone number, and email address appear.
+
+Purposes: Monitor Production Potential, Optimize Scheduling, Increase Production, Follow Up With Patients
+
+Workflow Compliance Report
+
+The Workflow Compliance Report shows which appointment tasks were successfully accomplished during patient visits and which were not. This report is most beneficial if your location has been set up to use workflow compliance.
+
+Purposes: Improve Patient Records, Improve Collections
+
+UDS 6B Section M Line 22a 2022 Report
+
+The UDS 6B Section M Line 22a 2022 Report, which deals with quality of care, provides the necessary information for a Federally Qualified Health Center (FQHC) to report to Medicaid to receive federal funding. The report includes {a} the total number of patients who were ages 6-9 and who had a moderate to high risk of caries; {b} the number of records reviewed; {c} the number of patients from (a) with sealants on first molars; and {d} the percentage of patients from (a) who received a sealant on a first permanent molar.
+
+Purposes: Provide Clinical Information to Medicaid, Collect Money
+
+UDS 6B Section N Line 22a for CY 2020 Report
+
+The UDS 6B Section N Line 22a for CY 2020 Report, which deals with quality of care, provides the necessary information for a Federally Qualified Health Center (FQHC) to report to Medicaid to receive federal funding. The report includes the total number of patients who were ages 6-9, had a moderate or higher risk of caries, had an evaluation, and had one or more first molars that qualify for a sealant; the sample size, which is all applicable patients; and the total number of patients who received sealants on first molars.
+
+Purposes: Provide Clinical Information to Medicaid, Collect Money
+
+UDS Table 9D Report
+
+The UDS Table 9D Report, which deals with patient-related revenue, provides the necessary financial information for a Federally Qualified Health Center (FQHC) to report to Medicaid to receive federal funding. The report includes the total charges, collections, retroactive settlements, allowances, self-pay sliding discounts, and self-pay bad debt write-offs by payer.
+
+Purposes: Provide Clinical Information to Medicaid, Collect Money
+
+Wrap Around Claims Report
+
+The Wrap Around Claims Report provides the necessary information for a Federally Qualified Health Center (FQHC) facility to petition Medicaid for supplemental payments. The report includes the number of encounters, rate, total amount billed, total receipts, and amount to be funded.
+
+Purposes: Provide Clinical Information to Medicaid, Collect Money

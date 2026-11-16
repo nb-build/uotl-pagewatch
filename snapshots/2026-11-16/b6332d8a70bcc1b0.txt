@@ -1,0 +1,608 @@
+DMSi Agility - DMSi
+
+Careers
+
+Customer Access
+
+Menu
+
+Products
+
+Agility
+ERP for building and industrial distributors
+
+Frameworks
+Point of Sale ERP for LBM Dealers
+
+DMSi Log
+Software and hardware for hardwoods
+
+TallyExpress
+Visual end tallies from your phone
+
+Industries
+
+Building Materials
+Software for building materials businesses
+
+Industrial Distribution
+Software for industrial distribution
+
+LBM Dealers & Retailers
+Software for contractor yards, pro dealers, and home centers
+
+Log & Lumber
+Software solutions for the entire hardwood supply chain
+
+Millwork & Production
+Software for door shops and remanufacturing
+
+Our Services
+
+Resources & Education
+
+About Us
+
+About Us
+Our mission, our history, our team
+
+Events
+
+Careers
+
+Customer Access
+
+Request Demo
+
+Request Demo
+
+DMSi Agility
+
+ERP Software for Building Materials & Industrial Distribution
+
+Agility ERP brings precision control to your order management, inventory control, accounting, and in-house production. From installed sales and long-lead orders to eCommerce and production, Agility is tailor-made for building materials and industrial distribution.
+
+Get in Touch
+
+features
+
+Agility Covers Every Inch of Your Business
+
+Inventory Control
+
+Sales
+
+Purchasing
+
+Production
+
+Accounting/Reporting
+
+Real-time inventory data and warehouse management solutions to track every item in your warehouse or yard:
+
+A single item code tracks all dimension records for a product across all branches
+
+Units of Measurement include PC, UNIT, BF, MBF, LF, M3, and more
+
+Monitor stock levels by storage location across multiple warehouses
+
+Inventory reports on turns, dead stock, and more
+
+Cycle counting and full physical inventory
+
+Mobile warehouse management solutions (WMS)
+
+End-to-end order management, from online quotes and point of sale through proof of delivery and invoicing.
+
+Customizable point of sale, order entry, and sales viewers
+
+Project management and installed sales
+
+Digital OrderPad for quick price checks and notes
+
+Pricing rules by customer, customer group, job, and more
+
+Offer 24/7 service with the eCommerce/service portal
+
+EDI and vendor interfaces let you conduct business electronically
+
+Inventory optimization with demand forecasting, suggested purchasing, pricing visibility, EDI, and more
+
+Demand forecasting
+
+Suggested purchasing with customizable reorder calculations
+
+Centralized purchasing for multi-location operations
+
+Split POs for selling off of inbound orders
+
+From resource scheduling through complicated bills of materials:
+
+Production and resource scheduling
+
+Cost allocation for inputs and finished items
+
+Item configurator offers only valid component choices to streamline non-stock orders
+
+Automated branch transfers of inputs
+
+Tally and tag output materials with bar codes
+
+Duplicate reman orders for similar transactions
+
+Track your business down to the penny with real-time financials and a fully integrated G/L:
+
+Customize financial statements
+
+View detailed account information
+
+Provide flexible payment options
+
+ACH minimizes manual processing
+
+Quickly view and drill down into financial information
+
+Automate closing processes
+
+your industry
+
+Agility Features for Your Business
+
+Building materials are not one-size-fits-all products. That’s why Agility is full of industry-specific features and functions tailored to the unique challenges of building materials and industrial distribution.
+
+Drywall
+
+Electrical
+
+General Distribution
+
+Hardwood
+
+HVAC
+
+Industrial & Safety
+
+Laminates
+
+LBM Dealer
+
+Lumber
+
+Millwork
+
+Plumbing
+
+Pool & Landscape
+
+Roofing/Siding
+
+Agility for Drywall
+
+Create estimates for commercial jobs by the thousand square or linear foot
+
+Display pricing on orders and invoices in a customer’s preferred UOM w/o complicating your accounting records
+
+Escalator pricing gives customers a schedule or date-specific pricing on their quote and automatic price increases in Agility
+
+Use the alternative items function to find substitute products if quantities are low
+
+Agility for Electrical
+
+Commit stock to orders based on the expected delivery date
+
+Mobile warehouse tools for cycle counting and complete inventory management
+
+Offer 24/7 service with the eCommerce/service portal
+
+Complete ERP solution integrating Inventory and Accounting
+
+Agility for Distribution
+
+Customizable order entry screen, payment wizard, secure credit card processing, make retail as easy as possible
+
+Interfaces with door and window vendors cuts order-entry time in half
+
+Item configurator only presents valid component choices, so even new employees can create accurate non-stock items
+
+Commit stock to orders based on the expected delivery date
+
+The production schedule manager reconciles time, labor, and equipment used for each job against available capacity to predict accurate completion dates
+
+Calculate margins at every stage, from freight shipping through production to distribution
+
+Agility for Hardwood
+
+Identify the correct piece count, length, grade, and age of every unit
+
+Capture, enter, or import end tally, block tally, chain tally, or just total footage
+
+Track a specific piece from PO to sales order, whether it’s a one-to-one, one-to-many, or many-to-one relationship
+
+Search inventory across branches, down to the piece count and board lengths in a tallied lumber unit
+
+Agility for HVAC
+
+Manage special pricing and payment terms with suppliers and customers
+
+Link sales and purchase orders to track the path of items from receiving through delivery
+
+APIs for interfacing with any shipping service, big or small
+
+Centralized purchasing for multi-location operations
+
+Complete ERP solution integrating Inventory and Accounting
+
+Agility for Industrial & Safety
+
+Suggested purchasing with customizable reorder calculations and demand forecasting
+
+Offer 24/7 service with the eCommerce/service portal
+
+Centralized purchasing for multi-location operations
+
+Complete ERP solution integrating Inventory and Accounting
+
+Agility for Laminates
+
+Rebates: break down sales by customer, item, and pricing level to calculate the correct rebate amounts for each manufacturer
+
+Create tiered pricing levels based on sales to identify the appropriate pricing level for each customer
+
+Pre-formatted rebate reports for major manufacturers like Formica, Nevamar, Pionite, and Wilsonart
+
+Cut optimization: set your own formulas for evaluating inventory, assigning pieces to reman
+
+Interactive production scheduling viewers display schedules, progress updates, and performance reports
+
+Agility for LBM Dealers
+
+Customizable order entry screen, payment wizard, and secure credit card processing make retail as easy as possible
+
+Cross-reference customer account details across branches and auto-scheduled stock transfers
+
+Item configurator only presents valid component choices, so even new employees can create accurate non-stock items
+
+Adjust to shifting deadlines without tying up inventory
+
+Installed sales module lets you assign labor, track job progress, adjust schedules, and review A/R for any job
+
+Track and manage overall contracts, even when shipment dates keep changing
+
+Agility for Lumber
+
+Buy in bulk and sell by the piece with every possible unit of measurement (PC, UNI, BR, MBF, LF, M3, etc.)
+
+Import current market costs from publications like Random Lengths so you don’t leave money on the table
+
+Set your own cut optimization formulas for evaluating inventory and assigning pieces to remanufacturing
+
+Identify the correct piece count, length, grade, and age of every unit
+
+Agility for Millwork
+
+Item configurator only presents valid component choices, so even new employees can create accurate non-stock items
+
+Interfaces with suppliers like Ellison, Andersen, and Marvin and configurators like Millwork Development simplify order entry
+
+Create whole-house orders in minutes by duplicating configurable products
+
+Quantify the exact material, labor, and equipment for each job; quote prices that protect your margins
+
+Create custom shipping, receiving, and product labels with your logo, customer job name, account number, and more
+
+Assign unique identification numbers to custom items and track them across multiple branches
+
+Agility for Plumbing
+
+Alternative item functionality automatically suggests substitute products when quantities are low
+
+Easily create, manage, track, and sell kits and assemblies
+
+APIs for interfacing with any shipping service, big or small
+
+Manage special pricing and payment terms with suppliers and customers
+
+Link sales and purchase orders to track the path of items from receiving through delivery
+
+Complete ERP solution integrating Inventory and Accounting
+
+Agility for Pool & Landscape
+
+Easily create, manage, track, and sell your own pool kits and assemblies
+
+APIs for interfacing with any shipping service, big or small
+
+Manage price libraries and reprice sales orders based on current supply costs
+
+Manage special pricing and payment terms with suppliers and customers
+
+Link sales and purchase orders to track the path of items from receiving through delivery
+
+Agility for Roofing/Siding
+
+Create specific pricing by customer, customer group, or job
+
+Automatically set up and easily maintain pricing records based on margins or multipliers
+
+Print quotes with total sums instead of itemized lists, so competitors can’t see your pricing strategy
+
+Digital notepad for quick price checks; create orders with one click or save notes in case the customer calls back
+
+mobile and web solutions
+
+Mobile and Web Solutions
+
+Mobile and Web Solutions
+
+Agility is everywhere your business goes: from online sales to your warehouse to customer jobsites.
+
+Warehouse
+
+CRM
+
+Sales
+
+eCommerce
+
+Delivery
+
+Billing
+
+The receiving-counting-picking-staging app
+
+Manage the flow of material through your warehouse and shop with Agility Mobile Warehouse Tools, your all-in-one solution for receiving, picking, inventory control, work orders, and physical inventory. Real-time inventory management means your processes are more accurate, employees are more productive, and customers receive products faster.
+
+Learn more
+
+CRM made for the building materials industry
+
+Agility’s CRM has industry-specific features that connect your organization to your accounts while providing the intelligence and assistance your sales team wants. A simple and powerful tool that delivers without getting in the way.
+
+Learn more
+
+Out-serve the competition
+
+Deliver more responsive service with Agility Mobile Sales. Outside reps have instant answers regarding open orders, past-due A/R, available stock, and job-specific pricing. They can even create quotes and sales orders with just a few taps on their mobile device.
+
+Learn more
+
+Exceed expectations for online service
+
+Agility Commerce Cloud is the eCommerce/self-service platform that’s easy to use and even easier to manage. The mobile-friendly site is intuitive for customers to use and navigate. Easily add pages, images, videos, and even customized advertising – no coding required! Seamless integration with Agility means your product and inventory data is always accurate.
+
+Learn more
+
+Deliver better service
+
+Provide real-time delivery tracking to your customers, sales reps, and drivers with Agility’s proof of delivery app. Captured signatures and confirmation photos automatically upload to Agility. Send automatic notifications to customers about the status of their delivery.
+
+Learn more
+
+Streamline billing with 24/7 customer convenience
+
+The billing portal gives your customers easy access to view invoices, track orders, and make payments anytime, anywhere. This self-service platform reduces support calls and speeds up your cash flow while keeping your team focused on more strategic work. Full integration with Agility ensures all billing data stays current and accurate.
+
+Learn more
+
+our customers
+
+Agility Powers the Best in the Business
+
+See All Customers
+
+testimonials
+
+"I like the user-friendliness. We hired new sales people, and within a week they are writing new orders with no problems whatsoever. It's friendly software."
+
+Stacy Fyock, CFO, Schutte Lumber Company
+
+"One of the reasons we chose Agility is because it's for the building supply industry. We saw Agility is based on best practices in the industry...we learned a few things since starting on Agility in terms of best practices that have benefitted our company."
+
+Jim Bennett, Canusa Wood Products
+
+"All the viewers available in Agility and being able to customize them, you can put them on your dashboard and see what you need with the click of a button."
+
+Devin Galloway, Holden Humphrey Company
+
+"Agility is an important tool in providing service for our customers. The ability to get in and provide footage reports for customers...it's a huge win for them."
+
+Matt Martinkus, Western Materials
+
+"Agility gets us the information a lot quicker...it's a better customer experience because we can get information for them more quickly."
+
+Rick Rybkowski, ESI
+
+"The mobile apps available in Agility have really changed the way we've been doing business."
+
+Sean Flynn, Interior Supply
+
+"We track our pricing and our margins really closely. We have a daily report that shows us any large jumps in average costs so we catch it sooner rather than later."
+
+Sean O'Neill, Beronio Lumber
+
+"The process that's helped our business the most is definitely production scheduling. Our reps are no longer walking down to the shops to see where their door is. They can pull up the schedule, look at the information, and see exactly where it is."
+
+Amber Brodal, Fargo Glass & Paint
+
+partners
+
+Agility delivers a complete business solution by working with the best partners in the industry.
+
+View all partners
+
+Ready to talk?
+
+We’re ready to listen. Get in touch to tell us more about your needs. We’d love to learn how we can help.
+
+Existing DMSi customers, have a question or product inquiry?
+
+Call Support at (800) 347-6720 opt 1.
+
+Get in Touch
+
+11650 Miracle Hills Dr.
+
+Suite 100
+
+Omaha, NE 68154
+
+402-330-6620
+
+Products
+
+Agility
+
+Frameworks
+
+DMSi Log
+
+TallyExpress
+
+Industries
+
+Building Materials
+
+LBM Dealers & Retailers
+
+Millwork & Production
+
+Log & Lumber
+
+Our Services
+
+Resources & Education
+
+About Us
+
+About Us
+
+Events
+
+Privacy Policy
+
+Transparency in Coverage
+
+© Distribution Management Systems, Inc. 2026.
+Forms protected by Google ReCaptcha. Privacy | Terms
+
+Careers
+
+Customer Access
+
+Follow us:
+
+Let's Talk
+
+Δ
+
+Name(Required)
+
+First
+
+Last
+
+Email(Required)
+
+Company(Required)
+
+Phone Number
+
+Comments
+
+Are you a DMSi customer?
+
+I am a DMSi customer
+
+Submit
+
+This website uses cookies to improve your experience. We'll assume you're okay with this, but you can opt-out if you wish. Cookie SettingsAccept
+
+Manage consent
+
+Close
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+Necessary
+
+Necessary
+
+Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+
+Cookie
+
+Duration
+
+Description
+
+cookielawinfo-checkbox-analytics
+
+11 months
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+
+cookielawinfo-checkbox-functional
+
+11 months
+
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+
+cookielawinfo-checkbox-necessary
+
+11 months
+
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+
+cookielawinfo-checkbox-others
+
+11 months
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+
+cookielawinfo-checkbox-performance
+
+11 months
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+
+viewed_cookie_policy
+
+11 months
+
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+
+Functional
+
+Functional
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+Performance
+
+Performance
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+Analytics
+
+Analytics
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+
+Advertisement
+
+Advertisement
+
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+Others
+
+Others
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+SAVE & ACCEPT

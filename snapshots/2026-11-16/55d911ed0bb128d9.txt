@@ -1,0 +1,569 @@
+IM Ai - InsuredMine CRM | Optimize and Grow Your Insurance Agency
+
+Skip to content
+
+InsuredMine CRM | Optimize and Grow Your Insurance Agency
+
+Platform
+
+For agents:
+
+Sales
+
+Grow your sales with the best CRM for Insurance Agencies
+
+Engagement
+
+The best tool for engaging your customers
+
+Analytics
+
+Your data, easy to engage with and understand.
+
+AI
+
+Uncover revenue hidden in your book, retain at scale and get recommended actions.
+
+For customers:
+
+Customer Mobile App
+
+Increase customer engagement by allowing them to easily manage policy, pay bills, request quotes etc., via mobile app.
+
+For AGGREGATORS, cLUSTERS, & nETWORKS:
+
+Analytics & Insights
+
+A platform of knowledge to enhance market access, market engagement, and compensation based upon a deeper understanding of the aggregated book of business.
+
+Integrations
+
+Zapier
+
+Development Tools
+
+RingCentral
+
+Communication Provider
+
+Lightspeed Voice
+
+Communication Provider
+
+Explore All Integrations
+
+Features
+
+Sales
+
+Sales Pipeline
+
+Opportunities
+
+Goal Management
+
+Task Management
+
+Account 360
+
+Engagement
+
+Drip Campaign
+
+Automation
+
+Work Email
+
+Contact List
+
+Template
+
+Google Reviews
+
+Reputation
+
+NPS
+
+Google Review
+
+eSignatures
+
+Analytics
+
+Dashboard
+
+Reports
+
+Resources
+
+Webinars
+
+Google Reviews + NPS Workflows: Build Reputation That Sells For You
+
+Automation That Closes: Follow-Ups, Touchpoints & Tasks That Drive Bind Rate
+
+Two-steps ahead with InsuredMine AI
+
+Knowledge Base
+
+Getting Started
+
+Report
+
+IM-Books
+
+Insuredmine Certification
+
+Login Signup
+
+Podcast
+
+Listen Now
+
+Insights
+
+AI Pulse Report
+
+BLOG
+
+Why Insurance Agencies Hesitate on AI, and How to Move Past It
+
+November 13, 2026
+
+How to Grow an Independent Insurance Agency Without Growing Headcount
+
+November 10, 2026
+
+Epic Was Already the Record. Kingsgate Needed a Way to Work From It.
+
+November 10, 2026
+
+View All Posts
+
+IM Sherpa
+
+IMUG
+
+Mission IM-Possible
+
+EBooks
+
+Case Study
+
+Customer Story
+
+How Gila Insurance converted the challenge to fight the wa...
+
+Aug 12, 2020
+
+How Gila Insurance converted the challenge to fight the wa...
+
+Aug 12, 2020
+
+View All Stories
+
+Pricing
+
+X
+
+Contact Sales
+
+TRY FOR $1
+
+Try It Free
+
+Sales
+
+Sales Pipeline
+Opportunities
+Goal Management
+Task Management
+Account 360
+
+Engagement
+
+Drip Campaign
+Automation
+Work Email
+Contact List
+Template
+Google Reviews
+
+Analytics
+
+Dashboard
+Reports
+
+Customer Mobile App
+
+For Aggregators
+
+Integrations
+
+Resources
+
+Webinars
+Knowledge Base
+Blog
+IM-Books
+Insuredmine Certification
+
+Pricing
+
+Contact Sales
+
+Request Demo
+
+Get Started
+
+X
+
+AI System
+
+Not a Feature.
+
+The Operating
+
+Layer.
+
+Every action inside InsuredMine runs through intelligence – not just the parts with an AI badge on them. Eight systems doing the work today. One agentic orchestration layer, ChatKit, coordinating them next.
+
+Book a Demo
+
+See Pricing
+
+AI Agency Automation
+
+Nothing Slips Through
+
+InsuredMine Voice Agent (IVA)
+
+No lead goes cold after hours. The phone rings Saturday at 9 PM. IVA answers, books the appointment, and logs it — the lead is already in your pipeline before Monday.
+
+See how IVA handles calls
+
+Awaiting-Reply Flag
+
+Nothing sits forgotten in an inbox. A client replies to a renewal email Friday afternoon. It is flagged on the Pipeline card, the Contact, and the Account before anyone opens their inbox again.
+
+Explore inbox automation
+
+Know What Matters
+Before You Open the File
+
+Policy History
+
+Walk into every call already knowing the account
+
+Recent Activity
+
+Latest logged activity pulled the moment the call is logged
+
+Relationship Trending
+
+A read on how the relationship is trending
+
+Request Invitation
+
+Pipeline Summarization
+
+Know Where to Spend the Hour
+
+Know where to spend the hour, not guess. Deal-health highlights and next-step flags across the whole pipeline, so the one deal that needs attention does not get buried under the eleven that do not. ChatKit can turn a flagged deal straight into an assigned task.
+
+Automate Your Pipeline
+
+ACTIVE
+
+Deal Tracking
+
+Harrison Fleet Group
+
+Commercial Fleet (Renew)
+
+Healthy Status
+
+3 PENDING
+
+Follow-ups
+
+Miller Family Trust
+
+Umbrella Extension
+
+Due Tomorrow
+
+2 FLAGGED
+
+Risk Alerts
+
+Missing tax record flag
+
+Policy gap detected
+
+Due Tomorrow
+
+5 TASKS
+
+Task Queue
+
+Auto-assigned from flagged
+
+3 completed today
+
+On Track
+
+Deal Alerts
+
+Auto Follow-up
+
+Pipeline Reports
+
+Task Assignment
+
+Cross-Sell Predictions
+
+Spot the Next Sale Before
+Your Competitor Does
+
+Every account in the book scored for the next-best policy — not just the ones somebody happened to review this week. ChatKit can turn a scored opportunity into a dealcard, ready to work.
+
+Boost Renewal Value
+
+AI, Your Way. Powered by MCP.
+
+Your AI. Your Data. Connected.
+
+Ask your book a question. Get an answer, not a report. Bring the AI you already trust – Claude, Copilot, GPT, Gemini, or your own. MCP surfaces what is actually happening in the book: a policy expiring with no recent contact, a cross-sell nobody has flagged, or activity buried in the account history. From there, an agent – or ChatKit – picks it up.
+
+95%
+
+Accuracy rate on policy queries
+
+Claude
+
+Anthropic
+
+5,000+
+
+Agents deployed across books
+
+Copilot
+
+Microsoft
+
+1,200+
+
+Data signals connected per book
+
+Connected Intelligence
+
+MCP + AI platforms
+
+MCP connected our AI to our book of business in days. Now we get answers, not reports – and our team can act on what matters before it becomes a problem.
+
+Maya Patel
+
+Operations Lead, Commercial Lines
+
+250+
+
+Data points surfaced per query
+
+GPT-4o
+
+OpenAI
+
+∞
+
+Bring your own model
+
+Your AI
+
+Custom LLM
+
+Help Me Write
+
+Communication Summarization
+
+Turns Into Action, Not Just an Insight
+
+Draft it in seconds, understand it in one line. An on-brand renewal email, pre-filled with real policy details, drafted before you would have finished opening the client file.
+
+Drafting Renewal Email
+
+It’s 4:45 PM on a Friday and a renewal is due Monday. You open the file and InsuredMine AI drafts a personalized email in seconds—complete with the client’s name, policy details, and premium changes. You review, send, and head home knowing the client is covered.
+
+Explore email drafting
+
+Communication Summarization
+
+You return from vacation to 127 unread messages on one account. InsuredMine AI distills the noise into three clear action items with deadlines—what’s approved, what’s blocked, and what needs your attention first. You catch up in minutes, not hours.
+
+Explore thread summaries
+
+ChatKit - in Live Beta.
+
+Tell InsuredMine the Outcome
+
+Eight systems, each doing real work on their own. ChatKit is the agentic orchestration layer arriving next – instead of checking Pipeline Summarization, cross-referencing Cross-Sell Predictions, asking MCP a question, and creating the tasks yourself, you say what you want done, and it coordinates the systems above to do it.
+
+Run a campaign on this lead list and show me the analytics in two days.
+
+Build a renewal pipeline with full automation.
+
+The End-to-End Orchestration Loop
+
+Here is what that looks like end to end: IVA picks up a missed call and the context behind it. ChatKit books the appointment, creates the follow-up task, and drafts the email that should go out next. For something routine – a quote confirmation, a document request – it can send on its own. For anything with a personal edge – a birthday note, a check-in after a hard renewal conversation – it drafts and waits.
+
+Expect Outcomes, Not More Management
+
+Every action traces back to where it came from and what it is for – nothing here is a black box. And it all runs inside the controls you already have: turn any piece off, fine-tune what it is allowed to do, adjust access at the CRM level. It is not a new feature. It is a shift from managing a system to expecting an outcome.
+
+AI IN ACTION
+
+Ask. Automate. Stay in Control.
+
+AI built directly into the insurance workflow – helping your team find answers, automate work, and make decisions without compromising control of client data.
+
+Ask It a Real Question
+
+Find all commercial accounts renewed for five years without cyber coverage.
+
+Which customers have gone quiet before their renewal?
+
+Which producers need coaching this week?
+
+How many calls did we miss after hours last month?
+
+AI at Work
+
+Real-world automation operating inside the insurance workflow.
+
+AI VOICE AGENT ACTIVE
+
+AI created a task for you – Follow up on auto policy renewal quote – Sarah Mitchell, due today 3:00 PM.
+
+CALL SUMMARIES
+
+Incoming
+
+Sarah Mitchell called about auto policy renewal. Requested quote comparison. Task created.
+
+Outgoing
+
+ACCOUNT BRIEF
+
+Summary regenerated today. Sentiment: Positive. Two active policies, no lapses in three years.
+
+SENTIMENT: POSITIVE
+
+Example workflow shown for illustration.
+
+On AI & Client Data
+
+Security, transparency, and agent-controlled decision frameworks.
+
+We are cautious about AI and client data.
+
+AI features operate inside the agency’s CRM and existing security posture. InsuredMine is SOC 2 Type II certified.
+
+Learn More
+
+Is this just a chatbot?
+
+Each system is purpose-built for a specific insurance workflow – not a generic assistant bolted on top.
+
+Learn More
+
+Does AI act on its own?
+
+Actions remain transparent and traceable, with control over how and when AI operates.
+
+Learn More
+
+See What Your
+Book Already Knows
+
+Deploy the intelligence layer built for modern insurance agencies. No migration blocks, pure system action.
+
+Book a Demo
+
+See Pricing
+
+SOC 2 Type II Certified
+
+Two-Way AMS Sync
+
+No Migration Required
+
+InsuredMine is SOC 2
+Type II Certified
+
+Email
+
+support@insuredmine.com
+
+(available 24/7)
+
+Phone
+
++1 469 616 1821
+
+(Business hours 9 AM – 5 PM)
+
+Our Location
+
+3400 N Central Expy Ste #110 - 323 , Richardson, TX 75080
+
+Platform
+
+Pricing
+
+CRM Demo
+
+Features
+
+Sales
+
+Engagement
+
+Analytics
+
+Customer Mobile App
+
+Resources
+
+Webinars
+
+Knowledge Base
+
+IM-books
+
+Blog
+
+Careers and Internships
+
+Privacy Policy
+
+Terms & Conditions
+
+Facebook-f
+
+Instagram
+
+Linkedin-in
+
+Twitter
+
+Search
+
+Generic filters
+
+Hidden label
+
+Hidden label
+
+Hidden label
+
+Hidden label

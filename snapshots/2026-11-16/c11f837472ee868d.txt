@@ -1,0 +1,139 @@
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers - WhatTheyThink
+
+Search News & Articles
+
+Sign In
+Become a Member
+
+Quarterly
+Commentary & Analysis
+News
+Data
+Video
+Webinars
+Magazine
+
+SECTIONS
+
+PrintStats
+
+Wide-Format & Signage
+
+Packaging
+
+Software
+
+Finishing & Embellishment
+
+Digital & Inkjet
+
+Textiles & Apparel
+
+Offset
+
+Print Geeks
+
+FEATURED
+Artificial Intelligence Resource Center
+Printing United Expo
+2026 Technology Outlook
+Installations and Placements
+In Memoriam
+
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers
+
+Monday, October 05, 2026
+
+Press release from the issuing company
+
+DENVER, CO – PrintReleaf today announced a new integration with CEO Juice that connects PrintReleaf directly to e-automate, the most widely used service management system among North American office technology dealers. The integration runs through CEO Juice's ID136 API and is available now for any e-automate dealer that subscribes to ID136.
+
+Most PrintReleaf use by MPS dealers draws page volume from Device Collection Agents (DCAs) or spreadsheet uploads. A DCA can miss devices that aren't on a network or record rogue meter reads, so the volume in PrintReleaf sometimes comes in different from the volume on the client's bill.
+
+Connecting to e-automate billing data gives dealers:
+
+Complete coverage: devices that were never connected to a DCA are included.
+
+Accuracy: pages reforested or offset in PrintReleaf match the pages on the client's invoice.
+
+Easier management: switching DCAs has no effect on PrintReleaf, so there's no customer-by-customer migration.
+
+Easier scaling: when a dealer acquires an MPS provider, moving those clients into its e-automate database brings them into PrintReleaf too.
+
+Billing model options: dealers can align PrintReleaf with actuals only, or with base allowances plus actuals.
+
+"When a client asks how their pages were counted, a dealer should be able to point to the invoice," said Jordan Darragh, CEO of PrintReleaf. "Now they can, and the integration takes much of the friction out of the acquisitions and DCA changes that are so common in the MPS Dealer channel right now."
+
+"We are always happy to connect e-automate to the tools our clients’ businesses depend on," said Gary Lavin, Founder at CEO Juice. "More of our clients are hearing sustainability questions from their customers, and the PrintReleaf integration lets them answer with data they already trust."
+
+Availability
+
+Dealers subscribe to ID136 through CEO Juice, receive their API credentials, and register their CEO Juice server in PrintReleaf. To get started, contact PrintReleaf or visit the ID136 page on the CEO Juice website and subscribe.
+
+Share on LinkedIn
+
+Share via Email
+
+Video Center
+
+Heidelberg America's Home of Print
+
+Cool Tools with Mary Schilling: SuperGamut
+
+The Little Machine That Changed the World
+
+More Video
+
+Recent Printing Industry News
+
+Monday, November 16, 2026
+
+Minuteman Press Franchise Wins Best of Lawrence Kansas 2026 Award
+
+St. Pete Paper & Packaging Selects HiFlow to Support Growth
+
+Competition Intensifies for Europe’s Recovered Paper
+
+INVE Technologies and Trackonomy Announce Strategic Partnership to Power Next-Generation Enterprise Software with Physical AI
+
+Design 4 You Launches Nationwide Same-Day Custom Embroidery
+
+Castle Ink Publishes U.S. Printer Ink Price Index and State of Home Printing 2026
+
+TOPPAN to Participate in Singapore FinTech Festival 2026
+
+B.F. Plastics Introduces Redesigned Website Built to Simplify Material Selection and Online Ordering
+
+Food Packaging Advances with Sustainable Materials and Smart Automation
+
+Contact Us
+
+Member Center
+Premium membership, reset password,
+set email and notification preferences.
+
+Explore
+
+About
+
+Editorial Team
+
+Reprints
+
+Syndication
+
+Submit Your News
+
+Marketing Programs
+
+Advertising
+
+Media Planner
+
+Lead Gen
+
+Custom Content Development
+
+Video Production
+
+Copyright © WhatTheyThink. All Rights Reserved. | Privacy Policy | Terms

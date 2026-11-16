@@ -1,0 +1,373 @@
+Apple Business: Free all-in-one platform for companies launches | heise online
+
+heise+ entdecken
+
+SuchenAbo
+
+Suchen
+
+Alle Magazine im Browser lesen
+
+IT News
+
+Newsticker
+
+Hintergründe
+
+Ratgeber
+
+Testberichte
+
+Meinungen
+
+Online-Magazine
+
+heise+
+
+Telepolis
+
+heise autos
+
+bestenlisten
+
+tipps+tricks
+
+Services
+
+heise shop
+
+heise jobs
+
+heise academy
+
+heise download
+
+heise preisvergleich
+
+Tarifrechner
+
+heise compaliate
+
+Abo bestellen
+
+Mein Abo
+
+Netzwerktools
+
+iMonitor
+
+Loseblattwerke
+
+Spiele
+
+Über uns
+
+heise medien
+
+heise regioconcept
+
+heise business services
+
+Sponsoring
+
+Mediadaten
+
+Karriere
+
+Presse
+
+Newsletter
+
+heise-Bot
+
+Push-Nachrichten
+
+Newsticker
+
+Security
+
+IT & Tech
+
+Developer
+
+KI
+
+Entertainment
+
+Wissenschaft
+
+Bestenlisten
+
+Digital Health
+
+Foren
+
+Alle Themen
+
+Advertisement
+
+Apple Business: Free all-in-one platform for companies launches
+
+Apple consolidates its business services into a free platform with integrated device management, email, and brand management.
+
+listen
+
+Print view
+
+Apple introduces a new platform for business customers
+
+(Image: Apple)
+
+Mar 24, 2026
+
+at 10:14 pm CET
+
+3 min. read
+
+Mac & i
+
+By
+
+Malte Kirchner
+
+Advertisement
+
+Apple has announced Apple Business, a new platform that unites all the company's business services under one roof. The service will be available free of charge starting April 14, 2026, in more than 200 countries and regions, including Germany, Austria, and Switzerland. Apple Business replaces the previous individual products, Apple Business Essentials, Apple Business Manager, and Apple Business Connect. The offering is likely to primarily appeal to smaller businesses that will now have easier access to the various services through the unified platform.
+
+Continue after ad
+
+As Apple explains in the announcement, the platform includes integrated mobile device management (MDM), business email, calendar, and directory services with custom domains, as well as brand management for Apple Maps, Wallet, and other services. Managed Apple Accounts will use cryptographic separation to isolate work and personal data on devices. However, administrators can also easily prevent the login of private Apple Accounts on company devices altogether.
+
+MDM without additional software
+
+The integrated device management is primarily aimed at small and medium-sized businesses that do not want to operate a separate MDM solution like Jamf Pro or Microsoft Intune. Apple Business offers pre-configured templates for device settings and apps, user group management by function or team, and custom roles for granular access control. Managed Apple Accounts can be automatically created via identity providers such as Microsoft Entra ID or Google Workspace. For larger companies, the Admin API may be of interest, allowing them to access Apple's new platform using existing tools. For companies with more complex requirements, specialized solutions like Jamf Pro are likely to remain the better choice – our guide offers an overview of MDM systems in comparison.
+
+The basic platform is free. Apple Business Essentials will no longer be available after April 14; existing customers will no longer pay a monthly service fee for device management. Data from Apple Business Connect will be automatically migrated. The Apple Business app and the email, calendar, and directory functions require iOS 26, iPadOS 26, or macOS 26. We have summarized the innovations of iOS 26 for business use in a separate guide.
+
+Videos by heise
+
+mehr Videos
+
+c't 3003
+
+heise & ct
+
+Peertube
+
+Brand Management
+
+In addition to device management, Apple Business offers comprehensive brand management: companies can uniformly manage name, logo, and location details in Apple Maps, Wallet, and other apps, view location insights on search queries and clicks, and place ads in Apple Maps starting in summer 2026. Tap to Pay on iPhone can be used with a custom brand logo.
+
+Read also
+
+Apple gets new head of mergers and acquisitions
+
+Mac & i Magazin
+
+iPhone Duo: Overview of the variants
+
+Mac & i Magazin
+
+New iPad mini could become significantly more expensive
+
+Mac & i Magazin
+
+Apple TV 4K gets a hardware upgrade; HomePod mini 2 arrives alongside it
+
+Mac & i Magazin
+
+iOS 27: Apple pushing iOS 26 users to upgrade
+
+Mac & i Magazin
+
+Mehr anzeigenWeniger anzeigen
+
+(mki)
+
+Don't miss any news – follow us on
+Facebook,
+LinkedIn or
+Mastodon.
+
+This article was originally published in
+
+German.
+
+It was translated with technical assistance and editorially reviewed before publication.
+
+Dieser Link ist leider nicht mehr gültig.
+
+Links zu verschenkten Artikeln werden ungültig,
+wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.
+
+Sie benötigen ein heise+ Paket, um diesen Artikel zu lesen. Jetzt eine Woche unverbindlich testen – ohne Verpflichtung!
+
+Wochenpass bestellen
+
+Sie haben heise+ bereits abonniert?
+
+Hier anmelden.
+
+Oder benötigen Sie
+
+mehr Informationen zum heise+ Abo
+
+Home
+
+Anzeige
+
+Advertisement
+
+Zeitgewinn mit KI-gestützter Fahrzeugvalidierung
+
+KI-Projekte und die Frage der Sicherheit
+
+Zahlungsoptionen rechtzeitig sichtbar machen
+
+Ist Ihr Servicedesk bereit für KI?
+
+Heizkosten sparen ohne Komfortverlust
+
+Smartes Alarmsystem schützt das Zuhause
+
+So wird der Hardware-Lebenszyklus verlängert
+
+So lassen sich Routineaufgaben automatisieren
+
+Bedrohungen brauchen integrierte Security-Modelle
+
+Welches Tool passt zu meiner Webanalyse?
+
+Share this article
+
+Shortlink:
+
+https://heise.de/-11223141
+
+Beliebte Bestenlisten
+
+Alle bestenlisten
+
+Top 10: Die beste Dockingstation mit USB-C im Test
+
+bestenlisten
+
+Top 10: Mähroboter ohne Begrenzungskabel im Test – Dreame vor Mammotion
+
+bestenlisten
+
+Top 10: Das beste Outdoor-Handy im Test
+
+bestenlisten
+
+Alle bestenlisten
+
+Advertisement
+
+Advertisement
+
+Alle Angebote
+
+IT News
+
+Newsticker
+
+Hintergründe
+
+Ratgeber
+
+Tests
+
+Meinungen
+
+Online-Magazine
+
+heise+
+
+Telepolis
+
+heise autos
+
+bestenlisten
+
+tipps+tricks
+
+Services
+
+heise shop
+
+heise jobs
+
+heise academy
+
+heise download
+
+heise preisvergleich
+
+Tarifrechner
+
+heise compaliate
+
+Abo bestellen
+
+Mein Abo
+
+Netzwerktools
+
+iMonitor
+
+Loseblattwerke
+
+Spiele
+
+Über Uns
+
+heise medien
+
+heise regioconcept
+
+heise business services
+
+Sponsoring
+
+Mediadaten
+
+Karriere
+
+Presse
+
+Newsletter
+
+heise-Bot
+
+Push
+
+Push-Nachrichten
+
+Back to top
+
+Kontakt
+
+Impressum
+
+Barriere melden
+
+Verträge kündigen
+
+Cookies & Tracking
+
+Datenschutz
+
+Mediadaten
+
+5051500
+
+Content Management by InterRed
+
+Hosted by Plus.line
+
+Copyright heise medien
+
+Vertrag widerrufen
+
+kopieren

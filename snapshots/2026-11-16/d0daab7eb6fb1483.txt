@@ -1,0 +1,342 @@
+Create Unsold Estimates Campaigns using SMS
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+Create Unsold Estimates Campaigns using SMS
+
+Updated on Nov 13, 2026
+
+Published on Sep 27, 2026
+
+10 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+With ServiceTitan Marketing Pro, you can build campaigns to automatically target and reach out to customers with an unsold estimate. This includes automating your reminders, follow-ups, and other transactional messages. With this feature, your customers can accept their estimates through SMS text messages.
+
+Use the SMS Transactional Campaigns feature to automatically attribute revenue to any unsold estimates campaigns that use SMS. Use the Analytics dashboard to track how campaigns perform throughout their life cycle. You can also manage and keep your reporting in one place.
+
+Make sure you’re viewing the correct Marketing Pro content
+
+This article is for Marketing Pro. If you are using Marketing Pro v2, see Create Pro campaigns for content specific to your experience.
+
+You can check your version following these steps:
+
+Go to the navigation bar and click Marketing .
+
+If the side menu under Analytics includes One-Time Campaigns and Automated Campaigns, you're using Marketing Pro v2. If these options aren't visible, you're using Marketing Pro.
+
+Who uses this feature
+
+Marketing managers, business owners, CSRs, and other marketers on your team
+
+Primarily benefits Commercial Service & Replacement and Residential Service & Replacement business types
+
+Applies to all trades
+
+Feature configuration
+
+To get started with Marketing Pro, request a demo on our Pro Products page, or reach out to your Customer Success Manager (CSM) or Pro Account Manager (PAM).
+
+Account configuration is required to use this feature. Please contact Technical Support for details.
+
+Things to know
+
+Activate the Chat feature to be able to create transactional campaigns that use SMS text messages. For more information, see Set up and enable Chat.
+
+Transactional campaigns are launched the next day, at the earliest. This allows ServiceTitan to process and queue up your text messages ahead of time, which ensures proper delivery.
+
+Campaigns can be archived, unarchived, and cloned. For more information, see Manage Marketing Pro functions.
+
+Campaigns can be edited only in draft mode. For more information, see Manage Marketing Campaigns.
+
+SMS Unsold Estimate reminder text messages are sent to the oldest mobile contact number on the Customer Record that has both the Marketing updates and Job Notifications toggles enabled. If the text message fails to send to this number, ServiceTitan then attempts to send to any additional non-landline phone number on the customer record that has both Marketing Updates and Job Notifications enabled. For more, see Set notification preferences for customers.
+
+Audiences for Unsold Estimates created in the SMS Text Message - Transactional Campaigns builder automatically exclude ineligible opportunities with a Won or Dismissed status. You no longer need to manually add exclusion filters for these opportunity statuses.
+
+Note: These filters are still available to select if you create an audience outside of the transactional campaign builder in Marketing > Audiences.
+
+To make sure your customers can receive your transactional SMS text messages, see Configure customer profiles for marketing campaigns.
+
+Create an unsold estimates SMS campaign
+
+You can create SMS campaigns for unsold estimates from the Marketing Overview, SMS, Email, Direct Mail, Dashboard, and Campaigns pages in Marketing Pro.
+
+Go to Marketing > Pro Campaigns.
+
+Click Create Campaign.
+
+Select SMS Text Message - Transactional Campaigns as the campaign category then click Next.
+
+Note: The Activate Chat to Continue pop-up appears if you don't have the Chat feature activated and asks you to navigate to Settings. For more information on this, see Set up and enable Chat.
+
+On the Create Campaign: SMS pop-up that opens, enter a unique, brief, and descriptive Campaign Name for your SMS campaign with a maximum of 60 characters.
+
+(Optional) Enter a description of the campaign.
+
+To start building the SMS campaign, click Start Building.
+
+This opens the SMS draft campaign screen with all four steps:
+
+Step 1 Set Goal: Select the marketing goal for this SMS campaign.
+
+Step 2 Add Outbound Tracking Number: Add a unique outbound phone number to properly track revenue for this SMS campaign.
+
+Step 3 Add Audience: Set which of your customers will receive marketing content from this SMS campaign.
+
+Step 4 Create Automated Text Message Content: Add and create the content sent to customers as part of this SMS campaign.
+
+Step 1: Set Goal
+
+Select the marketing goal for your campaign:
+
+Click Select Goal.
+
+Select Unsold Estimates then click Save.
+
+Step 2: Add outbound tracking number
+
+You can add tracking phone numbers in two ways. You can either generate a new number or assign an existing number.
+
+Generate new number
+
+Click Add Number.
+
+Click Add Tracking Number and then Generate new number.
+
+On the Add New Number window that opens, select Local Number for a local campaign or Toll-Free Number for a regional or national campaign.
+
+For Local Number only, enter the area code or ZIP Code you want the tracking number to correspond to.
+
+(Optional) If you want your tracking number to include a particular set of digits, enter them in the Contains field.
+
+Click Search Numbers.
+
+On the Search Results window that opens, select a tracking number and click Choose Number.
+
+On the Set Forwarding Number window that opens, enter the phone number at which you want to receive incoming calls for this campaign, or select to use a default number and click Add Number.
+
+Note: Adding new tracking number steps can differ depending on the phone integration you use. For more information, see Add or edit tracking numbers.
+
+Assign existing number
+
+Click Add Number.
+
+Click Add Tracking Number and then Assign existing number.
+
+On the Select Existing Number window that opens, select an existing number from the list then click Assign Number to add the selected number to your campaign.
+
+Step 3: Add audience
+
+You can add audiences that will receive your unsold estimate SMS text messages in two ways:
+
+Note: For Unsold Estimates campaign audiences, you can only use the Estimates, Customer, and Location filter sets. Each inclusion group requires at least one applied estimate filter, and you can only target customers with open estimates. To target customers with sold or dismissed estimates, you should create an SMS Text Message marketing campaign. For more, see Create audiences and Create Marketing Campaigns using SMS.
+
+From your audience list, select one of your audiences to use for this campaign.
+
+Note: Hover over the phone number of the audience to see how many customers are included in each audience.
+
+To create a new audience, click Create new, enter the Audience Name, and click Begin.
+
+Step 4: Create Automated Text Message Content
+
+After you add an audience, create your automated text message content:
+
+Click Add Content.
+
+Confirm the Terms of Use and click Continue.
+
+In Text Message 1, enter the SMS text message you want your customers to read.
+
+Tip: If you don't want to create a custom message, you can use the default message provided.
+
+Click Add Merge Tag to add merge tags to your message. Merge tags automatically populate information like the customer's first name. Options include:
+
+Customer First Name: First name of the customer.
+
+Company Name: Your company's name.
+
+Tracking Phone Number: The unique tracking number you selected when building the campaign.
+
+Schedule Appointment Link: A link that allows recipients to schedule an appointment through the legacy web scheduler. The legacy web scheduler is only compatible with Open Capacity Planning, not Adjustable Capacity Planning (ACP).
+
+Note: If you don't want to use the legacy web scheduler, you can add your preferred scheduler to the message instead of using this merge tag.
+
+Unsold Estimates Link: A unique link that allows recipients to see their most recent open estimate, including their estimate options.
+
+Click Send Time, select the time of day to send your message, and click Set.
+
+To add another SMS text message to the campaign, click + Add Text Message then repeat the steps above. You can include up to four SMS text messages.
+
+Click Send texts until and select a condition to stop sending SMS text messages to a specific customer once that customer has met the selected criteria. Options include:
+
+Call Created: A customer calls a phone number associated with this campaign.
+
+Job Booked: A customer books a job where the SMS campaign is assigned as the job campaign.
+
+No Trigger: The campaign will continue sending each SMS text message in the campaign sequence until the customer no longer qualifies for the audience or unsubscribes. For more information on audience inclusion criteria, see Create audiences.
+
+(Optional) Select Stop sending texts when a recipient leaves the audience if the system should stop sending customers marketing content when they leave the audience chosen for this campaign. This option is enabled by default.
+
+Click Save & Continue to save your content and return to the SMS draft campaign screen.
+
+You can review your campaign, send a test SMS text message, and schedule a launch date if all looks good.
+
+Caution: After the unsold estimates campaign is scheduled to launch, you can't make changes to it.
+
+Review each setup step of the campaign. If anything needs to be changed, go to that setup step and click Edit to make your changes.
+
+Go to the Automated Text Message Content section and click Send Test. Then enter the phone number to send the SMS text message for the test.
+
+If all looks good, click Schedule Campaign.
+
+Note: If you're not ready to schedule the campaign, click Finish Later at the top right corner of the screen to save it and schedule it at a later time.
+
+In the Schedule Campaign pop-up that opens, click Calendar to select a campaign launch date, or manually enter a launch date. SMS text messages will start sending on this date.
+
+Note: You can launch the transactional campaign with tomorrow's date at the earliest.
+
+Click Schedule.
+
+Your campaign is scheduled. Click View All Campaigns to see a list of all your campaigns.
+
+Opt-out SMS text message
+
+To stop receiving SMS campaigns, customers can send an SMS text message with the word Stop to the tracking phone number. After a customer opts out, they can no longer receive any SMS campaigns from you, regardless of whether the phone number used in the original SMS campaign is used again or a new phone number is used. Additionally, customers can't receive any messages sent to them by chat.
+
+Note: The Stop request applies to all tracking phone numbers associated with your SMS campaigns, meaning they will subsequently stop receiving messages from any other campaigns.
+
+Tip: If your customer turned off the job notifications they can still receive chat SMS from you.
+
+Opt-in SMS text message
+
+To start receiving SMS campaigns again, a customer can send an SMS text message with the word Start to one of the following three options:
+
+The same tracking number they opted out from
+
+Another tracking number from another campaign
+
+The default SMS number
+
+This allows them to opt in again and receive SMS campaigns from you.
+
+FAQ
+
+Why is the yearly tag not available for SMS audiences?
+
+Customer tags may not be available for SMS audiences in transactional campaigns because SMS Text Message - Transactional campaigns are limited to specific filter sets.
+
+For Recurring services campaign audiences, you can only use the Recurring Services and Location filter sets, with each inclusion group requiring at least one applied recurring services filter.
+
+For Unsold Estimates campaign audiences, you're limited to the Estimates, Customer, and Location filter sets, with each inclusion group requiring at least one applied estimates filter.
+
+Want to learn more?
+
+See Overview: Using ServiceTitan Marketing Pro
+
+See Manage Marketing Campaigns
+
+See Follow up on opportunities
+
+ServiceTitan's integrated marketing automation platform for email, SMS, direct mail, and digital ad campaigns.
+
+What it does: Drives new customer acquisition and repeat revenue by automating targeted campaigns across multiple channels — all tied to actual job revenue.
+
+Also called: ST Marketing, Marketing automation
+
+Tags: Marketing Pro
+
+See the full glossary →
+
+Targeted text message campaigns sent to customer segments through Marketing Pro.
+
+What it does: Reaches customers on the highest-open-rate channel (SMS) with time-sensitive promotions, reminders, and service offers.
+
+Also called: Text marketing, SMS marketing
+
+Tags: Marketing Pro
+
+See the full glossary →
+
+a.k.a. Text Campaigns
+
+The top-level account in ServiceTitan representing a property owner or account holder, containing all locations, jobs, and history.
+
+What it does: Serves as the single source of truth for all customer interactions, history, and financial data.
+
+Also called: Customer account, Client record
+
+Tags: Core
+
+See the full glossary →
+
+The legacy daily-cap booking tool that Adaptive Capacity replaces. Sunsetting.
+
+What it does: Allowed businesses to set manual daily booking limits per Business Unit. Now replaced by Adaptive Capacity.
+
+Also called: Legacy daily-booking-limit tool
+
+Tags: Core
+
+See the full glossary →
+
+a.k.a. ACP
+
+The package of service visits included with a membership. When you sell a membership, recurring services are attached to the customer service location with details including start dates, service recurrence, and preferred technician. These details are used to create recurring service events.
+
+Learn more → · See the full glossary →
+
+Was this article helpful?
+
+Yes No
+
+Previous article
+
+Launch campaigns from the Autopilot Library
+
+Next article
+
+Add marketing campaigns in ServiceTitan
+
+Related articles
+
+Create Missed Calls Campaigns using SMS
+
+Product Areas > Marketing Pro > Marketing campaigns
+
+Create SMS campaign content
+
+Product Areas > Marketing Pro v2 > Marketing campaigns
+
+Attract & Engage Customers
+
+Service & Replacement Projects
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use

@@ -1,0 +1,1289 @@
+Deprecation schedule | Google Business Profile APIs | Google for Developers
+
+Skip to main content
+
+Business Profile APIs
+
+/
+
+English
+
+Deutsch
+
+Español
+
+Español – América Latina
+
+Français
+
+Indonesia
+
+Italiano
+
+Polski
+
+Português – Brasil
+
+Tiếng Việt
+
+Türkçe
+
+Русский
+
+עברית
+
+العربيّة
+
+فارسی
+
+हिंदी
+
+বাংলা
+
+ภาษาไทย
+
+中文 – 简体
+
+中文 – 繁體
+
+日本語
+
+한국어
+
+Sign in
+
+Guides
+
+Reference
+
+Samples
+
+Support
+
+Business Profile APIs
+
+Home
+
+Guides
+
+Reference
+
+Samples
+
+Support
+
+Overview
+
+Account Management
+
+Overview
+
+v1
+
+REST Resources
+
+accounts
+
+Overview
+
+create
+
+get
+
+list
+
+patch
+
+accounts.admins
+
+Overview
+
+create
+
+delete
+
+list
+
+patch
+
+accounts.invitations
+
+Overview
+
+accept
+
+decline
+
+list
+
+locations
+
+Overview
+
+transfer
+
+locations.admins
+
+Overview
+
+create
+
+delete
+
+list
+
+patch
+
+Change log
+
+Business Calls
+
+Overview
+
+v1
+
+REST Resources
+
+locations
+
+Overview
+
+getBusinesscallssettings
+
+updateBusinesscallssettings
+
+locations.businesscallsinsights
+
+Overview
+
+list
+
+Types
+
+BusinessCallsSettings
+
+ErrorCode
+
+Change log
+
+Business Information
+
+Overview
+
+v1
+
+REST Resources
+
+accounts.locations
+
+Overview
+
+create
+
+list
+
+attributes
+
+Overview
+
+list
+
+categories
+
+Overview
+
+batchGet
+
+list
+
+chains
+
+Overview
+
+get
+
+search
+
+googleLocations
+
+Overview
+
+search
+
+locations
+
+Overview
+
+delete
+
+get
+
+getAttributes
+
+getGoogleUpdated
+
+patch
+
+updateAttributes
+
+locations.attributes
+
+Overview
+
+getGoogleUpdated
+
+Types
+
+AttributeValueType
+
+Attributes
+
+CategoryView
+
+ErrorCode
+
+v1alpha
+
+REST Resources
+
+accounts.locations
+
+Overview
+
+create
+
+list
+
+attributes
+
+Overview
+
+list
+
+categories
+
+Overview
+
+batchGet
+
+list
+
+chains
+
+Overview
+
+get
+
+search
+
+googleLocations
+
+Overview
+
+search
+
+locations
+
+Overview
+
+delete
+
+get
+
+getAttributes
+
+getExtended
+
+getGoogleUpdated
+
+patch
+
+updateAttributes
+
+locations.attributes
+
+Overview
+
+getExtended
+
+getGoogleUpdated
+
+Types
+
+Attribute
+
+AttributeValueType
+
+Attributes
+
+CategoryView
+
+ErrorCode
+
+Shared.Types
+
+Types
+
+Date
+
+DayOfWeek
+
+EditLifecycleStage
+
+ExtendedFieldData
+
+LatLng
+
+Money
+
+PolicyViolation
+
+PostalAddress
+
+Source
+
+TimeOfDay
+
+Change log
+
+Lodging
+
+Overview
+
+v1
+
+REST Resources
+
+locations
+
+Overview
+
+getLodging
+
+updateLodging
+
+locations.lodging
+
+Overview
+
+getGoogleUpdated
+
+Types
+
+Lodging
+
+Change log
+
+Media
+
+Overview
+
+v1
+
+upload
+
+Notifications
+
+Overview
+
+v1
+
+REST Resources
+
+accounts
+
+Overview
+
+getNotificationSetting
+
+updateNotificationSetting
+
+Types
+
+ErrorCode
+
+NotificationSetting
+
+Change log
+
+Performance
+
+Overview
+
+v1
+
+REST Resources
+
+locations
+
+Overview
+
+fetchMultiDailyMetricsTimeSeries
+
+getDailyMetricsTimeSeries
+
+locations.searchkeywords.impressions.monthly
+
+Overview
+
+list
+
+Types
+
+DailyMetric
+
+DailyRange
+
+DailySubEntityType
+
+Date
+
+TimeSeries
+
+Change log
+
+Place Actions
+
+Overview
+
+v1
+
+REST Resources
+
+locations.placeActionLinks
+
+Overview
+
+create
+
+delete
+
+get
+
+list
+
+patch
+
+placeActionTypeMetadata
+
+Overview
+
+list
+
+Types
+
+ErrorCode
+
+Change log
+
+Verifications
+
+Overview
+
+v1
+
+REST Resources
+
+locations
+
+Overview
+
+fetchVerificationOptions
+
+getVoiceOfMerchantState
+
+verify
+
+locations.verifications
+
+Overview
+
+complete
+
+list
+
+verificationTokens
+
+Overview
+
+generate
+
+Types
+
+PostalAddress
+
+ServiceBusinessContext
+
+Verification
+
+VerificationMethod
+
+Change log
+
+v4.9
+
+Overview
+
+Change log
+
+REST Resources
+
+accounts
+
+Overview
+
+create
+
+deleteNotifications
+
+generateAccountNumber
+
+get
+
+getNotifications
+
+list
+
+listRecommendGoogleLocations
+
+update
+
+updateNotifications
+
+accounts.admins
+
+Overview
+
+create
+
+delete
+
+list
+
+patch
+
+accounts.invitations
+
+Overview
+
+accept
+
+decline
+
+list
+
+accounts.locations
+
+Overview
+
+associate
+
+batchGet
+
+batchGetReviews
+
+clearAssociation
+
+create
+
+delete
+
+fetchVerificationOptions
+
+findMatches
+
+get
+
+getFoodMenus
+
+getGoogleUpdated
+
+getHealthProviderAttributes
+
+getServiceList
+
+list
+
+patch
+
+reportInsights
+
+transfer
+
+updateFoodMenus
+
+updateHealthProviderAttributes
+
+updateServiceList
+
+verify
+
+accounts.locations.admins
+
+Overview
+
+create
+
+delete
+
+list
+
+patch
+
+accounts.locations.followers
+
+Overview
+
+getMetadata
+
+accounts.locations.insuranceNetworks
+
+Overview
+
+list
+
+accounts.locations.localPosts
+
+Overview
+
+create
+
+delete
+
+get
+
+list
+
+patch
+
+reportInsights
+
+accounts.locations.media
+
+Overview
+
+create
+
+delete
+
+get
+
+list
+
+patch
+
+startUpload
+
+accounts.locations.media.customers
+
+Overview
+
+get
+
+list
+
+accounts.locations.questions
+
+Overview
+
+create
+
+delete
+
+list
+
+patch
+
+accounts.locations.questions.answers
+
+Overview
+
+delete
+
+list
+
+upsert
+
+accounts.locations.reviews
+
+Overview
+
+deleteReply
+
+get
+
+list
+
+updateReply
+
+accounts.locations.verifications
+
+Overview
+
+complete
+
+list
+
+attributes
+
+Overview
+
+list
+
+categories
+
+Overview
+
+batchGet
+
+list
+
+chains
+
+Overview
+
+get
+
+search
+
+googleLocations
+
+Overview
+
+report
+
+search
+
+Types
+
+AdminRole
+
+AttributeValueType
+
+Author
+
+BasicMetricsRequest
+
+CategoryView
+
+Date
+
+FoodMenus
+
+HealthProviderAttributes
+
+InsuranceNetwork
+
+Metric
+
+MetricOption
+
+MetricValue
+
+Notifications
+
+PostalAddress
+
+ServiceBusinessContext
+
+ServiceList
+
+TimeRange
+
+Shared.Types
+
+Types
+
+ErrorCode
+
+ErrorDetail
+
+InternalError
+
+ValidationError
+
+WriteRequest
+
+WriteResponse
+
+Deprecation schedule
+
+Latest Business Profile API updates
+Check edit status for locations and attributes with the new v1alpha endpoints. See the Edit Status guide or the Latest Updates page.
+
+Home
+
+Products
+
+Business Profile APIs
+
+Reference
+
+Deprecation schedule
+
+Stay organized with collections
+
+Save and categorize content based on your preferences.
+
+Page Summary
+
+outlined_flag
+
+Google launched new Business Profile APIs in 2021 for enhanced management and faster updates.
+
+Developers must migrate from the deprecated Business Profile Performance API to the new locations.fetchMultiDailyMetricsTimeSeries method.
+
+The My Business Business Calls API and certain Business Information API methods have been deprecated and require action to avoid disruptions.
+
+accounts.locations.InsuranceNetworks and accounts.locations.HealthProviderAttributes methods will be deprecated on June 17, 2024.
+
+Refer to the deprecation schedule for details on specific API resources, their replacements, and support timelines.
+
+What do I need to know?
+
+Over the course of 2021, we launched a new set of APIs to help you manage your Business Profile. Our new set of APIs provide you greater API consumption flexibility, and help us to release new product updates faster.
+Check the following sections for the current list and past list of deprecated resources and their replacements if applicable.
+
+What do I need to do?
+
+Note: Determine your usage of these API resources, in order to assess if action is required.
+
+Business Profile Performance API
+
+Update to the new Business Profile Performance API to continue getting insights on your business profile.
+Explore the new locations.fetchMultiDailyMetricsTimeSeries API method that allows fetching of multiple DailyMetrics
+objects with a single API request.
+
+My Business Business Calls API
+
+In addition, the My Business Business Calls API
+was deprecated on May 30, 2023. If you are using the My Business Business Calls API, follow these steps:
+
+Disable call history using the Google Business Profile UI in Google Maps or Google Search.
+
+Discontinue using the My Business Business calls API method to avoid disruption.
+
+My Business Business Information API
+
+We have deprecated locations.associate and locations.clearLocationAssociation API methods which are part of the
+My Business Business Information API on May 30, 2023.
+
+InsuranceNetworks and HealthProviderAttributes
+
+We have deprecated accounts.locations.InsuranceNetworks and accounts.locations.HealthProviderAttributes API methods which are part of the
+Google My Business v4.9 API on June 17, 2024.
+
+My Business Q&A API
+
+The My Business Q&A API
+was discontinued on November 3, 2025. Discontinue using the My Business Q&A API methods and Q&A notification types (NEW_QUESTION, NEW_ANSWER, UPDATED_QUESTION, UPDATED_ANSWER).
+
+API versions
+
+Support Ended indicates that the version of the API will continue to function as expected, but may not be updated with new features or bug fixes. Support will be limited.
+
+Discontinuation indicates that the version of the API will always return errors and will soon be shut down.
+
+Past Deprecation Schedule
+
+Deprecated Resource
+
+Type
+
+Replacement Resource
+
+Support Ended
+
+Discontinuation Date
+
+My Business Q&A API deprecation
+
+My Business Q&A API
+
+API
+
+None
+
+2025-09-15
+
+2025-11-03
+
+getHealthProviderAttributes
+
+accounts.locations.getHealthProviderAttributes
+
+Method
+
+None
+
+2024-06-17
+
+2024-07-01
+
+updateHealthProviderAttributes
+
+accounts.locations.updateHealthProviderAttributes
+
+Method
+
+None
+
+2024-06-17
+
+2024-07-01
+
+InsuranceNetworks
+
+accounts.locations.insuranceNetworks
+
+API
+
+None
+
+2024-06-17
+
+2024-07-01
+
+My Business Calls API deprecation
+
+My Business Business Calls API
+
+API
+
+None
+
+2023-02-21
+
+2023-05-30
+
+locations.associate and locations.clearLocationAssociation deprecation
+
+locations.associate (My Business Business Information API v1)
+
+Method
+
+None
+
+2023-02-21
+
+2023-05-30
+
+locations.clearLocationAssociation (My Business Business Information API v1)
+
+Method
+
+None
+
+2023-02-21
+
+2023-05-30
+
+Business Profile Performance API Migration
+
+accounts.locations.reportInsights (Google My Business v4.9)
+
+Method
+
+locations.fetchMultiDailyMetricsTimeSeries (Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+accounts.locations.localPosts.reportInsights (Google My Business v4.9)
+
+Method
+
+None
+
+2022-11-21
+
+2023-02-20
+
+DrivingDirectionMetricsRequest and LocationDrivingDirectionMetrics (accounts.locations.reportInsights v4.9 Object)
+
+Object
+
+None
+
+2022-11-21
+
+2023-03-30
+
+ALL (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-03-30
+
+QUERIES_DIRECT (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-03-30
+
+QUERIES_INDIRECT (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-03-30
+
+QUERIES_CHAIN (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-03-30
+
+VIEWS_MAPS (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+BUSINESS_IMPRESSIONS_DESKTOP_MAPS and
+
+BUSINESS_IMPRESSIONS_MOBILE_MAPS
+
+(Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+VIEWS_SEARCH
+
+(accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+BUSINESS_IMPRESSIONS_DESKTOP_SEARCH and
+
+BUSINESS_IMPRESSIONS_MOBILE_SEARCH
+
+(Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+ACTIONS_WEBSITE
+
+(accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+WEBSITE_CLICKS
+
+(Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+ACTIONS_PHONE
+
+(accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+CALL_CLICKS
+
+(Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+ACTIONS_DRIVING_DIRECTIONS
+
+(accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+BUSINESS_DIRECTION_REQUESTS
+
+(Google Business Profile Performance API v1)
+
+2022-11-21
+
+2023-03-30
+
+PHOTOS_VIEWS_MERCHANT (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+PHOTOS_VIEWS_CUSTOMERS (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+PHOTOS_COUNT_MERCHANT (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+PHOTOS_COUNT_CUSTOMERS (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+LOCAL_POST_VIEWS_SEARCH (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+LOCAL_POST_ACTIONS_CALL_TO_ACTION (accounts.locations.reportInsights v4.9 Metric)
+
+Metric
+
+None
+
+2022-11-21
+
+2023-02-20
+
+MediaInsights (accounts.locations.media v4.9 Object)
+
+Object
+
+None
+
+2022-11-21
+
+2023-02-20
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+
+Last updated 2026-08-28 UTC.
+
+Product Info
+
+Terms of Service
+
+Usage Limits
+
+Pricing
+
+Help
+
+Support
+
+Build
+
+Android
+
+Chrome
+
+Firebase
+
+Google AI Studio
+
+Google Antigravity
+
+Google Cloud
+
+Google Play
+
+View all
+
+Android
+
+Chrome
+
+Firebase
+
+Google Cloud Platform
+
+Google AI
+
+All products
+
+Terms
+
+Privacy
+
+Manage cookies
+
+English
+
+Deutsch
+
+Español
+
+Español – América Latina
+
+Français
+
+Indonesia
+
+Italiano
+
+Polski
+
+Português – Brasil
+
+Tiếng Việt
+
+Türkçe
+
+Русский
+
+עברית
+
+العربيّة
+
+فارسی
+
+हिंदी
+
+বাংলা
+
+ภาษาไทย
+
+中文 – 简体
+
+中文 – 繁體
+
+日本語
+
+한국어

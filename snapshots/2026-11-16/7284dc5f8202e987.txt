@@ -1,0 +1,479 @@
+Introducing Sentir: The AI-native Intelligent CRM for Wealth Management | Practifi
+Skip to content
+
+Introducing Practifi Intelligence: Our Built-in AI Assistant. Learn More >
+
+Contact Us
+
+Home
+
+Products
+Close Products Open Products
+
+Sentir
+
+Naya
+
+Sentir
+
+Naya
+
+Solutions
+Close Solutions Open Solutions
+
+AI Agents
+
+Notetaker
+
+Meeting Prep
+
+Workflow Automation
+
+Project Management
+
+Relationship Management
+
+MCP
+
+AI Agents
+
+Notetaker
+
+Meeting Prep
+
+Workflow Automation
+
+Project Management
+
+Relationship Management
+
+MCP
+
+Intelligent CRM
+
+Resources
+Close Resources Open Resources
+
+Blog
+
+Case Studies
+
+eBooks
+
+FAQ
+
+Webinars
+
+Support
+
+PractifiU
+
+API
+
+Blog
+
+Case Studies
+
+eBooks
+
+FAQ
+
+Webinars
+
+Support
+
+PractifiU
+
+API
+
+Pricing
+
+Company
+Close Company Open Company
+
+About Us
+
+Careers
+
+In The News
+
+Media Kit
+
+Press Releases
+
+Legal
+
+About Us
+
+Careers
+
+In The News
+
+Media Kit
+
+Press Releases
+
+Legal
+
+Log In
+
+Book a Demo
+
+Introducing Sentir: The AI-native Intelligent CRM for Wealth Management
+
+Adrian Johnstone, CEO
+
+Every advisory firm has a version of the same quiet problem. Somewhere in the book right now is a client whose circumstances changed two months ago, and nobody has noticed. This is arithmetic rather than negligence. A firm with a couple of thousand relationships and a few dozen people cannot hold continuous, specialist attention on all of them, so the attention goes to whichever relationships ask for it loudest.
+
+Today, that arithmetic changes.
+
+Practifi Sentir is here.
+
+Sentir is an AI-native Intelligent CRM for wealth management. At its center is a workforce of sixteen specialist AI agents, covering tax, estate, investments, retirement, risk, philanthropy and business ownership, along with the harder questions of what a client is feeling and who in a household actually decides. They work every relationship in the firm, continuously, inside the permissions and audit controls that firm already runs on.
+
+Sentir covers every relationship in the book, not just the ones loud enough to surface on their own. This is the shift the series has spent nine weeks building toward, and it is available today.
+
+SEE IT LIVE
+
+On Tuesday, September 1 at 3:00 PM ET, we are walking through Sentir in the product itself, with Conor Curtis, our Head of Product. Forty five minutes, and time for questions.
+
+Save Your Seat
+
+What Sentir is
+
+Sentir is the AI-native Intelligent CRM this series has been building toward. Rather than layering a chat interface over a database, Sentir was designed from its foundation so that intelligence is simply how the system works.
+
+At the center is a workforce of sixteen specialist AI agents. Each one has a defined job, a curated knowledge base, and a continuous responsibility to do that work across a firm’s entire client base. They are organized in three groups, because the questions a firm needs answered about a client relationship come in three different shapes.
+
+What changes inside a firm that runs on Sentir
+
+The scenarios this series walked through are the ordinary texture of running an advisory business. Sentir is built to change how each one plays out.
+
+An advisor opens a client record already knowing what matters, instead of assembling context from scratch before every meeting.
+
+A client service associate answers an unexpected call with the same picture the primary advisor would see, instead of asking the client to wait.
+
+A relationship that has gone quiet surfaces as a pattern worth acting on, well before it shows up as a renewal nobody saw coming.
+
+A question that would have gone to a specialist, and waited a week for an answer, gets a grounded and cited starting point the moment it comes up.
+
+None of this is a firm doing more of what it already does, faster. It is a firm doing work it was never able to do at scale: continuous, specialist-level attention across every client relationship at once.
+
+Meet the workforce: sixteen specialist AI agents
+
+These are the agents a firm gets on day one. Every one of them is named, scoped, and permanently on the job.
+
+Domain Experts
+
+Eight agents grounded in the authoritative material a human specialist would use, including a curated knowledge base of nearly 200 published sources spanning industry guidance, academic research, and legislation.
+
+Financial Planning Assistant: the plan itself, and where the client stands against it.
+
+Investment Advisor: allocation, concentration, and positioning.
+
+Tax Planning Assistant: cost basis, rates, conversion timing, and account treatment.
+
+Estate Planning Assistant: trust and beneficiary structure, transfer tax headroom, and step-up.
+
+Retirement Planning Assistant: income sequencing and the shape of the retirement decision.
+
+Risk and Insurance Advisor: exposure, coverage, and what is uninsured.
+
+Business Ownership Advisor: the client’s business interests, succession, and liquidity events.
+
+Philanthropy Advisor: giving strategy, vehicles, and intent.
+
+Analytical Perspectives
+
+Five agents that read across the relationship rather than through a single discipline.
+
+Emotional Intelligence Advisor: sentiment, life-stage sensitivities, and whose voice carries in the household.
+
+Engagement Advisor: how engaged the client actually is, and where attention is thinning.
+
+Growth Strategist: where the relationship has room to deepen.
+
+Intergenerational Advisor: the wider family, and the relationships a firm has not yet built.
+
+Life Events Advisor: what is in motion right now and what it should trigger.
+
+Operational Context
+
+Three agents that give an immediate read on any relationship: what changed, what is open, and what needs attention before the next conversation.
+
+Relationship Navigator: the current state of the relationship and what needs attention now.
+
+Relationship Historian: the history behind the relationship and how it got here.
+
+Practice Manager: the operational view across a book of business.
+
+No firm could staff sixteen specialists against every client relationship it holds. That is the point of a workforce that is software.
+
+What the agents work inside
+
+A workforce needs somewhere to do its work, and someone to hand that work to. Sentir provides both, in the places an advisor already spends the week.
+
+Briefings that assemble themselves from what is already in the CRM, so preparing for a conversation starts with reading rather than gathering.
+
+A native AI notetaker and a meeting prep workspace, so what is said in a meeting lands back in the record without anyone retyping it.
+
+One timeline for the entire relationship, rather than a history split across objects and tools.
+
+Purpose-built front office, back office, and executive experiences, so the same intelligence reaches each role in the shape that role needs.
+
+One system where a firm was running several. The standalone notetaker, the project tool, the survey tool, and the knowledge base all come inside the CRM, so the work and the record of the work stop living in different places.
+
+How Sentir is governed
+
+A workforce of AI agents only belongs inside a regulated firm if it operates inside the controls that firm already has. Part 7 of this series put the test plainly. Can a firm tell when the AI was wrong, restrict what it is able to reach, and prove afterwards what happened? Sentir was built to answer yes to all three from day one.
+
+That standard is not ours to invent. FINRA’s 2026 Regulatory Oversight Report expanded its treatment of generative AI to address autonomous agents that take action rather than simply generate text. The SEC’s examination priorities for fiscal 2026 press on explainability, and on whether a firm’s policies are enforced operationally rather than merely documented. Sentir was designed against those expectations, alongside the obligations our clients already carry under the Investment Advisers Act of 1940, the fiduciary standard, Form ADV disclosure, books and records requirements, and the SEC Marketing Rule.
+
+Auditability and compliance have to be foundational design principles rather than features added later, built into how decisions are generated, reviewed, logged, and overseen by people. Four things follow from that, and a compliance officer can test every one of them.
+
+Permissions come first. A user’s existing record and field-level permissions are enforced before any model sees data. The agents have no privileged route to information a person could not already open themselves.
+
+Every run leaves a record. Field-level data history is retained for up to ten years through Salesforce Shield, included with every license. Separately, the last 30 days of AI generation results are retained, with every run visible to your administrators in-app.
+
+Nothing acts on its own. The agents write, and the advisors act: Where work is suggested e.g. follow-ups from a meeting, a person accepts, edits or rejects it before anything is created.
+
+Every briefing cites its sources, and each one carries a reminder that its content does not constitute investment, legal, or tax advice.
+
+Client data is never comingled between firms, and no client data is used to train or fine-tune any foundation model. Deterministic workflow still runs on governed, rule-based logic, so the intelligence supplements the workflow engine rather than replacing it.
+
+Governance is the shape of the system, not a configuration step after deployment.
+
+Two products, one platform: Naya and Sentir
+
+The system that already powers many firms’ day-to-day business is now called Practifi Naya. Sentir is the AI-native Intelligent CRM this series has described. Neither replaces the other, and we are investing in both, side by side.
+
+PRACTIFI NAYA
+
+The configurable wealth management CRM built around each firm’s workflows and business model: proven, deep, and shaped by the way a large or complex practice actually operates.
+
+Naya remains commercially available to existing and new firms and is fully supported. Nothing about a firm’s workflow changes.
+
+PRACTIFI SENTIR
+
+The AI-native Intelligent CRM built with AI at its foundation: a system where the workforce, governance, and intelligence are the starting point.
+
+Because both products share a foundation, a firm that chooses Sentir changes experience without re-platforming. Configuration carries over and client data is never touched.
+
+A firm chooses the product that matches where it is today. There is no forced move and no date a firm currently using Practifi Naya has to meet, so the timing stays theirs. Because both products sit on the same enterprise foundation, today’s decision does not limit tomorrow’s options.
+
+How Sentir is priced
+
+A CRM that treats intelligence as a feature usually prices it as one: a base platform, and an AI add-on for firms willing to pay more. Sentir does not work that way, because intelligence is natively built into the foundation of the product.
+
+Intelligence isn’t a tier. It’s the product.
+
+Sentir is one product at one per-seat price. The workforce of agents, the governance controls, meeting capture, project management, and platform itself are a single purchase rather than a ladder of add-ons. A firm’s rate is locked for the contract term, so the cost of getting better does not scale with its ambition.
+
+Questions firms are asking
+
+Is Sentir replacing Practifi Naya?
+
+No. Naya remains commercially available to existing and new firms, and it is fully supported. A firm running Naya today can keep running it with no change to its workflow.
+
+Can the agents act on a client record without a person involved?
+
+No. A person reviews and approves before anything is executed.
+
+Is our client data used to train AI models?
+
+No client data is used to train or fine-tune any foundation model, and no client data is commingled between firms. A user’s existing permissions are enforced before any model sees data.
+
+Can Sentir work with the other AI tools we already use?
+
+Yes. The MCP Server is a secure, permissioned bridge that makes a firm’s client context available to other AI tools and assistants, without loosening the controls that context sits behind.
+
+See Sentir running
+
+Everything in this series has been building toward a simple invitation: come and see what an AI-native Intelligent CRM looks like when it is actually running. The workforce, the governance, and the parts of it that are hard to believe until you watch them work. Nine posts were the argument. Forty-five minutes with the product makes it better than we can.
+
+Join the live launch event on September 1
+
+Get the latest insights delivered straight to your inbox.
+
+Subscribe To Our Newsletter
+
+AI, AI CRM, CRM, intelligence, Practifi, technology
+
+Browse Categories
+Browse CategoriesSelect CategoryCompany & CultureFeature SpotlightIntegrations & PartnershipsPractice ManagementProductProduct Updates
+
+Check out our new eBook: AI Without CRM is Just Noise
+
+Get My Copy
+
+Share
+
+Share
+
+Share
+
+Practice Management
+
+Is Your Tech Stack AAA Ready? Understanding Auditable Agentic Autonomy for Advisory Firms
+
+September 23, 2026
+
+Practice Management, Product
+
+Why Most AI Adoption Stalls: The People and Process Problem Firms Overlook
+
+September 9, 2026
+
+Practice Management, Product
+
+What Gets Missed Between Annual Client Reviews
+
+September 9, 2026
+
+Practice Management, Product
+
+When an Advisor Leaves, What Walks Out the Door With Them?
+
+September 2, 2026
+
+Practice Management, Product
+
+Beyond Hours Saved: How Firms Should Actually Measure AI ROI
+
+August 17, 2026
+
+Practice Management, Product
+
+A New Chapter for Practifi: Introducing the Era of Intelligent CRM
+
+August 10, 2026
+
+Practifi is the leading provider of intelligent CRM solutions for RIAs.
+
+Products
+
+Sentir
+
+Naya
+
+Sentir
+
+Naya
+
+Solutions
+
+AI Agents
+
+Notetaker
+
+Meeting Prep
+
+Workflow Automation
+
+Project Management
+
+Relationship Management
+
+MCP
+
+AI Agents
+
+Notetaker
+
+Meeting Prep
+
+Workflow Automation
+
+Project Management
+
+Relationship Management
+
+MCP
+
+Resources
+
+Blog
+
+Case Studies
+
+eBooks
+
+FAQ
+
+Webinars
+
+Support
+
+PractifiU
+
+API
+
+Blog
+
+Case Studies
+
+eBooks
+
+FAQ
+
+Webinars
+
+Support
+
+PractifiU
+
+API
+
+Company
+
+About Us
+
+Careers
+
+In The News
+
+Media Kit
+
+Press Releases
+
+Legal
+
+About Us
+
+Careers
+
+In The News
+
+Media Kit
+
+Press Releases
+
+Legal
+
+Practifi. All Rights Reserved.
+
+Linkedin Youtube
+
+Watch Our Demo On-Demand
+
+CLOSE
+
+CLOSE
+
+CLOSE
+
+Subscribe to the Practifi Newsletter
+
+Receive valuable practice management tips, inspiring success stories, and the latest product updates.
+
+SUBSCRIBE TODAY! →
+
+X
+
+Schedule a Call
+
+CLOSE
+
+Contact Us
+
+CLOSE

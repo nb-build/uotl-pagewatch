@@ -1,0 +1,448 @@
+S-8
+1
+ef20071360_s8.htm
+S-8
+
+As filed with the Securities and Exchange Commission on April 28, 2026
+
+Registration No. 333-
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM S-8
+
+REGISTRATION STATEMENT
+
+UNDER
+
+THE SECURITIES ACT OF 1933
+
+ADOBE INC.
+
+(Exact Name of registrant as specified in its charter)
+
+Delaware
+
+77-0019522
+
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+345 Park Avenue
+
+San Jose, California 95110
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Assumed Awards pursuant to Semrush Holdings, Inc. 2021 Stock Option and Incentive Plan
+
+(Full title of the plan)
+
+Daniel Durn
+
+Chief Financial Officer and Executive Vice President, Finance, Technology, Security and Operations
+
+Adobe Inc.
+
+345 Park Avenue
+
+San Jose, California 95110
+
+(408) 536-6000
+
+(Name and address of agent for service) (Telephone number, including area code, of agent for service)
+
+With a copy to:
+
+Louise Pentland
+
+Chief Legal Officer and Executive Vice President, Legal and Government Relations and Corporate Secretary
+
+Adobe Inc.
+
+345 Park Avenue
+
+San Jose, California 95110
+
+(408) 536-6000
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large
+accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer ☑
+
+Accelerated filer ☐
+
+Non-accelerated filer ☐
+
+Smaller reporting company ☐
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with the new or revised financial accounting standards provided pursuant to
+Section 7(a)(2)(B) of the Securities Act. ☐
+
+EXPLANATORY NOTE
+
+On April 28, 2026, Adobe Inc. (“Adobe” or the “Registrant”) completed its acquisition of Semrush Holdings, Inc., a Delaware corporation (“Semrush”). In accordance with the
+Agreement and Plan of Merger, dated as of November 18, 2025 (the “Merger Agreement”), by and among Adobe, Fenway Merger Sub, Inc., a direct, wholly owned subsidiary of Adobe (“Merger Sub”), and Semrush, Merger Sub merged with and into Semrush (the
+“Merger”), with Semrush surviving the Merger as a wholly owned subsidiary of Adobe. Semrush’s common stock, par value $0.00001 per share (the “Semrush common stock”), is no longer publicly outstanding, and shares of Semrush common stock currently
+represent the right to receive the consideration described in the Merger Agreement.
+
+At the effective time of the Merger, Adobe assumed certain Semrush equity awards that were outstanding as of immediately prior to the effective time of the Merger and issued
+under the Semrush Holdings, Inc. 2021 Stock Option and Incentive Plan (the “2021 Plan,” and such awards, the “Assumed Awards”) pursuant to the Merger Agreement. Such Assumed Awards were converted into Adobe equity awards in accordance with the
+Merger Agreement. The Assumed Awards are subject to substantially the same terms and conditions that were applicable to the corresponding awards granted under the 2021 Plan, except that (i) the Assumed Awards relate to common stock, par value
+$0.0001 per share, of Adobe (the “Adobe common stock”), and (ii) the number of shares of Adobe common stock subject to each Assumed Award is the result of an adjustment based upon a conversion ratio pursuant to the Merger Agreement.
+
+This Registration Statement has been filed for the purpose of registering up to 427,000 shares of Adobe common stock issuable upon the grant, vesting or settlement of the Assumed
+Awards.
+
+PART I
+
+INFORMATION REQUIRED IN THE SECTION 10(a) PROSPECTUS
+
+The documents containing the information specified in this Part I will be sent or given to holders of the Assumed Awards as specified by Rule 428(b)(1) under the Securities Act of
+1933, as amended (the “Securities Act”). In accordance with the rules and regulations of the Securities and Exchange Commission (the “Commission”) and the instructions to Form S-8, such documents are not being filed with the Commission as part of
+this Registration Statement. These documents and the documents incorporated by reference in the Registration Statement pursuant to Item 3 of Part II of this Registration Statement, taken together, constitute a prospectus that meets the requirements
+of Section 10(a) of the Securities Act.
+
+PART II
+
+INFORMATION REQUIRED IN THE REGISTRATION STATEMENT
+
+Item 3.
+
+Incorporation of Documents by Reference.
+
+The following documents filed by the Registrant with the Commission are incorporated by reference in this Registration Statement:
+
+(a)
+
+The Registrant’s Annual Report on Form 10-K for the fiscal year ended November 28, 2025, filed with the
+Commission on January 15, 2026;
+
+(b)
+
+The Registrant’s Quarterly Report on Form 10-Q for the quarterly period ended February 27, 2026, filed
+with the Commission on March 25, 2026;
+
+(c)
+
+The Registrant’s Current Reports on Form 8-K filed with the Commission on January 27, 2026, March 12,
+2026 and April 21, 2026 (other than any portions of those documents deemed to be furnished
+but not filed); and
+
+(d)
+
+The description of the Adobe common stock contained in Exhibit 4.7 to the Registrant’s Annual Report on Form 10-K for the fiscal year ended November 28, 2025, filed with the Commission on January 15, 2026, and any other amendments and
+reports filed for the purpose of updating such description.
+
+All documents subsequently filed by the Registrant pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), (other than any such documents or portions thereof that are furnished under Item 2.02 or Item 7.01 of a Current Report on Form 8-K, unless otherwise indicated therein, including any exhibits included with such Items) and
+prior to the filing of a post-effective amendment to this Registration Statement which indicates that all securities offered have been sold or which deregisters all securities then remaining unsold, shall be deemed to be incorporated by reference
+into this Registration Statement and to be a part hereof from the date of filing such documents. Any statement contained in a document incorporated or deemed to be incorporated by reference herein shall be deemed to be modified or superseded for
+purposes of this Registration Statement to the extent that a statement contained herein or in any other subsequently filed document which also is or is deemed to be incorporated by reference herein modifies or supersedes such statement. Any such
+statement so modified or superseded shall not be deemed, except as so modified or superseded, to constitute a part of this Registration Statement.
+
+Item 4.
+
+Description of Securities.
+
+Not applicable.
+
+Item 5.
+
+Interests of Named Experts and Counsel.
+
+Not Applicable.
+
+Item 6.
+
+Indemnification of Directors and Officers.
+
+Section 145 of the Delaware General Corporation Law (the “DGCL”) provides that a Delaware corporation may indemnify directors, officers, employees and agents against expenses (including attorneys’
+fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by such person in connection with any threatened, pending or completed action, suit or proceeding in which such person is made a party by reason of such person
+being or having been a director, officer, employee or agent to the corporation, provided that such person acted in good faith and in a manner he or she reasonably believed to be in or not opposed to the corporation’s best interests and, with
+respect to any criminal action or proceeding, had no reasonable cause to believe that his or her conduct was unlawful. The DGCL provides that Section 145 is not exclusive of other rights to which those seeking indemnification may be entitled under
+any bylaw, agreement, vote of stockholders or disinterested directors or otherwise.
+
+Section 102(b)(7) of the DGCL permits a corporation to provide in its certificate of incorporation or an amendment thereto that it shall eliminate or limit the personal liability of a director or
+officer to the corporation and its stockholders for monetary damages arising out of certain breaches of fiduciary duty.
+
+The Registrant’s Restated Certificate of Incorporation provides for the elimination of a director’s liability to the Registrant and its stockholders for monetary damages for breach of fiduciary
+duty, except for liability (i) for any breach of the director’s duty of loyalty to the Registrant or its stockholders, (ii) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of the law, (iii)
+under Section 174 of the DGCL, or (iv) for any transaction from which the director derived an improper personal benefit.
+
+The Registrant’s Amended and Restated Bylaws (the “Bylaws”) generally provide that the Registrant shall indemnify each of its directors and executive officers to the fullest extent not prohibited
+by the DGCL and may indemnify certain other persons as set forth in the DGCL.
+
+The Registrant also maintains officer and director insurance coverage against certain liabilities for actions taken in their capacities as such, including liabilities under the Securities Act. In
+addition, each executive officer and director is a party to a written agreement which states that the Registrant agrees to hold each of them harmless against any and all judgments, fines, settlements and expenses related to claims against such
+person by reason of the fact that the person is or was a director, executive officer, employee or other agent of the Registrant, and otherwise to the fullest extent authorized or permitted by the Registrant’s Bylaws and under the non-exclusivity
+provisions of the DGCL.
+
+Item 7.
+
+Exemption from Registration Claimed.
+
+Not Applicable.
+
+Item 8.
+
+Exhibits.
+
+Exhibit
+
+No.
+
+Description
+
+4.1
+
+Restated Certificate of Incorporation of Adobe (incorporated by reference to Exhibit 3.3 to Adobe’s Current Report on Form 8-K, filed with
+the Commission on April 26, 2011).
+
+4.2
+
+Certificate of Amendment to Restated Certificate of Adobe (incorporated by reference to Exhibit 3.1 to Adobe’s Current Report on Form 8-K, filed
+with the Commission on October 9, 2018).
+
+4.3
+
+Amended and Restated Bylaws (incorporated by reference to Exhibit 3.1 to Adobe’s Current Report on Form 8-K, filed with the Commission on April
+24, 2025).
+
+4.4
+
+Semrush Holdings, Inc. 2021 Stock Option and Incentive Plan (incorporated by reference to Exhibit 10.3 of Semrush’s Registration Statement
+on Form S-1/A, filed with the Commission on March 16, 2021).
+
+5.1*
+
+Opinion of Wachtell, Lipton, Rosen & Katz.
+
+23.1*
+
+Consent of Wachtell, Lipton, Rosen & Katz (included in Exhibit 5.1).
+
+23.2*
+
+Consent of KPMG LLP.
+
+24.1*
+
+Power of Attorney (included on the signature page).
+
+107*
+
+Filing Fee Table.
+
+* Filed herewith.
+
+Item 9.
+
+Undertakings.
+
+(a)
+
+The undersigned Registrant hereby undertakes:
+
+(1)
+
+To file, during any period in which offers or sales are being made, a post-effective amendment to this Registration Statement:
+
+(i)
+
+To include any prospectus required by Section 10(a)(3) of the Securities Act;
+
+(ii)
+
+To reflect in the prospectus any facts or events arising after the effective date of this Registration Statement (or the most recent post-effective amendment thereof) which, individually or in the aggregate,
+represent a fundamental change in the information set forth in this Registration Statement. Notwithstanding the foregoing, any increase or decrease in volume of securities offered (if the total dollar value of securities offered would not
+exceed that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in the form of prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the
+changes in volume and price represent no more than a 20% change in the maximum aggregate offering price set forth in the “Calculation of Registration Fee” table in the effective Registration Statement; and
+
+(iii)
+
+To include any material information with respect to the plan of distribution not previously disclosed in this Registration Statement or any material change to such information in this Registration Statement;
+
+provided, however, that paragraphs (a)(1)(i) and (a)(1)(ii) above do not apply if the information required to be
+included in a post-effective amendment by those paragraphs is contained in reports filed with or furnished to the Commission by the Registrant pursuant to Section 13 or Section 15(d) of the Exchange Act that are incorporated by reference in this
+Registration Statement.
+
+(2)
+
+That, for the purpose of determining any liability under the Securities Act, each such post-effective amendment shall be deemed to be a new registration statement relating to the securities offered therein,
+and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.
+
+(3)
+
+To remove from registration by means of a post-effective amendment any of the securities being registered which remain unsold at the termination of the offering.
+
+(b)
+
+The undersigned Registrant hereby undertakes that, for purposes of determining any liability under the Securities Act, each filing of the Registrant’s annual report pursuant to Section 13(a) or Section 15(d)
+of the Exchange Act that is incorporated by reference in the registration statement shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be
+deemed to be the initial bona fide offering thereof.
+
+(h)
+
+Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors, officers and controlling persons of the Registrant pursuant to the foregoing provisions, or
+otherwise, the Registrant has been advised that in the opinion of the Commission such indemnification is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for
+indemnification against such liabilities (other than the payment by the Registrant of expenses incurred or paid by a director, officer or controlling person of the Registrant in the successful defense of any action, suit or proceeding) is
+asserted by such director, officer or controlling person in connection with the securities being registered, the Registrant will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court
+of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Securities Act and will be governed by the final adjudication of such issue.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Act of 1933, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on
+Form S-8 and has duly caused this Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of San Jose, State of California, on April 28, 2026.
+
+ADOBE INC.
+
+By:
+
+/s/ Daniel Durn
+
+Name:
+
+Daniel Durn
+
+Title:
+
+Chief Financial Officer and Executive Vice President, Finance, Technology, Security and Operations
+
+POWER OF ATTORNEY
+
+Each person whose signature appears below constitutes and appoints, jointly and severally, Daniel Durn and Louise Pentland, and each of them, as his or her attorneys-in-fact and agents, each with
+the power of substitution, for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this Registration Statement on Form S-8 (including post-effective amendments), and to file the same,
+with all exhibits thereto, and other documents in connection therewith, with the Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each act and thing requisite and necessary to be done, as fully
+to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that each of said attorneys-in-fact and agents, or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Act of 1933, this Registration Statement on Form S-8 has been signed by the following persons in the capacities indicated on April 28, 2026.
+
+Name
+
+Title
+
+Date
+
+/s/ Shantanu Narayen
+
+Chair of the Board of Directors and
+
+Chief Executive Officer
+
+(Principal Executive Officer)
+
+April 28, 2026
+
+Shantanu Narayen
+
+/s/ Daniel Durn
+
+Chief Financial Officer and Executive Vice President,
+
+Finance, Technology, Security and Operations
+
+(Principal Financial Officer)
+
+April 28, 2026
+
+Daniel Durn
+
+/s/ Jillian Forusz
+
+Senior Vice President, Chief Accounting Officer
+
+and Corporate Controller
+
+(Principal Accounting Officer)
+
+April 28, 2026
+
+Jillian Forusz
+
+/s/ Cristiano Amon
+
+Director
+
+April 28, 2026
+
+Cristiano Amon
+
+/s/ Amy Banse
+
+Director
+
+April 28, 2026
+
+Amy Banse
+
+/s/ Melanie Boulden
+
+Director
+
+April 28, 2026
+
+Melanie Boulden
+
+/s/ Frank Calderoni
+
+Director
+
+April 28, 2026
+
+Frank Calderoni
+
+/s/ Laura Desmond
+
+Director
+
+April 28, 2026
+
+Laura Desmond
+
+/s/ Spencer Neumann
+
+Director
+
+April 28, 2026
+
+Spencer Neumann
+
+/s/ Kathleen Oberg
+
+Director
+
+April 28, 2026
+
+Kathleen Oberg
+
+/s/ Dheeraj Pandey
+
+Director
+
+April 28, 2026
+
+Dheeraj Pandey
+
+/s/ David Ricks
+
+Director
+
+April 28, 2026
+
+David Ricks
+
+/s/ Daniel Rosensweig
+
+Director
+
+April 28, 2026
+
+Daniel Rosensweig

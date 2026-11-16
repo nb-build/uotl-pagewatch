@@ -1,0 +1,92 @@
+Unscheduled Treatment Plans Report
+
+Unscheduled Treatment Plans
+Report
+
+Patients who have treatment plans and do not have scheduled
+appointments for all treatment plans are listed in the Unscheduled Treatment
+Plans Report. You can select the providers that you want to include and
+whether you want to print a condensed or a detailed report.
+
+Note: Patients
+who have an appointment scheduled for other work not listed on the report
+have an "S" next to their names. This indicates that they have
+an appointment scheduled for other treatment-planned items. Patients who
+have an appointment on the Unscheduled List have a "U" next
+to their names. If this field is blank, the patient has no appointments
+(scheduled or unscheduled).
+
+To generate the report
+
+1.
+In the Office Manager, click Reports,
+point to Lists, and then click Unscheduled Treatment Plans.
+
+The Unscheduled
+Treatment Plans dialog box appears.
+
+2. Type
+the Report Date that you want to print on the report. The default
+is the current date.
+
+3. Do
+the following:
+
+· Select Patient - Select the range
+of patients that you want to include. Click the From
+and the To search
+buttons to select the starting and ending patient, respectively, or leave
+<ALL> selected in both fields
+to include all patients.
+
+· Status - Select the status or statuses
+that you want to include in the report. Dentrix includes only patients
+with the selected statuses assigned in the Family File on the report.
+
+· Select Provider - Select Prov1
+from Family File to run the report by the patients’ default providers
+in the Family File, or select Treatment
+Plan Provider to run the report by the providers assigned to the
+patients’ treatment plans. Select the range of providers that you want
+to include. Click the From and
+the To search
+buttons to select the starting and ending provider, respectively, or leave
+<ALL> selected in both fields
+to include all providers.
+
+· Select Treatment Plan Amount - To
+include only treatment plans with a specific value in the report, select
+From and type a minimum value.
+Select To and type a maximum value.
+To include treatment plans of all amounts, select All
+Amounts.
+
+· Select Report Types - Select one
+or both of the following:
+
+· Detailed Report
+
+· Condensed Report
+
+· Select Date Range - The date range
+of the creation dates of procedures. Type a date range for the treatment-planned
+procedures in the From and To fields.
+
+· Referral Procedures - To exclude
+certain treatment plans from the report, select one or more of the following:
+
+· Exclude Referred TO Procedures -
+Procedures that you referred to another doctor.
+
+· Exclude Referred BY Procedures -
+Procedures referred to your practice by another referral source.
+
+· Exclude Non-Referral Procedures
+- All procedures except those that have been referred.
+
+· Exclude Continuing Care Procedures
+- Select to exclude Continuing Care procedures from the report.
+
+4. Click
+OK to send the report to the Batch
+Processor.

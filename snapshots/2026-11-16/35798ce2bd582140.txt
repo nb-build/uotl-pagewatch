@@ -1,0 +1,235 @@
+Enerflo | Enerflo Solar Platform Product Announcement | March 2026
+
+Learn About Enerflo
+
+Book a Demo
+
+Enerflo Product Announcements
+
+MARCH 2026
+
+Enerflo’s March 2026 Product Announcements introduce updates across Solar PV system design, solar financing, and platform workflows, built to support residential solar companies preparing for peak season amid reduced volume following the 2025 ITC repeal pull-forward. As the operating system for residential solar, Enerflo remains focused on improving operational efficiency, lowering soft costs, reducing errors and change orders, and maximizing profitability on every installation.
+
+Enerflo Platform Updates & Feature Releases
+
+Solar PV System Design
+
+Enerflo introduces an update to Solar PV system design with Aurora, enabling users to archive and reuse solar design data across deals for improved efficiency and cost savings.
+
+AURORA SOLAR INTEGRATION UPDATES
+
+Aurora Solar Designs Now Archivable in Enerflo
+
+Enerflo now allows users to archive Aurora Solar design requests and reuse them on other deals. This helps users move design data without creating new requests, avoiding unnecessary costs.
+
+Solar Finance
+
+Enerflo introduces multiple Solar Financing updates, including support for Palmetto Energy Backup—a new battery-only TPO/lease offering that enables additional revenue streams for solar installers—along with enhancements to financing applications, lender configurations, and deal workflows.
+
+NEW! BATTERY-ONLY LEASE (TPO)
+
+Unlock a New Revenue Stream with Your Install Base — with Enerflo + Palmetto Energy Backup
+
+Launch battery retrofit sales with the first battery-only TPO integrated into Enerflo—helping installers monetize their solar install base with subscription-based energy storage financing.
+
+With the Enerflo + Palmetto integration, you can:
+
+Properly size energy storage using Enerflo’s Battery Sizing Tool
+
+Offer Battery-Only Lease (Energy Backup)
+
+Offer Solar PPA & Lease options
+
+Present lease alongside cash and loan options
+
+Complete applications without leaving Enerflo
+
+Size, price, submit, and confirm in one seamless sales flow
+
+LEARN MORE & GET STARTED
+
+INTEGRATED FINANCE APPLICATIONS UPDATES
+
+Streamlined Financing Application Updates
+
+Enerflo has enhanced its integrated financing applications to simplify customer data entry and ensure information stays up to date with the Enerflo customer record.
+
+SUNGAGE FINANCIAL INTEGRATION UPDATE
+
+Sungage Financial User Authentication Updates
+
+Enerflo now alerts users earlier when a sales rep does not have a matching Sungage account, helping teams resolve issues sooner and avoid delays later in the deal.
+
+GOODLEAP TPO INTEGRATION IMPROVEMENT
+
+Support for GoodLeap TPO Emailed Applications
+
+Enerflo users can now email GoodLeap TPO applications and track their status in Enerflo, bringing TPO in line with existing loan workflows.
+
+NON-INTEGRATED LENDERS UPDATE
+
+Non-Integrated Lenders No Longer Depend on ITC
+
+Enerflo has updated non-integrated lender configurations to remove ITC dependencies, while still allowing admins to configure voluntary prepayments for loans that adjust over time (AKA reamortize).
+
+Enerflo Platform
+
+Enerflo introduces four platform updates designed to improve system configuration, data accuracy, and overall workflow efficiency across the platform, giving teams more control and visibility in managing deals and operations.
+
+ENERGY CONSUMPTION DATA CURVE FIX
+
+More Accurate Monthly Consumption Modeling in Enerflo
+
+Enerflo has improved how annual energy consumption data is converted into monthly usage curves, using baseline data to deliver more accurate system modeling and forecasts.
+
+ENERFLO ADMIN CONTROLS UPDATES
+
+Control Installer Access by Sales Team in Enerflo
+
+Enerflo enables dealers to restrict which installers each sales team can sell for, improving deal accuracy and enforcing installer permissions.
+
+TPO PROPOSAL SUMMARIES IMPROVEMENTS
+
+Improved TPO Proposal Summaries in Enerflo
+
+Enerflo enhances proposal summaries for TPO financing, ensuring users see clearer, more relevant deal information.
+
+LICENSE MANAGEMENT UPDATES IN ENERFLO
+
+Enerflo License Management for Organizations and Users
+
+Enerflo introduces license management, enabling organizations and users to manage licenses by type, state, and status.
+
+Org admins and users can add, edit, and archive license numbers, while Enerflo controls license types.
+
+The system includes duplicate detection and expiration indicators to maintain accurate and compliant records.
+
+New Enerflo Products & Features
+
+Enerflo continues to deliver powerful new features and integrations designed to remove operational obstacles and prevent costly delays across residential solar projects. From AI-powered analytics and reporting that provide real-time business insights, to the Enerflo Virtual Sales Rep (VSR) that captures and qualifies leads 24/7, to integrations like Palmetto Energy Backup and Scanifly for financing and system design—these updates help solar sales teams, installers, EPCs, and hybrid organizations keep projects on time, on track, and profitable.
+
+NEW BATTERY-ONLY LEASE (TPO)
+
+Palmetto Energy Backup (Battery-Only Lease)
+
+Palmetto Energy Backup is a subscription-based lease (TPO) for battery storage only — designed to make backup power more accessible and affordable.
+
+With the Enerflo + Palmetto Energy Backup integration, you can:
+
+Retrofit battery storage to existing solar systems
+
+Re-Engage their past customer base
+
+Create new revenue without new customer acquisition costs
+
+Overcome cash and loan objections
+
+Expand financing flexibility
+
+Increase approval rates
+
+LEARN MORE & WATCH A DEMO
+
+NEW ENERFLO FEATURE!
+
+AI-Powered Analytics & Reporting for Residential Solar Companies
+
+LEARN MORE & BOOK A DEMO
+
+NEW ENERFLO ADD-ON!
+
+Enerflo VSR: The Setter That Never Sleeps for Solar Lead Engagement
+
+LEARN MORE & BOOK A DEMO
+
+NEW SOLAR DESIGN TOOL INTEGRATION!
+
+Increase Design Accuracy and Reduce Change Orders with Enerflo & Scanifly
+
+LEARN MORE & BOOK A DEMO
+
+Get Help & Support
+
+The Enerflo Support Team is at your service!
+
+Enerflo Support Hours
+
+Enerflo Platform Support Hours
+Monday - Saturday*(Closed Sundays)
+6:00am - 7:00pm PT (9:00am - 10:00pm ET)
+
+Aerialytic Design Support Hours
+Monday - Saturday*
+6:00 AM - 9:00 PM PT (9:00am - 12:00am ET)
+Sundays*
+8:00 AM - 4:00 PM PT (11:00am - 7:00pm ET)
+
+Email Enerflo Support
+If/when Chat Support isn't available
+support@enerflo.com
+
+*Holiday hours may vary
+
+Enerflo Chat Support & Training Resources
+
+Enerflo Chat Support is the fastest and easiest way to get help with Enerflo.
+
+With fast response and resolution times, the Enerflo Support Team is here to help you get unstuck and on with your day as quickly and efficiently as possible!
+
+Access on-demand training and support content from Chat as well.
+
+Enerflo Helps Installers Reduce Their Project Duration
+
+Enerflo Partners' Install timelines down 62% relative to peers despite volumes almost doubling
+
+Ohm Analytics, a 3rd party organization, conducted a case study to measure the impact of Enerflo on install timelines. Enerflo helps create efficiencies for these organizations that enable them to both shrink their install timelines and increase their volume.
+
+Read the Full Case Study
+
+Thank you for your interest! See you again next month.
+
+Enerflo
+20422 Beach Blvd #215
+Huntington Beach, CA 92648
+
+Features
+
+Sales Process
+
+Project Management
+
+Customer Engagement
+
+Docflo
+
+Lendflo
+
+Integrations
+
+Virtual Sales Rep (VSR)
+
+AI-Powered Reporting Suite
+
+About
+
+About Enerflo
+
+Contact Us
+
+Book a Demo
+
+Resources
+
+Partners
+
+Support
+
+Login
+
+Submit a Ticket
+
+Learning Center
+
+Enerflo All rights reserved Trust Terms Privacy Policy
+
+Powered by Atlas - a B2B SaaS HubSpot theme

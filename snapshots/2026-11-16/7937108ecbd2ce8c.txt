@@ -1,0 +1,122 @@
+Know the Moment a Customer Opens Your Estimate | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Voice of the Customer Features
+
+Win more jobs
+
+Know the Moment a Customer Opens Your Estimate
+
+Know the Moment a Customer Opens Your Estimate
+
+August 21, 2026
+
+Table of contents
+
+You Asked. We're Building.
+
+The feature below started with feedback and votes from Pros like you. Our team listens to what’s getting in your way, looks for the problems that come up again and again, and turns that feedback into product improvements.
+
+See something else you want? Vote for a feature or share your idea →
+
+Want to swap ideas, ask questions, and connect with other Pros? Join the Housecall Pro community →
+
+Know the Moment a Customer Opens Your Estimate
+
+Stop guessing when to follow up. Get notified the first time a customer opens an estimate you sent, so you can reach out at the right moment.
+
+This article covers how estimate view notifications work and what they do and don't cover.
+
+Status: This feature is in early alpha testing and may not be available on your account yet.
+
+What you can do
+
+Get a notification in your web notification bell the first time a customer opens an estimate you sent.
+
+Click the notification to go straight to that estimate's details page.
+
+See the total number of times an estimate has been viewed in that estimate's activity feed.
+
+Who Can Do What
+
+Role
+
+What they can do
+
+Any Pro who sends estimates on the web
+
+Receives estimate view notifications automatically — no setup needed
+
+Estimate View Notifications on the Web
+
+How it works:
+
+Send an estimate to a customer as usual.
+
+The first time the customer opens or clicks into the estimate, you get a notification in your web notification bell/center.
+
+Click the notification to go directly to that estimate's details page.
+
+Open the estimate's activity feed to see the total number of times it's been viewed.
+
+📌 Note: You're only notified on the customer's first view. Reopening the same estimate again doesn't trigger another notification, though the view count in the activity feed keeps counting all views.
+
+Good To Know
+
+Web only: This is currently available on the web portal; mobile isn't included yet.
+
+First view only: You get a notification the first time a customer opens the estimate, not on every repeat view.
+
+Doesn't track email opens: This notifies you when the customer opens the estimate itself, not when they open the email you sent it in. Email-open tracking is intentionally left out — Apple's email privacy protections make that signal unreliable, so this feature only tracks real, verified estimate views.
+
+Separate from approve/decline notifications: If you already get notified when a customer approves or declines an estimate, that's a different, existing notification — this is specifically about when they view it.
+
+Frequently Asked Questions
+
+Will I get notified every time the customer reopens the estimate?
+
+No — only on the first view. The activity feed on the estimate still shows the total view count if you want to see repeat activity.
+
+Does this tell me if the customer opened my email?
+
+No — this tracks whether the customer opened the estimate itself, not the email. Email-open tracking isn't reliable enough to build on, so it's intentionally not part of this feature.
+
+Is this the same as getting notified when a customer approves or declines an estimate?
+
+No — approve/decline notifications already exist separately. This notification is only about the customer viewing the estimate.
+
+Does this work on the mobile app?
+
+Not yet — this is web-only for now.
+
+Need help?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at 858-842-5746.
+
+Related Articles
+
+How to Send an Estimate
+
+Estimates: Approvals and Signatures
+
+How to Cancel, Delete, and Restore Estimates
+
+Scheduling Jobs and Estimates
+
+Tasks on Jobs and Estimates
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

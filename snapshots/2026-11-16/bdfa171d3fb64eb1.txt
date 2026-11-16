@@ -1,0 +1,5611 @@
+thry-20260630
+
+000155673912-312026Q2FALSEhttp://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMemberhttp://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMemberxbrli:sharesiso4217:USDiso4217:USDxbrli:sharesthry:segmentxbrli:purethry:petitionthry:case00015567392026-01-012026-06-3000015567392026-07-3100015567392026-04-012026-06-3000015567392025-04-012025-06-3000015567392025-01-012025-06-300001556739us-gaap:NonrelatedPartyMember2026-04-012026-06-300001556739us-gaap:NonrelatedPartyMember2025-04-012025-06-300001556739us-gaap:NonrelatedPartyMember2026-01-012026-06-300001556739us-gaap:NonrelatedPartyMember2025-01-012025-06-300001556739us-gaap:RelatedPartyMember2026-04-012026-06-300001556739us-gaap:RelatedPartyMember2025-04-012025-06-300001556739us-gaap:RelatedPartyMember2026-01-012026-06-300001556739us-gaap:RelatedPartyMember2025-01-012025-06-3000015567392026-06-3000015567392025-12-310001556739us-gaap:NonrelatedPartyMember2026-06-300001556739us-gaap:NonrelatedPartyMember2025-12-310001556739us-gaap:RelatedPartyMember2026-06-300001556739us-gaap:RelatedPartyMember2025-12-310001556739us-gaap:CommonStockMember2026-03-310001556739us-gaap:AdditionalPaidInCapitalMember2026-03-310001556739us-gaap:TreasuryStockCommonMember2026-03-310001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-03-310001556739us-gaap:RetainedEarningsMember2026-03-3100015567392026-03-310001556739us-gaap:CommonStockMember2026-04-012026-06-300001556739us-gaap:AdditionalPaidInCapitalMember2026-04-012026-06-300001556739us-gaap:TreasuryStockCommonMember2026-04-012026-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-04-012026-06-300001556739us-gaap:RetainedEarningsMember2026-04-012026-06-300001556739us-gaap:CommonStockMember2026-06-300001556739us-gaap:AdditionalPaidInCapitalMember2026-06-300001556739us-gaap:TreasuryStockCommonMember2026-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-06-300001556739us-gaap:RetainedEarningsMember2026-06-300001556739us-gaap:CommonStockMember2025-03-310001556739us-gaap:AdditionalPaidInCapitalMember2025-03-310001556739us-gaap:TreasuryStockCommonMember2025-03-310001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-03-310001556739us-gaap:RetainedEarningsMember2025-03-3100015567392025-03-310001556739us-gaap:CommonStockMember2025-04-012025-06-300001556739us-gaap:AdditionalPaidInCapitalMember2025-04-012025-06-300001556739us-gaap:TreasuryStockCommonMember2025-04-012025-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-04-012025-06-300001556739us-gaap:RetainedEarningsMember2025-04-012025-06-300001556739us-gaap:CommonStockMember2025-06-300001556739us-gaap:AdditionalPaidInCapitalMember2025-06-300001556739us-gaap:TreasuryStockCommonMember2025-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-06-300001556739us-gaap:RetainedEarningsMember2025-06-3000015567392025-06-300001556739us-gaap:CommonStockMember2025-12-310001556739us-gaap:AdditionalPaidInCapitalMember2025-12-310001556739us-gaap:TreasuryStockCommonMember2025-12-310001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-12-310001556739us-gaap:RetainedEarningsMember2025-12-310001556739us-gaap:CommonStockMember2026-01-012026-06-300001556739us-gaap:AdditionalPaidInCapitalMember2026-01-012026-06-300001556739us-gaap:TreasuryStockCommonMember2026-01-012026-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2026-01-012026-06-300001556739us-gaap:RetainedEarningsMember2026-01-012026-06-300001556739us-gaap:CommonStockMember2024-12-310001556739us-gaap:AdditionalPaidInCapitalMember2024-12-310001556739us-gaap:TreasuryStockCommonMember2024-12-310001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2024-12-310001556739us-gaap:RetainedEarningsMember2024-12-3100015567392024-12-310001556739us-gaap:CommonStockMember2025-01-012025-06-300001556739us-gaap:AdditionalPaidInCapitalMember2025-01-012025-06-300001556739us-gaap:TreasuryStockCommonMember2025-01-012025-06-300001556739us-gaap:AccumulatedOtherComprehensiveIncomeMember2025-01-012025-06-300001556739us-gaap:RetainedEarningsMember2025-01-012025-06-300001556739thry:TermLoanMemberus-gaap:NonrelatedPartyMember2026-01-012026-06-300001556739thry:TermLoanMemberus-gaap:NonrelatedPartyMember2025-01-012025-06-300001556739thry:TermLoanMemberus-gaap:RelatedPartyMember2026-01-012026-06-300001556739thry:TermLoanMemberus-gaap:RelatedPartyMember2025-01-012025-06-300001556739us-gaap:RevolvingCreditFacilityMemberthry:ABLFacilityMember2026-01-012026-06-300001556739us-gaap:RevolvingCreditFacilityMemberthry:ABLFacilityMember2025-01-012025-06-300001556739us-gaap:IntangibleAssetsAmortizationPeriodMember2026-04-012026-06-300001556739us-gaap:IntangibleAssetsAmortizationPeriodMember2026-01-012026-06-300001556739us-gaap:BilledRevenuesMember2026-06-300001556739us-gaap:BilledRevenuesMember2025-12-310001556739us-gaap:UnbilledRevenuesMember2026-06-300001556739us-gaap:UnbilledRevenuesMember2025-12-3100015567392026-07-012026-06-300001556739us-gaap:CarryingReportedAmountFairValueDisclosureMember2026-06-300001556739us-gaap:EstimateOfFairValueFairValueDisclosureMember2026-06-300001556739us-gaap:CarryingReportedAmountFairValueDisclosureMember2025-12-310001556739us-gaap:EstimateOfFairValueFairValueDisclosureMember2025-12-3100015567392026-03-010001556739thry:SoftwareAsAServiceMember2025-12-310001556739thry:SoftwareAsAServiceMember2026-06-300001556739us-gaap:CustomerRelationshipsMember2026-06-300001556739us-gaap:MarketingRelatedIntangibleAssetsMember2026-06-300001556739us-gaap:CustomerRelationshipsMember2025-12-310001556739us-gaap:MarketingRelatedIntangibleAssetsMember2025-12-310001556739thry:TermLoanMember2026-01-012026-06-300001556739thry:TermLoanMember2026-06-300001556739thry:TermLoanMember2025-12-310001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMemberus-gaap:RevolvingCreditFacilityMember2026-01-012026-06-300001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMembersrt:MinimumMemberus-gaap:RevolvingCreditFacilityMember2026-01-012026-06-300001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMembersrt:MaximumMemberus-gaap:RevolvingCreditFacilityMember2026-01-012026-06-300001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMemberus-gaap:RevolvingCreditFacilityMember2026-06-300001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMemberus-gaap:RevolvingCreditFacilityMember2025-12-310001556739thry:TermLoanMember2024-05-010001556739thry:TermLoanMemberus-gaap:RelatedPartyMember2024-05-010001556739srt:MinimumMemberus-gaap:RelatedPartyMember2026-06-300001556739thry:TermLoanMemberus-gaap:RelatedPartyMember2026-06-300001556739thry:TermLoanMemberus-gaap:SecuredOvernightFinancingRateSofrMember2024-05-012024-05-010001556739thry:TermLoanMemberus-gaap:BaseRateMember2024-05-012024-05-010001556739thry:TermLoanMemberthry:PaymentTermsTrancheOneMember2024-05-012024-05-010001556739thry:TermLoanMember2024-05-012024-05-010001556739thry:TermLoanMemberthry:PaymentTermsTrancheTwoMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberus-gaap:RevolvingCreditFacilityMemberus-gaap:SecuredOvernightFinancingRateSofrMemberthry:ABLFacilityMembersrt:MinimumMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberus-gaap:RevolvingCreditFacilityMemberus-gaap:SecuredOvernightFinancingRateSofrMemberthry:ABLFacilityMembersrt:MaximumMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberus-gaap:RevolvingCreditFacilityMemberus-gaap:BaseRateMemberthry:ABLFacilityMembersrt:MinimumMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberus-gaap:RevolvingCreditFacilityMemberus-gaap:BaseRateMemberthry:ABLFacilityMembersrt:MaximumMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMemberus-gaap:RevolvingCreditFacilityMember2024-05-012024-05-010001556739us-gaap:LineOfCreditMemberthry:ABLFacilityMemberus-gaap:RevolvingCreditFacilityMember2024-05-010001556739us-gaap:QualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-04-012026-06-300001556739us-gaap:QualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-01-012026-06-300001556739us-gaap:NonqualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-04-012026-06-300001556739us-gaap:NonqualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-01-012026-06-300001556739us-gaap:QualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2025-04-012025-06-300001556739us-gaap:QualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2025-01-012025-06-300001556739us-gaap:NonqualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2025-04-012025-06-300001556739us-gaap:NonqualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2025-01-012025-06-300001556739us-gaap:QualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-06-300001556739us-gaap:NonqualifiedPlanMemberus-gaap:PensionPlansDefinedBenefitMember2026-06-300001556739us-gaap:CostOfGoodsAndServicesSold2026-04-012026-06-300001556739us-gaap:CostOfGoodsAndServicesSold2025-04-012025-06-300001556739us-gaap:CostOfGoodsAndServicesSold2026-01-012026-06-300001556739us-gaap:CostOfGoodsAndServicesSold2025-01-012025-06-300001556739us-gaap:SellingAndMarketingExpense2026-04-012026-06-300001556739us-gaap:SellingAndMarketingExpense2025-04-012025-06-300001556739us-gaap:SellingAndMarketingExpense2026-01-012026-06-300001556739us-gaap:SellingAndMarketingExpense2025-01-012025-06-300001556739us-gaap:ResearchAndDevelopmentExpense2026-04-012026-06-300001556739us-gaap:ResearchAndDevelopmentExpense2025-04-012025-06-300001556739us-gaap:ResearchAndDevelopmentExpense2026-01-012026-06-300001556739us-gaap:ResearchAndDevelopmentExpense2025-01-012025-06-300001556739us-gaap:GeneralAndAdministrativeExpense2026-04-012026-06-300001556739us-gaap:GeneralAndAdministrativeExpense2025-04-012025-06-300001556739us-gaap:GeneralAndAdministrativeExpense2026-01-012026-06-300001556739us-gaap:GeneralAndAdministrativeExpense2025-01-012025-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2026-04-012026-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2025-04-012025-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2026-01-012026-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2025-01-012025-06-300001556739us-gaap:PhantomShareUnitsPSUsMember2026-04-012026-06-300001556739us-gaap:PhantomShareUnitsPSUsMember2025-04-012025-06-300001556739us-gaap:PhantomShareUnitsPSUsMember2026-01-012026-06-300001556739us-gaap:PhantomShareUnitsPSUsMember2025-01-012025-06-300001556739us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001556739us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001556739us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001556739us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001556739us-gaap:EmployeeStockMember2026-04-012026-06-300001556739us-gaap:EmployeeStockMember2025-04-012025-06-300001556739us-gaap:EmployeeStockMember2026-01-012026-06-300001556739us-gaap:EmployeeStockMember2025-01-012025-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2025-12-310001556739us-gaap:RestrictedStockUnitsRSUMember2026-06-300001556739us-gaap:RestrictedStockUnitsRSUMembersrt:MinimumMember2026-01-012026-06-300001556739us-gaap:RestrictedStockUnitsRSUMembersrt:MaximumMember2026-01-012026-06-300001556739us-gaap:PerformanceSharesMember2025-12-310001556739us-gaap:PerformanceSharesMember2026-01-012026-06-300001556739us-gaap:PerformanceSharesMember2026-06-300001556739thry:PerformanceConditionsMemberus-gaap:PerformanceSharesMember2026-06-300001556739thry:MarketConditionsMemberus-gaap:PerformanceSharesMember2026-06-300001556739thry:EmployeeStockPurchasePlanMember2026-01-012026-06-300001556739thry:EmployeeStockPurchasePlanMember2025-01-012025-06-3000015567392024-04-300001556739us-gaap:RestrictedStockUnitsRSUMember2026-04-012026-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2026-01-012026-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2025-04-012025-06-300001556739us-gaap:RestrictedStockUnitsRSUMember2025-01-012025-06-300001556739us-gaap:PerformanceSharesMember2026-04-012026-06-300001556739us-gaap:PerformanceSharesMember2026-01-012026-06-300001556739us-gaap:PerformanceSharesMember2025-04-012025-06-300001556739us-gaap:PerformanceSharesMember2025-01-012025-06-300001556739us-gaap:EmployeeStockOptionMember2026-01-012026-06-300001556739us-gaap:EmployeeStockOptionMember2026-04-012026-06-300001556739us-gaap:EmployeeStockOptionMember2025-04-012025-06-300001556739us-gaap:EmployeeStockOptionMember2025-01-012025-06-300001556739us-gaap:EmployeeStockMember2026-04-012026-06-300001556739us-gaap:EmployeeStockMember2026-01-012026-06-300001556739us-gaap:EmployeeStockMember2025-04-012025-06-300001556739us-gaap:EmployeeStockMember2025-01-012025-06-300001556739srt:MinimumMember2026-06-300001556739srt:MaximumMember2026-06-3000015567392025-01-012025-12-3100015567392018-08-290001556739thry:Section199TaxCaseMemberus-gaap:InternalRevenueServiceIRSMember2025-12-310001556739us-gaap:OperatingSegmentsMemberthry:SoftwareAsAServiceMember2026-04-012026-06-300001556739us-gaap:OperatingSegmentsMemberthry:MarketingServicesMember2026-04-012026-06-300001556739us-gaap:OperatingSegmentsMember2026-04-012026-06-300001556739us-gaap:OperatingSegmentsMemberthry:SoftwareAsAServiceMember2025-04-012025-06-300001556739us-gaap:OperatingSegmentsMemberthry:MarketingServicesMember2025-04-012025-06-300001556739us-gaap:OperatingSegmentsMember2025-04-012025-06-300001556739us-gaap:OperatingSegmentsMemberthry:SoftwareAsAServiceMember2026-01-012026-06-300001556739us-gaap:OperatingSegmentsMemberthry:MarketingServicesMember2026-01-012026-06-300001556739us-gaap:OperatingSegmentsMember2026-01-012026-06-300001556739us-gaap:OperatingSegmentsMemberthry:SoftwareAsAServiceMember2025-01-012025-06-300001556739us-gaap:OperatingSegmentsMemberthry:MarketingServicesMember2025-01-012025-06-300001556739us-gaap:OperatingSegmentsMember2025-01-012025-06-300001556739thry:SoftwareAsAServiceMember2026-04-012026-06-300001556739thry:SoftwareAsAServiceMember2025-04-012025-06-300001556739thry:SoftwareAsAServiceMember2026-01-012026-06-300001556739thry:SoftwareAsAServiceMember2025-01-012025-06-300001556739thry:PrintMemberthry:MarketingServicesMember2026-04-012026-06-300001556739thry:PrintMemberthry:MarketingServicesMember2025-04-012025-06-300001556739thry:PrintMemberthry:MarketingServicesMember2026-01-012026-06-300001556739thry:PrintMemberthry:MarketingServicesMember2025-01-012025-06-300001556739thry:DigitalMemberthry:MarketingServicesMember2026-04-012026-06-300001556739thry:DigitalMemberthry:MarketingServicesMember2025-04-012025-06-300001556739thry:DigitalMemberthry:MarketingServicesMember2026-01-012026-06-300001556739thry:DigitalMemberthry:MarketingServicesMember2025-01-012025-06-300001556739thry:MarketingServicesMember2026-04-012026-06-300001556739thry:MarketingServicesMember2025-04-012025-06-300001556739thry:MarketingServicesMember2026-01-012026-06-300001556739thry:MarketingServicesMember2025-01-012025-06-300001556739country:US2026-04-012026-06-300001556739country:US2025-04-012025-06-300001556739country:US2026-01-012026-06-300001556739country:US2025-01-012025-06-300001556739us-gaap:NonUsMember2026-04-012026-06-300001556739us-gaap:NonUsMember2025-04-012025-06-300001556739us-gaap:NonUsMember2026-01-012026-06-300001556739us-gaap:NonUsMember2025-01-012025-06-300001556739us-gaap:NonUsMemberus-gaap:GeographicConcentrationRiskMemberus-gaap:SalesRevenueNetMember2026-04-012026-06-300001556739us-gaap:NonUsMemberus-gaap:GeographicConcentrationRiskMemberus-gaap:SalesRevenueNetMember2025-04-012025-06-300001556739us-gaap:NonUsMemberus-gaap:GeographicConcentrationRiskMemberus-gaap:SalesRevenueNetMember2026-01-012026-06-300001556739us-gaap:NonUsMemberus-gaap:GeographicConcentrationRiskMemberus-gaap:SalesRevenueNetMember2025-01-012025-06-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2026
+
+OR
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from __________ to __________
+
+Commission File Number: 001-35895
+
+THRYV HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+13-2740040
+
+(State or other jurisdiction of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+1301 Municipal Way, Suite 220, Grapevine, TX
+
+76051
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+(972)
+
+453-7000
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+THRY
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+
+Yes x No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Securities Exchange Act of 1934.
+
+Large accelerated filer
+
+☐
+
+Accelerated filer
+
+☒
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☒
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13 (a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Securities Exchange Act of 1934).
+
+Yes ☐ No x
+
+As of July 31, 2026, there were 44,439,111 shares of the registrant's common stock outstanding.
+
+THRYV HOLDINGS, INC.
+
+TABLE OF CONTENTS
+
+Page
+
+PART I. FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements
+
+Consolidated Statements of Operations and Comprehensive (Loss) Income for the Three and Six Months Ended June 30, 2026 and 2025 (unaudited)
+
+3
+
+Consolidated Balance Sheets as of June 30, 2026 (unaudited) and December 31, 2025
+
+4
+
+Consolidated Statements of Changes in Stockholders' Equity for the Three and Six Months Ended June 30, 2026 and 2025 (unaudited)
+
+5
+
+Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2026 and 2025 (unaudited)
+
+7
+
+Notes to Consolidated Financial Statements (unaudited)
+
+8
+
+Item 2.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+25
+
+Item 3.
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+44
+
+Item 4.
+
+Controls and Procedures
+
+45
+
+PART II. OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+45
+
+Item 1A.
+
+Risk Factors
+
+45
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+45
+
+Item 3.
+
+Defaults Upon Senior Securities
+
+45
+
+Item 4.
+
+Mine Safety Disclosures
+
+45
+
+Item 5.
+
+Other Information
+
+45
+
+Item 6.
+
+Exhibits
+
+46
+
+Signatures
+
+47
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q (“Quarterly Report”) contains forward-looking statements that reflect our current views with respect to future events and financial performance. Such statements are provided under the “safe harbor” protection of the Private Securities Litigation Reform Act of 1995 and include, without limitation, statements concerning the conditions of our industry and our operations, performance, and financial condition, including, in particular, statements relating to our business, growth strategies, product development efforts, and future expenses. Forward-looking statements include all statements that do not relate solely to historical or current facts and generally can be identified by words such as “anticipates,” “intends,” “plans,” “seeks,” “believes,” “could,” “estimates,” “expects,” “likely,” “may,” and similar references to future periods, or by the inclusion of forecasts or projections. Examples of forward-looking statements include, but are not limited to, statements we make regarding the outlook for our future business and financial performance, such as those contained in “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Forward-looking statements are based on our current expectations and assumptions regarding our business, the economy, and other future conditions. Because forward-looking statements relate to the future, by their nature, they are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict. As a result, our actual results may differ materially from those contemplated by the forward-looking statements. Accordingly, we caution you against relying on forward-looking statements. Important factors that could cause actual results to differ materially from those in the forward-looking statements include regional, national, or global political, economic, business, competitive, market, and regulatory conditions and the following:
+
+•significant competition for our Marketing Services solutions and Software as a Service (“SaaS”) offerings, which include companies who use components of our SaaS offerings provided by third parties;
+
+•our ability to maintain profitability;
+
+•our ability to manage our growth effectively;
+
+•our ability to transition our Marketing Services clients to our Thryv Platform (as defined below in Note 1), maintain transitioned clients on that platform and sell them additional or upgraded products, sell our platform into new markets or further penetrate existing markets;
+
+•our ability to maintain our strategic relationships with third-party service providers;
+
+•internet search engines and portals potentially terminating or materially altering their agreements with us;
+
+•our ability to keep pace with rapid technological changes and evolving industry standards;
+
+•our small to medium-sized businesses clients potentially opting not to renew their agreements with us or renewing at lower spend;
+
+•potential system interruptions or failures, including cybersecurity breaches, identity theft, data loss, unauthorized access to data or other disruptions that could compromise our information;
+
+•our potential failure to identify suitable acquisition candidates and consummate such acquisitions;
+
+•our ability to complete acquisitions and the successful integration of such acquisitions, and any failure of an acquired business to achieve its plans and objectives or realize any expected benefit from any such acquisition;
+
+•the potential loss of one or more key employees or our inability to attract and to retain highly skilled employees;
+
+•our ability to maintain the compatibility of our Thryv Platform with third-party applications;
+
+•our ability to successfully expand our operations and current offerings into new markets, including internationally, or further penetrate existing markets;
+
+•our potential failure to provide new or enhanced functionality and features;
+
+•our potential failure to comply with applicable privacy, security and data laws, regulations and standards;
+
+•potential changes in regulations governing privacy concerns and laws or other domestic or foreign data protection regulations;
+
+•our potential failure to meet service level commitments under our client contracts;
+
+•our potential failure to offer high-quality or technical support services;
+
+•our Thryv Platform and add-ons potentially failing to perform properly;
+
+•our use of artificial intelligence in our business, and challenges with properly managing its use, could result in reputational harm, competitive harm, and legal liability;
+
+•the potential impact of future labor negotiations;
+
+•our ability to protect our intellectual property rights, proprietary technology, information, processes, and know-how;
+
+•rising inflation and our ability to control costs, including operating expenses;
+
+•general macro-economic conditions, including a recession or an economic slowdown in the U.S. or internationally;
+
+•adverse tax laws, regulations, audit outcomes, or potential changes to existing tax laws or regulations;
+
+•costs, liabilities and reputational harm resulting from regulatory investigations, including the subpoena from the Division of Enforcement of the Securities and Exchange Commission (the “SEC”);
+
+•volatility and weakness in bank and capital markets; and
+
+1
+
+•costs, obligations and liabilities incurred as a result of and in connection with being a public company.
+
+For additional information regarding known material factors that could cause the Company’s actual results to differ from its projected results, see Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2025 (“2025 Form 10-K”), as supplemented by the disclosure in Part II, Item 1A. Risk Factors in subsequent quarterly reports on Form 10-Q. Readers are cautioned not to place undue reliance on forward-looking statements contained in this report, which speak only as of the date of this report. Except as required by applicable law, the Company undertakes no obligation to update or revise any forward-looking statements publicly after the date they are made, whether as a result of new information, future events, or otherwise.
+
+In this Quarterly Report on Form 10-Q, the terms “our Company,” “we,” “us,” “our,” “Company” and “Thryv” refer to Thryv Holdings, Inc. and its subsidiaries, unless the context indicates otherwise.
+
+2
+
+Part I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Consolidated Statements of Operations and Comprehensive (Loss) Income
+
+(unaudited)
+
+Three Months Ended
+
+Six Months Ended
+
+June 30,
+
+June 30,
+
+(in thousands, except share and per share data)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Revenue
+
+$
+
+150,728
+
+$
+
+210,470
+
+$
+
+318,412
+
+$
+
+391,841
+
+Cost of services
+
+56,168
+
+63,850
+
+114,596
+
+125,933
+
+Gross profit
+
+94,560
+
+146,620
+
+203,816
+
+265,908
+
+Operating expenses:
+
+Sales and marketing
+
+47,038
+
+56,063
+
+94,986
+
+115,905
+
+Research and development
+
+7,509
+
+8,661
+
+18,940
+
+18,870
+
+General and administrative
+
+41,156
+
+52,356
+
+86,975
+
+104,627
+
+Total operating expenses
+
+95,703
+
+117,080
+
+200,901
+
+239,402
+
+Operating (loss) income
+
+(1,143)
+
+29,540
+
+2,915
+
+26,506
+
+Other income (expense):
+
+Interest expense
+
+(5,035)
+
+(5,981)
+
+(9,176)
+
+(12,048)
+
+Interest expense, related party
+
+(2,483)
+
+(2,971)
+
+(4,949)
+
+(5,977)
+
+Net periodic pension cost
+
+(357)
+
+(778)
+
+(702)
+
+(1,546)
+
+Other (expense) income
+
+(446)
+
+2,557
+
+987
+
+2,949
+
+(Loss) income before income tax expense
+
+(9,464)
+
+22,367
+
+(10,925)
+
+9,884
+
+Income tax expense
+
+(7,196)
+
+(8,436)
+
+(1,193)
+
+(5,571)
+
+Net (loss) income
+
+$
+
+(16,660)
+
+$
+
+13,931
+
+$
+
+(12,118)
+
+$
+
+4,313
+
+Other comprehensive loss:
+
+Foreign currency translation adjustment, net of tax
+
+(114)
+
+(72)
+
+(509)
+
+(259)
+
+Comprehensive (loss) income
+
+$
+
+(16,774)
+
+$
+
+13,859
+
+$
+
+(12,627)
+
+$
+
+4,054
+
+Net (loss) income per common share:
+
+Basic
+
+$
+
+(0.38)
+
+$
+
+0.32
+
+$
+
+(0.27)
+
+$
+
+0.10
+
+Diluted
+
+$
+
+(0.38)
+
+$
+
+0.31
+
+$
+
+(0.27)
+
+$
+
+0.10
+
+Weighted-average shares used in computing basic and diluted net (loss) income per common share:
+
+Basic
+
+44,358,330
+
+43,744,144
+
+44,283,478
+
+43,579,171
+
+Diluted
+
+44,358,330
+
+44,303,331
+
+44,283,478
+
+44,586,162
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+3
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Consolidated Balance Sheets
+
+(in thousands, except share data)
+
+June 30, 2026
+
+December 31, 2025
+
+Assets
+
+(unaudited)
+
+Current assets
+
+Cash and cash equivalents
+
+$
+
+9,136
+
+$
+
+10,752
+
+Accounts receivable, net of allowance of $13,144 in 2026 and $13,830 in 2025
+
+127,756
+
+136,394
+
+Contract assets, net of allowance of $2 in 2026 and $2 in 2025
+
+622
+
+411
+
+Taxes receivable
+
+1,172
+
+8,134
+
+Deferred costs
+
+8,243
+
+11,548
+
+Prepaid expenses and other current assets
+
+11,041
+
+11,618
+
+Total current assets
+
+157,970
+
+178,857
+
+Fixed assets and capitalized software, net
+
+49,242
+
+50,885
+
+Goodwill
+
+253,809
+
+253,809
+
+Intangible assets, net
+
+22,979
+
+25,929
+
+Deferred tax assets
+
+137,604
+
+133,221
+
+Other assets
+
+32,528
+
+45,886
+
+Total assets
+
+$
+
+654,132
+
+$
+
+688,587
+
+Liabilities and Stockholders' Equity
+
+Current liabilities
+
+Accounts payable
+
+$
+
+5,509
+
+$
+
+9,764
+
+Accrued liabilities
+
+88,753
+
+91,246
+
+Current portion of unrecognized tax benefits
+
+1,847
+
+28,303
+
+Contract liabilities
+
+24,820
+
+28,875
+
+Current portion of Term Loan
+
+21,000
+
+10,500
+
+Current portion of Term Loan, related party
+
+14,000
+
+7,000
+
+Other current liabilities
+
+2,518
+
+3,905
+
+Total current liabilities
+
+158,447
+
+179,593
+
+Term Loan, net
+
+115,886
+
+125,419
+
+Term Loan, net, related party
+
+78,788
+
+85,448
+
+ABL Facility
+
+14,057
+
+25,120
+
+Pension obligations, net
+
+41,425
+
+44,171
+
+Other liabilities
+
+33,967
+
+10,697
+
+Total long-term liabilities
+
+284,123
+
+290,855
+
+Commitments and contingencies (see Note 13)
+
+Stockholders' equity
+
+Common stock - $0.01 par value, 250,000,000 shares authorized; 72,970,119 shares issued and 44,417,798 shares outstanding at June 30, 2026; and 72,002,129 shares issued and 43,815,268 shares outstanding at December 31, 2025
+
+730
+
+720
+
+Additional paid-in capital
+
+1,310,845
+
+1,303,144
+
+Treasury stock - 28,552,321 shares at June 30, 2026 and 28,186,861 shares at December 31, 2025
+
+(499,764)
+
+(498,103)
+
+Accumulated other comprehensive loss
+
+(16,020)
+
+(15,511)
+
+Accumulated deficit
+
+(584,229)
+
+(572,111)
+
+Total stockholders' equity
+
+211,562
+
+218,139
+
+Total liabilities and stockholders' equity
+
+$
+
+654,132
+
+$
+
+688,587
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+4
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Consolidated Statements of Changes in Stockholders' Equity
+
+(unaudited)
+
+Three Months Ended June 30, 2026
+
+Common Stock
+
+Treasury Stock
+
+(in thousands, except share amounts)
+
+Shares
+
+Amount
+
+Additional Paid-in Capital
+
+Shares
+
+Amount
+
+Accumulated Other Comprehensive Loss
+
+Accumulated
+
+Deficit
+
+Total Stockholders'
+
+Equity
+
+Balance as of March 31, 2026
+
+72,888,889
+
+$
+
+729
+
+$
+
+1,307,891
+
+(28,544,010)
+
+$
+
+(499,735)
+
+$
+
+(15,906)
+
+$
+
+(567,569)
+
+$
+
+225,410
+
+Issuance of shares related to stock-based compensation
+
+81,230
+
+1
+
+167
+
+(8,311)
+
+(29)
+
+—
+
+—
+
+139
+
+Stock-based compensation expense
+
+—
+
+—
+
+2,787
+
+—
+
+—
+
+—
+
+—
+
+2,787
+
+Foreign currency translation adjustment, net of tax
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(114)
+
+—
+
+(114)
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(16,660)
+
+(16,660)
+
+Balance as of June 30, 2026
+
+72,970,119
+
+$
+
+730
+
+$
+
+1,310,845
+
+(28,552,321)
+
+$
+
+(499,764)
+
+$
+
+(16,020)
+
+$
+
+(584,229)
+
+$
+
+211,562
+
+Three Months Ended June 30, 2025
+
+Common Stock
+
+Treasury Stock
+
+(in thousands, except share amounts)
+
+Shares
+
+Amount
+
+Additional Paid-in Capital
+
+Shares
+
+Amount
+
+Accumulated Other Comprehensive Loss
+
+Accumulated
+
+Deficit
+
+Total Stockholders'
+
+Equity
+
+Balance as of March 31, 2025
+
+71,496,077
+
+$
+
+715
+
+$
+
+1,282,424
+
+(27,767,746)
+
+$
+
+(492,743)
+
+$
+
+(15,128)
+
+$
+
+(582,036)
+
+$
+
+193,232
+
+Issuance of shares related to stock-based compensation
+
+207,098
+
+2
+
+1,894
+
+(9,037)
+
+(111)
+
+—
+
+—
+
+1,785
+
+Stock-based compensation expense
+
+—
+
+—
+
+6,008
+
+—
+
+—
+
+—
+
+—
+
+6,008
+
+Foreign currency translation adjustment, net of tax
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(72)
+
+—
+
+(72)
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+13,931
+
+13,931
+
+Balance as of June 30, 2025
+
+71,703,175
+
+$
+
+717
+
+$
+
+1,290,326
+
+(27,776,783)
+
+$
+
+(492,854)
+
+$
+
+(15,200)
+
+$
+
+(568,105)
+
+$
+
+214,884
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+5
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Consolidated Statements of Changes in Stockholders' Equity
+
+(unaudited)
+
+Six Months Ended June 30, 2026
+
+Common Stock
+
+Treasury Stock
+
+(in thousands, except share amounts)
+
+Shares
+
+Amount
+
+Additional Paid-in Capital
+
+Shares
+
+Amount
+
+Accumulated Other Comprehensive Loss
+
+Accumulated
+
+Deficit
+
+Total Stockholders'
+
+Equity
+
+Balance as of December 31, 2025
+
+72,002,129
+
+$
+
+720
+
+$
+
+1,303,144
+
+(28,186,861)
+
+$
+
+(498,103)
+
+$
+
+(15,511)
+
+$
+
+(572,111)
+
+$
+
+218,139
+
+Issuance of shares related to stock-based compensation
+
+967,990
+
+10
+
+164
+
+(365,460)
+
+(1,661)
+
+—
+
+—
+
+(1,487)
+
+Stock-based compensation expense
+
+—
+
+—
+
+7,537
+
+—
+
+—
+
+—
+
+—
+
+7,537
+
+Foreign currency translation adjustment, net of tax
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(509)
+
+—
+
+(509)
+
+Net loss
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(12,118)
+
+(12,118)
+
+Balance as of June 30, 2026
+
+72,970,119
+
+$
+
+730
+
+$
+
+1,310,845
+
+(28,552,321)
+
+$
+
+(499,764)
+
+$
+
+(16,020)
+
+$
+
+(584,229)
+
+$
+
+211,562
+
+Six Months Ended June 30, 2025
+
+Common Stock
+
+Treasury Stock
+
+(in thousands, except share amounts)
+
+Shares
+
+Amount
+
+Additional Paid-in Capital
+
+Shares
+
+Amount
+
+Accumulated Other Comprehensive Loss
+
+Accumulated
+
+Deficit
+
+Total Stockholders'
+
+Equity
+
+Balance as of December 31, 2024
+
+70,556,740
+
+$
+
+706
+
+$
+
+1,272,476
+
+(27,522,780)
+
+$
+
+(488,903)
+
+$
+
+(14,941)
+
+$
+
+(572,418)
+
+$
+
+196,920
+
+Issuance of shares related to stock-based compensation
+
+1,146,435
+
+11
+
+4,105
+
+(254,003)
+
+(3,951)
+
+—
+
+—
+
+165
+
+Stock-based compensation expense
+
+—
+
+—
+
+13,745
+
+—
+
+—
+
+—
+
+—
+
+13,745
+
+Foreign currency translation adjustment, net of tax
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(259)
+
+—
+
+(259)
+
+Net income
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+4,313
+
+4,313
+
+Balance as of June 30, 2025
+
+71,703,175
+
+$
+
+717
+
+$
+
+1,290,326
+
+(27,776,783)
+
+$
+
+(492,854)
+
+$
+
+(15,200)
+
+$
+
+(568,105)
+
+$
+
+214,884
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+6
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Consolidated Statements of Cash Flows
+
+(unaudited)
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+Cash Flows from Operating Activities
+
+Net (loss) income
+
+$
+
+(12,118)
+
+$
+
+4,313
+
+Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+
+Depreciation and amortization
+
+20,060
+
+21,707
+
+Amortization of deferred commissions
+
+3,046
+
+6,944
+
+Amortization of debt issuance costs
+
+1,465
+
+1,648
+
+Deferred income taxes
+
+(4,116)
+
+2,310
+
+Provision for credit losses and service credits
+
+6,734
+
+9,020
+
+Stock-based compensation expense
+
+7,537
+
+13,745
+
+Net periodic pension cost
+
+702
+
+1,546
+
+Gain on foreign currency exchange rates
+
+(962)
+
+(2,787)
+
+Other
+
+2
+
+38
+
+Changes in working capital items:
+
+Accounts receivable
+
+24,677
+
+15,392
+
+Prepaid expenses, deferred costs, and other assets
+
+(389)
+
+(16,493)
+
+Accounts payable and accrued liabilities
+
+(33,831)
+
+(20,515)
+
+Contract liabilities
+
+(4,443)
+
+(13,748)
+
+Other liabilities
+
+18,990
+
+(4,045)
+
+Net cash provided by operating activities
+
+27,354
+
+19,075
+
+Cash Flows from Investing Activities
+
+Additions to fixed assets and capitalized software
+
+(16,121)
+
+(14,855)
+
+Other
+
+—
+
+(143)
+
+Net cash used in investing activities
+
+(16,121)
+
+(14,998)
+
+Cash Flows from Financing Activities
+
+Payments of Term Loan
+
+—
+
+(15,750)
+
+Payments of Term Loan, related party
+
+—
+
+(10,500)
+
+Proceeds from ABL Facility
+
+154,389
+
+206,317
+
+Payments of ABL Facility
+
+(165,451)
+
+(190,292)
+
+Principal payments on finance lease obligation
+
+(436)
+
+—
+
+Other
+
+(1,486)
+
+165
+
+Net cash used in financing activities
+
+(12,984)
+
+(10,060)
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+
+61
+
+592
+
+Decrease in cash, cash equivalents and restricted cash
+
+(1,690)
+
+(5,391)
+
+Cash, cash equivalents and restricted cash, beginning of period
+
+10,869
+
+17,760
+
+Cash, cash equivalents and restricted cash, end of period
+
+$
+
+9,179
+
+$
+
+12,369
+
+Supplemental Information
+
+Cash paid for interest
+
+$
+
+13,438
+
+$
+
+16,480
+
+Cash (received) paid for income taxes, net
+
+$
+
+(3,969)
+
+$
+
+3,373
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+7
+
+Thryv Holdings, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+(Unaudited)
+
+Note 1 Description of Business and Summary of Significant Accounting Policies
+
+General
+
+Thryv Holdings, Inc. (“Thryv” or the “Company”) is a software-led platform company focused on enabling small and medium-sized businesses (“SMBs”) to run and grow their businesses more efficiently. The Company's strategy is centered on delivering a unified, extensible SaaS platform that supports customer acquisition, engagement, operations, and retention across the SMB lifecycle.
+
+The Company's SaaS platform (or “Thryv Platform”) is designed for active daily use by business owners and operators. Customers engage directly with the platform to help business owners build a strong online presence, manage leads, automate workflows, communicate with customers, process payments, and make data-informed decisions that drive business outcomes.
+
+The Company reports its results based on two reportable segments (see Note 15, Segment Information):
+
+•SaaS, which includes the Company's unified small business marketing platform, supporting software solutions, related extensions, payment solutions, and professional services; and
+
+•Marketing Services, which includes the Company's legacy print (“Print”) and digital marketing solutions (“Digital”) business, which the Company plans to exit by the end of 2028.
+
+Basis of Presentation
+
+The Company prepares its financial statements in accordance with generally accepted accounting principles in the United States (“GAAP”). The consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”) regarding interim financial reporting. Accordingly, certain information and disclosures normally included in the complete financial statements prepared in accordance with GAAP have been omitted pursuant to such rules and regulations. The consolidated financial statements include the financial statements of Thryv Holdings, Inc. and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+
+In the opinion of management, the accompanying consolidated financial statements reflect all adjustments, consisting of only normal recurring items and accruals, necessary for the fair statement of the financial position, results of operations and cash flows of the Company for the periods presented. The consolidated financial statements as of and for the three and six months ended June 30, 2026 and 2025 have been prepared on the same basis as the audited annual financial statements. The consolidated balance sheet as of December 31, 2025 was derived from the audited annual financial statements. The consolidated results for interim periods are not necessarily indicative of results for the full year and should be read in conjunction with the Company’s audited financial statements and related footnotes contained in the Company's Annual Report on Form 10-K for the year ended December 31, 2025.
+
+Use of Estimates
+
+The preparation of the Company’s consolidated financial statements requires management to make estimates and assumptions about future events that affect the amounts reported and disclosed in the consolidated financial statements and accompanying notes. Actual results could differ materially from those estimates. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable. The results of those estimates form the basis for making judgments about the carrying values of certain assets and liabilities.
+
+Examples of reported amounts that rely on significant estimates include revenue recognition, allowance for credit losses, assets acquired and liabilities assumed in business combinations, capitalized costs to obtain a contract, stock-based compensation expense, operating lease right-of-use assets and operating lease liabilities, pension obligations and certain amounts relating to the accounting for income taxes, including valuation allowances. Significant estimates are also used in determining the recoverability and fair value of fixed assets and capitalized software, goodwill and intangible assets.
+
+8
+
+Reclassification of Prior Year Presentation
+
+During the fourth quarter of 2025, as a result of increased investment in research and development activities following the acquisition of Infusion Software, Inc. d/b/a/ Keap (“Keap”) in October 2024 and to provide greater detail of the Company's underlying expenses, the Company began breaking out Research and development expense into a separate line item in the Consolidated Statements of Operations and Comprehensive (Loss) Income. These costs were previously included in Sales and marketing expense. This change was made retrospectively to all periods presented for comparability purposes and there was no effect on Total operating expenses or Net income for the three and six months ended June 30, 2025.
+
+Summary of Significant Accounting Policies
+
+The Company describes its significant accounting policies in Note 1 to the consolidated financial statements in Part II, Item 8 of its Annual Report on Form 10-K for the year ended December 31, 2025. Except as described below, there have been no changes to the Company's significant accounting policies during the three and six months ended June 30, 2026.
+
+Costs to Obtain a Contract with a Customer
+
+The Company has determined that sales commissions paid to employees and certified marketing representatives associated with selling the Company’s Print, Digital and SaaS services are considered incremental and recoverable costs of obtaining a contract. Commissions incurred to obtain a new contract are capitalized and recognized over the benefit period, which is determined based on expected contract renewals, the Company’s technology development life-cycle, and other factors.
+
+In accordance with its policy, the Company reviews the estimated amortization period of its capitalized commissions on a periodic basis. This review indicated that the benefit period for commissions on SaaS contracts had lengthened due to an increase in the average SaaS customer life. As a result, effective January 1, 2026, the Company changed the amortization period for costs incurred to obtain a new contract to better reflect the estimated benefit period of these assets. The estimated useful life of these assets was increased from eighteen months to thirty-six months. The effect of this change in estimate for the three and six months ended June 30, 2026 was to reduce amortization of deferred commissions by $2.4 million and $4.5 million, respectively, which resulted in a decrease to net loss of $2.4 million and $4.5 million, respectively, and a decrease to basic and diluted loss per share of $0.05 and $0.10, respectively.
+
+Cash, Cash Equivalents, and Restricted Cash
+
+Restricted cash is primarily associated with security deposits with credit card merchants. The following table presents a reconciliation of cash, cash equivalents and restricted cash reported within the Consolidated Balance Sheets to the amount shown in the Consolidated Statements of Cash Flows for the six months ended June 30, 2026 and 2025:
+
+(in thousands)
+
+June 30, 2026
+
+June 30, 2025
+
+Cash and cash equivalents
+
+$
+
+9,136
+
+$
+
+10,838
+
+Restricted cash, included in Other current assets
+
+43
+
+1,531
+
+Total cash, cash equivalents and restricted cash
+
+$
+
+9,179
+
+$
+
+12,369
+
+Accounts Receivable, Net of Allowance
+
+Accounts receivable represents billed amounts for which invoices have been provided to clients and unbilled amounts for which revenue has been recognized, but amounts have not yet been billed to the client.
+
+The following table represents the components of Accounts receivable, net of allowance:
+
+(in thousands)
+
+June 30, 2026
+
+December 31, 2025
+
+Accounts receivable
+
+$
+
+40,572
+
+$
+
+38,200
+
+Unbilled accounts receivable (1)
+
+100,328
+
+112,024
+
+Total accounts receivable
+
+$
+
+140,900
+
+$
+
+150,224
+
+Less: allowance for credit losses
+
+(13,144)
+
+(13,830)
+
+Accounts receivable, net of allowance
+
+$
+
+127,756
+
+$
+
+136,394
+
+9
+
+(1) Unbilled accounts receivable relates primarily to the Company’s Print services, which are recognized at a point in time upon delivery of the Print services to the intended market(s), but are billed to customers monthly after the delivery of the Print services. Unbilled accounts receivable are reclassified as billed accounts receivable monthly when the customers are invoiced.
+
+The following table represents the components of unbilled accounts receivable from contracts with customers:
+
+(in thousands)
+
+June 30, 2026
+
+December 31, 2025
+
+Unbilled accounts receivable – current
+
+$
+
+100,328
+
+$
+
+112,024
+
+Unbilled accounts receivable – non-current (1)
+
+20,678
+
+40,722
+
+Total unbilled accounts receivable
+
+$
+
+121,006
+
+$
+
+152,746
+
+(1) Included in Other assets on the Consolidated Balance Sheets.
+
+Recent Accounting Pronouncements
+
+Recently Adopted Accounting Pronouncements
+
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” (“ASU 2023-09”). ASU 2023-09 requires additional disclosures primarily related to the rate reconciliation and income taxes paid information. The Company adopted ASU 2023-09 for the annual period ended December 31, 2025, and implemented the new disclosure updates within the Company's consolidated financial statements included in its Annual Report on Form 10-K for the fiscal year ended December 31, 2025 on a retrospective basis. Because the ASU affects disclosures only, the adoption did not impact the Company's results of operations, financial condition, or cash flows.
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU No. 2024-03, “Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses” (“ASU 2024-03”), and in January 2025, the FASB issued ASU 2025-01, “Income Statement – Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date” (“ASU 2025-01”). ASU 2024-03 requires additional disclosure of the nature of expenses included in the income statement as well as disclosures about specific types of expenses included in the expense captions presented in the income statement. ASU 2024-03, as clarified by ASU 2025-01, is effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted and can be applied either prospectively or retrospectively to all prior periods presented. Management is currently evaluating the extent and impact that the adoption of this standard will have on the Company's disclosures.
+
+In September 2025, the FASB issued ASU No. 2025-06, “Intangibles – Goodwill and Other – Internal-Use Software Subtopic 350-40” (“ASU 2025-06”). The amendments in ASU 2025-06 are intended to simplify the capitalization guidance by removing all references to software development project stages so that the guidance is neutral to different software development methods. ASU 2025-06, which can be applied using a prospective, retrospective, or modified transition approach, is effective for fiscal years beginning after December 15, 2027, and interim periods within those fiscal years. Early adoption is permitted. Management is currently evaluating the impact that the adoption of this standard will have on the Company's consolidated financial statements.
+
+In December 2025, the FASB issued ASU No. 2025-11, “Topic 270 – Interim Reporting” (“ASU 2025-11”). The amendments in ASU 2025-11 clarify interim reporting requirements by improving navigability of Topic 270 and more clearly specifying what disclosures are required in interim reporting periods. The amendments also establish a principle that requires disclosure of events since the end of the last annual reporting period that have materially impacted the entity. ASU 2025-11 is effective for interim reporting periods within annual reporting periods beginning after December 15, 2027, with early adoption permitted, and can be applied either prospectively or retrospectively to all prior periods presented. Management is currently evaluating the impact that the adoption of this standard will have on the Company's interim consolidated financial statements.
+
+10
+
+Note 2 Revenue Recognition
+
+The Company has determined that each of its SaaS business management tools and services and each of its Print and Digital marketing services is distinct and represents a separate performance obligation. The client can benefit from each service on its own or together with other resources that are readily available to the client. Services are separately identifiable from other promises in the contract.
+
+SaaS
+
+Revenue in the SaaS segment is generated through subscription plans, platform extensions, payment solutions, and professional services. Our subscription offerings are sold on a recurring basis. Revenues associated with substantially all SaaS offerings are recognized using the series guidance. Under the series guidance, the Company's obligation to provide services is the same for each day under the contract, and therefore represents a single performance obligation. Associated revenues are recognized over time using an output method to measure the progress toward satisfying a performance obligation.
+
+Marketing Services
+
+Our primary Marketing Services offerings include our Print and Digital solutions.
+
+Print
+
+Control over the Company’s Print services transfers to the client upon delivery of the published directories containing their advertisements to the intended market(s). Therefore, revenue associated with Print services is recognized at a point in time upon delivery to the intended market(s). The Company bills clients for Print advertising services monthly over the relative contract term. The difference between the timing of recognition of Print advertising revenue and monthly billing generates the Company’s unbilled receivables balance. The unbilled receivables balance is reclassified as billed accounts receivable through the passage of time as the clients are invoiced each month.
+
+Digital
+
+Digital marketing services includes Internet Yellow Pages, which generate revenue by charging clients for advertisements and priority placement, and Search Engine Marketing solutions, which charge clients a monthly fee based on their contracted budget. Other digital media solutions, such as online display and social advertising and Search Engine Optimization tools, also generate revenues by charging clients a monthly fee. Revenues associated with substantially all Digital marketing services are recognized using the series guidance, with associated revenues recognized over time using an output method to measure the progress toward satisfying a performance obligation.
+
+Disaggregation of Revenue
+
+The Company presents disaggregated revenue based on the type of service within its segment footnote. See Note 15, Segment Information.
+
+Contract Assets and Liabilities
+
+The timing of revenue recognition may differ from the timing of billing to the Company’s clients. These timing differences result in receivables, contract assets, or contract liabilities (deferred revenue) as disclosed on the Consolidated Balance Sheets. Contract assets represent the Company's right to consideration when revenue recognized exceeds the receivable from the client because the consideration allocated to fulfilled performance obligations exceeds the Company’s right to payment, and the right to payment is subject to more than the passage of time. Contract liabilities represent remaining performance obligations that consist of advance payments and revenue deferrals resulting from the allocation of the consideration to performance obligations
+
+Substantially all of the Company’s contracts and contract liabilities have an original duration of one year or less. Because of the short duration of these contracts, the Company has applied the optional exemption and has not disclosed the transaction price for its remaining performance obligations as of the end of each reporting period, or the timing of when the Company expects to recognize the related revenue.
+
+11
+
+The following table sets forth the Company's contract assets and liabilities:
+
+(in thousands)
+
+June 30, 2026
+
+December 31, 2025
+
+December 31, 2024
+
+Contract assets
+
+$
+
+622
+
+$
+
+411
+
+$
+
+2,127
+
+Contract liabilities
+
+$
+
+24,820
+
+$
+
+28,875
+
+$
+
+40,315
+
+The Company recognizes revenue on all of its remaining performance obligations within the next twelve months. For the three and six months ended June 30, 2026, the Company recognized revenue of $2.0 million and $27.9 million, respectively, that was recorded in Contract liabilities as of December 31, 2025. For the three and six months ended June 30, 2025, the Company recognized revenue of $7.7 million and $38.0 million, respectively, that was recorded in Contract liabilities as of December 31, 2024.
+
+Note 3 Fair Value Measurements
+
+Fair value is defined as the price that would be received to sell an asset or paid to settle a liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value:
+
+Level 1 — Quoted prices in active markets for identical assets or liabilities.
+
+Level 2 — Inputs, other than quoted prices in active markets, that are observable either directly or indirectly.
+
+Level 3 — Unobservable inputs that reflect the Company's own assumptions incorporated into valuation techniques.
+
+These valuations require significant judgment.
+
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. When there is more than one input at different levels within the hierarchy, the fair value is determined based on the lowest level input that is significant to the fair value measurement in its entirety. Assessment of the significance of a particular input to the fair value measurement in its entirety requires substantial judgment and consideration of factors specific to the asset or liability. Level 3 inputs are inherently difficult to estimate. Changes to these inputs can have a significant impact on fair value measurements. Assets and liabilities measured at fair value using Level 3 inputs are based on one or more of the following valuation techniques: market approach, income approach or cost approach.
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Certain of the Company’s non-financial assets are measured at fair value on a non-recurring basis. These assets primarily include goodwill, intangible assets, fixed assets, capitalized software, and operating lease right-of-use assets. These assets are subject to fair value adjustments in certain circumstances, such as when the net book value of an asset exceeds its fair value, resulting in an impairment charge.
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+Benefit Plan Assets
+
+The fair value of benefit plan assets is measured and recorded on the Consolidated Balance Sheets using Level 1 and Level 2 inputs. See Note 8, Pensions.
+
+Fair Value of Financial Instruments
+
+The Company considers the carrying amounts of cash, trade receivables, and accounts payable to approximate fair value because of the relatively short period of time between the origination of these instruments and their expected realization or payment.
+
+Additionally, the Company considers the carrying amounts of its ABL Facility (as defined in Note 7, Debt Obligations) and financing obligations to approximate their respective fair values due to their short-term nature and approximation of interest rates to market rates. These fair value measurements are considered Level 2. See Note 7, Debt Obligations.
+
+12
+
+The Term Loan (as defined in Note 7, Debt Obligations) is carried at amortized cost; however, the Company estimates the fair value of the Term Loan for disclosure purposes. The fair value of the Term Loan is determined based on quoted prices that are observable in the marketplace and is classified as a Level 2 measurement. See Note 7, Debt Obligations.
+
+The carrying amounts and fair values of the Term Loan were as follows:
+
+June 30, 2026
+
+December 31, 2025
+
+(in thousands)
+
+Carrying Amount
+
+Fair Value
+
+Carrying Amount
+
+Fair Value
+
+Term Loan, net
+
+$
+
+229,674
+
+$
+
+226,516
+
+$
+
+228,367
+
+$
+
+228,652
+
+Note 4 Goodwill and Intangible Assets
+
+Goodwill
+
+Management performs its annual goodwill impairment test on October 1 or more frequently if events or changes in circumstances indicate that the goodwill may be impaired.
+
+During the first quarter of 2026, the Company determined that a triggering event occurred as a result of sustained declines in the Company's market capitalization due to a decrease in its stock price. As a result, the Company performed a quantitative goodwill impairment test of the SaaS reporting unit as of March 1, 2026. The goodwill impairment test requires measurement of the fair value of a reporting unit, which is compared to the carrying value of the reporting unit, including goodwill. The Company engaged a third-party valuation firm to assist in the Company’s determination of the fair value of its SaaS reporting unit as of March 1, 2026. Fair value was determined using a combination of the income approach and the market approach. Under the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an appropriate risk-adjusted rate, as well as a terminal value. Under the market approach, fair value is determined based on valuation multiples of comparable publicly traded companies. In order to corroborate the concluded fair value of the SaaS reporting unit, the Company compared the aggregate estimated fair values of both reporting units to the Company’s market capitalization to calculate an implied control premium. The Company determined that the implied control premium was reasonable when compared to recent market transactions in similar industries. Determining the fair value of a reporting unit requires the use of estimates and assumptions about revenue, operating margins, growth rates and discount rates based on budgets, business plans, economic projections, anticipated future cash flows and market data. These factors involve inherent uncertainties and rely on management’s judgment in their determination. Although management believes the assumptions used in the impairment test are reasonable, changes in these key assumptions could result in a future impairment which could have a material effect on the Company's consolidated financial statements.
+
+Based on the results of the March 1, 2026 quantitative analysis, the estimated fair value of the SaaS reporting unit exceeded its carrying value by 25%. As a result, no goodwill impairment charge was recorded for the six months ended June 30, 2026.
+
+As of June 30, 2026 and December 31, 2025, the Company had goodwill of $253.8 million, all of which was attributable to the SaaS reporting unit.
+
+Intangible Assets
+
+The following tables set forth the details of the Company's intangible assets as of June 30, 2026 and December 31, 2025:
+
+As of June 30, 2026
+
+(in thousands)
+
+Gross
+
+Accumulated
+
+Amortization
+
+Net
+
+Weighted
+
+Average
+
+Remaining
+
+Amortization
+
+Period in Years
+
+Client relationships
+
+$
+
+319,143
+
+$
+
+(300,332)
+
+$
+
+18,811
+
+6.4
+
+Trademarks and domain names
+
+91,738
+
+(87,570)
+
+4,168
+
+6.2
+
+Total intangible assets
+
+$
+
+410,881
+
+$
+
+(387,902)
+
+$
+
+22,979
+
+6.3
+
+13
+
+As of December 31, 2025
+
+(in thousands)
+
+Gross
+
+Accumulated
+
+Amortization
+
+Net
+
+Weighted
+
+Average
+
+Remaining
+
+Amortization
+
+Period in Years
+
+Client relationships
+
+$
+
+316,423
+
+$
+
+(295,226)
+
+$
+
+21,197
+
+6.7
+
+Trademarks and domain names
+
+91,079
+
+(86,347)
+
+4,732
+
+6.7
+
+Total intangible assets
+
+$
+
+407,502
+
+$
+
+(381,573)
+
+$
+
+25,929
+
+6.7
+
+Amortization expense for intangible assets for the three and six months ended June 30, 2026 was $1.5 million and $2.9 million, respectively. Amortization expense for intangible assets for the three and six months ended June 30, 2025 was $2.2 million and $4.6 million, respectively.
+
+Estimated aggregate future amortization expense by fiscal year for the Company's intangible assets is as follows:
+
+(in thousands)
+
+Estimated Future
+
+Amortization Expense
+
+2026 (remaining)
+
+$
+
+2,964
+
+2027
+
+4,584
+
+2028
+
+4,208
+
+2029
+
+3,762
+
+2030
+
+3,325
+
+Thereafter
+
+4,136
+
+Total
+
+$
+
+22,979
+
+In connection with the goodwill impairment assessment noted above, the Company performed an impairment assessment during the six months ended June 30, 2026 on its intangible assets and other long-lived assets. Based on the Company’s analysis, the carrying values of the Company’s definite-lived intangible assets and other long-lived assets were determined to be recoverable, and no impairment was recognized. Accordingly, no impairment charges related to intangible assets were recorded during the three and six months ended June 30, 2026 or 2025.
+
+Note 5 Allowance for Credit Losses
+
+The following table sets forth the Company's allowance for credit losses for the six months ended June 30, 2026 and 2025:
+
+(in thousands)
+
+2026
+
+2025
+
+Balance as of January 1
+
+$
+
+13,832
+
+$
+
+13,080
+
+Additions (1)
+
+5,709
+
+7,726
+
+Deductions (2)
+
+(6,395)
+
+(7,113)
+
+Balance as of June 30 (3)
+
+$
+
+13,146
+
+$
+
+13,693
+
+(1) For the six months ended June 30, 2026 and 2025, the Company recorded a provision for credit losses of $5.7 million and $7.7 million, respectively, and for the three months ended June 30, 2026 and 2025, the Company recorded a provision for credit losses of $2.3 million and $3.9 million, respectively. These amounts are included in General and administrative expense in the Consolidated Statements of Operations and Comprehensive (Loss) Income.
+
+(2) For the six months ended June 30, 2026 and 2025, the deductions represent amounts written off as uncollectible, net of recoveries.
+
+(3) As of June 30, 2026, $13.1 million of the allowance is attributable to Accounts receivable and less than $0.1 million is attributable to Contract assets. As of June 30, 2025, $13.6 million of the allowance is attributable to Accounts receivable and less than $0.1 million is attributable to Contract assets.
+
+The Company’s exposure to expected credit losses depends on the financial condition of its clients and other macroeconomic factors. The Company maintains an allowance for credit losses based upon its estimate of potential credit
+
+14
+
+losses. This allowance is based upon historical and current client collection trends, any identified client-specific collection issues, and current as well as expected future economic conditions and market trends.
+
+Note 6 Accrued Liabilities
+
+Accrued liabilities consisted of the following amounts:
+
+(in thousands)
+
+June 30, 2026
+
+December 31, 2025
+
+Accrued salaries and related expenses
+
+$
+
+43,830
+
+$
+
+50,241
+
+Accrued customer payments and service credits
+
+8,771
+
+10,191
+
+Accrued traffic acquisition costs
+
+7,357
+
+8,112
+
+Accrued taxes
+
+9,632
+
+5,456
+
+Other accrued expenses
+
+19,163
+
+17,246
+
+Accrued liabilities
+
+$
+
+88,753
+
+$
+
+91,246
+
+Note 7 Debt Obligations
+
+The following table sets forth the Company's outstanding debt obligations as of June 30, 2026 and December 31, 2025:
+
+(in thousands)
+
+Maturity
+
+Interest Rate
+
+June 30, 2026
+
+December 31, 2025
+
+Term Loan
+
+May 1, 2029
+
+SOFR +
+
+6.75%
+
+$
+
+236,250
+
+$
+
+236,250
+
+ABL Facility
+
+May 1, 2028
+
+SOFR +
+
+2.50% - 2.75%
+
+14,057
+
+25,120
+
+Unamortized original issue discount and debt issuance costs
+
+(6,576)
+
+(7,883)
+
+Total debt obligations
+
+$
+
+243,731
+
+$
+
+253,487
+
+Current portion of Term Loan
+
+(35,000)
+
+(17,500)
+
+Total long-term debt obligations
+
+$
+
+208,731
+
+$
+
+235,987
+
+Term Loan
+
+On May 1, 2024, the Company entered into a new Term Loan Credit Agreement (the “Term Loan”), the proceeds of which were used to refinance and pay off in full the Company’s previous term loan facility (the “Prior Term Loan”) and to pay fees and expenses related to the refinancing.
+
+The Term Loan established a senior secured term loan facility (the “Term Loan Facility”) in an aggregate principal amount equal to $350.0 million, of which 40.0% was held by a related party who was an equity holder of the Company as of May 1, 2024. The Company defines a related party as any shareholder owning more than 5% of the Company's voting securities. As of June 30, 2026, 40.0% of the Term Loan was held by a related party who was an equity holder of the Company as of that date.
+
+The Term Loan Facility matures on May 1, 2029 and borrowings under the Term Loan Facility bear interest at a fluctuating rate per annum equal to, at the Company’s option, the secured overnight financing rate (“SOFR”) or base rate, in each case, plus an applicable margin per annum equal to (i) 6.75% (for SOFR loans) and (ii) 5.75% (for base rate loans). The Term Loan Facility requires mandatory amortization payments, paid quarterly, equal to (i) $52.5 million per year for the first two years following the closing date of the Term Loan, and (ii) $35.0 million per year thereafter. The Company's mandatory amortization payments for the next 12 months total $35.0 million.
+
+The Term Loan, which was incurred by Thryv, Inc., the Company’s operating subsidiary, is secured by all the assets of Thryv, Inc., certain of its subsidiaries and the Company, and is guaranteed by the Company and certain of its subsidiaries.
+
+Third-party fees of $4.2 million associated with the Term Loan were deferred as debt issuance costs and are amortized to interest expense, over the term of the Term Loan, using the effective interest method. Additionally, the remaining unamortized debt issuance costs associated with the Prior Term Loan of $2.4 million were deferred as debt issuance costs and are amortized to interest expense, over the term of the Term Loan, using the effective interest method.
+
+15
+
+The Company has recorded accrued interest of $0.2 million and $0.3 million as of June 30, 2026 and December 31, 2025, respectively, which is included in Other current liabilities on the Consolidated Balance Sheets.
+
+Term Loan Covenants
+
+The Term Loan Facility contains certain covenants that, subject to exceptions, limit or restrict the Company’s ability to, among others, incur additional indebtedness, guarantees and liens; make investments, loans and advances; dispose of assets and make sale-leaseback transactions; enter into swap agreements; make payments of dividends and other distributions; make payments in respect of certain indebtedness; enter into certain affiliate transactions and restrictive amendments to certain agreements; change its lines of business; amend certain material documents; consummate certain mergers, consolidations and liquidations; and use the proceeds of the term loans.
+
+Additionally, the Company is required to maintain compliance with (a) a maximum “Total Net Leverage Ratio”, calculated as the ratio of “Consolidated Total Net Indebtedness” to “Consolidated EBITDA” (in each case, as defined in the Term Loan, which shall not be greater than 3.0 to 1.0 as of the last day of each fiscal quarter and (b) a minimum “SaaS Revenue” (as defined in the Term Loan), which shall not be less than the quarterly thresholds set forth in the Term Loan Agreement as of the last day of each fiscal quarter. As of June 30, 2026, the Company was in compliance with its Term Loan covenants. The Company also expects to be in compliance with these covenants for the next twelve months.
+
+ABL Facility
+
+On May 1, 2024, the Company entered into a new Credit Agreement (the “ABL Credit Agreement”), which established a new asset-based revolving loan facility (the “ABL Facility”). The ABL Facility refinanced the Company’s previous asset-based revolving loan facility (the “Prior ABL Facility”). Proceeds of the ABL Facility may be used by the Company for ongoing general corporate purposes and working capital.
+
+The ABL Facility matures on May 1, 2028 and borrowings under the ABL Facility bear interest at a fluctuating rate per annum equal to, at the Company’s option, SOFR or base rate, in each case, plus an applicable margin per annum, depending on the average excess availability under the ABL Facility, equal to (i) 2.50% to 2.75% (for SOFR loans) and (ii) 1.50% to 1.75% (for base rate loans). The fee for undrawn commitments under the ABL Facility is equal to 0.375% per annum.
+
+Total third-party fees and lender fees of $1.3 million associated with the ABL Facility were deferred as debt issuance costs and are amortized as interest expense over the term of the ABL Facility.
+
+As of June 30, 2026 and December 31, 2025, the Company had debt issuance costs with a remaining balance of $0.6 million and $0.7 million, respectively, that are included in Other assets on the Consolidated Balance Sheets.
+
+The amount of borrowings permitted at any time under the ABL Facility is limited to a periodic borrowing base valuation of, among other things, our accounts receivables. In addition, the Company is required to maintain a minimum “Excess Availability” (as defined in the ABL Credit Agreement) of at least $8.5 million at all times. As of June 30, 2026, the Company had Excess Availability under its borrowing base of $23.0 million. After the minimum Excess Availability requirement, the Company had available borrowing capacity of approximately $14.5 million.
+
+ABL Facility Covenants
+
+The ABL Credit Agreement contains certain covenants that, subject to exceptions, limit or restrict the Company’s ability to, among others, incur additional indebtedness, guarantees and liens; make investments, loans and advances; dispose of assets and make sale-leaseback transactions; enter into swap agreements; make payments of dividends and other distributions; make payments in respect of certain indebtedness; enter into certain affiliate transactions and restrictive amendments to certain agreements; change its lines of business; amend certain material documents; consummate certain mergers, consolidations and liquidations; and use the proceeds of the revolving loans.
+
+Additionally, the Company is required to maintain compliance with (a) a minimum “Fixed Charge Coverage Ratio”, calculated as the ratio of “Consolidated EBITDA” minus unfinanced capital expenditures to “Fixed Charges” (in each case, as defined in the ABL Credit Agreement), which shall not be less than 1.0 to 1.0 as of the last day of each fiscal quarter and (b) a minimum “Excess Availability” (as defined in the ABL Credit Agreement) of at least $8.5 million at all times. As of June 30, 2026, the Company was in compliance with its ABL Credit Agreement covenants. The Company also expects to be in compliance with these covenants for the next twelve months.
+
+16
+
+Note 8 Pensions
+
+The Company sponsors one non-contributory qualified defined benefit pension plan and two non-qualified defined benefit pension plans that are currently frozen and incur no additional service costs.
+
+The Company immediately recognizes actuarial gains and losses in its operating results in the period in which the gains and losses occur. The Company estimates the interest cost component of net periodic pension cost by utilizing a full yield curve approach and applying the specific spot rates along the yield curve used in the determination of the benefit obligations of the relevant projected cash flows. This method provides a more precise measurement of interest costs by improving the correlation between projected cash flows to the corresponding spot yield curve rates.
+
+Net Periodic Pension Cost
+
+The following table details the components of net periodic pension cost for the Company's pension plans:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Interest cost
+
+$
+
+3,736
+
+$
+
+4,732
+
+$
+
+7,472
+
+$
+
+9,464
+
+Expected return on assets
+
+(3,390)
+
+(3,965)
+
+(6,781)
+
+(7,929)
+
+Settlement loss
+
+2
+
+1
+
+2
+
+1
+
+Remeasurement loss
+
+9
+
+10
+
+9
+
+10
+
+Net periodic pension cost
+
+$
+
+357
+
+$
+
+778
+
+$
+
+702
+
+$
+
+1,546
+
+The three and six months ended June 30, 2025 includes activity related to the YP Holdings LLC Pension Plan, a frozen qualified defined benefit pension plan that was terminated during the fourth quarter of 2025.
+
+Since all pension plans are frozen and no employees accrue future pension benefits under any of the pension plans, the rate of compensation increase assumption is no longer needed. The Company determines the weighted-average discount rate by applying a yield curve comprised of the yields on several hundred high-quality, fixed income corporate bonds available on the measurement date to expected future benefit cash flows.
+
+During the three and six months ended June 30, 2026, the Company made contributions of $2.7 million and $3.1 million, respectively, to the qualified plan and contributions and associated payments of $0.2 million and $0.3 million, respectively, to the non-qualified plans. During the three and six months ended June 30, 2025, the Company made no cash contributions to the qualified plans, and contributions and associated payments of $0.2 million and $0.3 million, respectively, to the non-qualified plans.
+
+For fiscal year 2026, the Company expects to contribute approximately $5.4 million to the qualified plan and approximately $0.5 million to the non-qualified plans.
+
+Note 9 Stock-Based Compensation and Stockholders' Equity
+
+Stock-Based Compensation Expense
+
+The following table summarizes the amounts recognized in the Consolidated Statements of Operations and Comprehensive (Loss) Income during the periods presented related to stock-based compensation expense:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Cost of services
+
+$
+
+69
+
+$
+
+166
+
+$
+
+137
+
+$
+
+319
+
+Sales and marketing
+
+460
+
+1,386
+
+1,084
+
+3,195
+
+Research and development
+
+405
+
+318
+
+1,032
+
+785
+
+General and administrative
+
+1,853
+
+4,138
+
+5,284
+
+9,446
+
+Stock-based compensation expense
+
+$
+
+2,787
+
+$
+
+6,008
+
+$
+
+7,537
+
+$
+
+13,745
+
+17
+
+The following table summarizes stock-based compensation expense by award type during the periods presented:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+RSUs
+
+$
+
+2,724
+
+$
+
+2,921
+
+$
+
+5,537
+
+$
+
+5,904
+
+PSUs
+
+(159)
+
+2,527
+
+1,552
+
+7,043
+
+Stock options
+
+—
+
+150
+
+—
+
+150
+
+ESPP
+
+222
+
+410
+
+448
+
+648
+
+Stock-based compensation expense
+
+$
+
+2,787
+
+$
+
+6,008
+
+$
+
+7,537
+
+$
+
+13,745
+
+Restricted Stock Units
+
+The following table summarizes the Company's restricted stock unit (“RSU”) activity during the six months ended June 30, 2026:
+
+Number of Restricted Stock Units
+
+Weighted-Average Grant-Date Fair Value
+
+Nonvested balance as of December 31, 2025
+
+1,385,455
+
+$
+
+16.03
+
+Granted
+
+1,865,755
+
+$
+
+5.56
+
+Vested
+
+(646,854)
+
+$
+
+16.49
+
+Forfeited
+
+(112,293)
+
+$
+
+10.95
+
+Nonvested balance as of June 30, 2026
+
+2,492,063
+
+$
+
+8.30
+
+The Company grants RSUs to employees and non-employee directors under the Company’s 2020 Incentive Award Plan (the “2020 Plan”). Pursuant to the RSU award agreements, each RSU entitles the recipient to one share of the Company’s common stock, subject to time-based vesting conditions set forth in individual agreements.
+
+The fair value of each RSU grant is determined based upon the market closing price of the Company’s common stock on the date of grant. The RSUs vest and are expensed on a straight-line basis over the requisite service period, which ranges between one year and three years from the date of grant, subject to the continued employment of the employees and services of the non-employee board members.
+
+As of June 30, 2026, the unrecognized stock-based compensation expense related to the unvested portion of the Company's RSU awards was approximately $16.1 million and is expected to be recognized over a weighted-average period of 2.03 years.
+
+During the six months ended June 30, 2026, the Company issued an aggregate of 592,637 shares of common stock to employees and non-employee directors upon the vesting of RSUs previously granted under the 2020 Plan.
+
+Performance-Based Restricted Stock Units
+
+The following table summarizes the Company's performance-based restricted stock unit (“PSU”) activity during the six months ended June 30, 2026:
+
+Number of Performance-Based Restricted Stock Units
+
+Weighted-Average Grant-Date Fair Value
+
+Nonvested balance as of December 31, 2025
+
+1,354,587
+
+$
+
+17.87
+
+Granted
+
+1,084,335
+
+$
+
+6.00
+
+Vested
+
+(362,418)
+
+$
+
+21.46
+
+Nonvested balance as of June 30, 2026
+
+2,076,504
+
+$
+
+11.04
+
+18
+
+The Company also grants PSUs to employees under the Company’s 2020 Plan. Pursuant to the PSU Award Agreement, each PSU entitles the recipient to up to 1.5 shares of the Company’s common stock, subject to certain performance measures or market conditions set forth in individual agreements.
+
+The PSUs will vest, if at all, following the achievement of certain performance measures or market conditions over a three-year performance period relative to certain performance and market conditions. The grant date fair value of PSUs that vest relative to a performance condition is measured based upon the market closing price of the Company’s common stock on the date of grant and expensed on a straight-line basis when it becomes probable that the performance conditions will be satisfied over the service period of the awards, which is generally the vesting term of three years. The grant date fair value of PSUs that vest relative to a market condition is measured using a Monte Carlo simulation model and expensed on a straight-line basis over the service period of the awards, which is generally the vesting term of three years. As of June 30, 2026, the nonvested balance of PSUs that vest based on performance and market conditions was 830,602 and 1,245,902 shares, respectively.
+
+As of June 30, 2026, the unrecognized stock-based compensation expense related to the unvested portion of the Company's PSU awards was approximately $7.6 million and is expected to be recognized over a weighted-average period of 1.85 years.
+
+During the six months ended June 30, 2026, the Company issued an aggregate of 306,869 shares of common stock to employees upon the vesting of PSUs previously granted under the 2020 Plan.
+
+Stock Options
+
+As of June 30, 2026, there was no unrecognized stock-based compensation expense related to the unvested portion of the Company's stock options, as all granted stock options were fully vested on October 15, 2024.
+
+During the six months ended June 30, 2026, the Company issued an aggregate of 5,000 shares of common stock to employees upon the exercise of options previously granted under its 2016 Stock Incentive Plan at an exercise price of $3.68 per share.
+
+Employee Stock Purchase Plan
+
+During the six months ended June 30, 2026, the Company issued 45,111 shares through the Employee Stock Purchase Plan (“ESPP”). During the six months ended June 30, 2025, the Company issued 171,561 shares through the ESPP.
+
+Share Repurchase Program
+
+On April 30, 2024, the Board authorized a share repurchase program (the “Share Repurchase Program”), under which the Company may repurchase up to $40.0 million in shares of common stock through April 30, 2029. The repurchase program is subject to market conditions, the periodic capital needs of the Company’s operating activities, and the continued satisfaction of all covenants under the Company’s Term Loan and ABL Credit Agreement. The Share Repurchase Program does not obligate the Company to repurchase shares and may be suspended, terminated, or modified at any time.
+
+As of June 30, 2026, the Company had repurchased approximately $5.5 million, or 404,495 shares, of the Company's outstanding common stock under the Share Repurchase Program and $34.5 million remains available for share repurchases. The Company's ability to repurchase shares in the future is limited by certain conditions set forth in the ABL Credit Agreement.
+
+19
+
+Note 10 Earnings per Share
+
+The following tables present the calculations of basic and diluted (loss) earnings per share for the three and six months ended June 30, 2026 and 2025:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands, except share and per share amounts)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Basic net (loss) income per share:
+
+Net (loss) income
+
+$
+
+(16,660)
+
+$
+
+13,931
+
+$
+
+(12,118)
+
+$
+
+4,313
+
+Weighted-average basic shares outstanding
+
+44,358,330
+
+43,744,144
+
+44,283,478
+
+43,579,171
+
+Basic net (loss) income per share
+
+$
+
+(0.38)
+
+$
+
+0.32
+
+$
+
+(0.27)
+
+$
+
+0.10
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands, except share and per share amounts)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Diluted net (loss) income per share:
+
+Net (loss) income
+
+$
+
+(16,660)
+
+$
+
+13,931
+
+$
+
+(12,118)
+
+$
+
+4,313
+
+Weighted-average basic shares outstanding
+
+44,358,330
+
+43,744,144
+
+44,283,478
+
+43,579,171
+
+Plus: Common stock equivalents associated with stock-based compensation
+
+—
+
+559,187
+
+—
+
+1,006,991
+
+Weighted-average diluted shares outstanding
+
+44,358,330
+
+44,303,331
+
+44,283,478
+
+44,586,162
+
+Diluted net (loss) income per share
+
+$
+
+(0.38)
+
+$
+
+0.31
+
+$
+
+(0.27)
+
+$
+
+0.10
+
+The computation of weighted-average diluted shares outstanding excluded the following share amounts as their effect would have been anti-dilutive for the three and six months ended June 30, 2026 and 2025:
+
+As of June 30,
+
+2026
+
+2025
+
+Outstanding RSUs
+
+2,584,058
+
+1,462,871
+
+Outstanding PSUs
+
+182,130
+
+266,991
+
+Outstanding stock options
+
+2,316,681
+
+1,938,750
+
+Outstanding ESPP shares
+
+547,702
+
+176,597
+
+Note 11 Restructuring
+
+During the three months ended June 30, 2026, the Company initiated restructuring activities aimed at improving organizational efficiency and reducing ongoing operational costs. These restructuring actions have resulted in reductions in workforce across various functions.
+
+During the three months ended June 30, 2026, the Company incurred approximately $3.1 million in connection with these activities which was recorded within General and administrative expense within the Consolidated Statements of Operations and Comprehensive (Loss) Income. These restructuring costs are primarily comprised of amounts that will be paid in cash for severance and related benefit costs. As of June 30, 2026, a restructuring liability of $3.1 million was outstanding which is reflected in Accrued liabilities on the Consolidated Balance Sheet.
+
+The Company estimates that it will incur additional costs of approximately $17.0 million to $22.0 million related to this initiative through its completion in 2027. These costs are expected to primarily relate to employee severance and payments on contractual arrangements that the Company plans to abandon prior to the end of their contractual term.
+
+20
+
+Note 12 Income Taxes
+
+The Company’s effective tax rate (“ETR”) was (76.0%) and (10.9%) for the three and six months ended June 30, 2026, respectively, and 37.7% and 56.4% for the three and six months ended June 30, 2025, respectively. The Company's ETR differs from the U.S. Federal statutory rate of 21% primarily due to permanent differences, including state taxes, non-deductible executive compensation, non-U.S. taxing jurisdictions, tax credits, minimum taxes, changes in valuation allowance due to expiring net operating losses, and the discrete impact of interest accrual on uncertain tax positions.
+
+As of June 30, 2026 and December 31, 2025, the amount of unrecognized tax benefits was $4.4 million and $18.8 million, respectively, excluding interest and penalties, that if recognized, would impact the effective tax rate. As of June 30, 2026 and December 31, 2025, the Company had $1.5 million and $13.6 million, respectively, recorded for interest on the Consolidated Balance Sheets. The Company engages in continuous discussions and negotiations with tax authorities regarding tax matters in various jurisdictions. During the first quarter of 2026, the Company received notices of tax due and/or notices of intent to levy for tax years 2012 through 2015. The Company sent a response to the IRS requesting a Collection Due Process or Equivalent Hearing in order to review the amounts assessed and request a payment plan. Due to the receipt of these notices, $28.6 million that was recognized as an uncertain tax position liability as of December 31, 2025 has been reclassified to income taxes payable. As of June 30, 2026, $5.4 million is reflected in Accrued liabilities and $24.1 million is reflected in Other liabilities related to this matter. These amounts include accrued interest of $0.9 million recognized during the six months ended June 30, 2026. The Company has updated its estimate of the payment plan term to 60 months, with payments commencing in August 2026. See Note 13, Contingent Liabilities.
+
+Note 13 Contingent Liabilities
+
+Litigation
+
+The Company is subject to various lawsuits and other claims in the normal course of business. In addition, from time to time, the Company receives communications from government or regulatory agencies concerning investigations or allegations of noncompliance with laws or regulations in jurisdictions in which the Company operates.
+
+The Company establishes reserves for the estimated losses on specific contingent liabilities for regulatory and legal actions where the Company deems a loss to be probable and the amount of the loss can be reasonably estimated. In other instances, losses are considered probable, but the Company is not able to make a reasonable estimate of the liability because of the uncertainties related to the outcome or the amount or range of potential loss. For these matters, disclosure is made, but no amount is reserved. The Company does not expect that the ultimate resolution of pending regulatory and legal matters in future periods will have a material adverse effect on our results of operations, financial condition, or cash flows.
+
+Legal costs, including expenses and fees related to outside counsel, are expensed as incurred.
+
+Regulatory Matter
+
+In October 2024, the Company received a subpoena from the Division of Enforcement of the SEC requesting documents and information related to the Company’s previously publicly announced strategic conversion of its clients from its Digital marketing services solutions platform to its SaaS solutions platform. The Company is cooperating fully. The SEC noted that the investigation is a fact-finding inquiry and does not mean that it has concluded that anyone has violated the law.
+
+Section 199 and Research and Development Tax Case
+
+Section 199 of the Internal Revenue Code of 1986, as amended (the “Tax Code”), provided for deductions for manufacturing performed in the U.S. The Internal Revenue Service (“IRS”) took the position that directory providers were not entitled to claim the deductions because printing vendors had already claimed the deductions. The Tax Code also grants tax credits related to research and development expenditures. The IRS also took the position that the expenditures had not been sufficiently documented to be eligible for the tax credit. The Company disagreed with the IRS's positions.
+
+The IRS challenged the Company's tax return position on both the Section 199 deduction and the tax credits. With respect to the tax years 2012 through June 2015 for the YP LLC partnership, the IRS sent 90-day notices to DexYP on August 29, 2018. In response, the Company filed three petitions (in the names of various related partners) in U.S. Tax Court challenging the IRS, and the IRS filed answers to those petitions. The three cases were consolidated by the court and were referred back to IRS Administrative Appeals for settlement negotiations, during which time the litigation was suspended. Several appeals conferences were held. The Company settled their claim for a Section 199 deduction on favorable terms. The
+
+21
+
+Company and the IRS also reached an agreement regarding additional research and development tax credits for the tax years at issue whereby the IRS allowed more tax credits than were originally claimed on the tax returns. With respect to the tax year from July to December 2015 for the Print Media LLC partnership, the Company also filed a petition in the U.S. Tax Court to challenge the IRS denial of its Section 199 deductions.
+
+On May 22, 2023, the Company received a draft Appeals Settlement document (“Draft Settlement”) from the IRS relating to the IRC Section 199 tax case. The Draft Settlement resulted in a decrease in the unrecognized tax benefit recorded for this tax position. During the year ended December 31, 2024, the Company recorded a measurement adjustment to the uncertain tax position liability to account for the new information received from the Draft Settlement. The settlement was finalized, and with respect to the YP LLC partnership, the court entered its final decision on October 22, 2024, reflecting the parties' settlement. With respect to the litigation regarding the Print Media, LLC partnership, the Company successfully applied the terms of the IRS settlement for the YP LLC partnership to the dispute regarding the Print Media LLC partnership.
+
+As of December 31, 2025, the Company had reserved $30.4 million in connection with the Section 199 disallowance. During the first quarter of 2026, the Company received notices of tax due and/or notices of intent to levy for tax years 2012 through 2015. The Company sent a response to the IRS requesting a Collection Due Process or Equivalent Hearing in order to review the amounts assessed and request a payment plan. Due to the receipt of these notices, $28.6 million that was recognized as an uncertain tax position liability as of December 31, 2025 has been reclassified to income taxes payable. As of June 30, 2026, $5.4 million is reflected in Accrued liabilities and $24.1 million is reflected in Other liabilities related to this matter. These amounts include accrued interest of $0.9 million recognized during the six months ended June 30, 2026. The Company has updated its estimate of the payment plan term to 60 months, with payments commencing in August 2026.
+
+Note 14 Changes in Accumulated Other Comprehensive Loss
+
+The following table summarizes the changes in accumulated other comprehensive loss, which is reported as a component of stockholders' equity, for the six months ended June 30, 2026 and 2025:
+
+Accumulated Other Comprehensive Loss
+
+(in thousands)
+
+2026
+
+2025
+
+Balance as of January 1
+
+$
+
+(15,511)
+
+$
+
+(14,941)
+
+Foreign currency translation adjustment, net of tax expense of $0.2 million and $0.0 million, respectively
+
+(509)
+
+(259)
+
+Balance as of June 30
+
+$
+
+(16,020)
+
+$
+
+(15,200)
+
+Note 15 Segment Information
+
+The Company's chief operating decision maker (“CODM”) is the Chief Executive Officer. The CODM evaluates performance of the reportable segments based on Segment Adjusted EBITDA, which is the primary measure of segment profitability. The CODM monitors actual versus forecasted results for Segment Adjusted EBITDA on a monthly basis to assess the performance of each segment and make decisions about allocating resources to each segment.
+
+The Company manages its operations using two operating segments, which are also its reportable segments: (1) SaaS and (2) Marketing Services.
+
+Asset information by segment is not regularly provided to the CODM and, therefore, such information is not presented.
+
+22
+
+The following tables summarize the operating results of the Company's reportable segments. The segment expense categories shown align with the segment-level information that is regularly provided to the CODM. Segment cost of services, Segment sales and marketing, Segment research and development, and Segment general and administrative expenses presented below exclude the allocation of depreciation and amortization expense, stock-based compensation expense, restructuring and integration expenses, transaction costs and other expenses, since these amounts are not reflected in the primary measure of segment profitability.
+
+Three Months Ended June 30, 2026
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Segment revenue
+
+$
+
+114,480
+
+$
+
+36,248
+
+$
+
+150,728
+
+Less:
+
+Segment cost of services
+
+38,236
+
+13,319
+
+51,555
+
+Segment sales and marketing
+
+34,248
+
+9,074
+
+43,322
+
+Segment research and development
+
+6,960
+
+—
+
+6,960
+
+Segment general and administrative
+
+21,474
+
+6,592
+
+28,066
+
+Segment Adjusted EBITDA
+
+$
+
+13,562
+
+$
+
+7,263
+
+$
+
+20,825
+
+Three Months Ended June 30, 2025
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Segment revenue
+
+$
+
+115,005
+
+$
+
+95,465
+
+$
+
+210,470
+
+Less:
+
+Segment cost of services
+
+29,884
+
+29,929
+
+59,813
+
+Segment sales and marketing
+
+31,744
+
+19,722
+
+51,466
+
+Segment research and development
+
+7,837
+
+—
+
+7,837
+
+Segment general and administrative
+
+22,147
+
+17,975
+
+40,122
+
+Segment Adjusted EBITDA
+
+$
+
+23,393
+
+$
+
+27,839
+
+$
+
+51,232
+
+Six Months Ended June 30, 2026
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Segment revenue
+
+$
+
+231,218
+
+$
+
+87,194
+
+$
+
+318,412
+
+Less:
+
+Segment cost of services
+
+76,798
+
+29,529
+
+106,327
+
+Segment sales and marketing
+
+67,683
+
+20,434
+
+88,117
+
+Segment research and development
+
+17,323
+
+—
+
+17,323
+
+Segment general and administrative
+
+45,036
+
+16,720
+
+61,756
+
+Segment Adjusted EBITDA
+
+$
+
+24,378
+
+$
+
+20,511
+
+$
+
+44,889
+
+23
+
+Six Months Ended June 30, 2025
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Segment revenue
+
+$
+
+226,134
+
+$
+
+165,707
+
+$
+
+391,841
+
+Less:
+
+Segment cost of services
+
+59,560
+
+57,957
+
+117,517
+
+Segment sales and marketing
+
+68,521
+
+37,192
+
+105,713
+
+Segment research and development
+
+16,860
+
+—
+
+16,860
+
+Segment general and administrative
+
+46,985
+
+32,633
+
+79,618
+
+Segment Adjusted EBITDA
+
+$
+
+34,208
+
+$
+
+37,925
+
+$
+
+72,133
+
+A reconciliation of the Company’s (Loss) income before income tax expense to total Segment Adjusted EBITDA is as follows:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+(Loss) income before income tax expense
+
+$
+
+(9,464)
+
+$
+
+22,367
+
+$
+
+(10,925)
+
+$
+
+9,884
+
+Interest expense
+
+7,518
+
+8,952
+
+14,125
+
+18,025
+
+Depreciation and amortization expense
+
+10,894
+
+10,191
+
+20,060
+
+21,707
+
+Stock-based compensation expense
+
+2,787
+
+6,008
+
+7,537
+
+13,745
+
+Restructuring and integration expenses
+
+8,288
+
+5,493
+
+14,378
+
+10,175
+
+Net periodic pension cost
+
+357
+
+778
+
+702
+
+1,546
+
+Other
+
+445
+
+(2,557)
+
+(988)
+
+(2,949)
+
+Total Segment Adjusted EBITDA
+
+$
+
+20,825
+
+$
+
+51,232
+
+$
+
+44,889
+
+$
+
+72,133
+
+The following table summarizes the Company's Revenue based on type of service for the periods indicated:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+SaaS
+
+$
+
+114,480
+
+$
+
+115,005
+
+$
+
+231,218
+
+$
+
+226,134
+
+Marketing Services
+
+Print
+
+24,916
+
+67,003
+
+58,502
+
+104,714
+
+Digital
+
+11,332
+
+28,462
+
+28,692
+
+60,993
+
+Total Marketing Services
+
+36,248
+
+95,465
+
+87,194
+
+165,707
+
+Revenue
+
+$
+
+150,728
+
+$
+
+210,470
+
+$
+
+318,412
+
+$
+
+391,841
+
+The following table summarizes the Company's Revenue by geographic region, based on the location of the customer, for the periods indicated:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+United States
+
+$
+
+116,418
+
+$
+
+172,134
+
+$
+
+253,124
+
+$
+
+318,247
+
+International
+
+34,310
+
+38,336
+
+65,288
+
+73,594
+
+Revenue
+
+$
+
+150,728
+
+$
+
+210,470
+
+$
+
+318,412
+
+$
+
+391,841
+
+Revenue from customers located in Australia was approximately 19.7% and 15.8% of total revenue for the three months ended June 30, 2026 and 2025, respectively, and 17.4% and 15.8% for the six months ended June 30, 2026 and 2025, respectively. No other individual foreign country contributed more than 10% of total revenue for the three and six months ended June 30, 2026 and 2025.
+
+24
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following is a discussion and analysis of our financial condition and results of operations as of, and for, the periods presented and should be read in conjunction with our unaudited interim consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report. This discussion and analysis contains forward-looking statements, including statements regarding industry outlook, our expectations for the future of our business, and our liquidity and capital resources as well as other non-historical statements. These statements are based on current expectations and are subject to numerous risks and uncertainties, including but not limited to the risks and uncertainties described in “Risk Factors” in our 2025 Form 10-K, elsewhere in this Quarterly Report on Form 10-Q, particularly Part II, Item 1A. "Risk Factors," and “Cautionary Note Regarding Forward-Looking Statements.” Our actual results may differ materially from those contained in or implied by these forward-looking statements.
+
+Overview
+
+We are a software-led platform company focused on enabling small and medium-sized businesses (“SMBs”) to run and grow their businesses more efficiently. Our strategy is centered on delivering a unified, extensible SaaS platform that supports customer acquisition, engagement, operations, and retention across the SMB lifecycle.
+
+Our expertise in delivering solutions for our client base is rooted in our deep history of serving SMBs. In 2026, SMB demand for integrated technology solutions continues to grow as SMBs adapt their business and service models to facilitate remote working and virtual interactions.
+
+We serve approximately 215,000 SMB clients globally through two business segments: SaaS and Marketing Services.
+
+SaaS
+
+Our SaaS segment generated $114.5 million and $115.0 million of consolidated revenue for the three months ended June 30, 2026 and 2025, respectively, and $231.2 million and $226.1 million of consolidated revenue for the six months ended June 30, 2026 and 2025, respectively.
+
+Core Platform Offerings. The core offerings of our Thryv Platform include Thryv Marketing Center and Keap®. Thryv Marketing Center contains everything an SMB owner needs to effectively market and grow their business, including easy to understand, artificial intelligence (“AI”) driven analytics and lead attribution that help them understand which marketing efforts are delivering results. Keap® is our customer relationship management (“CRM”) and automation engine that helps SMBs efficiently grow by automating repetitive tasks, campaigns, and processes, using automation tools and AI.
+
+Extensions. The Thryv Platform supports extensions and integrations that allow customers to tailor the platform to their specific business needs. Our extension offerings include Thryv Leads®, growth packages, SEO tools, and website creation and management tools. These optional platform add-ons provide a seamless user experience for our end-users and drive higher engagement within the Thryv Platform while also producing incremental revenue growth.
+
+Payment Solutions. ThryvPay® and KeapPay are our own branded payment solutions that allow users to get paid via credit card and ACH and are tailored to service-based businesses that want to provide consumers with safe, contactless, and fast online payment options.
+
+Supporting Software Solutions. We offer supporting software solutions, including Thryv Business Center, that seamlessly integrate with our core platform offerings, providing customers with enhanced functionality and additional features.
+
+Professional Services. We offer implementation, training, and consulting services to help customers maximize value from our platform, including onboarding and implementation, a year-one Customer Success Manager, and Thryv Success Services, which includes listing refresh services, strategic content creation, and ongoing strategic consulting.
+
+Marketing Services
+
+Our Marketing Services segment provides both print and digital solutions and generated $36.2 million and $95.5 million of consolidated revenue for the three months ended June 30, 2026 and 2025, respectively, and $87.2 million and $165.7 million of consolidated revenue for the six months ended June 30, 2026 and 2025, respectively.
+
+25
+
+Our Marketing Services offerings include our owned and operated Print Yellow Pages, which carry the “The Real Yellow Pages” tagline, our proprietary Internet Yellow Pages, known by the Yellowpages.com, Superpages.com, and Dexknows.com URLs. Our Search Engine Marketing solutions deliver business leads through increased traffic to clients’ websites from major engines and directories by increasing visibility and search engine results pages through paid advertising. Additionally, we offer other digital media solutions including online display and social advertising and search engine optimization tools.
+
+During the year ended December 31, 2024, we made a strategic decision to terminate our Marketing Services solutions by the end of 2028.
+
+Transition of Digital Marketing Services Clients to the Thryv Platform
+
+During the fourth quarter of 2023, we made a strategic decision to accelerate the transition of clients with Digital marketing services solutions to our Thryv Platform by converting certain Marketing Services products for customers to the Thryv Platform by initiating upgrades for clients outside of the sales process at no additional base cost to these clients at the time of upgrade. The cost of bringing these clients into SaaS products is generally lower than the cost of acquiring a new SaaS customer or selling a SaaS product to an existing Marketing Services customer because the Company does not pay commissions to sales personnel for upgrades that Thryv initiates for customers outside of the sales process.
+
+During the twelve months ended June 30, 2026, we converted approximately 11,000 clients with Digital marketing services products to our Thryv Platform who were not already SaaS clients at the time of conversion. As of June 30, 2026, approximately 9,000 of these clients remained as SaaS clients. The conversion of these Marketing Services clients increased SaaS revenue by $5.0 million and $7.6 million during the three and six months ended June 30, 2026, respectively.
+
+Additionally, during the twelve months ended June 30, 2026, we converted Digital marketing services products to our Thryv Platform for approximately 4,000 clients who already had at least one SaaS product in our Thryv Platform at the time of conversion. The conversion of these Marketing Services clients increased SaaS revenue by $1.8 million and $3.2 million during the three and six months ended June 30, 2026, respectively.
+
+The conversion of Marketing Services products for clients who were not already SaaS clients at the time of conversion decreases the number of clients in the Marketing Services segment and increases the number of clients in the SaaS segment. The conversion of products for Marketing Services clients (whether or not those clients had SaaS solutions prior to the conversion) decreases the revenue of the Marketing Services segment and increases the revenue of the SaaS segment. While we believe the conversions initiated for clients by Thryv provide valuable upgrades from Digital marketing services to our Thryv Platform and that converted clients are likely to subscribe to additional features of the Thryv Platform in the future, Thryv's conversion of products for these clients outside of the traditional sales process could result in these clients cancelling their services with us (known as “churn”) at a materially higher rate than the other clients in our SaaS segment. During the six months ended June 30, 2026, the churn of clients converted by Thryv from our Digital marketing services solutions to our Thryv Platform was in line with the churn from the other clients in our SaaS segment.
+
+Factors Affecting Our Performance
+
+Our operations can be impacted by, among other factors, general economic conditions and increased competition with the introduction of new technologies and market entrants. We believe that our performance and future success depend on several factors that present significant opportunities for us, but also pose risks and challenges, including those listed below and those discussed in the section titled “Cautionary Note Regarding Forward-Looking Statements.”
+
+Ability to Attract and Retain Clients
+
+Our revenue growth is driven by our ability to attract, retain and expand the spend of SMB clients. To do so, we must deliver solutions that address the challenges currently faced by SMBs at a value-based price point that SMBs can afford.
+
+26
+
+Our strategy is to expand the use of our SaaS solutions by introducing our SaaS solutions to new SMB clients and our current Marketing Services clients, as well as by offering additional SaaS solutions to our existing SaaS client base. This strategy includes capitalizing on the growing demand among SMBs for solutions that support a remote working environment and virtual interactions. This strategy will require substantial sales and marketing capital, and poses a risk if our Marketing Services clients do not fully embrace the transition to SaaS offerings by purchasing additional SaaS offerings or if they exhibit higher churn rates.
+
+Investment in Growth
+
+We plan to continue to develop and grow a profitable SaaS segment to better help SMBs manage their businesses, while also maintaining strong profitability within our Marketing Services segment. As a result, our SaaS segment has been able to achieve profitable growth. We will continue to improve our SaaS solutions by analyzing user behavior, expanding features, improving usability, enhancing our onboarding services and customer support and making version updates available to SMBs. We believe these initiatives will ultimately drive revenue growth; however, such improvements will also lead to increased operating expenses.
+
+Ability to Grow Through Expansion and Acquisition
+
+Our growth prospects depend upon our ability to successfully develop new markets. We currently primarily serve the United States, Australia, New Zealand, Canada, and Europe SMB markets and plan to leverage strategic acquisitions or initiatives to expand our client base domestically and enter new markets internationally. Identifying proper targets and executing strategic acquisitions may take substantial time and capital. In July 2022, we began operations in Canada through our own sales force and a re-seller agreement. On April 3, 2023, we completed the acquisition of Yellow, a New Zealand marketing services company. Additionally, on October 31, 2024, we completed the acquisition of Keap, a prominent player in customer relationship management and marketing automation for SMBs. Keap primarily serves SMBs in North America, Australia, New Zealand and Europe. We believe that strategic acquisitions of SaaS and marketing services companies globally will expand our client base and provide additional opportunities to offer our SaaS solutions.
+
+Print Publication Cycle
+
+We recognize revenue for print services at a point in time upon delivery of the published PYP directories containing customer advertisements to the intended market. Our PYP directories typically have 12-month publication cycles in Australia, 18-month publication cycles in New Zealand, and 18 to 24-month publication cycles in the U.S., with the majority on a 24-month publication cycle. As a result, we typically record revenue for each publication only once every 12 to 24 months, depending on the publication cycle of the directory. The amount of revenue we recognize each quarter from our PYP directories is therefore directly related to the number of PYP directories we deliver to the intended market each quarter, which can vary based on the timing of the publication cycles.
+
+Key Business Metrics
+
+We review several operating metrics, including the following key business metrics to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections and make strategic decisions. We believe these key metrics are useful to investors both because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making, and they may be used by investors to help analyze the health of our business.
+
+27
+
+Total Clients
+
+We define total clients as the number of SMB accounts with one or more revenue-generating solutions in a particular period. For quarter- and year-ending periods, total clients from the last month in the period are reported. A single client may have separate revenue-generating accounts for multiple Marketing Services solutions or SaaS offerings, but we count these as one client when the accounts are managed by the same business entity or individual. Although infrequent, where a single organization has multiple subsidiaries, divisions, or segments, each business entity that is invoiced by us is treated as a separate client. We believe that the number of total clients is an indicator of our market penetration and potential future business opportunities. We view the mix between Marketing Services clients and SaaS clients as an indicator of potential future opportunities to offer our SaaS solutions to our Marketing Services clients.
+
+As of June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+Clients
+
+Marketing Services (1)
+
+159
+
+199
+
+SaaS (2)
+
+95
+
+106
+
+Total (3)
+
+215
+
+261
+
+(1) Clients that purchase one or more of our Marketing Services solutions are included in this metric. These clients may or may not also purchase subscriptions to our SaaS offerings.
+
+(2) Clients that purchase subscriptions to our SaaS offerings are included in this metric, as well as clients converted from our Digital marketing services solutions to our SaaS offerings. These clients may or may not also purchase one or more of our Marketing Services solutions.
+
+(3) Total clients is less than the sum of the Marketing Services and SaaS, since clients that purchase both Marketing Services and SaaS products are counted in each category, but only counted once in the Total.
+
+Marketing Services clients decreased by 40 thousand, or 20%, as of June 30, 2026 as compared to June 30, 2025. This decrease was related to the secular decline in the print media industry and significant competition in the digital media space, and from focusing on offering our SaaS solutions to our current Marketing Services clients, including by initiating conversions of our Digital marketing services products to SaaS products for clients.
+
+SaaS clients decreased by 11 thousand, or 10%, as of June 30, 2026 as compared to June 30, 2025, due to the Company's sales strategy shifting to focus on growing the spend of existing clients with less emphasis on new SaaS client acquisition.
+
+Total clients decreased by 46 thousand, or 18%, as of June 30, 2026 as compared to June 30, 2025. The primary driver of this decrease was the secular decline in the print media business combined with increasing competition in the digital media and SaaS space and the more recent focus on growing SaaS client spend and reduced emphasis on new SaaS client acquisition.
+
+Monthly ARPU
+
+We define monthly average revenue per unit (“ARPU”) as our total client billings for a particular month divided by the number of clients that have one or more revenue-generating solutions in that same month. For each reporting period, the weighted-average monthly ARPU from all the months in the period are reported. ARPU varies based on product mix, product volumes, and the amounts we charge for our services. We believe that ARPU is an important measure of client spend and growth in ARPU is an indicator of client satisfaction with our services.
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+ARPU (Monthly)
+
+Marketing Services
+
+$
+
+100
+
+$
+
+111
+
+$
+
+101
+
+$
+
+111
+
+SaaS
+
+$
+
+394
+
+$
+
+352
+
+$
+
+389
+
+$
+
+343
+
+28
+
+Monthly ARPU for Marketing Services decreased by $11, or 10%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025, and decreased by $10, or 9%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease in ARPU for these periods was related to reduced spend by clients on our print media offerings due to the secular decline of the industry, by the continuing shift of advertising spend to larger digital media audiences, and our strategic decision to accelerate the conversion of clients from Digital marketing services solutions to SaaS offerings.
+
+Monthly ARPU for SaaS increased by $42, or 12%, during the three months ended June 30, 2026 compared to the three months ended June 30, 2025, and increased by $46, or 13%, during the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The increase in ARPU for these periods was driven by the sale of additional SaaS offerings to existing SaaS clients, the growth of the average spend of new SaaS clients, and price increases implemented in the second quarter of 2026. This was partially offset by the conversion of clients from lower ARPU Digital marketing services solutions to our SaaS offerings at no additional cost to the client at the time of upgrade.
+
+Seasoned Net Revenue Retention for SaaS
+
+We believe that Seasoned Net Revenue Retention (“Seasoned NRR”) is an indicator of our ability to retain and expand revenue for established clients. Seasoned NRR is calculated by dividing the revenue of all clients that have had one or more SaaS offerings for at least two years by the same clients' revenue one year ago. For each reporting quarter, the weighted-average monthly NRR from all the months in the quarter are reported. The Seasoned NRR calculation excludes clients acquired in the acquisition of Keap.
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+Seasoned NRR
+
+90
+
+%
+
+102
+
+%
+
+Seasoned NRR decreased from 102% for the three months ended June 30, 2025 to 90% for the three months ended June 30, 2026. The decrease in Seasoned NRR resulted primarily from a decrease in revenue associated with downgrades and cancellations by clients of SaaS products held for at least two years outpacing the combination of Thryv up-selling clients who had a SaaS product for at least two years, and Thryv's conversion of Marketing Services products for clients who, at the time of conversion, already had at least one SaaS product for at least two years.
+
+29
+
+Key Components of Our Results of Operations
+
+Revenue
+
+We generate revenue from our two business segments: SaaS and Marketing Services. Our primary source of revenue in our SaaS segment is our SaaS solutions. Our primary sources of revenue in our Marketing Services segment are Print and Digital services.
+
+Cost of Services
+
+Cost of services consists of expenses related to delivering our solutions, such as publishing, printing, and distribution of our Print directories and fulfillment of our Digital and SaaS offerings, including traffic acquisition, managed hosting, and other third-party service providers. Additionally, Cost of services includes personnel-related expenses such as salaries, benefits, and stock-based compensation for our operations team, information technology expenses, non-capitalizable software and hardware purchases, and allocated overhead costs, which includes depreciation of fixed assets, and amortization associated with capitalized software and intangible assets.
+
+Operating Expenses
+
+Sales and Marketing
+
+Sales and marketing expense consists primarily of base salaries, stock-based compensation, sales commissions paid to our inside and outside sales force and other expenses incurred by personnel within the sales, marketing, sales training, and client care departments. Additionally, Sales and marketing expense includes advertising costs such as media, promotional material, branding, online advertising, information technology expenses and allocated overhead costs which includes depreciation of fixed assets, and amortization associated with capitalized software and intangible assets.
+
+Research and Development
+
+Research and development expense consists primarily of base salaries, stock-based compensation, and other expenses incurred by personnel within the product development and product management departments. Additionally, Research and development expense includes third-party contractor expenses and allocated overhead costs which includes depreciation of fixed assets and amortization associated with intangible assets.
+
+General and Administrative
+
+General and administrative expense primarily consists of salaries, benefits and stock-based compensation incurred by corporate management and administrative functions such as information technology, finance and accounting, legal, internal audit, human resources, billing and receivables, and management personnel. In addition, General and administrative expense includes bad debt expense, non-recurring charges, and other corporate expenses such as professional fees, operating taxes, and insurance. General and administrative expense also includes allocated overhead costs which includes depreciation of fixed assets, and amortization associated with capitalized software and intangible assets.
+
+Other Income (Expense)
+
+Other income (expense) consists of interest expense, net periodic pension (cost) benefit, and other (expense) income, which includes foreign currency-related income and expense.
+
+30
+
+Results of Operations
+
+Consolidated Results of Operations
+
+The following table presents certain consolidated financial data for each of the periods indicated:
+
+Three Months Ended June 30,
+
+2026
+
+2025
+
+(unaudited)
+
+(dollars in thousands)
+
+Amount
+
+% of Revenue
+
+Amount
+
+% of Revenue
+
+Revenue
+
+$
+
+150,728
+
+100
+
+%
+
+$
+
+210,470
+
+100
+
+%
+
+Cost of services
+
+56,168
+
+37.3
+
+%
+
+63,850
+
+30.3
+
+%
+
+Gross profit
+
+94,560
+
+62.7
+
+%
+
+146,620
+
+69.7
+
+%
+
+Operating expenses:
+
+Sales and marketing
+
+47,038
+
+31.2
+
+%
+
+56,063
+
+26.6
+
+%
+
+Research and development
+
+7,509
+
+5.0
+
+%
+
+8,661
+
+4.1
+
+%
+
+General and administrative
+
+41,156
+
+27.3
+
+%
+
+52,356
+
+24.9
+
+%
+
+Total operating expenses
+
+95,703
+
+63.5
+
+%
+
+117,080
+
+55.6
+
+%
+
+Operating (loss) income
+
+(1,143)
+
+0.8
+
+%
+
+29,540
+
+14.0
+
+%
+
+Other income (expense):
+
+Interest expense
+
+(7,518)
+
+5.0
+
+%
+
+(8,952)
+
+4.3
+
+%
+
+Net periodic pension cost
+
+(357)
+
+0.2
+
+%
+
+(778)
+
+0.4
+
+%
+
+Other (expense) income
+
+(446)
+
+0.3
+
+%
+
+2,557
+
+1.2
+
+%
+
+(Loss) income before income tax expense
+
+(9,464)
+
+6.3
+
+%
+
+22,367
+
+10.6
+
+%
+
+Income tax expense
+
+(7,196)
+
+4.8
+
+%
+
+(8,436)
+
+4.0
+
+%
+
+Net (loss) income
+
+$
+
+(16,660)
+
+11.1
+
+%
+
+$
+
+13,931
+
+6.6
+
+%
+
+Other financial data:
+
+Adjusted EBITDA (1)
+
+$
+
+20,825
+
+13.8
+
+%
+
+$
+
+51,232
+
+24.3
+
+%
+
+Adjusted Gross Profit (2)
+
+$
+
+99,177
+
+$
+
+150,658
+
+Adjusted Gross Margin (3)
+
+65.8
+
+%
+
+71.6
+
+%
+
+(1) See “Non-GAAP Financial Measures” for a definition of Adjusted EBITDA and a reconciliation to Net (loss) income, the most directly comparable measure presented in accordance with GAAP.
+
+(2) See “Non-GAAP Financial Measures” for a definition of Adjusted Gross Profit and a reconciliation to Gross profit, the most directly comparable measure presented in accordance with GAAP.
+
+(3) See “Non-GAAP Financial Measures” for a definition of Adjusted Gross Margin.
+
+31
+
+Comparison of the Three Months Ended June 30, 2026 to the Three Months Ended June 30, 2025
+
+Revenue
+
+The following table summarizes Revenue by business segment for the periods indicated:
+
+Three Months Ended June 30,
+
+Change
+
+2026
+
+2025
+
+Amount
+
+%
+
+(dollars in thousands)
+
+(unaudited)
+
+SaaS
+
+$
+
+114,480
+
+$
+
+115,005
+
+$
+
+(525)
+
+(0.5)
+
+%
+
+Marketing Services
+
+36,248
+
+95,465
+
+(59,217)
+
+(62.0)
+
+%
+
+Revenue
+
+$
+
+150,728
+
+$
+
+210,470
+
+$
+
+(59,742)
+
+(28.4)
+
+%
+
+Revenue decreased by $59.7 million, or 28.4%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The decrease was driven by a decrease in Marketing Services revenue of $59.2 million and a decrease in SaaS revenue of $0.5 million.
+
+SaaS Revenue
+
+SaaS revenue decreased by $0.5 million, or 0.5%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The decrease was primarily attributable to clients downgrading or cancelling their SaaS solutions, partially offset by new sales, client expansion, and the Company's conversion of Digital marketing services solutions for clients to its SaaS offerings. SaaS revenue decreased $12.9 million due to net revenue changes associated with products sold or converted prior to January 1, 2026. The Company's conversion of Digital marketing services solutions for clients to SaaS offerings during the first six months of 2026 increased SaaS revenue by $4.0 million, and new sales and client expansion during the first six months of 2026 increased SaaS revenue by $8.4 million.
+
+Marketing Services Revenue
+
+Marketing Services revenue decreased by $59.2 million, or 62.0%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025.
+
+Print revenue decreased by $42.1 million, or 62.8%, to $24.9 million for the three months ended June 30, 2026 compared to $67.0 million for the three months ended June 30, 2025. The decrease in Print revenue was primarily driven by the continued secular decline in U.S. and international industry demand for Print services, partially offset by the impact of publication timing differences of our U.S. directories as a result of our Print agreements having greater than 12-month terms.
+
+Print revenue is recognized upon delivery of the published directories. Individual published directories have different publication cycles, with a typical lifecycle of 24 months for U.S. directories in 2026. As a result of recognizing revenue upon delivery, we typically record revenue for each published U.S. directory only once every 24 months, which does not make comparing revenue year-over-year fully representative of actual demand trends due to timing of publication cycles. Due to publication timing differences, the Company recognized revenue for fewer published directories during the three months ended June 30, 2026 compared to the three months ended June 30, 2025.
+
+During the fourth quarter of 2024, we began to transition our U.S. directories from 18-month publication cycles to 24-month publication cycles. On a publication-by-publication basis, the increase in average publication cycles from 18 months to 24 months results in an average revenue increase of 10% per directory published during the three months ended June 30, 2026 compared to the last time the directory was published. However, when adjusting the published directory’s revenue on a monthly basis, that is the published directory’s revenue divided by the number of months of the published lifecycle, the average revenue per published directory decreased by 26% compared to the last time the directory was published. The net impact on revenue per published directory was a 16% decline for the directories published during the three months ended June 30, 2026. This net decline per directory was the result of the secular decline in industry demand for Print services.
+
+32
+
+Digital marketing services revenue decreased by $17.1 million, or 60.2%, to $11.3 million for the three months ended June 30, 2026 compared to $28.5 million for the three months ended June 30, 2025. The decrease was driven in large part by the Company’s strategic decision during the fourth quarter of 2023 to accelerate the conversion of Digital marketing services products for clients to SaaS offerings. For the three months ended June 30, 2026, Thryv's conversion of Digital marketing services products for clients to SaaS offerings prior to January 1, 2026 reduced Marketing Services revenue by $2.8 million, and Thryv's conversion of Digital marketing services products to SaaS products since January 1, 2026 reduced Marketing Services revenues by an additional $4.0 million. Digital marketing services revenue has further decreased due to a continued trending decline in the Company’s Marketing Services client base and significant competition in the consumer search and display space, particularly from large, well-capitalized businesses such as Google, Yelp and Facebook. For the three months ended June 30, 2026, this continued trending decline and significant competition resulted in an additional $10.3 million decrease in Digital marketing services revenue.
+
+Cost of Services
+
+Cost of services decreased by $7.7 million, or 12.0%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. This decrease was primarily driven by a corresponding decline in revenue and by strategic cost saving initiatives. Specifically, printing and distribution costs decreased by $6.6 million as a result of lower Print revenue, contract services expense decreased by $3.7 million, and employee-related expenses decreased by $1.5 million. These decreases were partially offset by an increase in traffic expenses of $3.2 million.
+
+Gross Profit
+
+Gross profit decreased by $52.1 million, or 35.5%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The decrease in Gross profit was primarily due to decreases in SaaS and Marketing Services revenue, partially offset by a decrease in Cost of services as a result of a decline in total revenue and strategic cost saving initiatives.
+
+Our gross margin decreased to 62.7% for the three months ended June 30, 2026 compared to 69.7% for the three months ended June 30, 2025. Gross margin from our SaaS segment decreased to 63.5% for the three months ended June 30, 2026, compared to 72.1% for the three months ended June 30, 2025. Gross margin from our Marketing Services segment decreased to 60.2% for the three months ended June 30, 2026, compared to 66.7% for the three months ended June 30, 2025. The decrease in SaaS gross margin was primarily due to the conversion of Digital marketing services solutions to our Thryv Platform throughout 2025 and 2026 that carry lower margins than our existing SaaS products and were converted by Thryv at no additional base cost at the time of conversion. Marketing Services gross margin decreased as a result of decreased demand for our Marketing Services solutions.
+
+Operating Expenses
+
+Sales and Marketing
+
+Sales and marketing expense decreased by $9.0 million, or 16.1%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The decrease was primarily attributable to a decrease in employee-related expenses of $4.6 million as a result of lower sales headcount, a decrease in sales commissions of $3.2 million, and a decrease in stock-based compensation expense of $1.0 million.
+
+Research and Development
+
+Research and development expense decreased by $1.2 million, or 13.4%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. This decrease was primarily attributable to a decrease in employee-related costs of $1.0 million.
+
+General and Administrative
+
+General and administrative expense decreased by $11.2 million, or 21.4%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. This decrease was primarily attributable to a decrease in contract services of $6.3 million, a decrease in employee-related expenses of $3.3 million, a decrease in bad debt expense of $1.6 million, and a decrease in stock-based compensation expense of $2.3 million. These decreases were partially offset by an increase in severance expenses of $3.1 million.
+
+33
+
+Other Income (Expense)
+
+Interest Expense
+
+Interest expense decreased by $1.4 million, or 16.0%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025, driven primarily by lower outstanding debt balances.
+
+Net Periodic Pension Cost
+
+Net periodic pension cost decreased by $0.4 million for the three months ended June 30, 2026. This decrease was primarily due to decrease in interest cost of $1.0 million, partially offset by a decrease in expected return on plan assets of $0.6 million.
+
+Other (Expense) Income
+
+Other expense for the three months ended June 30, 2026 was $0.4 million, compared to Other income of $2.6 million during the three months ended June 30, 2025. This net change of $3.0 million was primarily the result of a foreign-currency related loss of $0.4 million during the three months ended June 30, 2026, compared to a foreign-currency related gain of $2.6 million during the three months ended June 30, 2025.
+
+Income Tax Expense
+
+The Company's effective tax rate (“ETR”) was (76.0%) and 37.7% for the three months ended June 30, 2026 and 2025, respectively. The Company's ETR differs from the U.S. Federal statutory rate of 21% primarily due to permanent differences, including state taxes, non-deductible executive compensation, non-U.S. taxing jurisdictions, tax credits, minimum taxes, changes in valuation allowance due to expiring net operating losses, and the discrete impact of interest accrual on uncertain tax positions.
+
+Adjusted EBITDA
+
+Adjusted EBITDA decreased by $30.4 million, or 59.4%, for the three months ended June 30, 2026 compared to the three months ended June 30, 2025. The decrease in Adjusted EBITDA was primarily attributable to our Marketing Services segment as a result of lower Print revenue, with the decline in revenue outpacing associated cost reductions. Additionally, Adjusted EBITDA in our SaaS segment decreased as a result of the conversion of lower margin Digital marketing services products to SaaS.
+
+See “Non-GAAP Financial Measures” for a definition of Adjusted EBITDA and a reconciliation to Net (loss) income, the most directly comparable measure presented in accordance with GAAP.
+
+34
+
+Results of Operations
+
+Consolidated Results of Operations
+
+The following table presents certain consolidated financial data for each of the periods indicated:
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+(unaudited)
+
+(dollars in thousands)
+
+Amount
+
+% of Revenue
+
+Amount
+
+% of Revenue
+
+Revenue
+
+$
+
+318,412
+
+100
+
+%
+
+$
+
+391,841
+
+100
+
+%
+
+Cost of services
+
+114,596
+
+36.0
+
+%
+
+125,933
+
+32.1
+
+%
+
+Gross profit
+
+203,816
+
+64.0
+
+%
+
+265,908
+
+67.9
+
+%
+
+Operating expenses:
+
+Sales and marketing
+
+94,986
+
+29.8
+
+%
+
+115,905
+
+29.6
+
+%
+
+Research and development
+
+18,940
+
+5.9
+
+%
+
+18,870
+
+4.8
+
+%
+
+General and administrative
+
+86,975
+
+27.3
+
+%
+
+104,627
+
+26.7
+
+%
+
+Total operating expenses
+
+200,901
+
+63.1
+
+%
+
+239,402
+
+61.1
+
+%
+
+Operating (loss) income
+
+2,915
+
+0.9
+
+%
+
+26,506
+
+6.8
+
+%
+
+Other income (expense):
+
+Interest expense
+
+(14,125)
+
+4.4
+
+%
+
+(18,025)
+
+4.6
+
+%
+
+Net periodic pension cost
+
+(702)
+
+0.2
+
+%
+
+(1,546)
+
+0.4
+
+%
+
+Other income
+
+987
+
+0.3
+
+%
+
+2,949
+
+0.8
+
+%
+
+(Loss) income before income tax expense
+
+(10,925)
+
+3.4
+
+%
+
+9,884
+
+2.5
+
+%
+
+Income tax expense
+
+(1,193)
+
+0.4
+
+%
+
+(5,571)
+
+1.4
+
+%
+
+Net (loss) income
+
+$
+
+(12,118)
+
+3.8
+
+%
+
+$
+
+4,313
+
+1.1
+
+%
+
+Other financial data:
+
+Adjusted EBITDA (1)
+
+$
+
+44,889
+
+14.1
+
+%
+
+$
+
+72,133
+
+18.4
+
+%
+
+Adjusted Gross Profit (2)
+
+$
+
+212,085
+
+$
+
+274,324
+
+Adjusted Gross Margin (3)
+
+66.6
+
+%
+
+70.0
+
+%
+
+(1) See “Non-GAAP Financial Measures” for a definition of Adjusted EBITDA and a reconciliation to Net (loss) income, the most directly comparable measure presented in accordance with GAAP.
+
+(2) See “Non-GAAP Financial Measures” for a definition of Adjusted Gross Profit and a reconciliation to Gross profit, the most directly comparable measure presented in accordance with GAAP.
+
+(3) See “Non-GAAP Financial Measures” for a definition of Adjusted Gross Margin.
+
+35
+
+Comparison of the Six Months Ended June 30, 2026 to the Six Months Ended June 30, 2025
+
+Revenue
+
+The following table summarizes Revenue by business segment for the periods indicated:
+
+Six Months Ended June 30,
+
+Change
+
+2026
+
+2025
+
+Amount
+
+%
+
+(dollars in thousands)
+
+(unaudited)
+
+SaaS
+
+$
+
+231,218
+
+$
+
+226,134
+
+$
+
+5,084
+
+2.2
+
+%
+
+Marketing Services
+
+87,194
+
+165,707
+
+(78,513)
+
+(47.4)
+
+%
+
+Revenue
+
+$
+
+318,412
+
+$
+
+391,841
+
+$
+
+(73,429)
+
+(18.7)
+
+%
+
+Revenue decreased by $73.4 million, or 18.7%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease was driven by a decrease in Marketing Services revenue of $78.5 million partially offset by an increase in SaaS revenue of $5.1 million.
+
+SaaS Revenue
+
+SaaS revenue increased by $5.1 million, or 2.2%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The increase was primarily attributable to new sales, client expansion, and the Company’s conversion of Digital marketing services solutions for clients to its SaaS offerings. Of the $5.1 million SaaS revenue increase, the Company's conversion of Digital marketing services solutions for clients to SaaS offerings during the first six months of 2026 contributed $4.5 million, and new sales and client expansion during the first six months of 2026 contributed $11.3 million. These increases were partially offset by decreases of $10.7 million due to net revenue changes associated with products sold or converted prior to January 1, 2026.
+
+Marketing Services Revenue
+
+Marketing Services revenue decreased by $78.5 million, or 47.4%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025.
+
+Print revenue decreased by $46.2 million, or 44.1%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. This decrease in Print revenue was primarily driven by the impact of publication timing differences, as a result of our Print agreements having greater than 12-month terms, as well as the continued secular decline in U.S. and international industry demand for Print services.
+
+Print revenue is recognized upon delivery of the published directories. Individual published directories have different publication cycles, with a typical lifecycle of 24 months for U.S. directories in 2026. During the fourth quarter of 2024, we began to transition from 18-month publication cycles to 24-month publication cycles for U.S. directories. As a result of recognizing revenue upon delivery, we typically record revenue for each published U.S. directory only once every 24 months, which does not make comparing revenue year-over-year fully representative of actual demand trends due to timing of publication cycles. Due to publication timing differences, the Company recognized revenue for fewer published directories during the six months ended June 30, 2026 compared to the six months ended June 30, 2025.
+
+On a publication-by-publication basis, the increase in average publication cycles from 18 months to 24 months results in an average revenue increase of 18% per published directory compared to the last time the directory was published. However, when adjusting the published directory’s revenue on a monthly basis, that is the published directory’s revenue divided by the number of months of the published lifecycle, the average revenue per published directory decreased by 32% compared to the last time the directory was published. The net impact on revenue per published directory was a 14% decline for the directories published during the six months ended June 30, 2026. This net decline per directory was the result of the secular decline in industry demand for Print services.
+
+36
+
+Digital marketing services revenue decreased by $32.3 million, or 53.0%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease was driven in large part by the Company’s strategic decision during the fourth quarter of 2023 to accelerate the conversion of Digital marketing services products for its clients to SaaS offerings. For the six months ended June 30, 2026, Thryv's conversion of Digital marketing services products for clients to SaaS offerings prior to January 1, 2026 reduced Marketing Services revenue by $6.4 million, and Thryv's conversion of Digital marketing services products for clients to SaaS products since January 1, 2026 reduced Marketing Services revenue by an additional $4.5 million. Digital marketing services revenue has further decreased due to a continued trending decline in the Company's Marketing Services client base and significant competition in the consumer search and display space, particularly from large, well-capitalized businesses such as Google, Yelp, and Facebook. For the six months ended June 30, 2026, this continued trending decline and significant competition resulted in an additional $21.4 million decrease in Digital marketing services revenue.
+
+Cost of Services
+
+Cost of services decreased by $11.3 million, or 9.0%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. This decrease was primarily driven by the corresponding decline in revenue and by strategic cost saving initiatives. Specifically, we reduced printing and distribution costs by $7.4 million, employee-related expenses by $3.1 million and contract services expense by $7.6 million. These decreases were partially offset by an increase in traffic expenses of $6.1 million.
+
+Gross Profit
+
+Gross profit decreased by $62.1 million, or 23.4%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease in Gross profit was primarily due to a decrease in Marketing Services revenue, partially offset by an increase in SaaS revenue and a decrease in Cost of services as a result of a decline in total revenue and strategic cost saving initiatives.
+
+Gross margin decreased by 390 basis points to 64.0% for the six months ended June 30, 2026 compared to 67.9% for the six months ended June 30, 2025. Gross margin from our SaaS segment decreased to 64.2% for the six months ended June 30, 2026 compared to 71.5% for the six months ended June 30, 2025. Gross margin from our Marketing Services segment increased to 63.6% for the six months ended June 30, 2026 compared to 62.9% for the six months ended June 30, 2025. The decrease in SaaS gross margin and increase in Marketing Services gross margin was primarily due to the conversion of Digital marketing services solutions to our Thryv Platform throughout 2025 and 2026 that carry lower margins than our existing SaaS products and were converted by Thryv at no additional base cost to the customer at the time of conversion.
+
+Operating Expenses
+
+Sales and Marketing
+
+Sales and marketing expense decreased by $20.9 million, or 18.0%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease was primarily attributable to a decrease in employee-related expenses of $7.8 million as a result of lower sales headcount, a decrease in sales commissions of $7.6 million, and a decrease in stock-based compensation of $2.2 million.
+
+Research and Development
+
+Research and development expense increased by $0.1 million, or 0.4%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025.
+
+General and Administrative
+
+General and administrative expense decreased by $17.7 million, or 16.9%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease was primarily due to a decrease in contract services of $6.1 million, a decrease in employee-related expenses of $5.5 million, a decrease in bad debt expense of $2.0 million, a decrease in software expense of $1.7 million, and a decrease in stock-based compensation expense of $4.2 million. These decreases were partially offset by an increase in severance expense of $3.5 million.
+
+37
+
+Other Income (Expense)
+
+Interest Expense
+
+Interest expense decreased by $3.9 million, or 21.6%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025, driven primarily by lower outstanding debt balances.
+
+Net Periodic Pension Cost
+
+Net periodic pension cost decreased by $0.8 million for the six months ended June 30, 2026. This decrease was primarily due to a decrease in interest cost of $2.0 million, partially offset by a lower return on plan assets of $1.2 million.
+
+Other Income
+
+Other income decreased by $2.0 million for the six months ended June 30, 2026, driven primarily due to lower foreign-currency related gains.
+
+Income Tax Expense
+
+The Company's ETR was (10.9%) and 56.4% for the six months ended June 30, 2026 and 2025, respectively. The Company's ETR differs from the U.S. Federal statutory rate of 21% primarily due to permanent differences, including state taxes, non-deductible executive compensation, non-U.S. taxing jurisdictions, tax credits, minimum taxes, change in valuation allowance due to expiring net operating losses, and the discrete impact of interest accrual on uncertain tax positions.
+
+Adjusted EBITDA
+
+Adjusted EBITDA decreased by $27.2 million, or 37.8%, for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The decrease in Adjusted EBITDA was primarily attributable to our Marketing Services segment as a result of lower Print revenue. Additionally, Adjusted EBITDA in our SaaS segment decreased as a result of the conversion of lower margin Digital marketing services products to SaaS products.
+
+See “Non-GAAP Financial Measures” for a definition of Adjusted EBITDA and a reconciliation to Net (loss) income, the most directly comparable measure presented in accordance with GAAP.
+
+38
+
+Non-GAAP Financial Measures
+
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States (“GAAP”). We also present Adjusted EBITDA, Adjusted Gross Profit, and Adjusted Gross Margin, as defined below, as non-GAAP financial measures in this Quarterly Report.
+
+We have included Adjusted EBITDA, Adjusted Gross Profit, and Adjusted Gross Margin in this report because management believes they provide useful information to investors in gaining an overall understanding of our current financial performance and provide consistency and comparability with past financial performance. Specifically, we believe Adjusted EBITDA provides useful information to management and investors by excluding certain non-operating items that we believe are not indicative of our core operating results. In addition, Adjusted EBITDA, Adjusted Gross Profit, and Adjusted Gross Margin are used by management for budgeting and forecasting as well as measuring the Company’s performance. We believe Adjusted EBITDA, Adjusted Gross Profit, and Adjusted Gross Margin provide investors with the financial measures that closely align with our internal processes.
+
+We define Adjusted EBITDA (“Adjusted EBITDA”) as Net income (loss) plus Interest expense, Income tax expense (benefit), Depreciation and amortization expense, Restructuring and integration expenses, Stock-based compensation expense, and non-operating expenses, such as Net periodic pension cost and certain unusual and non-recurring charges that might have been incurred. Adjusted EBITDA should not be considered as an alternative to Net income (loss) as a performance measure. We define Adjusted Gross Profit (“Adjusted Gross Profit”) and Adjusted Gross Margin (“Adjusted Gross Margin”) as Gross profit and Gross margin, respectively, adjusted to exclude the impact of Depreciation and amortization expense and Stock-based compensation expense.
+
+Non-GAAP financial information has limitations as an analytical tool and is presented for supplemental informational purposes only. Such information should not be considered a substitute for financial information presented in accordance with GAAP and may be different from similarly-titled non-GAAP measures used by other companies.
+
+The following is a reconciliation of Adjusted EBITDA to its most directly comparable GAAP measure, Net (loss) income:
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+(in thousands)
+
+2026
+
+2025
+
+2026
+
+2025
+
+Reconciliation of Adjusted EBITDA
+
+Net (loss) income
+
+$
+
+(16,660)
+
+$
+
+13,931
+
+$
+
+(12,118)
+
+$
+
+4,313
+
+Interest expense
+
+7,518
+
+8,952
+
+14,125
+
+18,025
+
+Depreciation and amortization expense
+
+10,894
+
+10,191
+
+20,060
+
+21,707
+
+Stock-based compensation expense
+
+2,787
+
+6,008
+
+7,537
+
+13,745
+
+Restructuring and integration expenses (1)
+
+8,288
+
+5,493
+
+14,378
+
+10,175
+
+Income tax expense
+
+7,196
+
+8,436
+
+1,193
+
+5,571
+
+Net periodic pension cost (2)
+
+357
+
+778
+
+702
+
+1,546
+
+Other (3)
+
+445
+
+(2,557)
+
+(988)
+
+(2,949)
+
+Adjusted EBITDA
+
+$
+
+20,825
+
+$
+
+51,232
+
+$
+
+44,889
+
+$
+
+72,133
+
+(1)See the table below for detail of Restructuring and integration expenses for the three and six months ended June 30, 2026 and 2025.
+
+(2)Net periodic pension cost is from our non-contributory defined benefit pension plans that are currently frozen and incur no additional service costs.
+
+(3)Other primarily includes foreign exchange-related expense (income).
+
+39
+
+The following is a reconciliation of Restructuring and integration expenses that are included in the Adjusted EBITDA to Net (loss) income reconciliation above:
+
+(in thousands)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+Reconciliation of Restructuring and integration expenses
+
+2026
+
+2025
+
+2026
+
+2025
+
+Abandoned facility costs (a)
+
+$
+
+377
+
+$
+
+1,128
+
+$
+
+761
+
+$
+
+2,264
+
+Severance charges (b)
+
+4,533
+
+1,431
+
+6,809
+
+3,335
+
+Post-acquisition and integration expenses (c)
+
+2,377
+
+1,458
+
+4,393
+
+2,494
+
+Tax, accounting, and legal fees (d)
+
+1,001
+
+1,476
+
+2,415
+
+2,082
+
+Total Restructuring and integration expenses
+
+$
+
+8,288
+
+$
+
+5,493
+
+$
+
+14,378
+
+$
+
+10,175
+
+(a)Represents expenses related to maintenance, utilities, and general upkeep at the Company’s leased buildings. During the COVID-19 pandemic, the Company decided to operate in a remote-first working environment. Because we did not terminate existing lease agreements at any of our facilities, we continue to incur these costs until the lease agreements end. The most significant lease agreements during the periods presented were for our prior corporate headquarters, which ended on December 31, 2025 and was not renewed, and the Keap headquarters, which ends on December 31, 2026 and will not be renewed.
+
+(b)We incur severance charges related to certain reduction in force actions taken by our management which are designed to streamline the Company’s operations and drive lower operating expenses. The severance charges incurred during the three and six months ended June 30, 2026 and 2025 were related to our legacy Marketing Services employees as a result of our shift from Marketing Services activities, as well as activities to right-size our workforce following the acquisition of Keap. Additionally, the three and six months ended June 30, 2026 includes severance related to our restructuring initiative as described in Note 11, Restructuring, to our consolidated financial statements included in Part I, Item 1 in this Quarterly Report.
+
+(c)We incur professional services, system integration, and other fees related to each of our acquisitions and other potential transactions. Such costs vary in nature and amount due to factors specific to each transaction and may create a lack of comparability between periods.
+
+(d)These costs consist of legal expenses related to legal cases inherited from acquisitions or resulting from integration efforts, as well as accounting and tax fees related to acquisitions.
+
+40
+
+The following is a reconciliation of Adjusted Gross Profit and Adjusted Gross Margin to their most directly comparable GAAP measures, Gross profit and Gross margin:
+
+Three Months Ended June 30, 2026
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Reconciliation of Adjusted Gross Profit
+
+Gross profit
+
+$
+
+72,745
+
+$
+
+21,815
+
+$
+
+94,560
+
+Plus:
+
+Depreciation and amortization expense
+
+3,449
+
+1,099
+
+4,548
+
+Stock-based compensation expense
+
+51
+
+18
+
+69
+
+Adjusted Gross Profit
+
+$
+
+76,245
+
+$
+
+22,932
+
+$
+
+99,177
+
+Gross margin
+
+63.5
+
+%
+
+60.2
+
+%
+
+62.7
+
+%
+
+Adjusted Gross Margin
+
+66.6
+
+%
+
+63.3
+
+%
+
+65.8
+
+%
+
+Three Months Ended June 30, 2025
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Reconciliation of Adjusted Gross Profit
+
+Gross profit
+
+$
+
+82,911
+
+$
+
+63,709
+
+$
+
+146,620
+
+Plus:
+
+Depreciation and amortization expense
+
+2,118
+
+1,754
+
+3,872
+
+Stock-based compensation expense
+
+93
+
+73
+
+166
+
+Adjusted Gross Profit
+
+$
+
+85,122
+
+$
+
+65,536
+
+$
+
+150,658
+
+Gross margin
+
+72.1
+
+%
+
+66.7
+
+%
+
+69.7
+
+%
+
+Adjusted Gross Margin
+
+74.0
+
+%
+
+68.6
+
+%
+
+71.6
+
+%
+
+Six Months Ended June 30, 2026
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Reconciliation of Adjusted Gross Profit
+
+Gross profit
+
+$
+
+148,377
+
+$
+
+55,439
+
+$
+
+203,816
+
+Plus:
+
+Depreciation and amortization expense
+
+5,946
+
+2,186
+
+8,132
+
+Stock-based compensation expense
+
+98
+
+39
+
+137
+
+Adjusted Gross Profit
+
+$
+
+154,421
+
+$
+
+57,664
+
+$
+
+212,085
+
+Gross margin
+
+64.2
+
+%
+
+63.6
+
+%
+
+64.0
+
+%
+
+Adjusted Gross Margin
+
+66.8
+
+%
+
+66.1
+
+%
+
+66.6
+
+%
+
+41
+
+Six Months Ended June 30, 2025
+
+(in thousands)
+
+SaaS
+
+Marketing Services
+
+Total
+
+Reconciliation of Adjusted Gross Profit
+
+Gross profit
+
+$
+
+161,681
+
+$
+
+104,227
+
+$
+
+265,908
+
+Plus:
+
+Depreciation and amortization expense
+
+4,716
+
+3,381
+
+8,097
+
+Stock-based compensation expense
+
+177
+
+142
+
+319
+
+Adjusted Gross Profit
+
+$
+
+166,574
+
+$
+
+107,750
+
+$
+
+274,324
+
+Gross margin
+
+71.5
+
+%
+
+62.9
+
+%
+
+67.9
+
+%
+
+Adjusted Gross Margin
+
+73.7
+
+%
+
+65.0
+
+%
+
+70.0
+
+%
+
+Liquidity and Capital Resources
+
+Thryv Holdings, Inc. is a holding company that does not conduct any business operations of its own. We derive cash flows from cash transfers and other distributions from our operating subsidiary, Thryv, Inc., who in turn generates cash flows from its own operations and operations of its subsidiaries, and has cash and cash equivalents on hand, funds provided under the Term Loan (as defined below) and funds available under the ABL Facility (as defined below). The agreements governing our debt may restrict the ability of our subsidiaries to make loans or otherwise transfer assets to us. Further, our subsidiaries are permitted under the terms of our senior credit facilities and other indebtedness to incur additional indebtedness that may restrict or prohibit the making of distributions or the making of loans by such subsidiaries to us. Our and our subsidiaries’ ability to meet our debt service requirements is dependent on our ability to generate sufficient cash flows from operations.
+
+We believe that expected cash flows from operations, available cash and cash equivalents, and funds available under our ABL Facility will be sufficient to meet our liquidity requirements, such as working capital requirements for our operations, business development and investment activities, and debt payment obligations, for at least the next 12 months. Any projections of future earnings and cash flows are subject to substantial uncertainty. Our future success and capital adequacy will depend on, among other things, our ability to achieve anticipated levels of revenues and cash flows from operations and our ability to address our annual cash obligations and reduce our outstanding debt, all of which are subject to general economic, financial, competitive, and other factors beyond our control. We continue to monitor our capital requirements to ensure our needs are in line with available capital resources.
+
+For a discussion on contingent obligations, see Note 13, Contingent Liabilities, to our consolidated financial statements included in Part I, Item 1 in this Quarterly Report.
+
+Material Cash Requirements
+
+We have various payment obligations as part of our ordinary course of business. Our material cash requirements include: (1) lease obligations; (2) debt repayments (see Note 7, Debt Obligations); (3) employee wages, benefits, and incentives; (4) cash severance payments (see Note 11, Restructuring); and (5) taxes due to governmental authorities (see Note 12, Income Taxes). The expected timing of payments is estimated based on current information. In addition, we may be subject to additional material cash requirements that are contingent upon the occurrence of certain events, e.g., legal contingencies, uncertain tax positions (see Note 13, Contingent Liabilities), pensions (see Note 8, Pensions) and other matters.
+
+For the remainder of the year ending December 31, 2026, we expect total capital expenditures to be approximately $18.0 million. Our capital expenditure budget is an estimate and is subject to change.
+
+42
+
+Sources and Uses of Cash
+
+The following table summarizes our cash flows from operating, investing and financing activities for the periods indicated:
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+(in thousands)
+
+(unaudited)
+
+Cash flows provided by (used in):
+
+Operating activities
+
+$
+
+27,354
+
+$
+
+19,075
+
+$
+
+8,279
+
+Investing activities
+
+(16,121)
+
+(14,998)
+
+(1,123)
+
+Financing activities
+
+(12,984)
+
+(10,060)
+
+(2,924)
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+
+61
+
+592
+
+(531)
+
+Decrease in cash, cash equivalents and restricted cash
+
+$
+
+(1,690)
+
+$
+
+(5,391)
+
+$
+
+3,701
+
+Cash Flows from Operating Activities
+
+Net cash from operating activities increased by $8.3 million for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. The increase was primarily driven by positive working capital movements, most notably in accounts receivable, prepaid expenses and other assets, and other liabilities. Additionally, the Company received a $4.0 million income tax refund during the six months ended June 30, 2026, compared to a $3.4 million income tax payment during the six months ended June 30, 2025, representing a $7.3 million favorable change in cash taxes. Additionally, cash paid for interest decreased from $16.5 million in 2025 to $13.4 million in 2026, a $3.0 million reduction driven by lower outstanding debt balances.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities increased by $1.1 million for the six months ended June 30, 2026 compared to the six months ended June 30, 2025 as a result of more additions to fixed assets and capitalized software.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities increased by $2.9 million for the six months ended June 30, 2026 compared to the six months ended June 30, 2025. During the six months ended June 30, 2026, the Company made net payments on the ABL Facility of $11.1 million, compared to net proceeds generated by the ABL Facility of $16.0 million during the six months ended June 30, 2025, resulting in a $27.1 million net increase in financing outflows. Additionally, the Company made $0.4 million in principal payments on finance lease obligations during the six months ended June 30, 2026, while no comparable payments were made during the six months ended June 30, 2025. These increases in net cash outflows were partially offset by the reduction in cash outflows related to the Term Loan, as the Company made no payments on the Term Loan during the six months ended June 30, 2026, compared to $26.3 million in Term Loan payments during the six months ended June 30, 2025.
+
+Debt
+
+Term Loan
+
+On May 1, 2024, the Company entered into a new Term Loan Credit Agreement (the “Term Loan”), the proceeds of which were used to refinance and pay off in full the Company’s previous term loan facility (the “Prior Term Loan”) and to pay fees and expenses related to the refinancing.
+
+The Term Loan established a senior secured term loan facility (the “Term Loan Facility”) in an aggregate principal amount equal to $350.0 million, of which 40.0% was held by a related party who was an equity holder of the Company as of May 1, 2024. The Company defines a related party as any shareholder owning more than 5% of the Company's voting securities. As of June 30, 2026, 40.0% of the Term Loan was held by a related party who was an equity holder of the Company as of that date.
+
+43
+
+The Term Loan Facility matures on May 1, 2029 and borrowings under the Term Loan Facility bear interest at a fluctuating rate per annum equal to, at the Company’s option, the secured overnight financing rate (“SOFR”) or base rate, in each case, plus an applicable margin per annum equal to (i) 6.75% (for SOFR loans) and (ii) 5.75% (for base rate loans). The Term Loan Facility requires mandatory amortization payments, paid quarterly, equal to (i) $52.5 million per year for the first two years following the closing date of the Term Loan, and (ii) $35.0 million per year thereafter. The Company's mandatory amortization payments for the next 12 months total $35.0 million.
+
+ABL Facility
+
+On May 1, 2024, the Company entered into a new Credit Agreement (the “ABL Credit Agreement”), which established a new asset-based revolving loan facility (the “ABL Facility”). The ABL Facility refinanced the Company’s previous asset-based revolving loan facility (the “Prior ABL Facility”). Proceeds of the ABL Facility may be used by the Company for ongoing general corporate purposes and working capital.
+
+The ABL Facility matures on May 1, 2028 and borrowings under the ABL Facility bear interest at a fluctuating rate per annum equal to, at the Company’s option, SOFR or base rate, in each case, plus an applicable margin per annum, depending on the average excess availability under the ABL Facility, equal to (i) 2.50% to 2.75% (for SOFR loans) and (ii) 1.50% to 1.75% (for base rate loans). The fee for undrawn commitments under the ABL Facility is equal to 0.375% per annum.
+
+The amount of borrowings permitted at any time under the ABL Facility is limited to a periodic borrowing base valuation of, among other things, our accounts receivables. In addition, we are required to maintain a minimum “Excess Availability” (as defined in the ABL Credit Agreement) of at least $8.5 million at all times. As of June 30, 2026, the Company had Excess Availability under its borrowing base of $23.0 million. After the minimum Excess Availability requirement, the Company had available borrowing capacity of approximately $14.5 million.
+
+We maintain debt levels that we consider appropriate after evaluating a number of factors, including cash requirements for ongoing operations, investment and financing plans (including acquisitions and share repurchase activities), and overall cost of capital. Per the terms of the Term Loan Facility, payments of the Term Loan balance are determined by the Company's Excess Cash Flow (as defined in the Term Loan Facility). We are in compliance with all covenants under the Term Loan and ABL Facility as of June 30, 2026. We had total recorded debt outstanding of $243.7 million (net of $6.6 million of unamortized original issue discount (“OID”) and debt issuance costs) at June 30, 2026, which was comprised of amounts outstanding under the Term Loan of $236.3 million and ABL Facility of $14.1 million.
+
+Share Repurchase Program
+
+On April 30, 2024, the Board authorized a new share repurchase program (the “Share Repurchase Program”), under which the Company may repurchase up to $40.0 million in shares of common stock through April 30, 2029. The repurchase program is subject to market conditions, the periodic capital needs of the Company’s operating activities, and the continued satisfaction of all covenants under the Company’s Term Loan and ABL Credit Agreement. The Share Repurchase Program does not obligate the Company to repurchase shares and may be suspended, terminated, or modified at any time.
+
+As of June 30, 2026, the Company had repurchased approximately $5.5 million, or 404,495 shares, of the Company's outstanding common stock under the Share Repurchase Program and $34.5 million remains available for share repurchases. The Company's ability to repurchase shares in the future is limited by certain conditions set forth in the ABL Credit Agreement.
+
+Critical Accounting Policies and Estimates
+
+Our critical accounting policies and estimates have not changed from those described in our 2025 Form 10-K, under “Management's Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies and Estimates.”
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+Information required by this Item is not applicable as we are electing scaled disclosure requirements available to smaller reporting companies with respect to this Item.
+
+44
+
+Item 4. Controls and Procedures
+
+Disclosure Controls and Procedures
+
+Our management, with the participation of our principal executive officer and principal financial officer, evaluated, as of the end of the period covered by this Quarterly Report on Form 10-Q, the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Based on that evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of June 30, 2026.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting identified in management’s evaluation pursuant to Rules 13a-15(d) or 15d-15(d) of the Exchange Act during the quarter ended June 30, 2026 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+Information in response to this item is provided in “Part I - Item 1. Note 13, Contingent Liabilities” and is incorporated by reference into Part II of this Quarterly Report on Form 10-Q.
+
+Item 1A. Risk Factors
+
+There have been no material changes to the risk factors set forth in our Annual Report on Form 10-K for the year ended December 31, 2025, as supplemented by the disclosure in Part II, Item 1A. in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2026.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+None.
+
+Item 3. Defaults Upon Senior Securities
+
+None.
+
+Item 4. Mine Safety Disclosures
+
+Not Applicable.
+
+Item 5. Other Information
+
+None of our officers or directors adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K) during the three months ended June 30, 2026.
+
+45
+
+Item 6. Exhibits
+
+The following documents are filed as an exhibit to this Quarterly Report on Form 10-Q:
+
+Exhibit No.
+
+Description
+
+3.1
+
+Fourth Amended and Restated Certificate of Incorporation of Thryv Holdings, Inc. (incorporated by reference to Exhibit 4.1 to the Company's Registration Statement on Form S-8 filed on September 24, 2020)
+
+3.2
+
+Second Amended and Restated Bylaws of Thryv Holdings, Inc. (incorporated by reference to Exhibit 4.2 to the Company’s Registration Statement on Form S-8 filed on September 24, 2020)
+
+3.3
+
+Amendment to the Fourth Amended and Restated Certificate of Incorporation of Thryv Holdings, Inc. (incorporated by reference to Exhibit 3.3 to the Company's Form 10-Q, filed on July 30, 2025)
+
+31.1*
+
+Certification of Principal Executive Officer pursuant to Exchange Act Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2*
+
+Certification of Principal Financial Officer pursuant to Exchange Act Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1**
+
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2**
+
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+101.INS*
+
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+101.SCH*
+
+Inline XBRL Taxonomy Extension Schema Document.
+
+101.CAL*
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+
+101.LAB*
+
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+101.PRE*
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+101.DEF*
+
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+
+104
+
+The cover page from the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, formatted in Inline XBRL (included in Exhibits 101).
+
+*Filed herewith
+
+** Furnished herewith
+
+46
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+THRYV HOLDINGS, INC.
+
+August 4, 2026
+
+By:
+
+/s/ Joseph A. Walsh
+
+Joseph A. Walsh
+
+Chairman of the Board and Chief Executive Officer
+
+(Principal Executive Officer)
+
+August 4, 2026
+
+By:
+
+/s/ Paul D. Rouse
+
+Paul D. Rouse
+
+Chief Financial Officer, Executive Vice President and Treasurer
+
+(Principal Financial Officer)
+
+47

@@ -1,0 +1,94 @@
+CSR AI Chat Answering | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+AI Team
+
+CSR AI
+
+CSR AI Chat Answering
+
+CSR AI Chat Answering
+
+July 13, 2026
+
+Table of contents
+
+Overview
+
+CSR AI Chat Answering is a new feature designed to help save time by letting CSR AI independently and efficiently handle customer communications of incoming website chats on your website.
+
+⚙️ Feature Requirement: To have CSR AI Chat, you should have the website chat bubble on your website. Click here to learn more.
+
+What Does CSR AI Chat Answering Do?
+
+Handles Website Chat Conversations: CSR AI responds to customer inquiries in real time, saving you time and ensuring consistent, high-quality service.
+
+Works with your CSR AI settings: Define how you want CSR AI to handle your customers in CSR AI settings (learn more here).
+
+How it works
+
+Enablement: Go to Team → AI Team → CSR AI in your Housecall Pro account to enable CSR AI Chat.
+
+📌 Note: You must have a website chat bubble on your website. Learn more here.
+
+Customer Initiates Chat: When a customer starts a chat on your website chat widget, CSR AI responds and manages the conversation.
+
+Escalation: If the customer requests a human, the chat is escalated, and you are notified.
+
+Outcome Visibility: After the chat, you can see a summary of the conversation directly in your inbox.
+
+What’s New!
+
+Support for booking jobs, managing appointments, and more channels (SMS, email, or third-party integrations).
+
+Settings & Customization: Pros will be able to enable/disable, as well as configure CSR AI skills and knowledge base directly in their settings.
+
+FAQs
+
+Can I turn this feature on or off myself?
+
+Yes, go to your CSR AI settings to turn CSR AI Chat on or off.
+
+Can the AI book jobs or send estimates?
+
+Yes, now CSR AI Chat can book jobs, manage existing appointments, use custom scripts, and more.
+
+What if a customer wants to talk to a real person?
+
+The chat can be escalated to the org POC at any time, and they will be notified to join the chat and help the customer.
+
+Where can I see the chat outcomes?
+
+After the chat is completed or escalated, you’ll see a summary and notes in your inbox.
+
+Need help or have questions?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746.
+
+Related Articles
+
+AI Team Overview
+
+CSR AI Overview
+
+CSR AI Best Practices and FAQs
+
+Getting Started with CSR AI
+
+CSR AI Text Answering (In Alpha)
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

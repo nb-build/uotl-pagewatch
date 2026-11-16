@@ -1,0 +1,338 @@
+September 2026 Update
+
+Introducing ServiceM8 15
+More Connected than Ever.
+
+See the Launch ↓
+
+ServiceM8 2026 Launch
+See What’s New.
+
+Activate ServiceM8 15
+Scroll to See What’s New.
+
+Office Agent
+
+Your ServiceM8 AI assistant. Chat to them while you work, or schedule routine tasks for them to handle, so you don’t have to.
+Learn More ↗
+
+Office Agent, in the App
+
+Talk through the job in front of you with Office Agent on iPhone or Android, and review prepared actions directly in the app.
+Learn More ↗
+
+New Staff Schedule
+
+An all-new scheduling experience, with more flexibility than ever to help you manage your schedule with ease.
+Learn More ↗
+
+OnlineTablet
+
+Day View
+See your team’s bookings across the day.
+
+DayWeek by dayWeekMonthBooking cardsOverlap handlingStaff visibility & orderBooking allocationsStaff filteringWeekends & weatherCapacity & jump to dayStaff & multi-week viewsBooking shortcutsUndo & redoShow on schedule
+
+ServiceM8 for Android
+
+The all-new, full-featured ServiceM8 app for Android.
+Learn More ↗
+
+Screenshot coming soon.
+
+Office Agent
+Get Office Agent’s help while you work, and review prepared actions on Android.
+
+New Booking Experience
+
+Find a time that works for your team and your client, in one clear booking window.
+Learn More ↗
+
+See available time
+See bookable gaps, existing bookings and travel time together on a weekly canvas.
+
+Hide Completed Tasks
+
+Hide completed tasks to focus on the tasks still to do.
+Learn More ↗
+
+Clearer Client Job History
+
+See clearer job descriptions and status indicators when reviewing a client’s job history.
+Learn More ↗
+
+Preview Quote/Invoice Without Sending
+
+Review a quote or invoice PDF before sending it to the customer.
+
+Search Recurring Jobs by Address & Category
+
+Find recurring jobs using their address or category.
+Learn More ↗
+
+Default Job Allocation Expiry
+
+Set a default expiry for job allocations, so you don’t need to set it every time.
+Learn More ↗
+
+Automations Mini Tab
+
+See scheduled messages to clients from the new Automations mini tab on the job card.
+Learn More ↗
+
+Staff Chat
+
+Keep your team connected with direct messages, group channels, photos and files.
+Learn More ↗
+
+Note Threads & Reactions
+
+Keep replies attached to the right Note, mention teammates and acknowledge updates with emoji reactions.
+Learn More ↗
+
+Overview
+Keep replies attached to the right diary entry, mention teammates and acknowledge updates with reactions.
+
+Expanding Job Notes
+
+The note field now grows as you type, making longer job notes easier to write and edit.
+
+Hide Completed Checklists
+
+Hide completed checklist items so you can focus on outstanding work.
+Learn More ↗
+
+Notifications Management
+
+A more powerful and spacious experience to view and manage your ServiceM8 notifications.
+Learn More ↗
+
+Overview
+Find important updates, manage unread items and open notifications directly at the relevant work.
+
+Email Identification
+
+You can now send emails from ServiceM8 using your own business’s domain, to help clients recognise your messages.
+Learn More ↗
+
+Forward Email, in the App
+
+Forward an email from a job’s Diary, directly in the app.
+Learn More ↗
+
+Phone Caller Blocklist
+
+Block unwanted callers and manage blocked numbers in ServiceM8 Phone.
+Learn More ↗
+
+Clearer Notification Emails
+
+Customer reply notifications have been improved to make it easier to identify the client, job and message type.
+
+CC Visibility in the App
+
+You can now see who was copied in on a customer’s email reply, in the app.
+
+Company Names in Caller ID
+
+See the company alongside a matched caller’s name, with ServiceM8 Phone.
+
+Day Name in Booking Messages
+
+Include the day of the week, such as “Monday 21 September 2026”, in your email & SMS templates.
+Learn More ↗
+
+Custom Staff Avatars
+
+Use a selfie to personalise your staff avatar.
+Learn More ↗
+
+Knowledge
+
+The Knowledge add-on has been improved, making it easier to create, organise and share your business know-how.
+Learn More ↗
+
+Toolbox Meetings
+
+With the Knowledge add-on, you can now record meetings, then review the meeting’s audio, transcript, summaries and action items.
+Learn More ↗
+
+Imagine, Now in the App
+
+Help clients see the difference, with AI-generated images from job photos.
+Learn More ↗
+
+Photo Markup, Now Online
+
+Annotate job photos in ServiceM8 Online to explain details visually.
+Learn More ↗
+
+Room Scan Wall Colours
+
+Room scans now capture real wall colours, making the space easier to recognise and understand.
+Learn More ↗
+
+Form Photo Picker
+
+New List, Grid & Large previews to make adding the right photo easier when completing Forms.
+
+Materials, Now in the App
+
+Search, create and edit Materials and Bundles directly in the app.
+Learn More ↗
+
+Bundle Image Support
+
+You can now add images to Bundles to help customers understand and differentiate their options in Proposals.
+Learn More ↗
+
+Job Material History
+
+You can now see who added, edited or removed items on a job over time.
+Learn More ↗
+
+Supplier Quote Import
+
+You can now add or email Supplier Quotes into a job, just like Supplier Invoices, then add their items separately, or as a Bundle.
+Learn More ↗
+
+Pricing Strategies
+
+Automatically apply fixed or dynamic markup strategies to keep your pricing up to date and profitable.
+Learn More ↗
+
+Overview
+Import supplier prices and apply consistent markup strategies to keep materials and templates up to date.
+
+Lower ServiceM8 Pay Rates
+
+Huge reductions in ServiceM8 Pay card processing rates for Australian customers.
+Learn More ↗
+
+Card Payment Limits
+
+A new preference to hide the card payment option for higher-value invoices when viewed online.
+Learn More ↗
+
+Bulk Price Increase Tool
+
+Increase saved Materials & Services prices by a percentage, with a preview before you apply the change.
+Learn More ↗
+
+New iPad Experience
+
+Easier navigation, a customisable tab bar, and the side-by-side job card experience make the iPad app more powerful than ever.
+Learn More ↗
+
+Overview
+Move around ServiceM8 with native iPad navigation and keep the Job Card and Diary visible together.
+
+Attach Files
+
+A new, dedicated job action to attach files to the job card from your device.
+Learn More ↗
+
+Search Forms
+
+You can now search to find the Form you need to complete, faster.
+
+Full Form Mode
+
+A new way to view and complete Forms. View all questions at once and complete them in any order.
+Learn More ↗
+
+Duplicate Form Template
+
+Easily copy an existing Form template as the starting point for a new one.
+Learn More ↗
+
+Import iPhone Contact
+
+You can now create a client from a contact saved on your iPhone.
+Learn More ↗
+
+Barcode Lookup
+
+Scan barcodes with the ServiceM8 job camera to look up Materials and Assets.
+Learn More ↗
+
+New Apple Watch App
+
+Clock On, Check Out, view job details and record voice notes with the new ServiceM8 app for Apple Watch.
+Learn More ↗
+
+Overview
+Access ServiceM8 job workflows from a refreshed Apple Watch app.
+
+New List Views
+
+An all-new experience to view your Job History, Clients, Materials & more.
+Learn More ↗
+
+Overview
+Work through refreshed Online lists with customisable columns, multi-selection and flexible sorting.
+
+ServiceM8 Addon Kit CLI
+
+It’s easier than ever to build your own private ServiceM8 add-ons, using AI tools like Codex and Claude Code.
+Learn More ↗
+
+Account Switch
+
+You can now add and switch between ServiceM8 accounts from your profile in the app.
+Learn More ↗
+
+App Activity Feed Reports
+
+Improvements to the weekly job reports and business stats in your Activity Feed.
+
+App Dashboard Reports
+
+Improvements to Business Dashboard reports in the app.
+Learn More ↗
+
+More Powerful AI Connections
+
+MCP improvements for using ServiceM8 with ChatGPT and Claude. Find jobs, check availability, send messages and more.
+Learn More ↗
+
+Online Business Dashboard Date Ranges
+
+Additional date ranges for Business Dashboard reports in the Online Dashboard, to give quick insights over different timeframes.
+Learn More ↗
+
+The AI Office
+
+Understand your business. Prepare the paperwork. Review the next step.
+
+Screenshot coming soon.
+
+Overview
+
+Office Agent Reports
+
+Create charts and reports from plain-English questions, then explore the results in Report Explorer.
+
+Auto-Quote & Invoice
+
+Prepare a quote or invoice draft from job information, ready for your review.
+
+Office Agent Approval Actions
+
+Review a proposed action in chat or the Job Diary, then approve or decline it.
+
+Day View×
+
+×
+
+New Job Booking Window×
+
+Explore Previous Launches
+
+ServiceM8 2025 Launch
+
+ServiceM8 2024 Launch
+
+ServiceM8 2026Back to top ↑
+
+×

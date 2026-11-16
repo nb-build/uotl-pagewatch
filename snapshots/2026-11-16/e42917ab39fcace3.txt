@@ -1,0 +1,387 @@
+What's New at Canopy Connect: Spring 2026 Product Updates | Canopy Connect Blog
+
+Skip to content
+
+Products
+
+Canopy Connect for Agencies
+
+Data Intake Platform
+
+Get the insurance info you need
+
+Personal P&C
+
+Collect verified insurance info
+
+Commercial P&C
+
+Get policies & loss runs
+
+Integrations
+
+Connect to raters, CRM, & AMS
+
+Success Stories
+
+Advice and recommendations
+
+ROI Calculator
+
+Estimate Canopy's impact
+
+Agency Pricing
+
+Get started with a 14 day trial
+
+Insurance Verification API
+
+API Features
+
+Fully structured insurance data
+
+Developer Access
+
+Get sandbox credentials
+
+API Documentation
+
+Docs, schemas and more
+
+API Plans
+
+Packages for technical implementation
+
+Solutions
+
+Insurance Agencies
+
+Agents & Owners
+
+Commercial Agencies
+
+Insurance Ecosystem
+
+Insurance Carriers
+
+Insurance Marketplaces
+
+Networks and Groups
+
+Finance
+
+Auto Finance
+
+Mortgage Lenders
+
+Loan Servicing
+
+Financial Planning
+
+Technology
+
+Embedded Insurance
+
+Insurance Hubs
+
+Automotive
+
+Commercial Fleets
+
+Dealerships
+
+Rental Cars
+
+Ride Share
+
+Compliance
+
+Driver Verification
+
+Employers
+
+Resources
+
+Resources
+
+Blog
+
+News, updates and education
+
+Customer Case Studies
+
+A few of our 24,000 users
+
+Podcast
+
+Connected Conversations
+
+Webinars
+
+Videos from experts
+
+Consumer-Permissioned Data
+
+Why permissioned data matters
+
+Support & Training
+
+Help Center
+
+Canopy Connect Support
+
+Getting Started
+
+Training and onboarding
+
+Community
+
+On Facebook
+
+Join the Canopy Connectors
+
+Is Canopy Safe?
+
+A safe and secure experience
+
+Company
+
+Company
+
+About Us
+
+Learn about Canopy Connect and our values
+
+Careers
+
+We're hiring!
+
+Join our remote first team
+
+Sign In
+
+Sign Up
+
+All posts
+
+Product Updates
+
+6
+
+min read
+
+What's New at Canopy Connect: Spring 2026 Product Updates
+
+Published on
+
+May 22, 2026
+
+Contributors
+
+Elizabeth Reed
+
+Senior Content Marketing Manager
+
+Elizabeth is a content marketing manager with a deep understanding of the startup landscape. She specializes in driving impactful content strategies for early-stage companies. Having honed her skills within a dynamic small marketing agency environment, she has extensive experience across crafting compelling content and growing community engagement.
+
+Over the past few weeks, we've shipped three updates that touch different parts of the intake and integration experience, from how clients share their insurance information, to how multi-page documents get parsed, to how commercial leads land in AgencyZoom.
+
+Here's a look at what's new and what it means for your team.
+
+Clients Can Now Choose How to Share Their Insurance Information
+
+One of the most consistent pieces of feedback we've heard from agencies is that some clients get stuck in the intake process, not because they're unwilling to share their information, but because the way it was presented didn't match how they wanted to engage.
+
+For a lot of people, connecting directly to their carrier account is fast and easy. But for those who aren't sure how to log into their carrier portal, or would rather upload their documents, the lack of options can feel like a wall.
+
+We've addressed that directly with the new sharing path selection screen in Canopy Connect Link Flows.
+
+When enabled, clients who receive a link will now see a simple, clear question before they begin: How would you like to share your insurance information? From there, they can choose from up to four options:
+
+Connect Your Insurance: Securely connect their online insurance account via carrier connection
+
+Upload Files: Upload a dec page or photo of their documents, parsed automatically by DecSight
+
+Complete a Form: Enter their information manually
+
+Contact Me: Have an agent call them to gather information by phone
+
+You control which options appear for each flow. And if your current setup is working well, nothing changes by default. The sharing path screen is disabled for existing flows and needs to be enabled manually via Flow Builder.
+
+As our founder and CEO Tolga Tezel put it: "Not every client wants to share their insurance information the same way. We built this because our customers told us they needed it, and now their clients have a clear, simple choice."
+
+To enable it: Go to Flow Builder, click the Login section, and check "Show sharing path screens." New flows will have it on by default going forward.
+
+Policy Paste Extension Gets a Significant Upgrade
+
+Live as of May 7, 2026.
+
+The Policy Paste extension has always been about saving agents from retyping data they already have. This update makes it work in a lot more of the places where that data actually needs to go.
+
+More form patterns covered
+
+The extension now handles a wider range of field types that previously required manual entry:
+
+Additional named insureds: The extension fills secondary named insured fields, not just the primary applicant
+
+Split address fields: Forms that break a street address into separate inputs (street number, street name, unit, street type) are now handled automatically instead of requiring manual parsing
+
+Dynamic fields: Fields that only appear after a prior selection, like a dropdown that triggers new inputs, are now filled correctly
+
+Radio buttons: The extension selects the right radio option based on the pulled value
+
+Popup windows: The extension now works inside popup-style carrier windows like Travelers' quote popup, not just the main browser tab
+
+Keyboard shortcut: Users can now trigger a paste with Alt+Shift+P instead of clicking the extension button each time
+
+This update is available for all users on Elevate, Peak, and Summit plans who have the Policy Paste extension installed.
+
+‍Multi-Page Document Upload with Image Grouping
+
+Live as of May 14, 2026.
+
+Until now, clients uploading image files could only submit one image at a time. For anyone working from a physical, multi-page dec page or a policy document spread across several photos, that created a real friction point.
+
+Image Grouping solves this. When a client selects an image instead of a PDF, they'll now see a new screen that lets them add additional pages to the same document. In the background, those images are combined into a single document and sent to the parser together, so your team receives one clean, complete record instead of a handful of disconnected uploads.
+
+This works across all verticals and all plans.
+
+A note on rollout: Contact customer support to get this feature turned on.
+
+AgencyZoom Commercial Lead Support
+
+Live as of May 1, 2026.
+
+If you've been running commercial submissions through the Canopy Connect dashboard and watching them land in AgencyZoom as empty shell records, that changes now.
+
+Commercial leads now flow into AgencyZoom with real business data attached: company name, FEIN, entity type, NAICS code, employee count, carrier, expiration date, and the named insured's location as the property address. Each commercial policy on the pull creates its own opportunity—covering commercial auto, BOP, GL, workers comp, commercial property, and commercial package—and those opportunities land in your commercial pipeline where they belong.
+
+There are also six new product-line settings in your AgencyZoom integration that let you map each policy line to your own AgencyZoom product types. Opportunities are only created for lines where you've filled in the corresponding Policy Type Name, so it's worth checking your settings to make sure everything is mapped before your next pull.
+
+A few other things worth knowing:
+
+Pulls with only a business name and email, no individual contact, are now supported
+
+If opportunity creation fails, you'll get a clear warning with a clickable link to your AgencyZoom settings page instead of a generic error
+
+If your pipeline isn't configured, you'll see a specific "Configure your commercial pipeline" message instead of an opaque mismatch error
+
+If the connected AgencyZoom account doesn't support commercial leads, the lead falls back to a personal lead so you still get something
+
+This update is available for all users on Elevate, Peak, and Summit plans who are connected to AgencyZoom via the dashboard.
+
+More to Come
+
+These three updates are part of a broader push to make the intake experience better on every side, for clients sharing their information, for agents processing it, and for the systems that need to receive it cleanly. There's more in the pipeline. Stay tuned.
+
+Questions on any of these? Reach out to our support team.
+
+Products
+
+Data Intake Platform
+
+New
+
+Insurance API
+
+Developer Access
+
+API Documentation
+
+Success Stories
+
+Case Studies
+
+Agency ROI
+
+Agency Pricing
+
+API Plans
+
+Integrations
+
+PL Rating
+
+Applied Epic®
+
+EZLynx
+
+HawkSoft
+
+AgencyZoom
+
+Encompass by ICE
+
+TSD Rental
+
+CDK
+
+Cox Automotive
+
+Solutions
+
+Agents & Owners
+
+Commercial
+
+Insurance Carriers
+
+Insurance Networks
+
+Insurance Marketplaces
+
+Embedded Insurance
+
+Insurance Hubs
+
+Employers
+
+Mortgage Lenders
+
+Loan Servicing
+
+Auto Finance
+
+Financial Planning
+
+Car Dealers
+
+Car Rentals
+
+Commercial Fleets
+
+Rideshare
+
+Driver Compliance
+
+Resources
+
+Blog
+
+Podcast
+
+Webinars
+
+Help Center
+
+Getting Started
+
+Community
+
+Consumer-Permissioned Data
+
+Is Canopy Connect Safe?
+
+Company
+
+About Us
+
+Careers
+
+We're Hiring!
+
+Canopy Connect Inc
+
+CANOPY CONNECT™ is a trademark of Canopy Connect Inc.
+
+End User TermsInnovator TermsPrivacySecurityAI Info

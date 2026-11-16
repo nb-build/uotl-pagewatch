@@ -1,0 +1,906 @@
+Changes coming to SendGrid’s Free Plans | Twilio
+
+English
+
+Support
+
+Help Center
+
+Support Plans
+
+Partner Solutions
+
+Login
+
+Log in to
+
+Twilio Console
+
+Conversations, Communications and Authentication
+
+Or log in to access:
+
+Twilio Segment
+Customer Data Platform
+
+Twilio SendGrid
+Email and Marketing Campaigns
+
+Products
+
+Twilio Platform
+
+Next gen
+
+Built for engagement in the agentic era. Twilio connects communication channels, customer context, and AI on one flexible platform.
+
+Conversations
+
+Conversation Memory
+
+New
+
+Build a persistent memory of customer interactions
+
+Conversation Orchestrator
+
+New
+
+Keep conversations connected across channels
+
+Conversation Intelligence
+
+Extract context from real-time conversations
+
+Conversation Relay
+
+Build advanced voice AI for natural conversations
+
+Try the demo
+
+Conversations
+
+Communications
+
+Messaging
+
+SMS
+
+WhatsApp
+
+RCS
+
+Voice
+
+SIP Trunking
+
+Email
+
+SMTP Service
+
+Phone Numbers
+
+Toll-free
+
+10DLC
+
+Short Codes
+
+Video API
+
+Flex
+
+Communications
+
+Authentication
+
+Verify
+
+Lookup
+
+Authentication
+
+Customer Data
+
+Connections
+
+Warehouses
+
+Protocols
+
+Unify
+
+Engage
+
+Audiences
+
+Journeys
+
+Customer Data
+
+See all products
+
+See Twilio’s latest innovations and integrations
+
+Solutions
+
+Use Cases
+
+Verification and identity
+
+Fraud prevention
+
+Alerts and notifications
+
+Appointment reminders
+
+Lead alerts
+
+Mass texting
+
+Marketing and promotions
+
+SMS marketing
+
+Cross-sell and upsell
+
+Optimize ad spend
+
+Support and sales
+
+Voice AI
+
+AI agent productivity
+
+|
+
+Try the demo
+
+IVR
+
+Contact center
+
+Customer data management
+
+Teams
+
+Developers
+
+Data Engineering
+
+Marketing
+
+Product
+
+Customer Experience
+
+Industry
+
+Financial services
+
+Healthcare
+
+Retail
+
+Nonprofit
+
+Hospitality
+
+Public sector
+
+Education
+
+Tech
+
+Company Size
+
+Enterprise
+
+Startup
+
+See all solutions
+
+Why Twilio
+
+Overview
+
+Why Twilio
+
+We help you build amazing experiences with contextual data, the right communication channels, and AI to scale personalization and increase efficiency.
+
+Customer stories
+
+Differentiators
+
+One platform
+
+Privacy and security
+
+Built for builders
+
+Enterprise scale
+
+Extensible by design
+
+Real-time customer data
+
+Artificial intelligence
+
+Infrastructure
+
+Company
+
+About us
+
+Values
+
+Diversity
+
+Careers
+
+Twilio.org
+
+Investor relations
+
+Press and media
+
+Events
+
+2026 Gartner® Magic Quadrant™ for CPaaS1
+
+Twilio was once again named a Leader and positioned highest for our Ability to Execute.
+
+Read now
+
+1 Gartner®, Magic Quadrant™ for Communications Platform as a Service, By Lisa Unden-Farboud et. al, May 18, 2026
+
+Resources
+
+Developers
+
+Documentation
+
+Code samples
+
+Developer Hub
+
+Champions
+
+Changelog
+
+Serverless
+
+Learn
+
+Blog
+
+Resource Center
+
+Guides
+
+Reports
+
+Webinars
+
+Podcasts
+
+Customer stories
+
+State of Customer Engagement
+
+Events
+
+Customer data recipes
+
+Support and services
+
+Help Center
+
+Find a partner
+
+Become a partner
+
+Professional services
+
+Support plans
+
+Status
+
+SendGrid status
+
+Segment status
+
+Customer Insights Series
+
+Discover what thousands of global consumers and executives revealed about AI adoption, engagement, and the next era of CX.
+
+See the findings
+
+Pricing
+
+Overview
+
+All Pricing
+
+Transparent pricing with discounts as you scale. Sign up for a free trial—no credit card required.
+
+Conversations
+
+Conversations
+
+Conversation Memory
+
+Conversation Orchestrator
+
+Conversation Intelligence
+
+Conversation Relay
+
+Communications
+
+Messaging
+
+SMS
+
+WhatsApp
+
+Conversations API
+
+Voice
+
+SIP Trunking
+
+Conferencing
+
+Email API
+
+Marketing Campaigns
+
+Video API
+
+Flex
+
+Authentication
+
+Verify
+
+Lookup
+
+Customer Data
+
+Customer Data Platform
+
+Customer Data Pipeline
+
+Data is collected based on search terms. Privacy Policy
+
+Contact sales
+
+Start for free
+
+Data is collected based on search terms. Privacy Policy
+
+Products
+
+Twilio Platform
+
+Next gen
+
+Built for engagement in the agentic era. Twilio connects communication channels, customer context, and AI on one flexible platform.
+
+Conversations
+
+Conversation Memory
+
+New
+
+Build a persistent memory of customer interactions
+
+Conversation Orchestrator
+
+New
+
+Keep conversations connected across channels
+
+Conversation Intelligence
+
+Extract context from real-time conversations
+
+Conversation Relay
+
+Build advanced voice AI for natural conversations
+
+Try the demo
+
+Conversations
+
+Communications
+
+Messaging
+
+SMS
+
+WhatsApp
+
+RCS
+
+Voice
+
+SIP Trunking
+
+Email
+
+SMTP Service
+
+Phone Numbers
+
+Toll-free
+
+10DLC
+
+Short Codes
+
+Video API
+
+Flex
+
+Communications
+
+Authentication
+
+Verify
+
+Lookup
+
+Authentication
+
+Customer Data
+
+Connections
+
+Warehouses
+
+Protocols
+
+Unify
+
+Engage
+
+Audiences
+
+Journeys
+
+Customer Data
+
+See all products
+
+See Twilio’s latest innovations and integrations
+
+Solutions
+
+Use Cases
+
+Verification and identity
+
+Fraud prevention
+
+Alerts and notifications
+
+Appointment reminders
+
+Lead alerts
+
+Mass texting
+
+Marketing and promotions
+
+SMS marketing
+
+Cross-sell and upsell
+
+Optimize ad spend
+
+Support and sales
+
+Voice AI
+
+AI agent productivity
+
+|
+
+Try the demo
+
+IVR
+
+Contact center
+
+Customer data management
+
+Teams
+
+Developers
+
+Data Engineering
+
+Marketing
+
+Product
+
+Customer Experience
+
+Industry
+
+Financial services
+
+Healthcare
+
+Retail
+
+Nonprofit
+
+Hospitality
+
+Public sector
+
+Education
+
+Tech
+
+Company Size
+
+Enterprise
+
+Startup
+
+See all solutions
+
+Why Twilio
+
+Overview
+
+Why Twilio
+
+We help you build amazing experiences with contextual data, the right communication channels, and AI to scale personalization and increase efficiency.
+
+Customer stories
+
+Differentiators
+
+One platform
+
+Privacy and security
+
+Built for builders
+
+Enterprise scale
+
+Extensible by design
+
+Real-time customer data
+
+Artificial intelligence
+
+Infrastructure
+
+Company
+
+About us
+
+Values
+
+Diversity
+
+Careers
+
+Twilio.org
+
+Investor relations
+
+Press and media
+
+Events
+
+2026 Gartner® Magic Quadrant™ for CPaaS1
+
+Twilio was once again named a Leader and positioned highest for our Ability to Execute.
+
+Read now
+
+1 Gartner®, Magic Quadrant™ for Communications Platform as a Service, By Lisa Unden-Farboud et. al, May 18, 2026
+
+Resources
+
+Developers
+
+Documentation
+
+Code samples
+
+Developer Hub
+
+Champions
+
+Changelog
+
+Serverless
+
+Learn
+
+Blog
+
+Resource Center
+
+Guides
+
+Reports
+
+Webinars
+
+Podcasts
+
+Customer stories
+
+State of Customer Engagement
+
+Events
+
+Customer data recipes
+
+Support and services
+
+Help Center
+
+Find a partner
+
+Become a partner
+
+Professional services
+
+Support plans
+
+Status
+
+SendGrid status
+
+Segment status
+
+Customer Insights Series
+
+Discover what thousands of global consumers and executives revealed about AI adoption, engagement, and the next era of CX.
+
+See the findings
+
+Pricing
+
+Overview
+
+All Pricing
+
+Transparent pricing with discounts as you scale. Sign up for a free trial—no credit card required.
+
+Conversations
+
+Conversations
+
+Conversation Memory
+
+Conversation Orchestrator
+
+Conversation Intelligence
+
+Conversation Relay
+
+Communications
+
+Messaging
+
+SMS
+
+WhatsApp
+
+Conversations API
+
+Voice
+
+SIP Trunking
+
+Conferencing
+
+Email API
+
+Marketing Campaigns
+
+Video API
+
+Flex
+
+Authentication
+
+Verify
+
+Lookup
+
+Customer Data
+
+Customer Data Platform
+
+Customer Data Pipeline
+
+Contact sales
+
+Start for free
+
+Back
+
+Twilio Changelog | May. 28, 2025
+
+Changes coming to SendGrid’s Free Plans
+
+If a customer is using SendGrid’s Free Email API or Free Marketing Campaigns plan, starting May 28, 2025, Twilio SendGrid will be retiring these free plans. Customers will continue to have full access to their existing plan– including sending limits and features– for the next 60 days. After that, an upgrade to a paid plan will be required to continue sending email and accessing key tools.
+
+What’s Changing?
+
+After the 60-day transition period:
+
+Email sending will be paused for accounts on all free plans
+
+Marketing Campaign features, like templates, contact list management, and automation will no longer be available
+
+If you have more than 100 contacts stored, all your contacts will be deleted. This cannot be restored if a customer upgrades after the transition period ends
+
+These changes do not impact any paid SendGrid plans– those will continue as usual.
+
+Customers can explore available plans by visiting their SendGrid Dashboard and going to Settings > Account Details > Your Products.
+
+For customers who need more time to decide on their Marketing Campaigns plan, contact data can be exported before the trial ends. Instructions can be found in the SendGrid contact export documentation.
+
+Continuing the Journey
+
+Whether customers are just getting started or scaling up quickly, Twilio SendGrid is committed to supporting them with the same trusted delivery, tools, and service they’ve come to rely on.
+
+Thanks to all the builders and senders in our community. We’re excited to continue the journey–together.
+
+Twilio SendGrid Platform
+
+Additional Resources
+
+Blog
+
+Read more about our latest product updates, product tutorials, and community projects.
+
+Read the blog
+
+Docs
+
+See API reference documentation, quickstarts, SDKs, and multi-language code samples.
+
+Read the docs
+
+Events
+
+Find upcoming events and join us virtually or in person to learn more about our products.
+
+View events
+
+Get an AI summary:
+
+Twilio careers
+
+Twilio.org
+
+Press and media
+
+Investor relations
+
+Legal
+
+Privacy
+
+Security
+
+Impressum
+
+Sitemap
+
+LLMS
+
+Copyright Twilio Inc.
+All rights reserved.
+
+Considering Twilio?
+
+About Twilio
+
+Customer Engagement Platform (CEP)
+
+Communications
+
+Conversational AI
+
+User authentication and identity
+
+Customer Data Platform (CDP)
+
+AI
+
+Customer stories
+
+Events
+
+Contact sales
+
+Why Twilio
+
+Products and Features
+
+SMTP
+
+Branded Calling
+
+Twilio Segment
+
+Twilio Engage
+
+Connections
+
+SendGrid Email API
+
+RCS messaging
+
+Latest innovations
+
+Pre-built solutions
+
+Support plans
+
+All products
+
+Use Cases
+
+AI agent productivity
+
+Customer data management
+
+Audience segmentation
+
+Contact center
+
+SMS marketing
+
+Customer acquisition
+
+Voice response system (IVR)
+
+Fraud prevention
+
+Bulk text messaging
+
+Mass email sender
+
+All use cases
+
+Developers
+
+Developer resources
+
+Twilio Essentials
+
+SDKs
+
+CDP integrations
+
+Serverless
+
+Conversation
+
+SMTP Email API
+
+SMS API
+
+WhatsApp API
+
+Voice API
+
+Connections
+
+All docs

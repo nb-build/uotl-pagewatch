@@ -1,0 +1,320 @@
+CSR AI Text Answering (In Alpha) | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+AI Team
+
+CSR AI
+
+CSR AI Text Answering (In Alpha)
+
+CSR AI Text Answering (In Alpha)
+
+August 27, 2026
+
+Table of contents
+
+CSR AI Text Answering Overview
+
+CSR AI now does more than answer your calls and website chats. It can text your customers too.
+
+After a qualifying call with a new customer, CSR AI can follow up over text using your existing business number. It uses the conversation from the call to answer questions, share pricing and availability, and help book the job.
+
+Customers often move on when they do not hear back quickly. CSR AI is designed to respond in under 30 seconds, so your customers can get help while the conversation is still fresh.
+
+The CSR AI text answering is in alpha. It's still being refined, so features may change, and you may run into occasional rough edges. We'd love your feedback while we improve it.
+
+📖 Check out the CSR AI Overview article that gives new users background on call answering, settings, the dashboard, and other CSR AI features.
+
+What is CSR AI Text Answering?
+
+CSR AI Text Answering lets CSR AI have a two-way text conversation with a new customer after a qualifying call.
+
+The conversation uses the context from the call, so the customer does not have to start over. If they shared their address, described the service they need, or discussed scheduling, CSR AI can continue from that information.
+
+CSR AI uses your existing business number and the same business details, pricing, availability, and settings it uses when answering calls.
+
+Text follow-up is currently available for new customers only. Existing-customer text conversations are not included at this time.
+
+How does CSR AI Text Answering work?
+
+CSR AI sends a follow-up text
+
+After a qualifying call ends, CSR AI can automatically send a text based on what happened during the conversation.
+
+The message may help the customer complete a booking, confirm the next step, answer a question, or let the customer know that someone from your team will follow up.
+
+The text uses information from the call
+
+CSR AI creates the opening message using the details discussed during the call. It may reference the customer’s service request, an appointment time, or the next step needed to move forward.
+
+For example:
+
+Hi Sarah, this is ABC Plumbing. We had 2:00 p.m. open for your water heater repair when we spoke. Would you still like that time, or would another time work better?
+
+The customer can reply
+
+When the customer replies, CSR AI continues the conversation by text. It can answer questions, look up pricing, check availability, offer appointment times, create a booking, send a booking link, and reschedule or cancel an appointment when those actions are enabled in your settings.
+
+If the customer needs help from a person, CSR AI follows your Escalation Rules.
+
+Which calls can trigger a text follow-up?
+
+CSR AI can follow up after many types of new-customer calls. These may include calls where the customer:
+
+Books a job or estimate
+
+Starts booking but does not finish
+
+Asks about pricing or availability
+
+Is disconnected or the call ends unexpectedly
+
+Asks to reschedule or cancel
+
+Requests a callback
+
+Wants to follow up on a quote
+
+Asks about a job status or leaves a message for your team
+
+Is transferred to a person
+
+The message depends on the outcome of the call. A customer who booked may receive a confirmation, while a customer who asked about pricing may receive a message inviting them to continue the conversation.
+
+CSR AI does not send follow-up texts after spam, wrong numbers, or silent calls.
+
+📌 Note: Text follow-up currently applies to new customers only. Support for existing customers is coming soon.
+
+What can CSR AI do over text?
+
+CSR AI can handle many of the same customer requests it handles during a call. Depending on your settings, it can:
+
+Answer questions about your services
+
+Look up and share pricing
+
+Add notes to the job and update customer info
+
+Check your calendar for available times
+
+Offer appointment times
+
+Add notes to the job
+
+Update the customer address if it was incorrectly grabbed on the call
+
+Create jobs and estimates
+
+Send a booking link
+
+Reschedule appointments
+
+Cancel appointments
+
+Hand the conversation off to a person
+
+CSR AI only confirms that an action was completed after the action succeeds. For example, it will not tell a customer that an appointment was booked if the booking was not completed.
+
+📖 Check out the CSR AI Settings section of the CSR AI Overview article. This is a good place to learn about how CSR AI uses the business information, permissions, and escalation rules configured in Housecall Pro.
+
+What will my customers see?
+
+CSR AI’s messages are written as a natural follow-up from your business. The exact message depends on what happened during the call.
+
+If the customer booked
+
+Hi Sarah, thanks for calling ABC Plumbing. You’re all set for Tuesday at 2:00 p.m. Let us know if you have any questions before your appointment.
+
+If the customer started booking but did not finish
+
+Hi Sarah, we had 2:00 p.m. open for your water heater repair when we spoke. Would you still like that time, or would another time work better?
+
+If the conversation was disconnected
+
+Hi Sarah, sorry we got cut off earlier. Do you still need help with your water heater repair?
+
+If the customer only asked for information
+
+Hi Sarah, thanks for calling ABC Plumbing about your water heater repair. Would you like to get a time on the calendar?
+
+If the customer was transferred to your team
+
+Hi Sarah, thanks for calling ABC Plumbing. Someone from our team will follow up on your water heater repair request shortly.
+
+How do I take over a conversation?
+
+You can take over a conversation at any time by opening the customer’s text conversation in the Job Inbox.
+
+When you or a teammate opens the conversation, CSR AI automatically becomes quiet. You do not need to turn off the AI manually, and there is no separate per-conversation toggle.
+
+After you leave the conversation, CSR AI waits 10 minutes before becoming active again. If the customer sends a new message after that time and the conversation is still eligible, CSR AI can respond.
+
+This gives you time to review the conversation and respond without CSR AI talking over you.
+
+📖 If a customer asks to speak with a person, CSR AI follows your Escalation Rules and stays quiet after the handoff request. Check out the CSR AI FAQs to learn about escalation rules and other topics related to the relevant CSR AI.
+
+What if my business uses manual scheduling?
+
+CSR AI Text Answering also works for businesses that use manual scheduling.
+
+In this setup, CSR AI can collect information, answer questions, and continue the conversation. It will not offer a specific appointment time if your settings do not allow it to schedule directly.
+
+For example:
+
+Hi Sarah, this is ABC Plumbing. We have your water heater repair request started. We’ll reach out to set a time soon. Let us know if anything has changed.
+
+Where can I view text conversations?
+
+You can view CSR AI text conversations in your Job Inbox, alongside your other customer conversations.
+
+To find a text conversation:
+
+Click Inbox from the Housecall Pro navigation bar.
+
+Navigate to CSR AI.
+
+Select the text conversation from the conversation list.
+
+From the Job Inbox, you can review the full conversation, see what CSR AI discussed with the customer, take over the conversation, or follow up with the customer yourself.
+
+📖 Check out the Job Inbox Overview help article for more info on how to get started, manage, and view everything in this section.
+
+How do I turn on Text Answering?
+
+Text Answering is controlled from the same place as the rest of your CSR AI settings.
+
+To turn on Text Answering:
+
+Go to Settings > Team & Permissions > Team.
+
+Scroll down to AI Team.
+
+Click CSR AI.
+
+Open the Integrations tab.
+
+Under SMS, turn on the Text toggle.
+
+The Text toggle is the master switch for CSR AI’s texting capability. It must be enabled for CSR AI to start and continue eligible text conversations.
+
+Once Text is enabled, additional text-related options become available in the Permissions tab.
+
+How do I configure text permissions?
+
+After you turn on Text, review the available options in the Permissions tab.
+
+Depending on your account configuration, you can control whether CSR AI can:
+
+Book jobs and estimates
+
+Reschedule appointments
+
+Cancel appointments
+
+Send notifications
+
+Handle other supported customer requests
+
+These permissions work alongside the settings used by CSR AI for calls and website chats.
+
+For example, if CSR AI is not permitted to cancel appointments, it will not cancel an appointment over text. It can still acknowledge the request and follow your configured escalation process.
+
+Can customers opt out of text messages?
+
+Yes. Customers can reply STOP at any time to stop receiving text messages from CSR AI.
+
+Once a customer opts out, CSR AI will not continue sending text messages to that customer through the messaging channel.
+
+Frequently Asked Questions
+
+Which customers receive a text follow-up?
+
+CSR AI Text Answering currently applies to new customers who have had a qualifying call with your business. Existing customers are not currently included in post-call text follow-up.
+
+Does CSR AI only text customers who did not book?
+
+No. CSR AI can also text customers who booked a job or estimate. These messages can confirm the appointment and answer questions about preparation, scheduling, or next steps.
+
+Does the customer have to repeat information from the call?
+
+Usually, no. CSR AI uses the available context from the call, including the customer’s service request and information they already provided.
+
+Can CSR AI book directly from a text conversation?
+
+Yes, if booking is enabled in your CSR AI permissions and the necessary information is available. CSR AI can check availability, offer times, create a booking, and send a booking link.
+
+Do I need a new business number?
+
+No. CSR AI uses your existing business number for text conversations.
+
+You do need to turn on the Text toggle under Settings > Team & Permissions > Team > CSR AI > Integrations.
+
+If you need help getting started with CSR AI, check out this help article on setting up CSR AI.
+
+What happens when I reply to a customer?
+
+CSR AI automatically steps back when you or a teammate opens the conversation. It waits 10 minutes after you leave before becoming active again.
+
+Can I turn off Text Answering?
+
+Yes. To turn off Text Answering:
+
+Go to Settings > Team & Permissions > Team.
+
+Scroll down to AI Team.
+
+Click CSR AI.
+
+Open the Integrations tab.
+
+Under SMS, turn off the Text toggle.
+
+Turning off Text stops CSR AI from handling text conversations. Your CSR AI call and website chat settings are not changed.
+
+Can I turn off CSR AI for only one conversation?
+
+There is no separate per-conversation toggle. To take over a conversation, open it in the Job Inbox. CSR AI automatically becomes quiet while you are focused on the conversation.
+
+What happens if a customer asks for a person?
+
+CSR AI follows your Escalation Rules and stays quiet after the handoff request so the customer can be helped by a person.
+
+Can a customer stop receiving texts?
+
+Yes. The customer can reply STOP at any time to opt out of text messages from CSR AI.
+
+Does CSR AI text existing customers?
+
+Not at launch. The current text follow-up experience is focused on new customers. Existing-customer text support is planned for a future phase.
+
+Having trouble finding what you need?
+
+For further assistance, reach out to our Chat Support team through the blue chat bubble in your Housecall Pro account, or contact our Phone Support team at 858-842-5746.
+
+Related Articles
+
+AI Team Overview
+
+CSR AI Overview
+
+CSR AI Best Practices and FAQs
+
+CSR AI Chat Answering
+
+Getting Started with CSR AI
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

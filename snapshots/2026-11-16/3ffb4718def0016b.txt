@@ -1,0 +1,298 @@
+How to Use Lead Sources | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Account Settings
+
+Lead Source
+
+How to Use Lead Sources
+
+How to Use Lead Sources
+
+Learn how to use our Lead Source field
+
+July 24, 2026
+
+Table of contents
+
+Our Lead Source field allows you to track where your customers found your business without having to use tags.
+
+Lead source tracking enables better reporting so that you can make smart marketing decisions by investing in the sources that bring you good jobs. Leads can be tracked on customers, jobs, and estimates.
+
+Create a Lead Source
+
+ℹ️ System lead sources are added to your list of lead sources by default.
+
+To create a Lead Source:
+
+Go to Settings ⚙️ > Lead Sources
+
+Click the + Create lead source button at the top of the page
+
+Name the lead source and click Create.
+
+🔎 For more information on those lead sources, please see Auto-Tagging with System Lead Sources.
+
+Edit a Lead Source
+
+ℹ️ Editing a lead source will update all existing Leads with that name.
+
+To edit a Lead Source:
+
+Go to Settings ⚙️ > Lead Sources
+
+Click the More button (⋮) to the right of the lead source
+
+Select Edit
+
+📌 Note: System Lead Sources cannot be edited or deleted.
+
+Edit the lead source name
+
+Click Save
+
+Archive a Lead Source
+
+ℹ️ Archiving a system lead source removes it from future use and will disable it from reporting, but it will remain on past jobs and customers.
+
+To archive a lead source:
+
+Go to Settings ⚙️ > Lead Sources
+
+Click the More button (⋮) to the right of the lead source
+
+Select Archive
+
+Click Archive in the confirmation window
+
+The lead source will remain in your Lead Sources list, and the status will update to Archived
+
+ℹ️ Archived lead sources can be restored by going to the Archived tab in your Lead Sources settings.
+
+Unarchive a Lead Source
+
+To restore a system lead source:
+
+Go to Settings ⚙️ > Lead Sources > Archived
+
+Click the More button (⋮) to the right of the lead source
+
+Select Unarchive
+
+The lead source will be removed from the Archived list, and the status will update to Active
+
+Delete a Lead Source
+
+ℹ️ Deleting a custom lead source removes it from future use, but it will remain on past jobs and customers.
+
+To delete a lead source:
+
+Go to Settings ⚙️ > Lead Sources
+
+Click the More button (⋮) to the right of the lead source
+
+Select Delete
+
+Press Delete in the confirmation window
+
+Adding Lead Sources
+
+Lead sources can be assigned to customers, jobs, and estimates, allowing you to easily track where each lead originated.
+
+Add a Lead Source to a Customer Profile
+
+When creating a new customer, you will see a field to add a lead source in the bottom right corner of the Notes section.
+
+ℹ️ Learn more about creating a customer here
+
+To add a lead source to an existing Customer Profile:
+
+Open a Customer Profile
+
+Select the Profile tab
+
+Scroll down and click the Lead source field on the left
+
+Select a lead source from your list or create a new one
+
+Add a Lead source to a Job or Estimate
+
+When creating a job or estimate:
+
+Click the Lead source + button on the left side of the page
+
+Select a lead source from your list or create a new one
+
+ℹ️ Learn more about creating jobs and estimates
+
+To add a lead source to an existing job or estimate:
+
+Open a job or an estimate
+
+Scroll down and click the + Lead source button on the left side of the page
+
+Select a lead source from your list or create a new one
+
+Bulk Updating Lead Sources
+
+You have the flexibility to bulk-add lead sources, streamlining the process and ensuring that your lead data is efficiently categorized across multiple records at once.
+
+Bulk Update Customer Lead Sources
+
+On the Customers tab, you can select multiple customers and bulk-add or update lead sources to those customers:
+
+Go to Customers
+
+Select the customers whose lead source you need to update
+
+Click the Update lead source button above your Customers list
+
+Select a lead source from your list or create a new one
+
+Click Update
+
+Bulk Update Job and Estimate Lead Sources
+
+Go to your Jobs or Estimates list
+
+Select the jobs or estimates to update
+
+Click the Update lead source button at the top of the list
+
+Select a lead source from your list or create a new one
+
+Click Update
+
+Auto-Tagging with System Lead Sources
+
+In some scenarios, we will automatically add the lead source if we know where they came from. In these cases, they will be added to a Customer, Job, and/or Estimate. These are known as system Lead sources. Here are the current system lead sources:
+
+Lead Source Name
+
+Customer
+
+Job or Estimate
+
+Google Reserve
+
+✅
+
+✅
+
+My Website (Online Booking)
+
+✅
+
+Yelp
+
+✅
+
+HouseCall Marketplace
+
+✅
+
+HouseCall App (iOS/Android)
+
+✅
+
+ResponsiBid
+
+✅
+
+OnCallAir
+
+✅
+
+Hippo
+
+✅
+
+HomeServe
+
+✅
+
+HappyCo
+
+✅
+
+Latchel
+
+✅
+
+Lula
+
+✅
+
+Thumbtack
+
+✅
+
+📌 Note: System lead sources are added by default and cannot be deleted. These are used to automatically tag Customers, Jobs, and Estimates within your account.
+
+Reporting on Lead Sources
+
+You can report on lead sources using the filter functionality on the reporting tab. After applying filters, you will be able to view summary metrics for any lead source(s) and drill into job details to see the lead source for each job.
+
+Report on Job Lead Sources
+
+To report on Job lead sources:
+
+Go to Reporting > Reports
+
+Select Jobs at the top of the page
+
+Under Type, select Job lead source
+
+Report on Jobs by Customer Lead Source
+
+To report on jobs by customer lead sources:
+
+Go to Reporting > Reports
+
+Select Jobs at the top of the page
+
+Under Customer, select Customer lead source
+
+Report on Estimate Lead Sources
+
+To report on Estimate sources:
+
+Go to Reporting > Reports
+
+Select Estimates at the top of the page
+
+Under Type, select Estimate conversion by estimate lead source
+
+ℹ️ Learn more about creating and filtering reports here
+
+Need help?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746.
+
+Related Articles
+
+Getting Started with Pipeline
+
+Pipeline FAQs
+
+Conversion Rate Reporting
+
+How to Use Leads on Mobile
+
+Marketing Dashboard: ROI Table
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

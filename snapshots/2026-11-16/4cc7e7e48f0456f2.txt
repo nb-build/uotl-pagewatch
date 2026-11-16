@@ -1,0 +1,286 @@
+AI Workflow Automation Software & Tools | Make
+
+Build and manage AI agents and automations in one visual landscape
+
+Connect any app, data source, or AI model. Build by prompt, drag-and-drop, or from Claude, ChatGPT, and any other AI chat.
+
+Try it free
+
+Talk to sales
+
+No credit card required
+
+No time limit on free plan
+
+Trusted by teams worldwide, from startups to global enterprises
+
+Why 500,000+ teams build with Make
+
+Explore everything Make can do
+
+Workflow Builder
+
+Build by prompting, drag-and-drop, or MCP.
+
++2
+
+Observability
+
+See your whole stack live. Including 3rd party resources.
+
+Custom code
+
+Fine-tune with JavaScript or Python if needed.
+
+MCP Server
+
+Build & run automations from Claude, ChatGPT or Gemini.
+
+AI Agents
+
+Set goals, provide tools, define limits – and see the reasoning.
+
++2
+
+Governance
+
+Manage access and compliance with confidence.
+
+Explore everything Make can do
+
+Integrations
+
+Connect 3,500+ apps out of the box
+
+Connect your whole tech stack and the latest AI models.
+Add custom integrations to anything with an API.
+
+Browse integrations
+
+Power AI transformation in your business
+
+Put AI agents and workflows in the hands of every team – stay in control of everything they build.
+
+"We literally refer to Make as the glue of our organization - anything that our dealerships interact with goes in and back out of Make to our own infrastructure."
+
+Conor Power
+
+Digital Process Improvement Manager at Stellantis &You
+
+Read their story
+
+Deploy securely
+
+GDPR, SOC 2 Type II and SOC 3. Encryption in transit and at rest, SSO, and access controls that satisfy a security review.
+
+Explore Security
+
+Govern everything
+
+Role-based access, audit logs and real-time analytics across every workflow automation your teams run.
+
+Explore Enterprise
+
+One AI Automation platform
+
+Every team builds in Make. Everything stays visible to everyone.
+
+Executive
+
+Every AI agent and automation, in one view — under your control.
+
+Change leader
+
+See what your team builds and runs — as it happens.
+
+Builder
+
+Build, test, debug and run in one visual environment.
+
+Choose how to get started
+
+Start a paid plan
+
+Choose a plan that scales with your ambitions.
+
+See our plans
+
+Start a paid plan
+
+Try Make free
+
+Start building today – no credit card required.
+
+Get started
+
+Try Make free
+
+Go Enterprise
+
+Advanced features to power AI and automation, org-wide.
+
+Talk to sales
+
+Go Enterprise
+
+Success stories
+
+Real results, from real teams
+
+Explore success stories
+
+300+
+
+employees empowered to innovate in hours, not weeks.
+
+Read their story
+
+30K+
+
+employees solving problems through AI and automation.
+
+Read their story
+
+$250M
+
+powered by 100+ automated processes
+
+Read their story
+
+Explore success stories
+
+FAQ
+
+Questions? We've got answers.
+
+What is Make?
+
+Make is an AI automation platform. You build automated workflows and AI agents visually, connect them to the apps and data you already use, and see everything running in one place. It's built for teams and organizations deploying AI and automation across the business, from a single department to company-wide, with full visibility and control.
+
+Is there a free plan?
+
+Yes. The free plan includes enough credits and active scenarios to build and run real automations, with no card required.
+
+Does Make integrate with the tools we already use?
+
+Almost certainly. Make connects to 3,500+ apps out of the box, and anything with an API can be added as a custom integration.
+
+Can I build without a developer?
+
+Yes. Anyone comfortable thinking through a process — mapping steps, conditions, and outcomes — can build by prompting, dragging and dropping, or working from an AI chat. No coding required; developers can add custom code where it helps.
+
+How does Make handle security and compliance for larger organizations?
+
+Make is GDPR compliant and SOC 2 Type II and SOC 3 certified, with encryption, SSO, role-based access and audit logs. Enterprise plans add further controls.
+
+Bring automation and AI to your business
+
+Join the world's leading companies that run on Make
+
+Connect 3,000+ native apps across your stack
+
+Reduce manual work by a factor of 5
+
+50% fewer manual processes in under 6 months
+
+Critical process automation with 24/7 support
+
+Talk to sales
+
+Get started free
+
+Subscribe to news updates*
+
+* By submitting this form, you confirm that you agree to the storing and processing of your personal data as described in our Privacy policy.
+
+Join 4,000+ companies
+
+Product
+
+Overview
+
+Integrations
+
+Maia AI assistant
+
+AI agents
+
+AI Automation
+
+Agentic automation
+
+Make Grid
+
+MCP server
+
+Status
+
+Idea exchange
+
+Solutions
+
+Marketing
+
+Sales
+
+Operations
+
+Information Technology
+
+Finance
+
+Customer Experience
+
+Productivity
+
+People
+
+Resources
+
+Templates Library
+
+Make AI apps
+
+Help center
+
+Blog
+
+Success stories
+
+How-to-guides
+
+Make Academy
+
+Make Community
+
+Webinars
+
+Make Events
+
+Company
+
+About us
+
+Careers
+
+Contact us
+
+Press
+
+Terms & conditions
+
+Privacy policy
+
+Disclaimer
+
+Bug bounty
+
+Ethics & compliance
+
+Partners
+
+Hire an expert
+
+Become a partner
+
+Celonis, Inc. All rights reserved.

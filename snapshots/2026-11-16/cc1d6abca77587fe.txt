@@ -1,0 +1,279 @@
+Understand your Business Profile performance & insights - Google Business Profile Help
+Skip to main content
+
+Google Business Profile Help
+
+Sign in
+
+Google Help
+
+Help Center
+
+Community
+
+Google Business Profile
+
+Privacy Policy
+
+Terms of Service
+
+Submit feedback
+
+Send feedback on...
+
+This help content & information
+
+General Help Center experience
+
+CloseNext
+
+Help Center
+
+Community
+
+Get-Started Guide
+
+Google Business Profile
+
+Understand your Business Profile performance & insights
+
+Important:
+
+Performance data is available only for verified Business Profiles. Learn how to verify your business on Google.
+
+To check your Business Profile performance, you must be signed in to the Google Account associated with your profile.
+
+Performance data gives you insight into how people discover your Business Profile. It highlights how customers use Search and Maps to find your profile, and what actions they take once they do. You can access performance information for individual or multiple profiles.
+
+Business Profile owners and managers can check the number of views, clicks, and other customer interactions with your profile on Search and Maps. You can use this performance info to track how popular your business is with customers. Learn more about available performance metrics.
+
+Tip: You can set a date range to track your Business Profile performance over a period of time. This helps you discover how people interact with your business on Google.
+
+Understand available performance metrics
+
+Important: Only metrics that apply to your business appear. Not all metrics are available to you.
+
+Performance data includes views, searches, and actions from both organic search results and Google Ads. In the business performance report, you can monitor specific profile interactions.
+
+Interactions: A summary of all your total interactions.
+
+Searches: The search terms people used to find your business.
+
+The searches metric is updated at the start of each month. It might take up to 5 days to show up.
+
+Search queries show up whenever your Business Profile appears for a certain search. You can’t directly manage these queries. Learn how to improve your ranking.
+
+Views: How many people viewed your Business Profile on Search and Maps.
+
+This number of views might be lower than the number of views you find on your Business Profile and email notifications. This might be due to several reasons:
+
+The metric counts the number of unique visitors who viewed your profile.
+
+A user can be counted a limited number of times if they visit your Business Profile on multiple devices, such as desktop or mobile, and platforms, such as Maps or Search.
+
+A person can only be counted once a day. We don’t count multiple visits on the same day.
+
+This metric only counts the views of your Business Profile and not the overall views of your business on Google.
+
+Directions: How many people asked for directions to your business.
+
+To better represent this metric, we changed how we count unique directions requests to account for:
+
+Multiple taps.
+
+Direction request cancellation.
+
+Spam.
+
+Calls: The number of times a customer clicked on the call button on your Business Profile. Add your phone number to track this metric.
+
+Website clicks: The number of times people clicked on the website link on your Business Profile.
+
+Messages: The number of different conversations through messages.
+
+Bookings: The number of bookings people completed. To get data for this metric, your bookings must be managed through a booking provider. Learn how to set up bookings through a provider.
+
+Booking clicks: The number of times people clicked on your hotel's booking link. Users who click on your link are sent to your landing page to book directly with you. This metric only applies for hotels. Learn more about hotel booking links.
+
+Products: The number of times customers viewed products over a period of time. These views only count products sold at your Business Profile's location, not those sold online.
+
+Menus: The number of times people clicked on the menu content per user, per day. It includes menu photos, menu links, and structured menu data on your Business Profile.
+
+Offers: The number of times customers viewed and clicked on offers on your Business Profile. Learn how to create and manage offers.
+
+Understand your hotel price comparison performance
+
+To compare your hotel prices with the prices of other hotels users viewed, check the performance page.
+
+The overview comparison shows the average of the cheapest rate across providers for the next 30 days. To compare rates with other hotels everyday, check the comparison details.
+
+To update your hotel rates on Google, change how you share them. Learn more about sharing your rates with Google as a hotel owner.
+
+Check your Business Profile performance with Google Search
+
+Go to your Business Profile.
+
+Click Performance.
+
+At the top, select a time period for your report.
+
+Click Apply.
+
+Check your Business Profile performance with the Google Maps app
+
+On your mobile device, open the Google Maps app .
+
+At the bottom right, tap Business.
+
+Next to "Performance", tap See more.
+
+At the top, select a time period for your report.
+
+Tap Apply.
+
+Check your Business Profile insights with Google Search
+
+Important: The Insights feature may not be available for all Business Profiles.
+
+Access data-driven recommendations to optimize your Business Profile and help your business grow.
+
+Go to your Business Profile.
+
+Click Insights.
+
+Your business’s insights are created based on public, location-based information, such as customer reviews, photos, and local search trends. Insights are often updated so check them regularly for the latest information.
+
+Give feedback on insights
+
+For a good suggestion, click Thumbs up .
+
+For a bad suggestion or to report an issue, click Thumbs down .
+
+To tell us what happened, enter your feedback in the "Describe your issue" box.
+
+Click Send.
+
+Download your Business Profile performance data
+
+To access your data in a spreadsheet, you can download your Business Profile performance data. If you manage multiple Business Profiles, you can download performance data for multiple profiles at once in a spreadsheet to compare the performance of different locations.
+
+On your computer, go to Business Profile Manager.
+
+Next to the profiles you want to download performance data for, click the checkbox.
+
+At the top right, click Actions Insights.
+
+Select the timeframe for your performance data.
+
+Click Download Report.
+
+If a “Download ready” dialog box appears at the bottom left of your screen, click DOWNLOAD.
+
+After your download finishes in a new tab, you can close it.
+
+Tip: If you haven’t enabled your profile for downloads, you might find “***” in the columns of your performance spreadsheet. Learn more about your Business Profile status for bulk uploads.
+
+Related resources
+
+Reach more customers with an online ad
+
+Tips to improve your local ranking on Google
+
+Need more help?
+
+Try these next steps:
+
+Post to the help community Get answers from community members
+
+Contact us Tell us more and we’ll help you get there
+
+true
+
+Help
+
+1 of 10
+Understand your Business Profile performance & insights
+
+2 of 10
+Manage your Business Profile on Google with the Gemini web app
+
+3 of 10
+Manage your Profile Strength
+
+4 of 10
+Manage advertising account links
+
+5 of 10
+Advertise your business on Google
+
+6 of 10
+Connect your Business Profile to Google Analytics
+
+7 of 10
+Tips to get more reviews
+
+8 of 10
+Tips to improve your local ranking on Google
+
+9 of 10
+Tips for business-specific photos on your Business Profile
+
+10 of 10
+Tips for working with third parties to manage your Business Profile
+
+Shape the future of Google support
+User research studies help us improve our support services by allowing us to get feedback directly from users like you. Learn more, or sign up now for invitations to participate in future studies.
+
+Google
+Privacy Policy
+
+Terms of Service
+
+Language català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیहिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
+
+Enable Dark Mode
+
+Send feedback on...
+This help content & information General Help Center experience
+
+Search
+
+Clear search
+
+Close search
+
+Google apps
+
+Main menu
+
+13278873499595874243
+
+true
+
+Search Help Center
+
+false
+
+true
+
+true
+
+true
+
+true
+
+true
+
+99729
+
+false
+
+false
+
+false
+
+false
+
+false
+
+false

@@ -1,0 +1,81 @@
+Appulate FORMS AI: Supporting All Lines of Business
+
+Skip to content
+
+Book A Demo
+
+All posts
+
+September 10, 2026
+
+Appulate FORMS AI: Supporting All Lines of Business
+
+By
+
+Elliott Pickett
+
+·
+
+1 minute read
+
+Westlake Village, CA - Appulate, a leader in insurance automation, is proud to announce the latest evolution of Appulate FORMS AI, its advanced document intelligence engine that redefines how insurance submissions are processed. Marking a major step forward in Appulate’s 20-year legacy of innovation, FORMS AI now supports all lines of business while delivering instant, accurate data extraction from a wide variety of document types.
+
+With this new release, Appulate is extending the reach of its document ingestion technology beyond ACORDs. FORMS AI uses advanced machine learning to extract and standardize data from PDFs, Excel files, handwritten forms, and more. Data is ingested in seconds, and is ready to flow directly into PolicyCenter, market portals, or connected systems via API.
+
+“From a Commercial Property schedule with hundreds of locations to a complicated Workers’ Comp spreadsheet containing payroll and class codes, FORMS AI can ingest and organize vast quantities of data in less than a minute, delivering faster quoting across the board.” - Johnny Yarbrough Director of Business Development at Appulate
+
+Key Features of FORMS AI
+
+Extract data from any document, including Excel spreadsheets, handwritten forms, and PDFs.
+
+No engineering or mapping delay since data extraction begins immediately.
+
+Achieves approximately industry-leading accuracy on day one, improving continuously as the AI learns.
+
+Cleaner data intake, fewer errors, and improved decision-making.
+
+Drives cost reductions across the submission workflow with faster processing and fewer manual touchpoints.
+
+Data is ingested in seconds, and is ready to flow directly into PolicyCenter, market portals, or connected systems via API.
+
+With no file format industry standard for submissions, this aims to eliminate this issue by offering a universal alternative to use across the board. Helping users both reduce manual data entry and accelerate the quoting process going forward. With FORMS AI, Appulate continues to lead the industry toward simpler, faster, and more intelligent insurance automation. This expansion proves that smarter data handling isn’t just possible, it’s here, and it’s already transforming the way insurance is written and underwritten.
+
+BOOK A DEMO
+
+About Appulate
+
+Appulate is a technology leader in the insurance industry, known for its powerful automation tools that connect independent agents with markets more efficiently. With award-winning solutions trusted by hundreds of carriers and thousands of agencies nationwide, Appulate continues to push the boundaries of Insurtech innovation.
+
+Share
+
+Related posts
+
+Insurance Automation
+
+AI-Powered Submission Intelligence Transforms Commercial Underwriting
+
+Press Releases
+
+Insurance Business America Names Appulate Co-Founder To Hot 100 List
+
+Press Releases
+
+Appulate Completes Guidewire PolicyCenter Extension
+
+About
+
+Home
+
+Appulate 101
+
+Contact
+
+Resources
+
+Market Directory
+
+Help Center
+
+Sign In
+
+-2026 APPULATE INC.
