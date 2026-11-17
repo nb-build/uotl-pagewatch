@@ -1,0 +1,333 @@
+2025: The Year PushPress Hit a PR | PushPress
+
+New: a 20-minute audit to find what’s holding your gym back before January. Get the checklist →
+
+Get the checklist
+
+Products
+
+Platform
+
+Gym management software that scales as you grow your gym or studio
+
+Learn about PushPress AI
+
+Business Type
+
+CrossFit
+
+Martial Arts
+
+Strength & Conditioning
+
+Small Group & Personal Training
+
+Sports Performance
+
+Studio Fitness
+
+Add-on Products
+
+A system to automate your lead engagement and convert more leads into paying clients
+
+The only workout tracking system your gym needs
+
+A fully built out app for your clients to use with your branding on it
+
+Cost-effective, flexible insurance options, adapted to protect your unique gym
+
+Integrations
+
+Slack
+
+Stripe
+
+Facebook Ads
+
+Google Analytics
+
+Zapier
+
+And More
+
+PricingCustomersAbout
+
+Resources
+
+Insights
+
+Business of Fitness Blog
+
+Learn about trends, best practices, case studies, tips and more!
+
+Resources
+
+Playbooks, checklists, and templates, built from interviews with owners.
+
+On-Demand Webinars
+
+Learn from our experts
+
+Events & Appearances
+
+See where we’re heading next and come connect with our team.
+
+Partners
+
+Programming Partners
+
+Trusted workouts, built into PushPress
+
+Learning Center
+
+PushPress Community
+
+Your fitness business network
+
+PushPress TV
+
+Watch & Learn on YouTube
+
+What's New in PushPress
+
+We constantly improve our software. See what we've just released.
+
+Self-Serve Product Help
+
+Help docs for the PushPress Ecosystem of Products
+
+Sign In
+
+Book a Demo
+
+PushPress News & Product
+
+2025: The Year PushPress Hit a PR
+
+Alexis Hancock
+
+|
+
+Published
+
+December 18, 2025
+
+TL;DR
+
+From practical AI tools and the rollout of Tap to Pay to smoother billing, martial arts features, and rock-solid reliability, these improvements saved time, reduced busywork, and set the foundation for what’s coming next. for what’s coming next.
+
+‍
+
+We shipped over a hundred new product updates and improvements this year. Some were big, some were subtle, and a few completely changed the way owners and instructors run their business every day.
+
+Our Product and Engineering teams hit 2025 with the goal of building client-first features, while laying the groundwork to truly innovate in 2026 with AI. This is the short list of updates that made gym life and ownership easier — the ones that saved time, cut the busywork, and gave teams more room to focus on their people instead of their software.
+
+Let’s jump into the most impactful upgrades of 2025.
+
+1. AI Became Real Inside PushPress
+
+This was the year AI finally became useful. Not hype. Not theory. Real time saved in the places owners and instructors feel every day.
+
+We introduced the first version of the AI Assistant and put it into a controlled beta. Early access businesses can already use simple text prompts to manage plans, ask member-profile related questions and book recurring classes. No menus. No digging around Core. You type what you want. It does the work.
+
+AI showed up in more areas too. GymHappy started writing clean review requests so businesses can build real social proof without the extra effort. Plan creation got AI written class descriptions to make setup faster. Our new Dashboard added smarter SMS follow up tools so staff can connect with people at the right moment. And the Branded App began posting celebration updates automatically to keep communities active without anyone doing the work in the background.
+
+These features are already saving teams hours each week. And it’s still early.
+
+So what’s next?
+
+AI Assistant Levels Up: Our AI Assistant keeps gaining new skills that take more admin work off your plate
+
+AI-Powered Reporting: We’re testing a one stop shop for communication
+
+New coaching tools: Laying the groundwork to empower coaches and instructors before every class
+The AI Assistant moves to more users in Q1. If you want early access, join the waitlist today.
+2. Martial Arts, Rank Tracking, and Events
+
+This was a massive year for martial arts academies.
+
+With Rank Tracking in Core, academies can create complete belt systems, set clear promotion paths, and follow student progress in real time. Invite Only Events helps schools run smooth, focused belt tests without extra work. And now that students can see their belts, stripes, and progress inside the Members App, they stay excited and connected throughout their journey.
+
+And we shipped the first automation system in Grow built specifically for martial arts. It understands trials, promotions, inactivity, and the full student journey in a way most marketing agencies cannot replicate.
+
+3. Staff App and Tap to Pay
+
+The Staff App had its biggest year yet.
+
+Staff Chat was rebuilt from scratch and finally feels like a modern messaging tool. You get threaded replies, reactions, read receipts, pinned messages, and more reliable notifications. Coaches can now view member profiles with full context. Rosters show helpful icons for notes, documents, birthdays, anniversaries, and lead status.
+
+On the operations side, Kiosk Mode can now sell memberships right at the front desk. Tap to Pay and Stripe card reader support make checkouts feel modern and fast.
+
+It is easily the most complete version of the Staff App we have ever shipped.
+
+4. Grow Sync
+
+Grow got a completely rebuilt foundation with our upgraded sync into Core. This was one of the most important under the hood projects of the year.
+
+We rebuilt the data pipeline so syncing is fast, accurate, and built to handle ten times more data while giving gyms more flexibility to shape Grow around the way they work. A lot of the future of Grow and AI powered workflows sits on top of this work. The new sync gives us the reliability we need to move faster on bigger features.
+
+5. Plans, Pricing, Billing, Checkout
+
+This entire area of the product got a huge lift. We rebuilt the plan builder so gyms can finally create and sell memberships in a clean, modern flow. Pricing Tiers give you monthly, quarterly, annual and more inside a single plan. Pricing and plan recommendations help you avoid undercharging and get set up quickly.
+
+Members can now buy with prorated pricing and flexible start dates directly on purchase pages. Drop ins can pay instantly through Guest Checkout without creating an account. And collecting a credit card became much simpler with the new request flow tied directly to adding a plan.
+
+Combine that with Priority Booking, Plan Purchase Limits, and Recurring Class Reservations and the whole membership experience feels more streamlined from top to bottom.
+
+6. People Management and Profiles
+
+The People List got a full redesign and instantly felt better to use. Members, leads, and staff each have their own clear space. Filters make it easy to find people by status including those who have canceled or are thinking about canceling so you can take action sooner.
+
+The new member profile page is a big improvement too. It loads quicker, it is easier to navigate, and it finally puts the most important details where they belong. It is also much nicer to use on a phone which makes life easier for coaches and staff.
+
+7. Members App and Branded App
+
+Members got a much smoother experience this year. Notifications now open directly into the content they reference. Schedules load faster. Attendance displays correctly. And background updates let us push small fixes without waiting on app store approvals.
+
+Branded App clients got a very popular update. Automated celebration posts can now fire every morning using AI written messages. They tag members, notify them, and keep your community active without anyone on your team doing the work. It is a small feature with a big impact.
+
+8. Onboarding, Setup, and Self Serve Account Management
+
+We made it easier for new gyms to get started and gave current gyms more control over their account.
+
+New accounts now walk through a guided setup that covers branding, plans, classes, and appointments. The Ride Along Checklist follows you as you complete each step and gives you a real sense of progress.
+
+Existing gyms gained full self serve account control. Owners can now upgrade, downgrade, cancel, and view all invoices without waiting on support. It is cleaner, faster, and puts the control where it should be.
+
+9. Train and Screens
+
+On site at the 2025 CrossFit Games
+Train and Screens finally started delivering the digital whiteboard experience gyms have wanted.
+
+Screens can now show live workout results pulled directly from Train. PRs and standout scores pop right onto the screen which makes the gym feel more alive without manual score entry. The Screens App also got Code Push support so updates come through instantly.
+
+We also updated Train to play nice with Wodify after they changed their export format which kept migration work moving for gyms that needed it.
+
+10. Reliability, Stability, and the Work You Don’t See
+
+A big part of making software better is fixing the things that slow people down, even when those fixes are not flashy.
+
+This year, we put a much heavier focus on reliability and quality across the platform. That meant tightening up billing logic, cleaning up edge cases, improving notification delivery, and making sure data stayed consistent everywhere it showed up. Not because it looks good on a release note, but because these are the issues that affect businesses every single day.
+
+Just as important, we’ve improved the way bugs get reported, prioritized, and resolved so issues surface faster and fixes ship sooner. The goal is simple. Fewer surprises, more confidence, and software that feels solid when you rely on it.
+
+Cheers to a Platform That Scales as You Do
+
+This year was about momentum. We shipped meaningful improvements across every part of the platform, made AI genuinely useful in day to day workflows, and laid the foundation for where PushPress is headed next.
+
+What matters most is that these changes are already making life easier for owners, coaches, and staff. Less time spent fixing problems. More time spent coaching, connecting, and growing strong communities.
+
+And we are just getting started. The roadmap ahead builds directly on the work we did this year, with smarter tools, deeper automation, and even more ways to take busywork off your plate.
+
+Thank you for building with us. We are excited for what comes next.
+Ready to level up your gym, studio, or martial arts academy in 2026? Book a free 1:1 demo with our team today.
+‍
+
+Alexis Hancock
+
+Alexis is the Senior Content Marketing Manager at PushPress. She is a passionate storyteller who enjoys empowering SMB owners, especially within the fitness space. She is also a former Team USA wrestler.
+
+Select Category
+
+Choosing Gym Software
+
+Coaching & Programming
+
+Customer Stories
+
+Gym Operations & Leadership
+
+Marketing & Lead Gen
+
+Member Experience & Retention
+
+PushPress News & Product
+
+Revenue, Sales & Pricing
+
+Starting & Growing a Gym
+
+Resources for Gym Owners
+
+Playbooks, checklists and on-demand webinars — every one built from an interview with an owner who runs the system.
+
+Browse all resources
+
+Ready to scale your fitness business?
+
+Try our hassle-free gym management software loved by thousand of successful gym owners.
+
+Get started with a demo
+
+PushPress is the reason my gym became profitable.
+
+—Joe M. Gym Owner
+
+Gym Operations & Leadership
+
+Your Martial Arts School Is a Job, Not a Business (Yet)
+
+Teaching every class, answering every lead, mopping the mats at 9pm. That's a job, not a business (yet).
+
+November 9, 2026
+
+8 min read
+
+min
+
+Member Experience & Retention
+
+How to Run a BJJ Intro Class That Turns Trials Into Students
+
+The first day is a system, not a class. Here's how Easton turns BJJ trials into students.
+
+November 9, 2026
+
+10 min read
+
+min
+
+Coaching & Programming
+
+What a Meltdown on the Mat Is Really Telling You
+
+A meltdown on the mat isn't defiance. It's a signal. Here's how to read it and respond without punishment.
+
+November 3, 2026
+
+8 min read
+
+min
+
+Follow along and build a better gym with us
+
+Get actionable strategies and ideas to help you grow your gym and manage it successfully, in your inbox every week!
+
+No Spam. Ever. Unsubscribe anytime.
+
+2093A Philadelphia Pike
+
+Unit 284
+
+Claymont, DE 19703
+
+(302) 406-5172
+
+Product
+CoreGrowTrainPricingFeatures
+
+Resources
+Business of Fitness BlogEvents & AppearancesKnowledge BaseRelease NotesFree Workout TimersHow to Open a Gym
+
+PushPress
+About UsJoin Our TeamTerms of ServicePrivacy Policy﻿
+
+4.7
+
+4.73
+
+4.8
+
+PushPress, Inc.
+
+PushPress is not affiliated with CrossFit, Inc. nor is it endorsed by CrossFit, Inc. or any of its subsidiaries. CrossFit is a registered trademark of CrossFit, Inc.

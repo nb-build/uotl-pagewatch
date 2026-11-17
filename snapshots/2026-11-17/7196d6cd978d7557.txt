@@ -1,0 +1,629 @@
+HubSpot's default contact properties
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+CRM
+
+Properties
+
+HubSpot's default contact properties
+
+HubSpot's default contact properties
+
+Last updated:
+
+September 21, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+All products and plans
+
+Additional subscriptions required for certain features
+
+Contact properties store information about your contacts (e.g., email address, first conversion date). HubSpot creates default properties in each account to store key information. Some of those properties, such as the lifecycle stage property, are
+automatically populated by HubSpot.
+
+Some default contact properties cannot be edited. Instead of editing a default property, you can create custom contact properties.
+
+Please note: your account may use personalized names for each object (e.g., account instead of company). This article refers to objects by their HubSpot default names.
+
+Learn more about:
+
+the properties API.
+
+property management, including viewing their internal name and creating custom properties.
+
+default company properties.
+
+default deal properties.
+
+default ticket properties.
+
+Data for certain default contact properties can be populated using Breeze, HubSpot's collection of AI tools.
+
+To view your contact properties:
+
+In your HubSpot account, click the settings icon in the top navigation bar.
+
+In the left sidebar menu, navigate to Properties.
+
+Click the Select an object dropdown menu and select Contact properties. This will filter the properties by the contact object. Your default contact properties should be in this list.
+
+Please note: the properties and property groups in your account may differ from the complete list below. This will depend on if you have access to the Marketing Hub, Sales Hub, or Service Hub platforms and/or when your HubSpot account was created.
+
+Contact activity
+
+Subscription required
+
+A Professional or Enterprise subscription is required to use some of the properties listed.
+
+Campaign of last booking in meetings tool: this UTM parameter shows which marketing campaign (e.g. a specific email) referred the contact to the meetings tool for their most recent booking. This property is only populated when you add tracking parameters to your meeting link. This is automatically set by HubSpot.
+
+Contact priority (Marketing Hub Enterprise, Sales Hub Enterprise, and Service Hub Enterprise only): a ranking system of contacts evenly assigned into four tiers. Contacts in tier one are more likely to become customers than contacts in tier four. This is automatically set by HubSpot.
+
+Currently in sequence (Sales Hub Starter, Professional, and Enterprise only): indicates whether or not the contact is enrolled in a sequence. This is set automatically to True when the contact is currently enrolled in a sequence. This is automatically set by HubSpot.
+
+Date of last meeting booked in meetings tool: the date of the meeting that is booked the farthest out from the current date in the meetings tool. For example, if a meeting is booked for December 1st, and another meeting is booked for December 7th, the property value will appear as December 7th. This is automatically set by HubSpot.
+
+First conversion: the first form the contact submitted. This is set automatically by HubSpot and cannot be edited manually.
+
+First conversion date: the date the contact first submitted a form. This is automatically set by HubSpot.
+
+Last activity date: the most recent already past date and time a note, call, tracked and logged sales email, meeting, LinkedIn/SMS/WhatsApp message, or chat was logged on the contact record. It also includes completed tasks. This is set automatically by HubSpot based on the most recent date/time set for an activity. For example, if a user logs a call and indicates that it occurred the day before, the Last activity date property will show yesterday's date. Also, if a user logs a call with the date tomorrow at noon, the value will update when that date/time passes.
+
+Last contacted: the last date and time a chat conversation, call, non-forwarded one-to-one email, meeting, or manually entered LinkedIn/SMS/WhatsApp message was logged for the contact. This is set automatically by HubSpot based on the latest date of activities in the record. For example, the Last contacted property in the record will show yesterday's date when a user logs a call that occurred the day before.
+
+Last NPS survey comment (Service Hub Professional and Enterprise only): the last NPS survey comment that the contact gave. This is automatically set by HubSpot.
+
+Last NPS survey date (Service Hub Professional and Enterprise only): the date that the contact last submitted a NPS survey response. This is automatically set by HubSpot.
+
+Last NPS survey rating (Service Hub Professional and Enterprise only): the last NPS survey rating that the contact gave. This is automatically set by HubSpot.
+
+Last engagement date: the last date and time of one-to-one email opens and clicks, lead revisit notifications, meeting bookings, and form submissions on the contact record. This is set automatically by HubSpot based on the date/time set for an activity when it's logged on the record only when the Contact owner property has a value.
+
+Likelihood to close (Marketing Hub Enterprise and Sales Hub Enterprise only): the probability that the contact will become a customer within the next 90 days. This score is based on demographic information in standard contact properties and interactions logged in the contact timeline such as tracked email clicks and meetings booked. This is automatically set by HubSpot.
+
+Medium of last booking in meetings tool: this UTM parameter shows which channel (e.g. email) referred the contact to the meetings tool for their most recent booking. This property is only populated when you add tracking parameters to your meeting link. This is automatically set by HubSpot.
+
+Next activity date: the date of the next upcoming activity for the contact. This is set automatically by HubSpot based on user actions in the contact record. This includes logging a future call, sales email, or meeting, or scheduling a future meeting. Emails and tasks scheduled in a sequence don't update this property.
+
+Number of sales activities: the total number of sales activities logged for the contact. Sales activities include a call, chat conversation, LinkedIn message, postal mail, meeting, note, sales email, SMS message, task, or WhatsApp message. This is set automatically by HubSpot based on the number of applicable activities on the record. Learn more about logging activities.
+
+Recent sales email clicked date (Sales Hub Professional and Enterprise only): the date of the last time that the contact clicked on a sales email. This is automatically set by HubSpot.
+
+Recent sales email open date: the date of the last time that the contact opened a sales email. This property does not update for emails that were sent to more than one contact. This is automatically set by HubSpot.
+
+Recent sales email replied date: the date of the last time that the contact sent an email to your connected personal or team email. Learn more about personal and team email connection in HubSpot. This is automatically set by HubSpot.
+
+Source of last booking in meetings tool: this UTM parameter shows which site (e.g. LinkedIn) referred the contact to the meetings tool for their most recent booking. This property is only populated when you add tracking parameters to your meeting link. This is automatically set by HubSpot.
+
+Contact Information
+
+Subscription required
+
+A Marketing Hub Starter, Professional, or Enterprise subscription is required to use the marketing contact properties.
+
+A Sales Hub Professional or Enterprise subscription is required to use the prospecting agent properties.
+
+A Marketing Hub Professional or Enterprise subscription is required to use the time between contact properties.
+
+Annual revenue: annual company revenue.
+
+Brands: the brands the contact is assigned to.
+
+City: the contact's city of residence.
+
+Company name: the name of the contact's company. This is separate from the Company name property of the contact's associated company, and the Associated company shown on the contacts index page. This property is not affected by automatic association or manual association and can be manually updated regardless of company associations.
+
+Contact owner: the contact's owner. You can assign additional users to the contact record by creating a custom HubSpot user field type property.
+
+Contact unworked?: an indication if the contact has been worked. If it is true, the contact hasn't been assigned to an owner, or doesn't have a sales activity logged in its timeline since the contact was assigned its latest owner. This is automatically set by HubSpot.
+
+Country/Region: the contact's country of residence.
+
+Country/Region Code: the two letter country code where the contact is located (e.g., US).
+
+Create date: the date that the contact was created in your HubSpot account. This is automatically set by HubSpot.
+
+Created by user ID: the user who created the contact. This value is set automatically by HubSpot.
+
+Currently enrolled in prospecting agent: indicates whether or not the contact is enrolled in the prospecting agent. This is automatically set by HubSpot.
+
+Date of first engagement: the date the current contact owner first engaged with the contact. This is set automatically by HubSpot and will be cleared if Contact owner is set to No owner.
+
+Description of first engagement: a description of the current contact owner's first engagement with the contact. This is automatically set by HubSpot.
+
+Email: the contact's primary email address.
+
+Email domain: the contact's email domain. This is automatically set by HubSpot.
+
+Employment Role: the contact's job role (e.g., Operations).
+
+Employment Seniority: the contact's job seniority (e.g., Executive).
+
+Employment Sub Role: the contact's second level job role (e.g., General Manager).
+
+Enrichment opt out: indicates if contact is opted out of being included in the HubSpot Enrichment database. This is automatically set by HubSpot.
+
+Enrichment opt out timestamp: timestamp of when the contact opted out of being included in the HubSpot enrichment database. This is automatically set by HubSpot.
+
+Fax number: the contact's primary fax number.
+
+First name: the contact's first name.
+
+Has been enriched: indicates whether the contact has ever had enriched properties written to it. This is automatically set by HubSpot.
+
+HubSpot score: the number that shows qualification of contacts to sales readiness based on the criteria set in HubSpot's lead scoring tool. This is automatically set by HubSpot.
+
+ID of first engagement: the object ID of the current contact owner's first engagement with the contact. This is automatically set by HubSpot.
+
+Industry: the contact's industry.
+
+Job title: the contact's job title.
+
+Last name: the contact's last name.
+
+Last modified date: the most recent date that any property on a contact record was updated. This is automatically set by HubSpot.
+
+This can also include updates on HubSpot internal properties, which may be hidden.
+
+For example, if today a user logs a call from the previous day, the Last modified date property will show today's date.
+
+Last sequence enrolled: the unique ID of the last sequence that the contact was enrolled in. This is automatically set by HubSpot.
+
+Last sequence enrolled date: the date the contact was enrolled into a sequence. This is the date a user enrolled a contact in a sequence, not necessarily the date of the first step that executed. This is automatically set by HubSpot.
+
+Last sequence ended date: the date that the contact was last unenrolled from a sequence. This is automatically set by HubSpot.
+
+Lead status: the contact and company property that indicates where the contact or company is within a buying cycle as a lead. Learn about the difference between Lead status and Lifecycle stage.
+
+Lead response time: Time it took the current owner to do first qualifying engagement (ms). This is automatically set by HubSpot.
+
+Legal basis for processing contact's data: the legal reasoning for your company's ability to process the contact's data. If this is set to Not applicable, it will exempt the contact from GDPR protections.
+
+Lifecycle stage: a property used to indicate at what point the contact is within the marketing/sales process. It can be set through imports, forms, workflows, or manually on a per contact basis.
+
+LinkedIn URL: the URL of the contact's LinkedIn page.
+
+Marketing contact status: indicates if the contact is currently a marketing or non-marketing contact. This is automatically set by HubSpot.
+
+Marketing contact status source type: indicates the tool that set the latest value in the contact's marketing contact status. This is automatically set by HubSpot.
+
+Marketing contact status source name: displays the ID of the specific activity or tool that set the latest value in the contact's marketing contact status. When using this property in other HubSpot tools (e.g., filters, segments), use the numerical ID rather than name. This is automatically set by HubSpot.
+
+Marketing contact until next update: specifies if this contact will be set as non-marketing on the next update date. When you set an existing marketing contact as non-marketing, the property value will change to Yes, which indicates that the non-marketing status will take effect on the next update date. This is automatically set by HubSpot.
+
+Member email: the email address used to send private content information to members.
+
+Merged Contact IDs: the Record IDs of contacts that were merged into the contact record. This is automatically set by HubSpot once a contact merge is completed.
+
+Message: a default property to be used for any message or comments the contact may want to leave on a form.
+
+Mobile phone number: the contact's mobile phone number. The phone number is validated and formatted automatically by HubSpot based on the country code, so you must include the country code. You can select to turn off automatic formatting on a contact record, either when editing the Mobile phone number property, or adding a phone number to call.
+
+Number of employees: the number of company employees.
+
+Number of sequences enrolled: the number of times a contact was enrolled into a sequence. This is automatically set by HubSpot.
+
+Number of times contacted: the total number of logged sales activities on a contact record. Possible activities include calls, chat conversations, LinkedIn messages, postal mail, meetings, sales emails, SMS, or WhatsApp messages logged on the contact record. Unlike in the Number of sales activities property, tasks and notes are not included in this property. This is set automatically by HubSpot based on the number of applicable activities on the record.
+
+Owner assigned date: the most recent timestamp of when an owner was assigned to the contact. This value is set automatically by HubSpot.
+
+HubSpot team: the main team of the contact owner. This value is set automatically by HubSpot.
+
+Persona: the contact's persona.
+
+Phone number: the contact's primary phone number. The phone number is validated and formatted automatically by HubSpot based on the country code, so you must include the country code You can select to turn off automatic formatting on a contact record, either when editing the Phone number property, or adding a phone number to call.
+
+Postal code: the contact's zip code.
+
+Preferred language: the contact's preferred language for communications. This might be set via import, form, or integration.
+
+Prospecting agent last enrolled: the last date the contact was enrolled in the prospecting agent.
+
+Prospecting agent total enrolled count: the total number of times a contact has been enrolled in the prospecting agent.
+
+Record ID: the unique identifier for the contact. This value is set automatically by HubSpot. This can be used when updating contacts through importing or through API.
+
+Record Source: how the contact was created. This is automatically set by HubSpot.
+
+Record Source Detail 1: the first level of detail on how the contact was created. This is automatically set by HubSpot.
+
+Record Source Detail 2: the second level of detail on how the contact was created. This is automatically set by HubSpot.
+
+Record Source Detail 3: the third level of detail on how the contact was created. This is automatically set by HubSpot.
+
+Salutation: the title used to address the contact.
+
+Shared teams: additional teams whose users can access the contact based on their permissions.
+
+Shared users: additional users can access the contact based on their permissions.
+
+State/Region: the contact's state of residence.
+
+State/Region Code: the two letter state code where the contact is located (e.g., TX for Texas).
+
+Street address: the contact's street address, including apartment or unit #.
+
+Time between contact creation and deal close: the amount of time between when a contact was created and when the contact's lifecycle stage became Customer.
+
+Time between contact creation and deal creation: the amount of time between when a contact was created and when the contact was associated with a deal.
+
+Time zone: the contact's time zone, set manually by selecting a pre-defined time zone. The property's options are static and do not update based on daylight savings time. There will be an hour difference for certain time zones from November to March.
+
+Type of first engagement: The object type of the current contact owner's first engagement with the contact. This is automatically set by HubSpot.
+
+Updated by user ID: the user who last updated the contact. This value is set automatically by HubSpot.
+
+Website URL: the contact's company website.
+
+Contact Lifecycle Stage Properties
+
+Cumulative time in [lifecycle stage]: the cumulative time in seconds spent by the contact in the stage. Learn more about lifecycle stage calculated properties. This is automatically set by HubSpot.
+
+Date entered [lifecycle stage]: the date and time when the contact entered the stage. Learn more about lifecycle stage calculated properties. This is automatically set by HubSpot.
+
+Date exited [lifecycle stage]: the date and time when the contact exited the stage. Learn more about lifecycle stage calculated properties. This is automatically set by HubSpot.
+
+Latest time in [lifecycle stage]: the total time in seconds spent by the contact in the stage since it last entered the stage. Learn more about lifecycle stage calculated properties. This is automatically set by HubSpot.
+
+Conversion Information
+
+All of these properties are automatically set by HubSpot. Location information properties (e.g., IP country and IP timezone) are updated based on the IP address from which a contact interacts with your business, such as through ads, page visits, marketing email clicks/opens, and form submissions. For the properties to be set or updated, a contact must interact multiple times from the same IP address. For example, if a contact typically opens and click emails from one IP address, but visits a page one time from another IP address, the properties will not be updated for that single visit.
+
+Facebook click ID: a value that indicates a contact's visit to your site came from a Facebook ad. This is automatically set by HubSpot based on a URL identifier provided by Facebook Ads.
+
+Google ad click ID: a value that indicates a contact's visit to your site came from a Google ad. This is automatically set by HubSpot based on a Google Click identifier (GCLID) provided by Google Ads.
+
+IP city: the city reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+
+IP country: the country reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+
+IP country code: the country code (in alpha-2 format) reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+
+IP state/region: the state or region reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+
+IP state/region code: the state code or region code reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+
+IP time zone: the timezone reported by the contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting. This property is used to determine the contact's time zone for the time zone send email feature.
+
+Number of form submissions: the number of forms the contact has submitted. This includes both marketing form submissions and meetings scheduling page form submissions. This is automatically set by HubSpot.
+
+Number of unique forms submitted: the number of different HubSpot forms, pop-up forms, and collected forms the contact has submitted. This is automatically set by HubSpot.
+
+Recent conversion: the last form the contact submitted. This is formatted as the name of the page the form was submitted on, followed by a colon, then the name of the submitted form (i.e., Page title: Name of form). This is automatically set by HubSpot.
+
+Recent conversion date: the date the contact last submitted a form. This is automatically set by HubSpot.
+
+Deal information
+
+Buying role: the role that the contact plays during the sales process. You can select more than one role. The property value plays a part in HubSpot's account-based marketing features. You can edit the property to add new buying roles, but the default values cannot be deleted. Learn more about some of the different buying roles you might encounter during your sales process.
+
+Close date: the date that the contact became a Customer. This will be automatically set by HubSpot based on associated deals only if the Set lifecycle stage when a deal is won setting is turned on and the contact is moved to the default Customer stage (i.e. not a custom stage).
+
+Days to close: the number of days between the day the contact was added to your account and the day they became a customer. This is set automatically by HubSpot based on the contact's values for the Create date and Close date properties. If a contact is missing a close date, the Days to close property won't be automatically updated. You can can either manually update the close date, or turn on the Set lifecycle stage when a deal is won setting to automatically set the close date based on associated deals.
+
+First deal created date: the create date of the first deal the contact is associated to. This is automatically set by HubSpot.
+
+Number of associated deals: the total number of all associated deals. This is automatically set by HubSpot.
+
+Recent deal amount: the value of the last closed-won deal associated with that contact. This is automatically set by HubSpot.
+
+Recent deal close date: the date of the last associated deal that was closed as won. This is automatically set by HubSpot.
+
+Total revenue: total dollar amount of all associated deals that have been closed as won. This is automatically set by HubSpot.
+
+Email Information
+
+Unlike other contact properties, properties under Email Information are tied to the contact's current email address. If the email address changes for any reason (including contact creation, restoration, or merge), these properties will be updated with values for the new email address, overwriting the values for the old email address.
+
+Please note: these properties are automatically set by HubSpot and are based on emails sent using HubSpot tools.
+
+Email address quarantined: indicates that the current email address has been quarantined for anti-abuse reasons. HubSpot will not send any marketing emails to quarantined email addresses. This is automatically set by HubSpot.
+
+Email hard bounce reason: the last reason why an email hard bounced for the contact. Learn more about these hard bounce reasons. This is automatically set by HubSpot.
+
+Invalid email address: whether the email address is invalid. This is automatically set by HubSpot.
+
+Marketing email confirmation status: the status of the contact's eligibility to receive email. This property is automatically set by HubSpot based on a contact's interaction with the double opt-in email and their confirmation status.
+
+Marketing emails delivered: the number of unique marketing email delivered events for the current email address. This value is incremented at most once per campaign ID. Regular emails have one campaign ID. Automated emails have one campaign ID per workflow they are sent through. This means one automated email delivered to a contact via two separate workflows can increment the value by two. This is automatically set by HubSpot.
+
+Marketing emails bounced: the number of marketing emails sent from your account that hard or soft bounced (this does not include global bounces, that are bounces in any account in HubSpot's system for a permanent reason, such as an invalid recipient). This is automatically set by HubSpot.
+
+Marketing emails opened: the number of marketing emails opened. This value is incremented at most once per email so if the same email is opened multiple times, this value will only increase by one. Transactional email interactions do not count towards opens. This is automatically set by HubSpot.
+
+Marketing emails clicked: the number of marketing emails which have had link clicks. This value is incremented at most once per email so if the same link is clicked multiple times, or multiple links in the same email are clicked, this value will only increase by one. Transactional email interactions do not count towards clicks. This is automatically set by HubSpot.
+
+First marketing email send date: the date of the earliest email delivery for any marketing email. This is automatically set by HubSpot.
+
+First marketing email open date: the date of the earliest email open for any marketing email. This is automatically set by HubSpot.
+
+First marketing email click date: the date of the earliest link click for any marketing email. This is automatically set by HubSpot.
+
+First marketing email reply date: the date of the earliest reply for any marketing email. This is automatically set by HubSpot.
+
+Last marketing email send date: the date of the most recent email delivery for any marketing email. This is automatically set by HubSpot.
+
+Last marketing email open date: the date of the most recent email open for any marketing email. This is automatically set by HubSpot.
+
+Last marketing email click date: the date of the most recent link click for any marketing email. This is automatically set by HubSpot.
+
+Last marketing email reply date: the date of the most recent reply for any marketing email. This is automatically set by HubSpot.
+
+Last marketing email name: the name of the last marketing email sent. This is automatically set by HubSpot.
+
+Unsubscribed from all email: indicates that the current email address has opted out of all email from the account. This is automatically set by HubSpot.
+
+Opted out of email: [email type name]: indicates that the current email address has opted out from emails of the specified type. This is automatically set by HubSpot.
+
+Sends since last engagement: the number of marketing emails that have been sent since the last engagement, specifically email open or link click. Transactional email interactions do not count towards engagement. This is automatically set by HubSpot.
+
+Web Analytics History
+
+Subscription required
+
+A Marketing Hub Enterprise subscription is required to use the Event revenue property.
+
+Please note: the following must be true in order for a page view to be recorded:
+
+The HubSpot tracking code is firing on the page. This drops a cookie on the visitor's browser.
+
+The visitor's cookie is associated to a contact record in HubSpot. This occurs in any of these situations: the contact has filled out a form with cookie tracking enabled, the contact has received a marketing email with identity tracking and visited your site by clicking a link in that email, or the Events JavaScript API was used to create the contact.
+
+Average page views: the average number of pages a contact sees per session. This is automatically set by HubSpot for each contact.
+
+Event revenue: event revenue can be set on the contact using HubSpot's events tool. This is automatically set by HubSpot.
+
+First page seen: the first page URL the contact saw on your website. This is automatically set by HubSpot for each contact.
+
+First referring site: the first website that referred the contact to your website. This is automatically set by HubSpot for each contact.
+
+First touch converting campaign: the first campaign the visitor interacted with before being created as a contact. When using this property in other HubSpot tools (e.g., filters, segments), use the campaign ID rather than name. This is automatically set by HubSpot.
+
+Last page seen: the last page the contact saw on your website. This is automatically set by HubSpot for each contact.
+
+Last referring site: the last website that referred the contact to your website. This is automatically set by HubSpot for each contact. This analytics property looks at the last page viewed, so this site can be internal or external.
+
+Last touch converting campaign: the most recent campaign the visitor interacted with before being created as a contact. When using this property in other HubSpot tools (e.g., filters, segments), use the numerical ID rather than name. This is automatically set by HubSpot.
+
+Latest Traffic Source: the source of the most recent interaction a contact had with your business. This is automatically set by HubSpot. The property options are not editable, but an individual's Latest Traffic Source value can be manually changed to any of the options.
+
+Latest Traffic Source Date: the date of the most recent interaction a contact had with your business. This is automatically set by HubSpot based on the Latest Traffic Source property, but can also be manually edited.
+
+Latest Traffic Source drill-down 1: additional information about the most recent source for the last interaction the contact had with your business. This is automatically set by HubSpot and can't be manually changed for the contact. Learn more about the possible values.
+
+Latest Traffic Source drill-down 2: additional information about the most recent source for the last interaction the contact had with your business. This is automatically set by HubSpot and can't be manually changed for the contact. Learn more about the possible values.
+
+Number of event completions: the sum of all events the contact has experienced. This is automatically set by HubSpot for each contact.
+
+Number of page views: the sum of all pages the contact has seen on your website. This is automatically set by HubSpot for each contact.
+
+Number of sessions: the number of sessions the contact has had on your website. This is automatically set by HubSpot for each contact.
+
+Original Traffic Source: the first known source through which the contact interacted with your business. This is automatically set by HubSpot. The property options are not editable, but an individual's Original source value can be manually changed to any of the options.
+
+Original Traffic Source drill-down 1: additional information about the traffic source through which the contact first interacted with your business. This is automatically set by HubSpot and cannot be manually changed for the contact. Learn more about the possible values.
+
+Original Traffic Source drill-down 2 : additional information about the traffic source through which the contact first interacted with your business. This is automatically set by HubSpot and cannot be changed for the contact. Learn more about the possible values.
+
+Time first seen: the first date and time the contact has viewed a page on your website. This is automatically set by HubSpot for each contact.
+
+Time last seen: the last date and time the contact has viewed a page on your website. This is automatically set by HubSpot for each contact.
+
+Time of first session: the first time the contact interacted with your website (website visit, form submission, CTA click). This is automatically set by HubSpot for each contact.
+
+Time of last session: the last time and date the contact interacted with your website (website visit, form submission, CTA click). This is automatically set by HubSpot for each contact.
+
+Contact Calculated Information
+
+These properties are used only as measures when building a custom report and won't appear in your properties settings or on individual contact records.
+
+Customers: a true or false value that indicates if the contact is a customer. This appears as an option when creating a report of a count of contacts.
+
+Sources: the offline sources or online sources where the contact is derived from and can be used when building a custom report to show you a count of contacts who originated from either source type.
+
+Ads properties
+
+These properties are based on default fields that can be added to lead ad forms. They allow the ads tool to store information from these default fields in HubSpot.
+
+Date of birth: the date of birth as provided through a lead ad form, set by the ads tool.
+
+Gender: the gender as provided through a lead ad form, set by the ads tool.
+
+Marital status: the marital status as provided through a lead ad form, set by the ads tool.
+
+Relationship status: the relationship status as provided through a lead ad form, set by the ads tool.
+
+Military status: the military status as provided through a lead ad form, set by the ads tool.
+
+Work email: the work email as provided through a lead ad form, set by the ads tool.
+
+Job function: the job function as provided through a lead ad form, set by the ads tool.
+
+Seniority: the seniority in the company as provided through a lead ad form, set by the ads tool.
+
+Company size: the size of the company as provided through a lead ad form, set by the ads tool.
+
+Degree: the degree as provided through a lead ad form, set by the ads tool.
+
+Field of study: the field of study as provided through a lead ad form, set by the ads tool.
+
+School: the school as provided through a lead ad form, set by the ads tool.
+
+Start date: the start date of education as provided through a lead ad form, set by the ads tool.
+
+Graduation date: the graduation date of education as provided through a lead ad form, set by the ads tool.
+
+Private content access properties
+
+Subscription required
+
+A Content or Service Hub Professional or Enterprise subscription is required to use private content properties.
+
+These properties store information relating to audience access in your HubSpot website.
+
+Domain to which registration email was sent: the domain to which the registration invitation email for content membership was sent to. This is automatically set by HubSpot.
+
+Email confirmed: the confirmation from the contact. This is automatically set by HubSpot.
+
+Membership notes: the notes relating to the contact's content membership.
+
+Registered at: the datetime at which the contact set up his content membership. This is automatically set by HubSpot.
+
+Status: the status of the contact's content membership.
+
+Time registration email was sent: the datetime when the registration email was sent to the contact. This is automatically set by HubSpot.
+
+properties
+
+records
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

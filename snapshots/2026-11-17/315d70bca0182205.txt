@@ -1,0 +1,278 @@
+Voice: Overview Page & Call Log Guide | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Voice
+
+Inbox
+
+Voice: Overview Page & Call Log Guide
+
+Voice: Overview Page & Call Log Guide
+
+Learn how to navigate and use the Call Log and Voice Overview page.
+
+July 16, 2026
+
+Table of contents
+
+Voice Overview Page
+
+The Voice Overview page in your Housecall Pro Inbox is a powerful tool designed to help you efficiently monitor your calls and team. With a quick glance, you can stay on top of your communications and ensure everything is running smoothly by toggling between these three tabs:
+
+Queued Calls
+
+Active Calls
+
+Agent Management
+
+These tabs make it easy to manage multiple calls, monitor your team’s status, and stay informed on who is actively on a call with a customer.
+
+Plan Requirements
+
+Pros must be on Voice plans VCTQ - Med or VCTQ - High to access the Voice Overview page.
+
+How to Access & Navigate the Voice Overview Page
+
+To access and navigate the Voice Overview page:
+
+Click on Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+If Voice is enabled on your Housecall Pro account, you'll automatically be directed to the Voice Overview page.
+
+From here, you can toggle between the Queued Calls, Active Calls, and Agent Management tabs.
+
+The Queued Calls tab displays all calls waiting in your queue, along with the duration each call has been in the queue.
+
+To connect to a call, simply click 'Connect' on the far right of the call entry.
+
+Note: The dialer will need to be open in order to connect to the call.
+
+This tab mirrors the calls in your dialer’s call queue, so you'll see the same list of waiting calls.
+
+🛠️ Pro Tip: Calls are queued either because they were directed to your call queue through your call flow or because one of your team members placed a call on hold.
+
+The Active Calls tab shows which employees are currently on a call, along with the call duration and caller information.
+
+The Agent Management tab displays the call status of each of your employees:
+
+Available (green)
+
+On a call (yellow)
+
+Unavailable (gray)
+
+If needed, you can quickly call or message an employee by clicking the blue phone or chat icons to the right of their status.
+
+📖 Help Center Article:
+
+For more information, check out our Help Article, "Voice: How to Use the Dialer."
+
+Navigating the Call Log
+
+The Call Log is your central hub for tracking and reviewing all incoming and outgoing calls in Housecall Pro. Whether you're looking to follow up on past interactions, monitor call performance, or quickly identify key details of a call, the Call Log provides an organized, easy-to-navigate record of every call.
+
+In this section, we'll walk you through how to effectively use the Call Log to streamline your workflow and ensure no important call is missed.
+
+How to Access the Call Log
+
+To access the Call Log:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Voice Call log from the menu at the top.
+
+Badging on the Call Log
+
+When there are missed calls or new voicemails, the call log will display a blue badge with the total number of missed calls and voicemails.
+
+To remove or decrease badging:
+
+For missed calls, select the call and view the call details.
+
+For voicemails, select the call and play the voicemail recording.
+
+How to View Call Details
+
+To view the details of a call, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Voice Call log from the menu at the top.
+
+Click on a call in the call log to open the Quick View and view the call details.
+
+How to Listen to Recordings & Voicemails on the Call Log
+
+All call recordings and voicemails will appear on the call log Quick View.
+
+To listen to recordings on the Call Log, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Voice call log from the menu at the top.
+
+Click the Voicemails toggle.
+
+Click the play button to the right of the call.
+
+Or select a call and click the play button under "Recording."
+
+Note: We include badging so you know when there are new voicemails or missed calls. Voicemails cannot be deleted, but badges will be dismissed once the voicemail recording has been played.
+
+How to Download Calls and Adjust the Playback Speed
+
+To download calls and adjust their playback speed:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Voice call log from the menu at the top.
+
+Select a call, then click the More icon under "Recording," to the right of the volume button.
+
+From here, you can download calls and adjust the playback speed directly from the Call Log Quick View.
+
+Do Not Service on the Call Log
+
+This feature is currently in Alpha and is only available to select Pros.
+
+​
+
+If you have calls with a customer who has the Do Not Service label, you can see it on the call log
+
+How to Filter the Call Log
+
+To filter the call log:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Next, select 'Call log' from the menu at the top.
+
+From there, you can toggle between these tabs to filter the call log:
+
+All (all calls)
+
+Missed (missed inbound calls only)
+
+Inbound (answered inbound calls only)
+
+Outbound (all outbound calls)
+
+Voicemails (all calls with a voicemail)
+
+🛠️ Pro Tip: Use these tabs to filter calls on the global and customer call logs.
+
+You can also use the 'Filter' button on the call log to filter calls by:
+
+Caller
+
+Call date
+
+Call duration
+
+Lead Source
+
+Call reason
+
+Object created
+
+Employee
+
+How to Export the Call Log
+
+When exporting the call log, the data will be based on the current view, including any applied filters, and you'll receive a CSV file of your call log via email.
+
+Please note that a maximum of 5,000 calls can be exported.
+
+To export the call log, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Call log from the menu at the top.
+
+Click the Export button in the top right corner of the page.
+
+Edit Columns in the Call Log
+
+To edit the columns in your Call Log, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Call log from the menu on the left.
+
+Click the Edit Columns button in the top right corner of the page.
+
+Select the columns to be displayed or hidden in the call log to view only the information relevant to you.
+
+Click Save to confirm the changes, and you're all set!
+
+Mark All Calls as Read in the Call Log
+
+To mark all calls as "read" in the call log, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Call log from the menu at the top.
+
+Click on the Mark All As Read button in the top right corner of the page to remove all unread badges on the call log.
+
+Edit Callers on the Call Log
+
+To edit a caller in the Call Log, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Call log from the menu at the top.
+
+Select a call and click Edit caller in the Quick View.
+
+Use the search bar to find an existing customer and assign the call to their profile.
+
+If you need to assign a call to a new customer, you can quickly create their customer profile by clicking the '+ Create New Customer' button.
+
+Create or Edit Call Notes on the Call Log
+
+To create or edit call notes, follow these steps:
+
+Click Inbox > Calls in the left navigation bar of your Housecall Pro account.
+
+Select Call log from the menu at the top.
+
+Select a call you want to edit notes for, then click the View and Edit Notes button.
+
+From there, you can use the Call notes field to create or edit the call notes.
+
+Having trouble finding what you need?
+
+For further assistance, please reach out to our Chat Support team
+
+via the Blue Chat Bubble in your Housecall Pro account, or
+
+contact our Phone Support team at (858) 842-5746.
+
+Related Articles
+
+HCP Assist: Post-Call Inbox FAQs
+
+Voice Settings Overview
+
+HCP Assist: Call Log Overview
+
+Voice on Mobile
+
+Voice on Mobile FAQ
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

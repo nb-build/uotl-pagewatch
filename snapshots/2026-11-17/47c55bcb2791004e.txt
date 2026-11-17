@@ -1,0 +1,388 @@
+Online Bookings and Appointment Scheduling | Microsoft 365
+
+This is the Trace Id: 206a6c76f358ddecf1aee45d41896bd4
+
+Skip to main content
+
+Microsoft 365 for business
+
+Explore Microsoft 365 apps
+Pricing for individuals
+Microsoft 365 Personal
+Microsoft 365 Family
+Microsoft 365 Premium
+Microsoft 365 Pro
+Student discount pricing
+
+Pricing for business
+Microsoft 365 Business Standard with Copilot
+Microsoft 365 Business Premium with Copilot
+For small business
+For schools
+For government
+
+Pricing for enterprise
+Microsoft 365 E3
+Microsoft 365 E5
+Microsoft 365 E7
+For enterprise
+For frontline workers
+For nonprofits
+For government
+
+Pricing for Copilot
+Explore Copilot
+
+Microsoft Teams
+Word
+Excel
+PowerPoint
+Outlook
+OneDrive
+SharePoint
+Planner
+See all apps and services
+
+Microsoft Office
+Windows 365
+Microsoft Viva
+Microsoft Edge
+Microsoft Agent 365
+
+Plans and pricing
+
+Customer stories
+Trust Center
+Blog and community
+Frontier program
+Product Roadmap
+
+Getting started
+Templates
+Deployment assistance
+Small Business Resource Center
+Business insights and ideas
+
+Self-help resources
+Billing support
+Community
+Contact Microsoft Support
+FAQ
+
+Self-help resources
+Admin self-help
+Support plans
+Find a partner
+Contact Sales
+Community
+
+Self-help resources
+Account management
+Educator Center
+Community
+Contact Microsoft Support
+Request support
+FAQ
+
+Become a partner
+Partner resources
+See all support
+
+Contact Sales
+
+Try for free
+
+Admin center
+
+Microsoft Bookings
+
+A simpler way to organize schedules and manage appointments.
+
+Buy now with Microsoft 365 Sign in
+
+Watch the video
+
+Overview
+
+Overview
+
+Pricing
+
+Case studies
+
+Microsoft 365 apps
+
+FAQ
+
+Next steps
+
+Overview
+
+Easily schedule appointments with feature-rich tools
+
+Simplify scheduling to save time
+
+Customize appointment details and booking requirements, and specify service providers to streamline the experience for you and your customers. Bookings works seamlessly with your Microsoft 365 calendar to help your customers quickly find available times and avoid double-booking. Spend less time scheduling and more time meeting with customers. Visit these sample pages to learn how to set appointments in Bookings.
+
+Financial services Healthcare Education
+
+Meet virtually with Microsoft Teams
+
+Make your Bookings meetings virtual with Teams. Every appointment booked as an online meeting creates a meeting link that everyone can join virtually from anywhere. Bookings is also available as an app within Teams to help you create calendars, assign staff, schedule new appointments, and meet without ever leaving Teams.
+
+Learn how Bookings and Teams work together
+
+Customize appointments to your business needs
+
+Get flexibility and customization options to fit a variety of scheduling needs across departments, individuals, and types of appointments. Create and manage multiple Bookings calendars—each with their own unique setup. Different calendars can have different page structures, information, staff, and types of appointments and communication.
+
+Provide your clients with flexibility, convenience, and control
+
+Give your customers more options when they visit your booking page, schedule an appointment, or get a confirmation email and calendar invitation. Customers who book an appointment online can easily reschedule or cancel it themselves to keep everyone in sync. If you prefer to book appointments for your customers, enter the appointment details in Bookings so they receive confirmations and reminders. You can even easily track all changes made to appointments.
+
+Pricing
+
+Get started with Microsoft 365
+
+Enjoy online security, innovative apps, and cloud storage across your devices and on the web with Microsoft 365.
+
+For Business For Enterprise
+
+Case studies
+
+See how organizations use Bookings in this e-book
+
+Previous Slide
+
+Next Slide
+
+“If you want to have more transparency and availability of appointments for your organization, use Bookings...[it] doesn’t require a lot of people or other resources to set up, and the benefits are big.”
+
+Raid El Badarin-Deriy, Digital Workplace Technical Lead, Zurich Insurance, Germany
+
+Read more in the e-book
+
+“The simplicity and ease-of-use were very attractive to our team. People select their preferred days and times, so students can only book when the teacher is available to meet with them. It’s a very smart, real-time system that works.”
+
+Regina Collins, Global School Principal, Florida Virtual School
+
+Read more in the e-book
+
+“Bookings solves a universal business problem…in a simple and easy-to-use way. If Bookings is in your portfolio suite and you need a scheduling tool, it’s a no-brainer.”
+
+Robert Walters, Senior Vice President – Director of Technology Operations, Umpqua Bank
+
+Read more in the e-book
+
+“The centralized scheduling of appointments has generated great feedback. Everyone has commented on how easy it is to use for the virtual visits.”
+
+Brooke Mugavin, Vice President of Operations, Confluent Health
+
+Read more in the e-book
+
+Back to CUSTOMER STORIES section
+
+More Microsoft 365
+
+Learn more about Microsoft 365
+
+Explore all apps
+
+Previous Slide
+
+Next Slide
+
+Microsoft Word
+
+Elevate your writing and create beautiful documents—anywhere, anytime.
+
+Learn more
+
+Microsoft Excel
+
+Turn data into insights with free and premium spreadsheets.
+
+Learn more
+
+Microsoft OneNote
+
+Keep your thoughts, content, and lists handy in one place.
+
+Learn more
+
+Microsoft Outlook
+
+Manage your email, calendar, tasks, and contacts in one location.
+
+Learn more
+
+Microsoft Defender
+
+Simplify your online security.
+
+Learn more
+
+Microsoft OneDrive
+
+Keep your files and memories protected, up to date, and easily accessible across all your devices.
+
+Learn more
+
+Microsoft Designer
+
+Create designs and edit photos in seconds with the power of AI.
+
+Learn more
+
+Teams
+
+Bring everyone together in one place to meet, chat, call, and collaborate.
+
+Learn more
+
+Back to MORE MICROSOFT 365 section
+
+Frequently asked questions
+
+Expand all
+
+Collapse all
+
+01/
+
+What is a booking and scheduling app?
+
+A booking and scheduling app allows you to schedule customizable appointments. These apps often work seamlessly with your calendar and can help you and your clients avoid double-booking.
+
+02/
+
+Does Bookings work with other apps?
+
+Yes, Bookings works with other Microsoft apps, including Outlook and Teams. Bookings allows you to easily manage your appointments from your personal and professional calendars.
+
+03/
+
+What are the benefits of an online scheduling system?
+
+Online booking systems can save you and your business a lot of time and headaches that can come with trying to align schedules for appointments. An online scheduling tool makes it easy for people to see your calendar availability, even if they’re not in your organization. An online booking system can also prevent double-booking with real-time availability.
+
+04/
+
+What is the importance of scheduling meetings and planning ahead?
+
+Planning ahead to schedule meetings and appointments is important to ensure that you and the people you want to meet with are free. Scheduling meetings ahead of time also helps you prepare.
+
+05/
+
+What does it mean to be double-booked?
+
+Double-booking is when someone has more than one meeting or appointment at the same time. To avoid double-booking, use a scheduling or booking tool so that your availability is always up to date.
+
+06/
+
+What is a cancellation policy?
+
+A cancellation policy can protect you and your business from customers who cancel at the last minute, leaving you with an open appointment and potentially costing you money. A cancellation policy should be clear at the time of booking and not be a surprise to customers. Having a cancellation policy can help prevent people from cancelling at the last minute or not showing up at all.
+
+Next steps
+
+Get started with Microsoft 365
+
+Improve productivity at home or in your business with Microsoft 365.
+
+See plans and pricing
+
+Microsoft Copilot
+
+Check out Microsoft 365 Copilot
+
+Get more done faster with an AI assistant in your Microsoft 365 apps, documents, and meetings.
+
+Learn more
+
+Free trial
+
+Try Microsoft 365 for home
+
+Enjoy the apps, security, and storage you need to accomplish your goals­—now free for one month.
+
+Learn more
+
+Free trial
+
+Try Microsoft 365 for business
+
+Create, connect, and collaborate on web, desktop, and mobile apps to keep your business growing—try Microsoft 365 Business Standard for free for one month.
+
+Learn more
+
+Follow Microsoft 365
+
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Surface RTX Spark Dev Box
+Explore Copilot
+Explore Microsoft products
+Windows 11 apps
+
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Why buy from Microsoft Store
+Flexible Payments
+
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+AI for education
+
+Microsoft AI
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft Copilot
+Small Business
+
+Azure
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Software companies
+Visual Studio
+
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+
+English (United States)
+
+Your Privacy Choices
+
+Consumer Health Privacy
+
+Sitemap
+Contact Microsoft
+Privacy
+Manage cookies
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads

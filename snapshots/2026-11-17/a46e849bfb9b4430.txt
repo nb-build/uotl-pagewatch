@@ -1,0 +1,355 @@
+Optimizing Renewals Manager | ACN
+
+Skip to Content
+
+Renew Your Membership Today!
+
+Join
+Login
+
+About
+
+About Applied Client Network
+
+Leadership
+
+Contact Us
+
+FAQs
+
+Get Involved
+
+Join ACN
+
+Volunteer
+
+ACN Committees
+
+Content Committee
+
+Education Committee
+
+Governance Committee
+
+Canadian Committee
+
+Join the Conversation
+
+Re:Applied, an ACN Podcast
+
+Get Active in the Industry
+
+Attend an Upcoming Event
+
+Sponsorship
+
+Membership
+
+Why ACN?
+
+Join/Renew
+
+Access Benefits
+
+EZLynx
+
+Member Alliance Program
+
+Resources
+
+Member Alliances
+
+Learning Center
+
+Job Roles
+
+Mobile App
+
+Connections Publication
+
+Sponsor Directory
+
+EZLynx Member Hub
+
+Epic Member Hub
+
+Canadian Member Hub
+
+See All Resources
+
+Hypercare Resources
+
+Community
+
+Product Forums
+
+Member Alliance Communities
+
+Job Board
+
+Member Directory
+
+Events
+
+Summits
+
+New Orleans Summit
+
+Program
+
+Hotel/Travel
+
+Registration
+
+Exhibit/Sponsors
+
+Toronto Summit
+
+Program
+
+Hotel/Travel
+
+Registration
+
+Exhibit/Sponsors
+
+Attend Applied Net
+
+Applied Net 2026 Large Agent Meeting
+
+Event Calendar
+
+Join
+Login
+
+Connections: The offical publication of Applied Client Network
+
+Insurance
+Technology
+Operations
+Commentary
+ACN Updates
+About
+
+Operations
+
+3 Ways to Turn Applied Net Insights into Year-Round Conversations and Results
+
+ACN Staff
+
+How do top-performing agencies get more value from Applied Net? The learning doesn’t end when the conference does. Discover three ways ACN members continue the conversation through peer connections, practical implementation discussions and targeted learning that helps turn ideas into operational improvements and stronger agency performance.
+
+READ THE ARTICLE
+
+Technology
+
+Optimizing Renewals Manager
+
+Ingrid Smith
+
+Published: April 28, 2026
+
+Managing renewals efficiently is critical to maintaining retention, improving visibility, and reducing manual work for agency teams. Renewals Manager within Applied Epic is designed to bring renewal activity, workflows, and key actions into a single, centralized view.
+
+When configured and used intentionally, Renewals Manager can help teams stay organized, prioritize work, and move renewals forward with greater consistency.
+
+This article shares practical tips to help you optimize Renewals Manager — from setup and configuration to day‑to‑day use — so it becomes a valuable tool rather than just another screen in Epic.
+
+Begin With the End in Mind
+
+Before configuring settings or training users, it’s important to understand what success looks like for your organization. Beginning with the end in mind ensures that your Renewals Manager configuration supports real workflows and meaningful efficiencies, not just system defaults.
+
+To optimize Renewals Manager, ask yourself the following:
+
+Are you currently using Renewals Manager? If so, how has adoption been? What is (and is not) working with your current method?
+
+If you’re not currently using Renewals Manager, what’s the reason behind your why?
+
+What are you looking to gain from using Renewals Manager?
+
+Who are your targeted profiles for Renewals Manager?
+
+What efficiencies are you looking to gain?
+
+When would your targeted profiles use this tool?
+
+How do you plan on implementing the change?
+
+What does the maintenance of using Renewals Manager look like for the future?
+
+Configuration and View
+
+Configurations really drive how you can use Renewals Manager and what is visible. The following are areas to explore and ways to set configurations for your optimized use. (All areas noted below begin in Configure.)
+
+Policies>Types: Policy types can be set individually with how many days prior to the expiration date you’d like to have the policy displayed in Renewals Manager.
+
+Tip: This can be helpful for different department needs, allowing Renewals Manager to work across departments.
+
+Policies>Renewals Manager Settings: Select the visibility option.
+
+Tip: This setting can be changed at any time in case your needs change.
+
+Policies>Renewal Stages: This area allows configuration for many renewal stages or just a few, if that is your preference. Note that the default stages can be edited or inactivated. If you are configuring different stages for different department use, the ordering option in this area will be helpful to order these in a way that allows you to put commercial/personal/benefits/surety type stages together. If you are configuring different stages for different departments, consider the first and last stage to be the same. This will come into play when we look at the events in the next step!
+
+Defining the stages is just the beginning in this area. You’ll notice the right side of the screen offers the opportunity to further define the stages with options of whether this stage displays in the Renewals Manager — if so, for how many days after expiration — and, finally, the option to display indefinitely. There’s opportunity for so much flexibility and this area can be edited if your needs change as well.
+
+Policies>Renewals Manager Events: This area of Configuration will need to be set up for use across all departments. There are currently three events that can be configured with a Renewals Manager stage. The system comes preconfigured with options; however, these can be edited. As mentioned before, if you can use the same beginning stage and/or ending stage across departments, this area can be optimized for all. If not, weigh the options of using this configuration or having your front-end users update the stages within their workflows to suit your agency/broker needs.
+
+Interface>System Settings: Allowing a download to update the Renewals Manager stage is also an option to help optimize your use of Renewals Manager. Keep in mind the events you just configured would be what the downloads would affect.
+
+Renewals Manager View
+
+Each user has the opportunity to customize their view by using the filters and filter default options. This is highly recommended and will help the users find Renewals Manager valuable. Remember, what they can see here has been determined by the configuration work you’ve already done.
+
+The users will just be able to filter their views. In addition to being able to see policies and the details on the policies/lines, you are also able to see the open activities as a default (flex the view to see All, Open, or Closed activities), as well as the Claims associated to this policy. (Claims view defaults to open. However, it can be flexed to see All, Open, or Closed.)
+
+Efficiency in Use
+
+One of the biggest advantages of Renewals Manager is the ability to complete multiple renewal‑related tasks from a single screen. Instead of navigating between policies, activities, marketing submissions and notes, users can take action in real time — reducing clicks, context‑switching and missed follow‑ups.
+
+For example, a user can review a policy, create a marketing submission, update the renewal stage and log an activity without leaving Renewals Manager. Over time, these small efficiencies add up, helping teams process renewals more consistently and with less manual effort.
+
+Renewals Manager offers a variety of actionable items on one screen. These include:
+
+Go To Policy
+
+Renew (single policy renew or bulk renew)
+
+Marketing Submission (create a marketing submission right from the Renewals Manager)
+
+Remarket with Tarmika
+
+Remarket
+
+Update Renewals Stage
+
+Market Appetite
+
+Export to Indio
+
+Add an Activity
+
+Close the activity
+
+Add Note
+
+Add Task (note this area does not yet allow you to work tasks from Renewals Manager)
+
+Change Follow-up Date/Time
+
+Change Who/Owner
+
+View All Notes
+
+Reopen
+
+Take Ownership
+
+There are many opportunities to do as much work as possible from one screen.
+
+Reports
+
+Renewal Stages can be seen in expiration reports. Leaders have the opportunity to view how their teams are doing either directly on the Renewals Manager screen or by adding this criterion to the report.
+
+Reporting on renewal stages provides valuable insight into workload distribution, bottlenecks and overall renewal progress. By including Renewal Stage data in expiration reports, leaders can identify trends, spot stalled renewals and better support their teams.
+
+This visibility not only helps with day‑to‑day management, but also supports continuous improvement by highlighting where processes may need refinement or additional training.
+
+Additional Resources
+
+Optimizing Renewals Manager offers ongoing opportunities to align technology with your team’s workflows and business goals. With thoughtful configuration, clear expectations, and consistent use, Renewals Manager can become a great tool for improving renewal visibility, efficiency, and results.
+
+Whether you’re just getting started or looking to adjust your current setup, the resources below can help you build a Renewals Manager experience that best supports your team.
+
+Applied Client Community: https://community.appliedsystems.com/s/
+
+Product info, knowledge base, client forums, news, testimonials, and more
+
+Applied Office Hours: Available throughout the week!
+
+Register via the Applied University Training Calendar (available in the AppliedNet Community)
+
+Email Applied Support: support@appliedsystems.com
+
+Technical issues (e.g., reports not working, can’t log in, etc.)
+
+Email Adoption Services: customersuccess@appliedsystems.com
+
+Questions about workflows and recommendations for best practices
+
+Customer Success Hub: https://www1.appliedsystems.com/en-us/customer-success-hub/events/
+
+Curated resources and job aides filterable by Applied product or job role.
+
+Ingrid Smith
+
+My name is Ingrid Smith, ANFI, ACSR, located in Chicagoland and currently the project support leader for Arthur J Gallagher. I’m a self-proclaimed Epic nerd; I’m also a flood nerd, which is what the ANFI is behind my name 😉. In my professional career I’ve been fortunate enough to be a presenter at AppliedNet a few times. You may know me for my rap "wrap" up of sessions! In my personal time you can find me teaching a variety of fitness classes at Life Time! I’m passionate about motivating people and being around people who motivate me! Hoping to see you at AppliedNet2026!
+
+Tags:
+Renewals Manager Personal Lines and Small Commercial Lines Account Medium/Large Commercial Lines and Specialty Lines
+
+Operations
+
+The Case for Growing Deeper, Not Just Wider: 3 Priorities for Insurance Agencies
+
+ACN Staff
+
+READ THE ARTICLE
+
+Technology
+
+Epic Power User Tips: How Agencies Are Streamlining Workflows
+
+ACN Staff
+
+READ THE ARTICLE
+
+Technology
+
+From Inbox Chaos to Workflow Control With Applied Epic Activities
+
+Michele Callihan
+
+READ THE ARTICLE
+
+Technology
+
+Who Is Your Agency’s Real Competition?
+
+ACN Staff
+
+READ THE ARTICLE
+
+Operations
+
+Bridging the Gap Between Brokers and Carriers Through Technology
+
+Erin Cleyndert
+
+READ THE ARTICLE
+
+Technology
+
+3 Power User Tips to Get More From Epic Dashboards
+
+ACN Staff
+
+READ THE ARTICLE
+
+Load next 6 article(s) (593 left)Loading...
+
+330 N. Wabash Ave.
+
+Suite 2000, Chicago, IL 60611
+
+312-321-6833
+
+info@appliedclientnetwork.org
+
+Copyright © Applied Client Network
+
+All Rights Reserved
+
+Terms of Service Privacy Policy Cookie Policy Consent Preferences Contact
+
+Login

@@ -1,0 +1,439 @@
+Gravity Forms | The Best WordPress Form Plugin | Form Builder
+
+Skip to content
+
+Black Friday sale coming soon! Check out the deals!
+
+Pricing
+
+Features
+Features
+Repeater field
+
+Gravity Forms MCP
+
+Gravity Forms CLI
+
+Drag-and-drop builder
+
+Conditional logic
+
+Survey forms
+
+Conversational forms
+
+User registration
+
+Partial entries
+
+Post creation
+
+View all features
+
+Use Cases
+Online paymentsCreate an easy shopping solution
+
+MarketingCollect visitor information easily
+
+AgenciesWordPress form builder agencies rely on
+
+EducationStudent applications, donations, etc.
+
+NonprofitCreate custom workflows to manage data
+
+View all
+
+Other Products and Services
+
+Gravity SMTP
+
+Send emails from WordPress
+
+Gravity Flow
+
+Workflows to automate forms
+
+Gravity Experts
+
+Tailored Gravity Forms solutions
+
+Integrations
+All Integrations
+Analytics
+
+Automation
+
+Communication
+
+CRM & Sales
+
+Deliverability
+
+Marketing
+
+Payments
+
+Productivity
+
+Security
+
+Featured Integrations
+
+Stripe
+
+Accept payments via Stripe
+
+Salesforce
+
+Send data to Salesforce
+
+Mailchimp
+
+Grow your mailing list
+
+Zapier
+
+Put form data to work
+
+PayPal
+
+Accept payments via PayPal
+
+Slack
+
+Workflows to automate forms
+
+Helpscout
+
+Use forms for support
+
+Dropbox
+
+Send uploads to Dropbox
+
+View all integrations
+
+Resources
+Explore
+Documentation
+
+Community forum
+
+Refund policy
+
+Free templates
+
+Tutorials
+
+Language translations
+
+Get help
+
+Learn
+News & updatesGet the latest news from the team
+
+DemoTest drive Gravity Forms today
+
+Video libraryTutorial and how-to videos
+
+Gravity LearnCourses, videos, and webinars
+
+MarketplaceCertified and community add-ons
+
+View all
+
+Featured Blog Articles
+
+15 workflow automation examples you can build in WordPress
+
+Read more: 15 workflow automation examples you can build in WordPress
+
+Introducing Gravity Forms MCP: Connect to AI assistants
+
+Read more: Introducing Gravity Forms MCP: Connect to AI assistants
+
+Read more articles
+
+Support
+
+Login
+
+Account
+
+Get Started
+
+Powerful data capture
+fueled by Gravity Forms
+
+The most powerful solution for building custom forms and flows to connect with your users and expand your reach. All from WordPress.
+
+Buy Now
+
+View Demo
+
+Trusted by the biggest brands in the galaxy
+
+The form builder WordPress professionals trust
+
+Create custom web forms to capture leads, collect payments, automate your workflows, and build your business online.
+
+Visual Form Editor
+
+Quickly design and build your WordPress forms using the intuitive visual form editor. Select your fields, configure your options, and easily embed forms on your site.
+
+Online Payment Collection
+
+From registrations to subscriptions, donations to product sales, Gravity Forms lets you manage transactions with the same tool you use to create contact forms on your site.
+
+Workflow Automation
+
+Configure your form to show or hide fields, sections, pages, and buttons based on user selections. Easily set custom automated workflows for any form you create.
+
+Conditional Logic
+
+Make your forms more relevant to your audience by displaying or hiding fields, sections, or entire pages based on user inputs.
+
+Secure Data Collection
+
+We put a virtual airlock in place when it comes to your data. Our state-of-the-art security measures keep your data safe and your mind at ease.
+
+File Uploads
+
+Need to have your users submit documents, photos, or other attachments? It’s not rocket science. Just add file upload fields to your form to save the files directly to your server.
+
+All the tools you need to build professional forms online
+
+One plugin. Every form your business will ever need. From simple contact forms to complex workflows, Gravity Forms handles it all.
+
+Buy Gravity Forms Now
+
+Easy to make it shine
+
+Drag and drop fields, rearrange layouts, and preview everything in real time. Building a beautiful form should feel effortless.
+
+Drag & drop form builder
+
+Create and edit your forms with ease using our intuitive drag and drop interface. Select from over 30 field types, organize your layout visually, and build even complex forms in minutes.
+
+Select from our library of pre-built, fully customizable form templates
+
+Add fields with a single click and rearrange them instantly
+
+Duplicate, edit, and preview without touching any code
+
+Conditional logic lets you show or hide fields based on user input
+
+Column layouts
+
+Choose the number of columns you need, customize the width, and drag fields within the builder to create the exact layout you want. Build compact, professional forms that look great on any device.
+
+Support for up to four columns per row
+
+Adjust column widths with flexible sizing options
+
+Responsive layouts that adapt to any screen size
+
+Nest fields side by side for cleaner, shorter forms
+
+Build accessible forms
+
+With Gravity Forms you have all the tools to create forms that are WCAG 2.1AA compliant. Accessibility isn’t an afterthought – it’s built into every form you create.
+
+Semantic HTML and proper ARIA labels built in
+
+Keyboard navigation support out of the box
+
+Designed to work with popular screen readers
+
+Error handling and validation messages that all users can understand
+
+Third-Party Apps
+
+Connect with the payment apps you love
+
+Connect your forms to the most trusted names in online payment collection. Enter your API key, setup your form, and you’re off to the races. Easy-peasy, lemon-squeezy.
+
+See why creators, teams, and businesses trust Gravity Forms to power their workflows
+
+“
+
+As a web designer, I have not found any other WordPress form application that is as easy to update and has as many features as Gravity Forms.
+
+Kristin Pruis
+
+“
+
+Your customer service is very personal. Receiving quick email replies from your staff is gratifying and extremely helpful. I transferred licenses from me to two separate webmasters–it was seamless.
+
+Claudia Siegal
+
+“
+
+I often have to create complex forms with conditional logic, and Gravity Forms is the only plugin I have found that is robust enough to do what I need.
+
+Michele M.
+
+Transparent pricing?
+That’s affirmative
+
+Whether you’re flying solo or leading the enterprise, Gravity Forms has a plan for everyone. Get the details and always know what you’ll pay.
+
+Basic License
+
+$59
+
+/per year
+
+Buy Now
+
+1 Site
+
+Standard Support
+
+Basic License includes…
+
+HubSpot Add-On
+
+Mailchimp Add-On
+
+Active Campaign Add-On
+
+Campaign Monitor Add-On
+
+See all Add-Ons included…
+
+Best Value
+
+Elite License
+
+$259
+
+/per year
+
+Buy Now
+
+Unlimited Sites
+
+Priority Support
+
+WordPress Multisite
+
+Elite License includes…
+
+User Registration Add-On
+
+Conversational Forms
+
+Partial Entries Add-On
+
+Polls Add-On
+
+Signature Add-On
+
+Survey Add-On
+
+See all Add-Ons included…
+
+All of our Add-Ons are included with Elite!
+
+Pro License
+
+$159
+
+/per year
+
+Buy Now
+
+3 Sites
+
+Standard Support
+
+Pro License includes…
+
+Stripe Add-On
+
+Dropbox Add-On
+
+Square Add-On
+
+Zapier Add-On
+
+Slack Add-On
+
+Trello Add-On
+
+See all Add-Ons included…
+
+We believe there’s a better way to manage your data & forms
+
+Stay in touch with us. We’ll send you tips and tricks, news and updates, discounts and deals, plus we promise not to spam your inbox.
+
+Company
+
+This field is for validation purposes and should be left unchanged.
+
+Email(Required)
+
+Subscribe
+
+Gravity Forms is a Rocketgenius invention. Check out more information about us here.
+
+Helpful Links
+
+Video Library
+
+Form Template Library
+
+Conversational Forms Gallery
+
+Affiliate Program
+
+Nonprofit License
+
+Refund Policy
+
+Brand Assets
+
+Developer Documentation
+
+About
+
+Gravity Forms
+
+Blog
+
+Community Forums
+
+Giving Back
+
+Career Openings
+
+System Requirements
+
+Gravity Forms recommends the same system requirements as WordPress: PHP v7.4+, MySQL v5.7+ and the latest version of WordPress.
+
+-2026 Rocketgenius Inc.
+
+Contact Us
+
+Terms and Conditions
+
+Cookie Policy
+
+Privacy Policy
+
+Email
+
+This field is for validation purposes and should be left unchanged.
+
+Enter your email address
+
+Send Me Updates
+
+X
+
+×
+
+Search for:
+
+Search

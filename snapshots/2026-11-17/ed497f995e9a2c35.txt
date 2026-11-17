@@ -1,0 +1,290 @@
+SendGrid vs Mailgun: Which to Choose in 2026
+
+Skip to content
+
+The InterregnumSoftware advice for the shift to AI
+
+Software advice
+Alternatives
+Compare
+Reports
+Market data
+Countries
+About
+Contact
+
+Software advice
+Alternatives
+Compare
+Reports
+Market data
+Countries
+About
+Contact
+Search
+
+Home/Software advice/Comparisons/SendGrid vs Mailgun
+Transactional email services · head to head
+
+SendGrid vs Mailgun
+
+Editor Sebastiaan Smits ·
+Published October 20, 2026 · Updated November 15, 2026
+
+Mailgun wins for a developer or small team that wants published tiers, a free plan and a choice between US and EU hosting. SendGrid wins for a company that wants sending and marketing campaigns in one product, already uses Twilio, and does not mind asking for a quote. On price clarity alone, Mailgun is the easier of the two to judge.
+
+Side by side
+
+SendGrid
+
+Mailgun
+
+What it is
+
+Twilio's email API, SMTP service and marketing campaigns
+
+Developer email API, SMTP relay and inbound routing
+
+Best for
+
+Companies already buying Twilio products
+
+Developers who want tiers with inbound routing
+
+Headquarters
+
+United States
+
+United States
+
+Pricing model
+
+Flat monthly tier
+
+Flat monthly tier + overage
+
+Pricing
+
+Monthly subscription plans by email volume with a free trial, no card required; the page we read renders its price figures client-side, so quote them from the vendor.
+
+Free at 100 emails a day; Basic from $15 for 10,000 emails, Foundation $35 for 50,000, Scale $90 for 100,000, extras priced per thousand.
+
+Free option
+
+Free trial
+
+Free plan
+
+List price
+as listed on October 20, 2026
+
+Monthly subscription plans by email volume (the Email API plans are named Essentials and Pro in SendGrid's docs); free trial, no credit card required; price figures were not shown in the pricing page text we fetched
+
+Free $0 for 100 emails per day; Basic from $15 per month for 10,000 emails; Foundation $35 per month for 50,000; Scale $90 per month for 100,000 (extra emails priced per 1,000)
+
+Place in our transactional email services ranking
+
+#5 of 13
+
+#6 of 13
+
+Website
+
+sendgrid.com
+
+mailgun.com
+
+Both are reviewed in full in Best Transactional Email Services in 2026. Vendors can pay
+for more visibility, and commercial relationships can affect which products we feature and how prominently.
+Placement disclosure.
+
+Which one to choose
+
+Choose SendGrid if
+
+you want transactional email and marketing campaigns under one login, you already buy from Twilio, and you will use a trial and a calculator or sales contact to settle the price.
+
+SendGrid, #5 in the ranking · Visit SendGrid →
+
+Choose Mailgun if
+
+you want a free plan, published monthly tiers with overage per thousand, inbound routing and the option to host in the EU, and you send mostly application email.
+
+Mailgun, #6 in the ranking · Visit Mailgun →
+
+Where they differ
+
+What you get for nothing
+
+Mailgun keeps a Free plan of 100 emails a day, with one sending domain, two API keys and one day of log retention. SendGrid announced in May 2025 that it was retiring its Free Email API and Free Marketing Campaigns plans, and its pricing page now offers a free trial with no credit card instead. A hobby project or a staging environment can stay on Mailgun indefinitely, while SendGrid requires a paid plan once the trial ends.
+
+Edge: Mailgun
+
+Seeing the price before talking to anyone
+
+Mailgun's page lists Basic at $15 a month for 10,000 emails, Foundation at $35 for 50,000 and Scale at $90 for 100,000, with extra emails from $1.80, $1.30 and $1.10 per 1,000 on the three tiers. SendGrid's pricing page, as we fetched it, showed no figures in its text, and its billing guide says plans are monthly subscriptions rather than metered usage. A buyer budgeting from a spreadsheet will find Mailgun simpler.
+
+Edge: Mailgun
+
+Tools for staying out of spam folders
+
+SendGrid sends Trial and Essentials accounts from shared IP groups, includes one dedicated IP with Pro, and offers Expert Services on Pro and Premier for warmup plans and reputation work. Mailgun lists automated dedicated IP warm-up, one dedicated IP included at the top tiers, IP pools on Scale, and paid email validation. Each route needs a more expensive tier before dedicated reputation arrives, so neither gets the round.
+
+Edge: even
+
+Campaigns and teams under one roof
+
+SendGrid sells Marketing Campaigns beside its Email API and SMTP service, with subusers and teammates documented in the same console. A company that sends receipts and newsletters can keep both in one vendor relationship. Mailgun focuses on sending, receiving and validating through its API, templates and webhooks; it has no newsletter product on the pricing page we fetched. For mixed transactional and marketing use, SendGrid has the broader product.
+
+Edge: SendGrid
+
+Debugging history and data location
+
+Mailgun retains logs for 1 day on Free and Basic, 5 days on Foundation and 30 days on Scale, and lets one account send through either the US or the EU. SendGrid's Email Activity feed reaches 30 days only with a paid history add-on, and Twilio says it stores all Email Activity data in the United States. Teams with European customers or longer debugging needs get more from Mailgun.
+
+Edge: Mailgun
+
+Who owns the vendor
+
+Both sit inside larger groups. SendGrid is a Twilio product, and its documentation points buyers to the Twilio console and login. Mailgun's terms are issued as Sinch Email's terms, the group that also runs Mailjet, though the contracting company is Mailgun Technologies, Inc. under Texas law. A buyer wary of a large parent finds no difference here, and neither vendor is small.
+
+Edge: even
+
+Tally: SendGrid 1, Mailgun 3, even 2.
+
+When neither fits
+
+A team that wants prices on the page and a smaller vendor can look at Postmark, which publishes a block price per tier, or at Resend, which has a free plan of 3,000 emails a month. Both are listed in the same ranking and sit above SendGrid and Mailgun on our list.
+
+See Postmark and Resend among the 13 products in Best Transactional Email Services in 2026.
+
+Questions and answers
+
+Does SendGrid still have a free plan?
+
+No. Twilio's changelog says SendGrid retired its Free Email API and Free Marketing Campaigns plans from May 27, 2025, after a 60-day transition. Its pricing page now offers a free trial with no credit card required, followed by a paid plan. Mailgun still has a Free plan of 100 emails a day.
+
+How much does Mailgun cost?
+
+Mailgun's Free plan costs $0 for 100 emails a day. Basic starts at $15 a month for 10,000 emails, Foundation costs $35 for 50,000 and Scale $90 for 100,000. Foundation and Scale start with a free month, and extra emails are billed per 1,000 at rates that fall as the tier rises.
+
+Which has better deliverability tools, SendGrid or Mailgun?
+
+Both cover the basics, and neither clearly leads. SendGrid offers dedicated IPs, IP pools and Expert Services for Pro and Premier accounts. Mailgun offers automated dedicated IP warm-up, IP pools on Scale and an email validation add-on. In both cases the dedicated-reputation tools are on the higher tiers.
+
+Can Mailgun send from the EU?
+
+Yes. Mailgun says its service is hosted in both the US and the EU, so one account can send through either region and keep its data there. SendGrid's documentation says Twilio stores all Email Activity data in the United States, so European data residency is a point to confirm with sales.
+
+Which is better for newsletters as well as app email?
+
+SendGrid. It sells Marketing Campaigns alongside its Email API and SMTP service, with contact lists and templates in the same account. Mailgun's pricing page lists templates, webhooks and inbound routing but no newsletter product, so a team sending both kinds of mail would pair it with another tool.
+
+Keep comparing
+
+Comparisons
+
+Azure DevOps vs GitHub
+
+Slack vs Microsoft Teams
+
+Codeberg vs GitHub
+
+RustDesk vs AnyDesk
+
+Forgejo vs Gitea
+
+Splashtop vs TeamViewer
+
+GitHub vs Bitbucket
+
+TeamViewer vs AnyDesk
+
+GitHub vs GitLab
+
+Canva vs Gamma
+
+Google Meet vs Zoom
+
+Miro vs Mural
+
+Zoom vs Microsoft Teams
+
+Notion vs Obsidian
+
+All 147 comparisons →
+
+Sources
+
+Prices, plan limits and product facts on this page were checked against the vendors' own pages on
+October 20, 2026. Vendors change both without notice, so treat the figures as of that date.
+
+SendGrid pricing page: free trial with no credit card; price figures not present in the page text
+
+Twilio SendGrid changelog: changes to the Free plan: retirement of the Free Email API and Marketing Campaigns plans from May 27, 2025
+
+Twilio docs: SendGrid billing: plans are monthly subscriptions; downgrading to a free plan affects contacts
+
+Twilio docs: dedicated IP addresses: shared IPs on Trial and Essentials, one dedicated IP on Pro, Expert Services for Pro and Premier
+
+Twilio docs: Email Activity feed: 30-day history only with the add-on; Email Activity data stored in the United States
+
+Mailgun pricing page: tier prices, overage per 1,000, log retention, IP and support features, US and EU hosting, validation prices
+
+Mailgun terms of service: Sinch Email terms, Texas law and San Antonio courts for Mailgun Technologies, Inc.
+
+The Interregnum
+
+Independent research & software advice
+
+Industry data and software advice for the shift from conventional to AI software
+
+Research
+
+Software advice
+
+Alternatives
+
+Compare
+
+Industry reports
+
+Market data
+
+Countries
+
+Editorial
+
+About
+
+Authors
+
+Editorial process
+
+Partners
+
+Placement disclosure
+
+Company
+
+Services
+
+Contact
+
+Privacy
+
+Terms
+
+The Interregnum · G-Cas B.V. · KvK 42008661. Some vendors on this site pay for more visibility in
+our rankings; the policy and how it works are explained on our placement disclosure page.
+G-Cas B.V. is registered at Fladderiepvliet 3, 3545 AJ Utrecht, Netherlands. Contact: hello@theinterregnum.net.
+
+From the same publisher: The Knowledge Engineers, market data and
+research on business software, and European Purpose, European alternatives
+to US software, and AI Tool Compare, independent AI tool rankings. AI search visibility for B2B software vendors: 2 Steps Ahead.
+
+We use cookies to understand how this site is used. Analytics only load after you accept. See our
+privacy policy for details.
+
+Reject
+Accept

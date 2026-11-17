@@ -1,0 +1,162 @@
+Set follow-up reminders for opportunities in the ServiceTitan Field Mobile App
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+Set follow-up reminders for opportunities in the ServiceTitan Field Mobile App
+
+Updated on Oct 29, 2026
+
+Published on Mar 20, 2026
+
+3 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+If there are unsold estimates when you complete a job in the Field Mobile App, an opportunity follow-up is created automatically. The app prompts you to set a follow-up reminder immediately after completing the job. Set reminders to follow up on these opportunities to avoid missing out on potential revenue and close more deals.
+
+Tip: If the video doesn't play in full screen, tap More then Fit Screen .
+
+Who uses this feature
+
+Technicians
+
+Primarily benefits Commercial Service and Replacement, Residential Service and Replacement, and Residential Construction business types
+
+Applies to all trades
+
+Feature configuration
+
+The Field Mobile App is optimized for iOS, iPadOS, and Android phones and tablets. For more, see System requirements and mobile app information.
+
+If you're using the Field Mobile App and need support, please contact Technical Support (through the office) or reach out directly to support@servicetitan.com.
+
+The following permissions are required to use this feature. Please contact the account administrator on your team.
+
+Access follow ups
+
+Edit estimates in follow up
+
+Things to know
+
+Each follow-up reminder is sent as a separate message. For example, if you set follow-up reminders for different customers for the same date and time, you'll receive separate reminders.
+
+Best practices
+
+Add opportunities to your navigation bar to quickly access your follow-ups. To do this, go to Menu > Customize Navigation and drag Opportunities to the Current section. For more, see Use the Menu screen in the Field Mobile App.
+
+Set an opportunity follow-up reminder when completing a job in the Field Mobile App
+
+When you complete a job, if the job's opportunity status is Not attempted, Contacted, or Unreachable when online, a pop-up prompts you to set a follow-up reminder.
+
+Note: If you’re offline, the system checks if all estimates are unsold and at least one is not in dismissed status.
+
+On the pop-up, tap Edit.
+
+Tip: If you don’t want to set the reminder now, tap Done to skip and then set a reminder later from the Opportunities screen.
+
+On the screen that opens, set the Date and Time you want to be reminded.
+
+Turn on the Reminders toggle and select Text, Email, or both.
+
+Tap Save to set the reminder.
+
+Set an opportunity follow-up reminder from the Opportunities screen in the Field Mobile App
+
+Step 1: Locate an opportunity in the Field Mobile App
+
+Open the Field Mobile App and tap Menu at the bottom of the screen.
+
+On the Menu screen that opens, tap Opportunities.
+
+On the Opportunities screen that opens, use the following options to filter and sort your opportunities:
+
+Sort and Filter : Contains all sort and filter options, in addition to a Reset All option.
+
+Sort: Sort by Date (Most Recent) or Date (Oldest).
+
+Date Range: Filter by Today, Past Week, Past 2 Weeks, Past Month, or Custom date range.
+
+Status: Filter by Not Attempted, Unreachable, Contacted, Won, and Dismissed.
+
+Tip: You can also use the search box to find specific opportunities and the Reminders filter to only see opportunities that have follow-up reminders set up. Your filter selections persist within your session, so you don't need to reconfigure them each time you return to the Opportunities screen.
+
+Step 2: Set an opportunity follow-up reminder in the Field Mobile App
+
+After you find the opportunity you want to follow up on, tap it to open it.
+
+On the opportunity that opens, tap the Date.
+
+On the screen that opens:
+
+Set the Date and Time you want to be reminded.
+
+Turn on the Reminders toggle.
+
+Select if you want to be reminded by Phone, Email, or both.
+
+Tap Save when finished.
+
+Note: You must have at least one phone or email contact method added to your profile in the office to create a follow-up reminder.
+
+Depending on what you selected, you'll be reminded to follow up by phone, email, or both.
+
+Note: If you want to turn off follow-up reminders, open the opportunity, tap the Notification icon, turn off the Reminder toggle, then tap Save.
+
+Want to learn more?
+
+Next topic: Follow up on opportunities in the ServiceTitan Field Mobile App
+
+Was this article helpful?
+
+Yes No
+
+Previous article
+
+Mark a recurring service as complete in the ServiceTitan Field Mobile App
+
+Next article
+
+Follow up on opportunities in the ServiceTitan Field Mobile App
+
+Related articles
+
+Follow up on opportunities in the ServiceTitan Field Mobile App
+
+Product Areas > Field Mobile App > Follow up on opportunities
+
+Update opportunities after following up in the ServiceTitan Field Mobile App
+
+Product Areas > Field Mobile App > Follow up on opportunities
+
+Use the Follow Up tab in ServiceTitan Mobile
+
+Product Areas > ServiceTitan Mobile (Legacy) > Setup and Navigation
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use

@@ -1,0 +1,857 @@
+Merchant Central: Payments CRM & Merchant Management | NMI
+
+Products
+
+Payments
+The all-in-one, customizable payments platform
+
+Merchant Central
+The payments CRM & merchant underwriting solution
+
+Pipeline Management
+Track and convert deals from lead to boarded
+
+Fee Navigator
+AI-powered merchant statement analysis
+
+Sign-Up & Onboarding
+From first click to payment acceptance, faster
+
+Merchant Underwriting
+Approve merchants faster. Stay ahead of risk
+
+Merchant Boarding
+Board merchants faster across top payment processors
+
+Reporting & Insights
+Real-time portfolio visibility and analytics
+
+Residuals Management
+Automate payouts with accuracy and speed
+
+Helpdesk & Merchant Support
+Centralized merchant support, all in one place
+
+Business Capital
+Offer embedded merchant financing
+
+Time Savings Calculator
+Save time with automation
+
+Payment Gateway & Value Added Solutions
+Flexible & feature-rich, for every way they want to pay
+
+Value Added Solutions
+Our payment gateway Marketplace features NMI and trusted 3rd-party Value-Added Services.
+
+Money Movement
+One integration for every bank payment rail
+
+Solutions
+
+Ecommerce Payments
+Simplify online payments
+
+In-Person Payments
+Enable in-person payments
+
+Mobile Payments
+Power on-the-go payments
+
+Unattended & Self-Service
+Offer secure self-service payments
+
+Fraud Defense Suite
+Detect fraud before it happens.
+
+Who We Serve
+
+Independent Sales Organizations (ISOs)
+Drive value, earn more
+
+Software Companies / SaaS Platforms
+Build, integrate, and scale payments
+
+Banks
+Help your merchants compete
+
+Payment Facilitators
+Reduce onboarding friction
+
+Industry Verticals
+Payments solutions for your customers
+
+Developers
+
+Integration Portal
+Start building in our Sandbox
+
+Documentation
+The resources you need to build
+
+SDKs + APIs
+Easy-to-use SDKs and APIs
+
+Processors & Devices
+Pre-certified for easy integration
+
+Security
+Transact safely, with confidence
+
+Resources
+
+Payments 101
+Understanding the world of payments
+
+Case Studies
+Partner stories of growth and success
+
+eBooks
+Quick reads, big insights
+
+Podcasts
+Conversations shaping the future of payments
+
+Whitepapers
+In-depth research and resources
+
+Webinars
+Deep dive into key trends with industry leading experts
+
+Analyst Reports
+Third party market insights
+
+Blog
+
+About Us
+
+Who we are
+See how we power success
+
+Leadership
+Learn more about our executive team
+
+News
+The latest NMI news
+
+Events
+Meet with NMI
+
+Careers
+Help us enable billions in payments
+
+Contact Us
+Get in touch with NMI
+
+Get In Touch
+
+Sign In
+
+Get In Touch
+Sign In
+
+Close
+
+Search
+
+The payments CRM built for ISOs, Banks
+
+and Software Providers
+
+Merchant Central
+
+Formerly IRIS CRM
+
+Onboard faster. Underwrite smarter. Manage everything in one place. Merchant Central helps ISOs, banks and software providers manage every stage of the merchant lifecycle from first contact to long-term growth through one powerful platform that’s purpose-built for the payments industry. The result is greater visibility, stronger operational control and a more scalable way to grow and manage merchant portfolios.
+
+Talk to a Merchant Central Expert
+
+Why Choose
+
+Merchant
+
+Central?
+
+Faster Merchant Onboarding
+
+Accelerate merchant onboarding with instant, streamlined workflows that reduce friction.
+
+Automated Risk & Compliance
+
+Automate underwriting, monitoring and compliance for smarter, faster risk decisions.
+
+Lower Costs, Greater Efficiency
+
+Cut costs and increase efficiency by eliminating manual processes and siloed tools.
+
+Stronger Merchant Relationships
+
+Strengthen merchant satisfaction and retention through better experiences at every stage, driving long-term growth across your portfolio.
+
+Payments-Focused Portfolio Management
+
+Optimize portfolio management with a CRM that’s purpose built for payments, including reporting, residuals tracking and a white-label experience.
+
+Introducing Merchant Central
+
+The Payments CRM for All Your Merchant
+
+Management Needs
+
+Manage
+
+Merchant Pipeline
+
+with Clarity
+
+Merchant Central gives sales and business development teams a structured, end-to-end view of the merchant pipeline.
+
+Built specifically for organizations that process payments, Merchant Central includes a built-in dialer, status triggers, custom properties and configurable metrics to give teams full control over the sales funnel. From first outreach to approved merchant, every stage is structured, trackable and measurable, helping teams increase conversion rates and forecast growth with confidence.
+Accelerate Sales Performance
+
+Turn Statement Analysis
+
+Into a Competitive Advantage
+
+Pricing analysis has always been one of the most time-intensive steps in winning new merchants. Fee Navigator changes that. By automating approximately 90% of the statement analysis workflow, it gives your pricing experts accurate, AI-powered fee data they can price against immediately,
+so your team closes faster and captures more margin.
+Explore Fee Navigator
+
+Streamline
+
+Merchant Sign-Up
+
+and Onboarding
+
+Simplify merchant acquisition with integrated sign-up and onboarding workflows, including embedded web forms, digital agreements and eSign capabilities. Merchant Central reduces friction by guiding merchants through a structured application and onboarding experience, minimizing delays and manual handoffs.
+
+By centralizing onboarding data and automating key steps, partners can accelerate time-to-value while maintaining control over compliance and documentation requirements.
+Simplify Sign Up
+
+Automate
+
+Underwriting
+
+& Risk Checks
+
+Merchant Central connects onboarding directly to automated underwriting and ongoing risk management, creating a seamless transition from application to approval. ScanX performs over 100 risk checks in minutes, using automated KYC, KYB and AML data to generate risk-scored decisions, while organized file submission and stage-based visibility keep sales and underwriting aligned. MonitorX continuously tracks merchant risk profiles and Scorecard Insights provides trend visibility to improve auto-decision rates and optimize portfolio performance.
+Enhance Underwriting Solutions
+
+Board
+
+Merchants
+
+Efficiently
+
+Once approved, merchants can be boarded quickly and consistently through streamlined workflows across 10+ processor integrations.
+
+Merchant Central reduces manual data entry and disconnected workflows by streamlining processor submission within a single platform. The result is faster activation, fewer operational bottlenecks and improved accuracy from approval to live processing.
+Streamline Processor Boarding
+
+Access Real-Time
+
+Reporting
+
+and Portfolio Insights
+
+Access real-time visibility into merchant performance across your entire portfolio with reporting and analytics designed specifically for merchant portfolio management.
+
+Merchant Central reporting includes profit, transaction processing activity, chargebacks, dispute responder performance, pricing, new accounts and more. With centralized data and actionable analytics, partners can make informed decisions that improve performance and reduce risk exposure.
+Explore Reporting Tools Solutions
+
+Unlock Growth with
+
+Business Capital
+
+Offer white-label embedded lending directly within the Merchant Portal with pre-approved loan offers for eligible merchants.
+
+By integrating access to funds into the merchant management experience, partners can create additional value for merchants while unlocking new revenue streams and deepening long-term relationships — with no added operational complexity.
+
+Business Capital is powered by Parafin, who handles underwriting, funding and servicing end-to-end.*
+Discover Capital Options
+
+Automate
+
+Residuals
+
+Management
+
+Residuals are critical to ISO operations. Merchant Central significantly reduces calculation time with automated residuals processing designed for speed, transparency and accuracy.
+
+Merchant Central supports sales agent reporting by consolidating revenue data within the same platform used to manage merchants. Partners can simplify reconciliation, improve accuracy and gain clearer insight into operational efficiency and portfolio profitability.
+Empower Residual Insights
+
+Deliver Integrated
+
+Helpdesk and
+
+Merchant Support
+
+Strengthen the merchant experience with a full-service, integrated helpdesk system.
+
+Merchant Central automates ticket routing, enables transparent merchant communication and powers configurable support workflows all within a single system. With a centralized view of merchant history and interactions, support teams can resolve issues more efficiently and deliver a more consistent experience.
+Improve Merchant Support
+
+Deploy Merchant Central Your Way
+
+A complete payments CRM or just the modules you need
+
+Merchant Central is built to adapt to how payment providers operate.
+
+Whether you want a complete merchant management platform or targeted tools to improve specific
+
+workflows, you can deploy Merchant Central in the way that works best for your business.
+
+Unified When You Want It. Modular When You Need It.
+
+The Full CRM Platform
+
+One platform to manage the entire merchant lifecycle.
+
+Use Merchant Central as your central system for managing merchants from initial sales through onboarding, underwriting, payouts, and reporting.
+
+Best for:
+
+Organizations looking for a single system to manage merchant operations end to end.
+
+What you get
+
+Sales pipeline and CRM tools
+
+Automated merchant onboarding
+
+Built-in underwriting and risk tools
+
+Residual management and payout calclulations
+
+Real-time reporting and performance insights
+
+Business Capital to offer loans to merchants
+
+Result
+
+A unified platform with one interface, one data model and complete visibility across your merchant operations.
+
+Individual Modules
+
+Improve specific workflows without replacing your existing systems.
+
+If you already have merchant management tools in place, Merchant Central modules can be deployed where they add the most value.
+
+Best for:
+
+Organizations that want to enhance specific processes while keeping their current setup.
+
+Available modules include
+
+Merchant onboarding automation
+
+Underwriting and risk assessment
+
+Residual and payout management
+
+Merchant reporting and insights
+
+Result
+
+Faster improvements to key workflows while maintaining the systems you already use.
+
+Grow at Your Own Pace
+
+Many organizations start with individual modules and expand over time.
+
+As your needs evolve, additional modules can be added or combined into the full Merchant Central CRM
+
+without disrupting your existing operations.
+
+Start with what you need today. Expand when you’re ready.
+
+Designed for Scale
+
+Built for growth. Designed for control.
+
+Merchant Central brings together the operational, financial, and risk components of merchant management
+
+into one connected ecosystem. For ISOs and financial institutions seeking to scale efficiently, strengthen
+
+risk oversight and improve merchant engagement, Merchant Central provides the foundation to grow with
+
+confidence.
+
+See it in Action
+
+Explore Merchant Central with
+our virtual demo
+
+What Merchant Central Means for Partners
+
+An Efficient Experience Across the Lifecycle
+
+Merchant Central facilitates instant merchant onboarding and structured portfolio management, improving
+
+operational efficiency at every stage of the merchant journey.
+
+Reduced Friction and Fewer Errors
+
+Faster underwriting equals faster onboarding. Streamlined workflows help reduce “not in good order” applications by as much as 30%, improving submission quality and accelerating approvals.
+
+The Automation Advantage
+
+Automated workflows deliver consistency, accuracy and speed across onboarding, underwriting and residuals management. That reduces manual effort (and headaches) for your team, freeing up time so they can focus on growth.
+
+More Merchants, Less Churn
+
+By streamlining onboarding, service and ongoing support processes, Merchant Central helps resolve issues faster and strengthens long-term merchant relationships, supporting higher retention across the portfolio.
+
+How much time can you save with Merchant Central?
+
+Calculate Your Time Savings With
+
+Merchant Central
+
+Manual processes across merchant onboarding, reporting and residual management take time and add
+unnecessary complexity. Use this calculator to estimate how much time Merchant Central could save your team
+by automating these workflows and bringing them into one place.
+
+Calculate Time Savings
+
+Testimonial
+
+“
+
+Understanding the payment onboarding flow, navigating systems, and managing various data types and sources can be complex. But with NMI [Merchant Central], all of that complexity is eliminated. NMI has consolidated and automated every step, making the platform the single point of contact for the onboarding team. They no longer have to juggle multiple portals, logins, or workflows, which saves us a tremendous amount of time and headaches while greatly reducing the training burden.
+
+Lacey Frenzl, VP of Customer Experience,
+
+”
+
+Ready for Next-Level Merchant Management?
+
+Let’s Talk
+
+Your Catalyst for Growth in Merchant Management
+
+Resources & Insights
+
+Blog
+The Payments CRM That Powers Smarter Merchant Management
+Read More
+
+Blog
+Build vs. Buy: Choosing the Best Payments CRM For Your Business
+Read More
+
+Ebook
+The Future of Merchant Infrastructure: How a Payments CRM Drives Growth & Efficiency
+Read More
+
+Blog
+Why Payments CRMs are Key to Banks Competing with Fintechs and Big Platforms
+Read More
+
+Blog
+Accelerate Onboarding with Payments-Centric CRM Modules
+Read More
+
+eBook
+The Tech to Unlock Merchant Services and New Revenue Opportunities
+Read More
+
+Guide
+Merchant Central CRM Comparison Guide
+Read More
+
+Guide
+Why Merchant Central: Your Questions Answered!
+Read More
+
+Guide
+What to Expect: A Guide to Getting Started with Merchant Central
+Read More
+
+Merchant Central FAQs
+
+What is NMI Merchant Central?
+
+Merchant Central is NMI’s merchant management platform, designed to help payment providers manage the full merchant lifecycle in one place. It is a purpose-built merchant CRM for ISOs, payment facilitators and financial institutions.
+
+Within Merchant Central, teams can manage merchant onboarding and underwriting, track their sales pipeline, monitor performance, handle reporting, manage residuals and provide ongoing support. By bringing these capabilities together, it provides a single system for managing merchant relationships and day-to-day operations.
+
+Is NMI Merchant Central the same as IRIS CRM?
+
+Yes! Merchant Central builds on the foundation of IRIS CRM following NMI’s acquisition of IRIS. The core capabilities users associate with IRIS CRM are still part of the platform.
+
+Merchant Central is the next stage in its development, expanding beyond a traditional merchant CRM to offer a broader merchant management system. It brings together direct-to-processor onboarding, pipeline management, underwriting support, reporting, residuals, a white-label merchant portal and embedded lending within a single platform.
+
+For partners familiar with IRIS CRM, Merchant Central is the evolution of that product into a more integrated merchant management solution.
+
+How is Merchant Central different from other merchant management platforms and CRMs?
+
+Merchant Central is built specifically for the payments industry, which sets it apart from general merchant management software or traditional CRM systems.
+
+While many merchant management platforms focus on basic customer tracking, Merchant Central combines CRM functionality with tools tailored to payment providers. This includes direct-to-processor onboarding, built-in KYC, KYC and AML checks, residuals tracking, reporting as well as underwriting and risk management. It also includes a white-label merchant portal, giving partners a way to deliver a consistent, branded experience to their merchants.
+
+Merchant Central is designed to be modular, allowing partners to use the full platform or select the components that fit their business without replacing their existing stack. By bringing these capabilities together within a single system, it reduces the need to manage multiple tools and helps teams operate more efficiently.
+
+Because Merchant Central is designed for use alongside a payment gateway, it aligns more closely with how ISOs and payment providers operate compared to a standard CRM.
+
+Ready to get started?
+
+Talk to Our Team
+
+Discover your full growth potential and strengthen merchant relationships with Merchant Central Payments CRM.
+
+Invalid number
+
+Product Interest*
+Payment gateway
+NMI Payments
+Merchant Management
+Unattended/Vending
+Money Movement
+Fee Navigator
+
+Business Type*
+Software/SaaS Company
+ISO - Wholesale
+ISO - Retail
+Unattended/Manufacturer/Kiosk
+Bank
+Merchant/Retailer
+None of the above
+
+Company Email
+
+Submit
+
+By submitting your information, you agree to NMI's Privacy Policy & Terms and Conditions
+
+Products
+
+Payments
+
+Merchant Central
+
+Pipeline Management
+
+Fee Navigator
+
+Sign-Up & Onboarding
+
+Merchant Underwriting
+
+Merchant Boarding
+
+Reporting & Insights
+
+Residuals Management
+
+Helpdesk & Merchant Support
+
+Business Capital
+
+Time Savings Calculator
+
+Payment Gateway & Value Added Solutions
+
+Payment Gateway Extensions
+
+Solutions
+
+Ecommerce Payments
+
+In-Person Payments
+
+Mobile Payments
+
+Unattended & Self-service
+
+Fraud Prevention Suite
+
+Developers
+
+Integration Portal
+
+Documentation
+
+SDKs + APIs
+
+EMV Kernels
+
+Processors & Devices
+
+Security
+
+Who We Serve
+
+Independent Sales Organizations (ISOs)
+
+Software Companies / SaaS Platforms
+
+Banks
+
+Payment Facilitators
+
+Industry Verticals
+
+Resources
+
+Blog
+
+Case Studies
+
+eBooks
+
+Podcasts
+
+Whitepapers
+
+Webinars
+
+About Us
+
+Who We Are
+
+Leadership
+
+News
+
+Events
+
+Careers
+
+Contact Us
+
+Talk To Our Team
+
+Talk to Sales
+
+Contact Us
+
+Support Hub
+
+Policy
+
+Terms and Policies
+
+Privacy
+
+Legal Process Guidelines
+
+YouTube
+
+X
+
+Linkedin
+
+Facebook
+
+Instagram
+
+NMI
+
+Trading in the UK as Network Merchants Ltd.
+Reg.No.: 3295353 VAT No: 125 4619 22
+
+Home > Products > Merchant Central Formerly IRIS CRM
+
+Hello, I'm Penny.
+Let me know if you have any questions!
+
+English
+
+English
+
+Deutsch
+
+Español
+
+Français
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+Português
+
+Română
+
+Slovenščina
+
+Slovenčina
+
+Nederlands
+
+Dansk
+
+Ελληνικά
+
+Čeština
+
+Magyar
+
+Lietuvių
+
+Latviešu
+
+Eesti
+
+Hrvatski
+
+Gaeilge
+
+Български
+
+Norsk
+
+Türkçe
+
+Bahasa Indonesia
+
+Português (Brasil)
+
+日本語
+
+한국어
+
+简体中文
+
+العربية
+
+Русский
+
+हिन्दी
+
+Українська
+
+Srpski
+
+English (UK)
+
+فارسی
+
+עברית
+
+Македонски
+
+ไทย
+
+Tiếng Việt
+
+Accessibility Adjustments
+
+Powered by
+
+OneTap
+
+Hide Toolbar
+
+Back
+
+How long do you want to hide the toolbar?
+
+Hide Toolbar Duration
+
+Only for this session
+
+24 hours
+
+A Week
+
+Not Now
+Hide Toolbar
+
+Select your accessibility profile
+
+Vision Impaired Mode
+
+Enhances website's visuals
+
+Vision Impaired Mode
+
+Seizure Safe Profile
+
+Clear flashes & reduces color
+
+Seizure Safe Profile
+
+ADHD Friendly Mode
+
+Focused browsing, distraction-free
+
+ADHD Friendly Mode
+
+Blindness Mode
+
+Reduces distractions, improves focus
+
+Blindness Mode
+
+Epilepsy Safe Mode
+
+Dims colors and stops blinking
+
+Epilepsy Safe Mode
+
+Content Modules
+
+Font Size
+
++
+
+Default
+
+-
+
+Readable Font
+
+Line Height
+
++
+
+Default
+
+-
+
+Cursor
+
+Letter Spacing
+
+Align Text
+
+Font Weight
+
+Color Modules
+
+Light Contrast
+
+High Contrast
+
+Monochrome
+
+Orientation Modules
+
+Reading Line
+
+Reading Mask
+
+Hide Images
+
+Highlight Content
+
+Stop Animations
+
+Highlight Links
+
+Skip To Content
+
+Choose...
+Main Content
+Navigation
+Footer
+
+Reset Settings

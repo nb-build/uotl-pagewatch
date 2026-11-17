@@ -1,0 +1,774 @@
+tawk.to - Free Live Chat Software for Your Website
+
+Home
+Products
+
+Resources
+Add-onsWhy Free?
+EnglishEnglishРусскийItalianoEspañolFrançaisPortuguês (Brasil)Türkçeالعربية▾Log inGet Started
+
+EnglishEnglishРусскийItalianoEspañolFrançaisPortuguês (Brasil)Türkçeالعربية▾Log in
+
+How millions of companies delightengagesupportserviceempowerdelight billions of customers.
+
+Everything you need to create exceptional customer experiences at every touchpoint throughout the customer journey.
+
+Get Started
+Over 3 billion people interact via tawk.to every month
+
+100% Free - Read why
+
+Inbox
+
+CRMPipelineAutomationsKnowledge BaseFeedbackActivitiesChat Widget
+
+Psst, this is clickable...
+
+It’s the real product. Open any tab and have a play.
+
+Got it
+
+Sarah K
+
+I can't find my order confirmation
+
+James L
+
+Do you offer enterprise pricing?
+
+Amir Hassan
+
+Damaged item received
+
+Lena Müller
+
+Can I customize the widget colors?
+
+Ryan Mitchell
+
+RE : API integration
+
+Sophie Carter
+
+Need help with widget setup
+
+Emily Watson
+
+Billing inquiry
+
+James Rivera
+
+Feature request
+
+Sarah K
+
+I can't find my order confirmation
+
+Today
+
+Hi, I placed an order yesterday but never got a confirmation email.
+
+2:45 PM
+
+I'm sorry to hear that! Let me look into it for you.
+
+2:46 PM
+
+I can't find my order confirmation
+
+2:48 PM
+
+Reply
+
+WhisperSmart reply
+
+Inbox
+
+Every channel, answered in one place
+
+1 / 8
+
+0 open
+
+P
+
+Priya N
+
+Can you send the invoice?
+
+S
+
+Sofia M.
+
+Re: Q3 proposal
+
+L
+
+Liam O.
+
+Does this work on mobile?
+
+D
+
+Diego R.
+
+Thanks! That fixed it 🙌
+
+CRM
+
+Know every customer before you reply
+
+2 / 8
+
+Pipeline
+
+Every deal, from first hello to won
+
+3 / 8
+
+Automations
+
+Instant AI answers, day and night
+
+4 / 8
+
+Knowledge Base
+
+Answers customers can find themselves
+
+5 / 8
+
+Activities
+
+Bookings without the back-and-forth
+
+6 / 8
+
+Chat Widget
+
+Make the widget match your brand
+
+7 / 8
+
+Feedback
+
+Let customers vote on what's next
+
+8 / 8
+
+Trusted by teams at
+
+· 01 / The problem
+Drowning in tools
+
+Chat in one app. Contacts in another. Tasks in a third. Socials everywhere. Messages pour in from every direction, and because nothing talks to anything, replies slip, follow-ups stall, and customers are left waiting.
+
+3
+Chat app
+
+3 new messages
+
+Contacts sheet
+
+Last edited
+
+12
+Email
+
+12 unread
+
+Task board
+
+Card stuck in review
+
+2
+Socials
+
+2 DMs unanswered
+
+Notes
+
+Draft never sent
+
+· 02 / Who it’s for
+
+Valuable businesses, value relationships
+
+Millions of businesses run on tawk.to.
+
+Conversations that go unanswered look the same everywhere.
+
+· 03 / Complete control
+
+Finally, everything’s connected
+
+Every deal, meeting, ticket and idea links back to the one contact record. One system, start to finish.
+
+· 01
+
+Every enquiry, one dashboard
+
+You stop juggling apps just to keep up.
+
+FormsChatEmailChannelsVoice
+
+tawk.to · dashboard
+
+Shared inbox4 unread
+
+Anna K.web
+
+Is this refundable if it doesn't fit?
+
+2m
+
+Tomás R.whatsapp
+
+typing…
+
+5m
+
+Priya N.form
+
+Requested a wholesale quote
+
+12m
+
+Missed callvoice
+
++61 4•• ••• 219 — left a voicemail
+
+18m
+
+· 02
+
+Conversations turn into contacts
+
+Talk to someone once, and their history sits on the contact for next time.
+
+OrganizationsSegmentsTags
+
+tawk.to · dashboard
+
+Contact recordauto-built
+
+Anna K.
+
+anna@brightloom.co
+
+First seenLive chat · Mar 2026
+
+Conversations7 across 3 channels
+
+Last order#4821 · swapped to M
+
+NotesPrefers email follow-up
+
+· 03
+
+Turn a name into a full profile
+
+Company, role and verified details fill in, so you know who you’re dealing with.
+
+IndustrySocialsLocation
+
+tawk.to · dashboard
+
+Profileenriched
+
+Anna K.
+
+Brightloom
+
+CompanyBrightloom
+
+RoleOwner
+
+Emailanna@brightloom.co✓ verified
+
+IndustryApparel & retail
+
+LocationAustin, US · in / X
+
+· 04
+
+Move anything through your stages
+
+A deal, an order, an application, each one moves along, and you see where it stands.
+
+Board viewTotalsFilters
+
+tawk.to · dashboard
+
+Pipelinewholesale
+
+Open value $8,6006 open
+
+New2
+
+Corner Studio
+
+$1,200
+
+The Daily Co
+
+$900
+
+Qualified3
+
+Brightloom · Anna
+
+$2,400
+
+Bloom & Co
+
+$1,600
+
+Won1
+
+Harbour Studio
+
+$2,500
+
+· 05
+
+See what’s done and what’s next
+
+Calls, notes and tasks all land on the contact, so the next step is clear.
+
+RemindersDue datesActivity log
+
+tawk.to · dashboard
+
+ActivityAnna K.
+
+✓Call · talked through wholesale pricing
+
+✓Note · wants 5kg bags, fortnightly
+
+Task · send wholesale quotetomorrow
+
+Check in after deliveryfri
+
+· 06
+
+Track each issue through to done
+
+When an enquiry is a problem, not a sale, it becomes a ticket on the same contact and stays open until resolved.
+
+AssigneesPrioritiesStatuses
+
+tawk.to · dashboard
+
+Ticket #4821open
+
+Order arrived damaged
+
+Anna K.Sam K.High priority
+
+Anna K. · WhatsApp
+Two of the items arrived damaged. Photos attached.
+
+Sam K. · reply
+So sorry Anna — replacements ship today and I've credited the two.
+
+· 07
+
+Customers shape what you build next
+
+The people you support come back with ideas, so you turn the most-voted into a public roadmap, then a changelog when they ship.
+
+PlannedIn progressShipped
+
+tawk.to · dashboard
+
+Ideas portalpublic
+
+▲128
+
+Saved carts & reorder
+
+12 comments · Anna K. · Brightloom
+
+Planned
+
+Saved carts
+
+CSV export
+
+In progress
+
+Bulk discounts
+
+Shipped
+
+Reorder button
+
+Size guide
+
+tawk.to · dashboard
+
+Shared inbox4 unread
+
+Anna K.web
+
+Is this refundable if it doesn't fit?
+
+2m
+
+Tomás R.whatsapp
+
+typing…
+
+5m
+
+Priya N.form
+
+Requested a wholesale quote
+
+12m
+
+Missed callvoice
+
++61 4•• ••• 219 — left a voicemail
+
+18m
+
+Contact recordauto-built
+
+Anna K.
+
+anna@brightloom.co
+
+First seenLive chat · Mar 2026
+
+Conversations7 across 3 channels
+
+Last order#4821 · swapped to M
+
+NotesPrefers email follow-up
+
+Profileenriched
+
+Anna K.
+
+Brightloom
+
+CompanyBrightloom
+
+RoleOwner
+
+Emailanna@brightloom.co✓ verified
+
+IndustryApparel & retail
+
+LocationAustin, US · in / X
+
+Pipelinewholesale
+
+Open value $8,6006 open
+
+New2
+
+Corner Studio
+
+$1,200
+
+The Daily Co
+
+$900
+
+Qualified3
+
+Brightloom · Anna
+
+$2,400
+
+Bloom & Co
+
+$1,600
+
+Won1
+
+Harbour Studio
+
+$2,500
+
+ActivityAnna K.
+
+✓Call · talked through wholesale pricing
+
+✓Note · wants 5kg bags, fortnightly
+
+Task · send wholesale quotetomorrow
+
+Check in after deliveryfri
+
+Ticket #4821open
+
+Order arrived damaged
+
+Anna K.Sam K.High priority
+
+Anna K. · WhatsApp
+Two of the items arrived damaged. Photos attached.
+
+Sam K. · reply
+So sorry Anna — replacements ship today and I've credited the two.
+
+Ideas portalpublic
+
+▲128
+
+Saved carts & reorder
+
+12 comments · Anna K. · Brightloom
+
+Planned
+
+Saved carts
+
+CSV export
+
+In progress
+
+Bulk discounts
+
+Shipped
+
+Reorder button
+
+Size guide
+
+shared inbox · every channel
+
+All the tools you need. For every step of the customer journey.
+
+· 04 / AI and your team
+
+AI that thinks like you, and learns from you.
+
+Instant answers around the clock. The AI resolves routine questions instantly, any hour, across multiple languages.Your team does the part no machine can: they review its answers, correct the ones that miss, and feed it the knowledge it draws from. Every correction makes the next answer better. And when a conversation actually needs a person, a person takes it, with full history and full context right when they need it.
+
+Real teams, right now
+
+The crew that builds tawk.to answers customer conversations every day. We make the tools we want to use ourselves.
+
+Knowledge
+
+Shipping.pdf
+
+help.site/faq
+
+drop to addReturns.pdf
+
+What’s your returns policy?
+
+30 days, free return label — no questions asked.
+
+Do I pay for return shipping?
+
+Nope — we email you a prepaid label.
+
+Can I exchange instead?
+
+Of course — start it from your order page.
+
+Returns.pdf
+
+Maya
+
+· 05 / Setup
+
+One snippet. Live in minutes.
+
+Paste it and you’re live, free. The rest happens in your dashboard: customise the chat, switch on your channels, add your team. No developer needed.
+
+index.htmlCopy
+
+Widget live in ~2 min
+
+Live dashboard
+
+Today
+
+Replies
+
+147↑ 42%
+
+Avg response28s
+
+Resolved94%
+
+Satisfaction4.9
+
+Channel mix4 channels
+
+Web52%
+
+WhatsApp24%
+
+Email14%
+
+SMS10%
+
+Agents online4 / 4
+
++6
+
+Updated just now
+
+No devs
+
+Copy, paste, done.
+
+One snippet of JavaScript. No build step, no ticket to engineering, no redeploy.
+
+Squarespace
+
+Shopify
+
+WordPress
+
+Everywhere
+
+Respond from any device.
+
+Native apps for iOS, Android, macOS and Windows. Pick up a conversation where you left off, on any screen.
+
+Web
+
+iOS
+
+Android
+
+Mac
+
+Win
+
+· 06 / Around the world
+
+0M+
+Businesses
+
+0B+
+People reached / mo
+
+0+
+Countries
+
+0+
+Languages
+
+· 07 / Proof at scale
+
+One platform that grows with you, trusted from the corner shop to the Fortune 500
+
+Millions of businesses run on tawk.to, a solo founder answering chats between jobs, and the support teams at names you’d know, all on the same free platform. Over three billion people interact via tawk.to every month.
+
+Live reachIt’s always business hours somewhere
+
+People reached today · via the widget
+
+· 08 / Why free
+
+“You shouldn’t have to pay to speak with your own customers.” — Robert, Founder, tawk.to
+
+RRobert · Founder, tawk.to
+✓✓delivered · since 2013
+
+That’s the whole reason: tawk.to.
+
+· 09 / FAQ
+
+Frequently asked questions
+
+All8Pricing3Setup2Features2Security1
+
+01Is tawk.to really free?
+
+02How many agents can we add?
+
+03Are there limits on chat volume?
+
+04How long does it take to set up?
+
+05What kind of support do you offer?
+
+06Can I use tawk.to on mobile?
+
+07Can I customize the chat widget?
+
+08Is my data secure?
+
+Still have questions?
+Chat with our team →
+
+· 09 / FAQ
+
+Frequently asked questions
+
+Categories
+
+All· 8
+
+Pricing· 3
+
+Setup· 2
+
+Features· 2
+
+Security· 1
+
+Still have questions?
+Chat with our team →
+
+01Is tawk.to really free?
+
+02How many agents can we add?
+
+03Are there limits on chat volume?
+
+04How long does it take to set up?
+
+05What kind of support do you offer?
+
+06Can I use tawk.to on mobile?
+
+07Can I customize the chat widget?
+
+08Is my data secure?
+
+· 10 / Start
+
+A complete solution for
+
+AI and human agents
+
+Automate the boring stuff, empower your team with the tools they need. Forever free, setup and live in minutes.
+
+Get started
+
+· 2 min setup· No credit card
+
+Products
+
+Live ChatOmnichannel InboxChat PagesKnowledge BaseCRMPipelineActivitiesFeedbackAutomationAdd-ons
+
+Resources
+
+Help CenterFAQsBlogAcademyWebinarsDevelopersStatusCommunity
+
+Company
+
+Why Free?Careers - Join Us!CustomersPartnersTranslateContact Usllms.txt
+
+Get tawk.to
+
+Web BrowserWindowsmacOSiOS & Android
+
+Legal
+
+Privacy & TermsData ProtectionSecurityReport Abuse
+
+tawk.to. All rights reserved.

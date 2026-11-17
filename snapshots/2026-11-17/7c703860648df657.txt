@@ -1,0 +1,437 @@
+Best Non-Medical Home Care Software (2026)
+
+hheyhomecare
+Home care CRMAfter hoursFor providersFeaturesGuidesConnections
+
+Sign inStart your CRM
+
+Explore HeyHomeCare
+Home care CRMAfter hoursFor providersFeaturesGuidesConnectionsStart your CRMProduct tourTalk to salesSign in
+
+Home/Guides/Best non-medical home care software
+
+Guide · Best ofUpdated September 202610-minute read
+
+Best non-medical home care software in 2026.
+
+Non-medical home care — personal care and companion care — is its own category, and the platforms that win here are different from the clinical heavyweights. For most agencies it’s AxisCare. If you’re already in the WellSky ecosystem, it’s WellSky Personal Care (the former ClearCare). If you’re tech-forward and growing toward multi-service, it’s AlayaCare. Here’s how they compare.
+
+By the HeyHomeCare team. HeyHomeCare connects to AxisCare through its API today; our AlayaCare connection is built and switched on once AlayaCare’s partner agreement is in place. We don’t resell either.
+
+Quick verdict
+
+For most non-medical agencies, AxisCare — focused, fast, and affordable. For agencies already on WellSky, WellSky Personal Care. For tech-forward operators planning multi-service growth, AlayaCare.
+
+On this page
+How we ranked.Best non-medical software, by need.The picks in depth.The three picks, side by side.What about free or generic tools?What you also need after hours.Frequently asked questions
+
+01 / Methodology
+
+How we ranked.
+
+We focused on platforms purpose-built for, or strong at, non-medical home care — personal care and companion care — for private-pay and Medicaid-funded non-medical agencies. Rankings draw on our work connecting HeyHomeCare to AxisCare and building against AlayaCare’s published API, the platforms’ public install-base and pricing disclosures, and discovery calls with agency owners and operations leads. No platform paid for placement.
+
+We weighted three things non-medical operators care about most: simplicity of daily use, total cost at mid-market size, and how cleanly the platform scales if the agency grows.
+
+02 / Quick picks
+
+Best non-medical software, by need.
+
+Best overall non-medical
+
+AxisCare
+
+Purpose-built for personal and companion care, fast to implement, and priced for agencies of 10–250 caregivers.
+
+Best for ex-ClearCare / WellSky orgs
+
+WellSky Personal Care
+
+The former ClearCare, now under WellSky. The natural pick if you’re already in the WellSky ecosystem or running multiple post-acute lines.
+
+Best for tech-forward growth
+
+AlayaCare
+
+Cloud-native with Visit Optimizer — the pick if you expect to grow past 250 caregivers or add home health and community care.
+
+Best for small agencies (under 25)
+
+AxisCare
+
+Its starter tier is the most common first-software purchase for new non-medical agencies, without enterprise cost or complexity.
+
+03 / In depth
+
+The picks in depth.
+
+AxisCare
+
+Founded 2011·Waco, TX·~5,000+ agencies
+
+AxisCare is the default non-medical pick for a reason: it does personal and companion care well and doesn’t make you pay for clinical modules you’ll never use. Scheduling, caregiver matching, shift swaps, EVV, and a clean mobile app are all tuned for the non-medical workflow, and implementation runs 2–6 weeks. For agencies from a handful of caregivers up to 250, it’s the safe choice.
+
+Best for
+
+Non-medical agencies, 10–250 caregivers, mid-market growth
+
+Strengths
+
+Scheduling and EVV purpose-built for non-medical
+
+Clean modern caregiver app
+
+Fast implementation (2–6 weeks typical)
+
+Predictable per-active-caregiver pricing
+
+Watch-outs
+
+Lighter clinical compliance than Axxess or WellSky
+
+Less flexible reporting at enterprise scale
+
+WellSky
+
+Founded 1980·Overland Park, KS·20,000+ providers
+
+WellSky Personal Care is the former ClearCare, acquired by WellSky in 2019 and rebranded. It remains a capable non-medical platform, and its real advantage is breadth: if you run personal care alongside home health or hospice, WellSky offers one vendor across all of it. The trade-off is a slower product cadence than AxisCare, since engineering attention is split across WellSky’s broad portfolio.
+
+Best for
+
+Enterprise multi-product post-acute organizations
+
+Strengths
+
+Largest post-acute footprint
+
+Deep clinical and payer integrations
+
+Multi-product suite (home health, hospice, personal care)
+
+Watch-outs
+
+Inconsistent UX across modules
+
+Slower innovation in core home care
+
+AlayaCare
+
+Founded 2014·Montreal, QC·~800+ agencies
+
+AlayaCare is the tech-forward growth pick. It costs more and takes longer to implement than AxisCare, but its cloud-native architecture, modern caregiver app, and Visit Optimizer scheduling make it the right call for non-medical agencies that expect to scale or add service lines. If you’re building for the next five years rather than the next quarter, it’s worth the premium.
+
+Best for
+
+Tech-forward mid-market to enterprise, multi-service agencies
+
+Strengths
+
+Cloud-native architecture, modern UI
+
+Visit Optimizer for AI-driven scheduling and routing
+
+Unified home care + home health + community in one platform
+
+Strong analytics and reporting
+
+Watch-outs
+
+Longer implementation than mid-market alternatives
+
+Integrations to legacy systems often require custom work
+
+04 / The matrix
+
+The three picks, side by side.
+
+Best non-medical home care software — 2026 comparison
+
+AxisCare
+
+WellSky
+
+AlayaCare
+
+Founded
+
+2011
+
+1980
+
+2014
+
+HQ
+
+Waco, TX
+
+Overland Park, KS
+
+Montreal, QC
+
+Focus
+
+Non-medical home care (personal care, companion care)
+
+Home Health, Hospice, Personal Care (ex-ClearCare), Rehab
+
+Home care + home health + community care; cloud-native
+
+Best for
+
+Non-medical agencies, 10–250 caregivers, mid-market growth
+
+Enterprise multi-product post-acute organizations
+
+Tech-forward mid-market to enterprise, multi-service agencies
+
+Install base
+
+~5,000+ agencies
+
+20,000+ providers
+
+~800+ agencies
+
+Pricing model
+
+Per active caregiver
+
+Enterprise per-license
+
+Per module + per user
+
+Mid-market spend
+
+~$300–600/mo (50 caregivers)
+
+~$500–1,500/mo (Personal Care)
+
+~$1,000–3,000/mo
+
+EVV compliant
+
+Yes
+
+Yes
+
+Yes
+
+Caregiver app
+
+iOS + Android
+
+iOS + Android
+
+iOS + Android
+
+Analytics
+
+Standard reporting
+
+Broad post-acute reporting
+
+Advanced (Visit Optimizer AI)
+
+Integration ecosystem
+
+API + select partners
+
+Active integration program
+
+API + iCarol (acquired call center)
+
+Implementation
+
+2–6 weeks
+
+12–26 weeks
+
+6–16 weeks
+
+HeyHomeCare integration
+
+Connected through the API
+
+Coming · needs your API access
+
+Built · on once the partner agreement is signed
+
+05 / Free tools
+
+What about free or generic tools?
+
+New agency owners often ask whether they can run on a generic scheduling app or spreadsheets. You can — briefly. But home care has compliance, billing, EVV (for Medicaid-funded visits), and caregiver-workflow requirements that generic tools don’t meet, and migrating off them later is painful. QuickBooks handles your accounting, but it isn’t home care software.
+
+Best non-medical home care software in 2026: AxisCare for most, WellSky Personal Care for the WellSky ecosystem, AlayaCare for tech-forward growth.
+
+06 / After hours
+
+What you also need after hours.
+
+Caregiver calls and texts — the call-offs, missed clock-ins and shift-change requests that hit after hours — usually land outside the platform. For a non-medical agency that’s a coordinator’s nights and weekends, or a traditional answering service that just takes messages.
+
+HeyHomeCare’s AI answers those calls and texts and works your business rules: it finds replacement coverage for a call-off (after your on-call manager says go, if that’s your rule), chases a missed clock-in with the caregiver first, and transfers new-client callers live, with your on-call manager behind every step. It connects to AxisCare today; AlayaCare is built and switched on once AlayaCare’s partner agreement is in place, and WellSky Personal Care is coming (your agency buys WellSky API access). Or run your agency on HeyHomeCare: private-pay agencies can keep scheduling, EVV, the caregiver app, billing and payroll in HeyHomeCare itself.
+
+Keep your platform and add the after-hours line, or run your agency on HeyHomeCare.
+Talk to sales
+
+FAQ
+
+Frequently asked questions.
+
+Q.01
+
+What’s the best non-medical home care software in 2026?
+
+AxisCare for most non-medical agencies — it’s purpose-built for personal and companion care. WellSky Personal Care (the former ClearCare) is the pick if you’re already in the WellSky ecosystem. AlayaCare is best if you’re tech-forward and plan to grow into multi-service.
+
++
+
+Q.02
+
+Do I need EVV for non-medical home care?
+
+Only for Medicaid-funded non-medical visits, where EVV is required under the 21st Century Cures Act. For 100% private-pay non-medical, EVV is optional — but most agencies use it anyway for caregiver accountability and proof of service.
+
++
+
+Q.03
+
+What’s the cheapest non-medical home care software?
+
+AxisCare typically, on a per-active-caregiver model that lands around $300–600/month for a 50-caregiver agency. Some very small agencies start on generic scheduling tools, but those lack the compliance, billing, and integration capabilities needed as you scale.
+
++
+
+Q.04
+
+Should small agencies use enterprise software?
+
+No. Small and mid-market non-medical agencies should start on a focused platform like AxisCare, not an enterprise post-acute suite. The cost and complexity of enterprise software is mismatched to a non-medical-only operation.
+
++
+
+Q.05
+
+What does HeyHomeCare add for non-medical agencies?
+
+There are two ways to buy. Keep your system, add the after-hours line: HeyHomeCare’s AI answers your caregivers’ calls and texts after hours — call-offs and replacement coverage, late and missed clock-ins, new-client inquiries — and works your business rules, with your on-call manager behind it. It connects to AxisCare today; AlayaCare is built and switched on once AlayaCare’s partner agreement is in place; WellSky Personal Care is coming. Or run your agency on HeyHomeCare: scheduling, EVV, the caregiver app, billing and payroll for private-pay agencies. Self-serve CRM from $500/month for up to 50 active caregivers. Larger agencies, after-hours-only service and scheduling integrations: talk to sales.
+
++
+
+Q.06
+
+How long does implementation take?
+
+AxisCare: 2–6 weeks. WellSky Personal Care: 6–12 weeks. AlayaCare: 6–16 weeks. AxisCare’s speed is a real advantage for agencies that need to be live quickly.
+
++
+
+Choose your setup
+Your after-hours line, run by your own rules.
+
+HeyHomeCare answers your caregivers’ calls and texts after hours — call-offs, running late, missed clock-ins, new-client inquiries — and works your business rules, with your on-call manager behind it. Keep AxisCare (connected today) and add the after-hours line, or run your private-pay agency on HeyHomeCare.
+
+Start your CRMAxisCare vs AlayaCare
+
+hheyhomecare
+The home care CRM with agentic capabilities. Run your private-pay agency here, or add an after-hours solution to the system you use.
+
+Start your CRM
+
+Product tour
+
+Talk to sales
+
+Explore the home care CRM
+
+HeyHomeCare for WellSky agencies
+
+Sign in
+
+Security
+
+Privacy · Terms
+
+Text message sign-up
+
+CRM features
+
+Scheduling
+
+Caregiver management
+
+Client management
+
+Billing & invoicing
+
+AI phone & text agent
+
+All features →
+
+All solutions →
+
+After hours
+
+After-hours home care solutions
+
+After-hours home care software
+
+Best after-hours solutions
+
+After-hours agency plan
+
+For after-hours providers
+
+Compare
+
+AxisCare vs AlayaCare
+
+HHAeXchange vs AxisCare
+
+Axxess vs AxisCare
+
+AxisCare vs WellSky
+
+PointClickCare vs WellSky
+
+All comparisons →
+
+Software connections
+
+AxisCare
+
+HHAeXchange
+
+PointClickCare
+
+Axxess
+
+AlayaCare
+
+WellSky
+
+CareSmartz360
+
+ShiftCare
+
+All software connections →
+
+Resources
+
+Guides
+
+The chaotic-month AI experiment
+
+The year-of-chaos AI experiment
+
+EVV requirements by state
+
+HIPAA & texting
+
+Cures Act EVV
+
+All resources →
+
+HeyHomeCare · HIPAA-aligned · BAA-gatedBuilt for caregivers, not call centers

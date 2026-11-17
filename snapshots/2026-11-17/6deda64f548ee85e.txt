@@ -1,0 +1,257 @@
+What's New This Month | Podium Release 26.1
+
+AI Employee
+
+Industry Solutions
+
+Plans
+
+Resources
+
+Sales: 1-801-438-4425Watch a demoSign in
+
+What's New>Podium Release 26.1
+
+< Back
+
+Podium Release 26.1
+
+January 2026
+
+Answer FAQs faster with Voice AI
+
+Podium Voice AI users can now set up frequently asked questions so your voice agent can answer quickly and consistently across all locations.
+
+What’s new?
+
+FAQ Management
+
+Add your business hours, service area, pricing information, and common policy questions to your FAQ. Your AI voice agent will use this information to answer caller questions quickly and consistently across all your locations.
+
+Available to all businesses with Podium AI Voice, contact your CSM for set up help.
+
+AI Call Coaching trains your reps
+
+Get AI-powered insights on your team’s phone performance.
+
+What’s new?
+
+Call Reviews
+
+See strengths and coaching opportunities on every call. Review call metrics including speaking time, silence time, and words per minute.
+
+Team Performance Dashboard
+
+Review your team’s call performance dashboard to identify coaching opportunities. See which reps have the best customer engagement and share their techniques with the team.
+
+Metrics
+
+See metrics like talk time, silence patterns, and conversation quality to help your team improve their customer interactions and close more deals.
+
+Available in beta to businesses with Podium Premium Phones.
+
+Sunbit Financing Integration
+
+Offer customers flexible financing options through Sunbit, directly integrated with Podium.
+
+What’s new?
+
+Immediate & Consolidated Financing Option
+
+Customers can apply for financing and get approved in seconds without leaving your business. Close more high-value sales by removing the price barrier.
+
+Textable Financing Flow
+
+Send customers a financing application link via text. They can apply, get approved, and complete payment all from their phone.
+
+For more information on Sunbit financing visit our resource center. Available to MedSpa, HVAC, and Automotive businesses.
+
+Payments Surcharging
+
+Save on credit card processing fees by passing the cost to customers who choose to pay with credit cards. Fully compliant surcharging that helps you keep more of what you earn.
+
+What’s new?
+
+Automatic Surcharge Application
+
+When enabled, surcharges are automatically calculated and applied to credit card transactions. Customers see the fee clearly before completing their payment.
+
+Available to all businesses with Podium Payments in eligible states.
+
+Podium Aesthetics EMR Updates
+
+What’s new?
+
+Expanded Client Profile
+
+See a comprehensive view of each client including their treatment history, preferences, notes, product purchases, membership status, package affiliation and upcoming appointments all in one place. Better understand your clients to provide an exceptional experience.
+
+ePrescribe
+
+Prescribe medications electronically directly from Podium EMR. Send prescriptions directly to pharmacies from patient charts. Streamline your prescription workflow and improve patient safety with integrated e-prescribing capabilities. Includes drug interaction checking and prescription history tracking.
+
+Packages
+
+Create and sell custom treatment packages and memberships directly in Podium EMR. Bundle services together for better value and increased client retention. Track package usage and remaining treatments for each client.
+
+Available to businesses with Podium EMR.
+
+Avery Follows up at the right time
+
+Avery now intelligently skips follow-up texts for patients who have already booked appointments.
+
+What’s new?
+
+Automatic Follow-Up Skip for Booked Patients
+
+Avery will no longer send follow-up texts to patients who have already scheduled an appointment. This prevents unnecessary outreach and creates a better patient experience.
+
+Patient Questions Still Allowed
+
+Even after booking, patients can still text in with questions and get helpful responses from AI Voice – they just won’t receive automated follow-up texts.
+
+Direct Hard Booking into Service Titan and HouseCall Pro
+
+What’s new?
+
+AI customer qualification and scheduling directly
+
+Now your AI Employee can take calls, texts, emails, and third party leads from outreach all the way to booked into your calendar. See appointments appear in Service Titan and HouseCall Pro without lifting a finger, optimized for your tech schedules.
+
+Available to businesses using Podium AI and Service Titan or Housecall Pro.
+
+HVAC Voice AI Enhancements
+
+Three new capabilities for HVAC businesses using AI Voice to streamline customer interactions and scheduling.
+
+What’s new?
+
+Contact Information Updates During Calls
+
+AI Voice can now update customer contact information in real-time during calls. When a customer mentions a new phone number or address, the AI automatically captures and updates their record.
+
+Route-Optimized Scheduling
+
+When scheduling service appointments, Larry now considers job location to optimize technician routes. This helps reduce drive time and allows you to fit more jobs into each day.
+
+Property Details Capture
+
+Voice AI can now collect and store property metadata during conversations – such as property type, size, or equipment details – making future service calls more efficient.
+
+Automotive Onboarding Improvements
+
+Enhanced AI onboarding experience for automotive dealerships with comprehensive question flows.
+
+What’s new?
+
+Comprehensive Onboarding Questions
+
+New structured question schema for automotive onboarding that captures all essential business information including hours of operation, service types, and location details in a conversational flow. So you know your AI employee is privy to all the important stuff
+
+Structured Hours & Address Collection
+
+AI now asks for business hours and address information in a structured format, reducing errors and ensuring accurate setup for scheduling and routing.
+
+Playbook Intelligence Improvements
+
+AI Playbooks are now smarter about when to take action and easier to manage.
+
+What’s new?
+
+Conditional Tool Execution
+
+AI Employee can now automatically execute actions based on conversation context, even without explicit procedure steps. For example, if a customer says “my new number is 555-1234,” the AI will automatically update their contact info based on your policies – no manual procedure needed.
+
+Playbook Enable/Disable Toggle
+
+Easily turn playbooks on or off without modifying or deleting them. This makes it simple to test new playbooks, temporarily disable seasonal procedures, or quickly respond to changing business needs.
+
+Version History & Audit Trail
+
+All playbook changes now include version tracking and user attribution, so you can see who made changes and when.
+
+New Auto Integrations
+
+What’s new?
+
+Tekion scheduling
+
+Now Jerry can take calls and texts and book appointments directly into Tekion, with no oversight required! Jerry can fill the calendar you already use.
+
+Tekion + Reynolds & Reynolds Service Marketing
+
+Now you can trigger service marketing from Tekion and Reynolds & Reynolds based off triggers from your data in these systems, in addition to what was already available with Xtime.
+
+Service AI Marketing Automations
+
+What’s New?
+
+Service Marketing drives more customers to your dealership
+
+Now you can increase your show rate with automated appointment reminders, follow up with abandon customers, and drive more customers in for their first or next service. Set up in Automations.
+
+Service Marketing Reporting
+
+Now you can see all the messages Jerry is sending out to customers inviting them to make a service appointment. Click in deeper to see response rate and booking rate.
+
+Auto Dealerships
+
+Aesthetics
+
+Home Services
+
+Retail
+
+Other
+
+Enterprise
+
+Industry Solutions
+
+Resource Center
+
+Blog
+
+Pricing
+
+Refer a Business
+
+Download apps
+
+Resources
+
+Why Podium AI
+
+Contact Sales
+
+Careers
+
+Help Center
+
+Legal
+
+Company
+
+Become a Partner
+
+Find a Solution Partner
+
+Integrations
+
+Marketplace
+
+Developer Platform
+
+Partners
+
+© Podium Corp Inc. 2026
+
+Sitemap
+
+Terms & Conditions
+
+Privacy Policy
+
+Privacy Center
+
+Do Not Sell or Share My Personal Information

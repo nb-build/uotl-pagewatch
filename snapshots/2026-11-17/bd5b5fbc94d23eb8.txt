@@ -1,0 +1,446 @@
+Create and edit sequences
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+Sales
+
+Sequences
+
+Create and edit sequences
+
+Create and edit sequences
+
+Last updated:
+
+November 12, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+Sales Hub
+Professional, Enterprise
+
+Service Hub
+Professional, Enterprise
+
+Seats required
+
+Use sequences to send a series of personalized, timed sales emails and follow-up tasks to contacts over time. Sequences help you stay consistent with outreach while automatically handling follow-up when a contact responds or books a meeting.
+
+When a contact replies to a sequence email or schedules a meeting, they're automatically unenrolled. You can also customize automatic unenrollment triggers (BETA) and use sequence enrollment properties to segment and report on enrolled contacts.
+
+If you want to automate enrollment into a sequence, you can use workflows. From the Automation tab in the sequence editor, create a workflow to automatically enroll contacts based on set criteria.
+
+Learn more about this feature by joining a small group coaching session
+
+Before you get started
+
+When using sequences, take note of the following:
+
+To send sequences, you must have a connected individual work email address. A team email address connected to the conversations inbox cannot be used to send sequence emails. Sequence emails are one-to-one sales emails and are sent through the connected individual work email address, not through HubSpot's marketing email servers.
+
+There's a limit to the number of sequences that can be created in your account by all users. You can view the total number of sequences created in your account in the top right corner of the sequences dashboard. Learn more about sequence limits in HubSpot's Product & Services catalog.
+
+Any tasks in a sequence will be assigned to the user who enrolled the contact into the sequence.
+
+When using a workflow to send sequence emails, the selected sender must have an assigned Sales or Service seat.
+
+Understand requirements
+
+Seats required
+
+An assigned Sales or Service seat is required to access the sequences tool and create sequences.
+
+Permissions required
+
+Edit and delete permissions for sequences are required to create and edit sequences.
+
+Create a sequence
+
+Create a sequence using email templates and task reminders, which will associate to a contact. You can also customize the delay between sequence steps so emails and tasks execute when you want them to.
+
+In your HubSpot account, click More, then navigate to Sales > Sequences. If More doesn't appear in your account, navigate to Sales > Sequences directly.
+
+In the top right, click Create Sequence.
+
+In the left panel, select Create a dynamic sequence, Start from scratch, or select a pre-made sequence template.
+
+In the top right, click Create sequence.
+
+In the sequence editor, click the edit pencil icon and enter a name for your sequence.
+
+How to add steps to a sequence
+
+To add your first step, click an action in the Step 1 section (e.g., Automated email or General task).
+
+To add more steps, click the + plus icon.
+
+In the right panel, select an action. You can add automated emails, or create email, call or general task reminders.
+
+Step
+
+What the step does
+
+Automated email
+
+Automatically send an email to the contact enrolled in the sequence. You can choose to start a new thread or reply to a previous sequence email. You can also create a template or use an existing template.
+
+Manual email task
+
+Get a task reminder to manually send an email. The email will not be sent automatically. You can choose to start a new thread or reply to a previous sequence email. You can use an existing template or create a new email when you reach out to the contact.
+
+Call task
+
+Get a task reminder to manually call the contact enrolled in the sequence.
+
+General task
+
+Get a task reminder to manually complete an action.
+
+InMail Task
+
+If you're using HubSpot's integration with LinkedIn Sales Navigator, you can create a task to remind you to manually send an InMail.
+
+Connection request task
+
+If you're using HubSpot's integration with LinkedIn Sales Navigator, you can create a task reminder to manually send a connection request.
+
+To add an automated email, click Automated email.
+
+Choose your email type to start a new thread or reply to a previous email.
+
+To create a new template, click Create template.
+
+To filter your existing templates, click the Existing email templates dropdown menu, or use the search bar to find a template. Then, select a template from the list.
+
+If the automated email is not the first step in the sequence, click [number] business day next to Delay to set the number of days before the email sends. You can delay an email for up to 90 business days.
+
+To add a task reminder:
+
+In the right panel, click Manual email task, Call task, or General task.
+
+Under Task details, click the checkmark to pause the sequence until the task is completed.
+
+Enter a title for the task. To add personalization tokens in the title, click the Personalize dropdown menu.
+
+To set the task priority, click the Priority dropdown menu.
+
+To add the task to a queue, click the Queue dropdown menu.
+
+Enter the task details in the Notes field. Use the toolbar at the bottom to format the text, insert a link, insert a snippet, or add personalization tokens.
+
+If you're creating an email task reminder, you can add an email template to the follow-up task. When completing the task on the contact record, the email template will automatically populate in the email composer window.
+
+Click Add email template.
+
+To filter your existing templates, click the Existing email templates dropdown menu, or use the search bar to find a template. Then, select a template from the list.
+
+Please note:
+
+Tasks created by sequences will follow the association rules you've selected for activities.
+
+To automatically open the email composer window on a contact record and populate it with the template selected in the sequence email task, you must add the email task to a task queue. Otherwise, you will need to manually review and send the email from the contact record after the task is created.
+
+To guarantee that the template is recommended and the email is properly threaded or included in the sequence report, you need to complete manual email tasks within a task queue or directly from the contact record.
+
+Click Add.
+
+To set a delay, click [number] business day next to Delay to set the number of days before the task executes. To create a task immediately after the previous step, set [number] business day to zero.
+
+If you're using HubSpot's integration with LinkedIn Sales Navigator, you can create a task reminder to send an InMail or send a connection request. When you complete the task in a queue, the LinkedIn Sales Navigator will open on the contact's record so you can send the InMail or connection request.
+
+In the right panel, click Sales Navigator - InMail task or Sales Navigator - Connection request task.
+
+Under Task details, click the checkmark to pause the sequence until the task is completed.
+
+Enter a title for the task. To add personalization tokens in the title, click the Personalize dropdown menu.
+
+To set the task priority, click the Priority dropdown menu.
+
+To add the task to a queue, click the Queue dropdown menu.
+
+Enter the task details in the Notes field. You can use this field to enter the message you would include in your InMail or connection request. This message will not automatically populate in the LinkedIn Sales Navigator pop-up box when completing the task. Use the toolbar at the bottom to format the text, insert a link, insert a snippet, or add personalization tokens.
+
+Add steps until your sequence is complete and click Save. Each sequence is limited to 10 email templates, although you can add as many task reminders as needed.
+
+In the right panel, select the radio button next to the desired sharing setting. By default, new or cloned sequences will be set to Only Me. Learn more about sharing sales content and bulk-sharing sequences.
+
+Click Save.
+
+Edit sequence settings
+
+After adding steps to your sequence, you can edit the follow-up email send times and default task creation times. These settings only apply to the emails and tasks that execute after the first step in your sequence.
+
+Please note: when your sequence is set to only send emails on business days, the delays will only count the business days between each step. For example, if an email is sent on a Thursday at 5pm and the following email is scheduled to send three days later, the email will send on Tuesday at 5pm. Keep in mind, the timing of the follow-up email will depend on your automated email send window.
+
+To configure your sequence settings:
+
+At the top of the sequence editor, click the Settings tab.
+
+By default, follow-up emails in a sequence are only sent on business days. To send emails on Saturdays and Sundays, click to toggle the Execute steps on business days only switch off.
+
+To customize the timing of each follow-up email, set a time range using the Automated email send window time pickers. HubSpot will review previous email opens and the set timezone to automatically determine the best time to send in this range.
+
+Sequence tasks are created at the start of your account's calendar day, which is based on the time zone selected when enrolling contacts. These tasks are included in the Tasks daily digest email. To receive an additional email reminder each time a task is created in a sequence:
+
+Toggle the Email reminders switch on.
+
+Click the time picker to select the default time when you'll receive the task reminder. The task will be due at 5pm on that calendar day in the time zone selected when enrolling the contact in the sequence.
+
+If you have a Marketing Hub Professional or Enterprise subscription, to associate your sequence with a campaign, click the Add to marketing campaign dropdown menu and select a campaign.
+
+Contacts enrolled into the sequence will be considered influenced contacts. Learn more about influenced contacts in campaigns.
+
+Revenue attribution from the sequence will be based on enrollment and unenrollment in the sequence, meetings booked, and emails replied.
+
+After you've edited your sequence settings, click Save.
+
+Edit sequence enrollment automation
+
+Edit the automatic unenrollment triggers or set up embedded workflows to automatically enroll or unenroll contacts in the sequence.
+
+By default, contacts will be automatically unenrolled when they reply to any email in the sequence or book a meeting using a meeting link included in a sequence step.
+
+To edit the sequence enrollment triggers:
+
+At the top of the sequence editor, click the Automation tab.
+
+Under the Automate your sequence section, you can turn the following switches on or off:
+
+When a contact replies to any email → Unenroll ... from this sequence
+
+When a contact books a meeting → Unenroll ... from this sequence
+
+For each switch that is turned on, use the dropdown menu to choose whether the action should unenroll:
+
+The contact: only the specific contact who took the action will be unenrolled from the sequence.
+
+All contacts at the company: the specific contact who took the action and all other contacts at the same company will be unenrolled from the sequence.
+
+After you've edited your sequence enrollment automation, click Save.
+
+You can also create workflows from the Automation tab to automatically enroll or unenroll contacts from this sequence based on other triggers. These workflows can be turned on and off from the Automation tab, or managed in the workflows tool. To create a workflow:
+
+In the Custom automation section, Click Create an automation.
+
+To trigger a workflow based on form submission:
+
+In the right panel, select Form submission to enroll a contact into the workflow when they submit a form.
+
+Select Contact submits any form to enroll contacts who submit any form on your website, or Contact submits a specific form and select a form from the dropdown menu.
+
+To trigger a workflow based on page views:
+
+In the right panel, select Page view to enroll a contact into the workflow when they view a page on your website.
+
+Select a page view option to refine the page view criteria by URL. A wildcard (*) will not work.
+
+Click Next: Set workflow action.
+
+In the Sequence actions section, select an action to take place when contacts meet the trigger criteria:
+
+To unenroll a contact from the sequence when they meet the workflow enrollment criteria, select Unenroll contact from this sequence .
+
+To enroll a contact in the sequence when they meet the enrollment criteria of the workflow, select Enroll contact in this sequence. Use the Add optional delay before enrolling field to specify how many minutes you'd like to wait before enrolling the contacts. Use the Sender and From email address dropdown menus to select an email sender.
+
+In the bottom left, click Create.
+
+In the dialog box, click Turn on to immediately turn on the workflow or Save as draft. The new workflow will appear in the list of triggers on the Automation tab.
+
+To edit the workflow in the workflows tool, edit a trigger, edit an action, or delete a workflow, hover next to the workflow the click the Actions dropdown menu.
+
+You can also manage your sequence enrollment automations from the sequence summary page. To do this, In your HubSpot account, click More, then navigate to Sales > Sequences. If More doesn't appear in your account, navigate to Sales > Sequences directly. Then, click the Automate tab.
+
+Users in a Sales or Service Hub Enterpise account can also enroll contacts in a sequence using workflows. Learn more about enrolling contacts in a sequence using workflows.
+
+Edit sequences
+
+You can edit your sequence templates, update the tasks included in your sequence, and adjust your sequence settings. As you are editing your sequence, review analytics from the Step performance report for each step. If you have contacts that are currently active in a sequence, learn more about how changes to an active sequence can impact your contacts.
+
+In your HubSpot account, click More, then navigate to Sales > Sequences. If More doesn't appear in your account, navigate to Sales > Sequences directly.
+
+Hover over the sequence name and click Edit.
+
+To re-order the steps in the sequence, in the top right corner of the sequence step, click the Actions dropdown menu and select Move up or Move down.
+
+You can also edit email threading, automated emails, or manual email templates directly from the sequence:
+
+Learn how to edit email threading.
+
+To edit an automated email, click the threeDotsIcon three dots icon for the Automated Email step in the sequence, then click Edit email. You can then edit the body of the email and save it as a new template.
+
+To edit a manual email template, click the threeDotsIcon three dots icon for the Manual Email Task step in the sequence, then click Edit task. Click the name of the email template, then click Edit in the dropdown menu.
+
+To edit all other tasks, in the top right corner of the sequence step, click the Actions dropdown menu, then click Edit task.
+
+To remove a step from your sequence, in the upper right, click the Actions dropdown menu, then click Delete.
+
+When you have finished editing your sequence steps:
+
+To apply the changes you just made to the existing sequence, in the top right, click Save existing.
+
+To create an entirely new sequence that includes the changes you just made:
+
+In the top right, click Make copy.
+
+In the dialog box, enter a name for the new sequence and select a folder if you wish.
+
+Click Save.
+
+Learn how to enroll your contacts in a sequence.
+
+Sequences
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Enroll contacts in a sequence
+
+Enroll and unenroll contacts in sequences using workflows
+
+Create and edit dynamic sequences
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

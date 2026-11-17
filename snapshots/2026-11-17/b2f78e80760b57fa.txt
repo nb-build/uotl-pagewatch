@@ -1,0 +1,492 @@
+Our Story: Built by MSP Operators | Strategy Overview
+
+Skip to content
+
+About
+
+Our Story
+
+Careers
+
+Contact
+
+Features
+
+vCIO/QBR Automation
+
+Your dream QBR with assessments, executive summaries, dashboards, roadmap, budgets and anything you can imagine
+
+Client Portal
+
+Fully white labeled client portal to see strategy, roadmap, budgets, health scores, users list, assets, tickets and more
+
+Asset Lifecycle/Warranty Updating
+
+Clean asset lists with ability to grade, budget and enrich data with our warranty updating integration
+
+Office 365 Reporting
+
+A comprehensive suite of productivity tools designed to empower individuals and organizations to achieve more
+
+Arya AI QBR Automation
+
+Arya is the world's first vCIO Agent that works with your team to automate QBRs and give you MSP super intelligence
+
+Plan Module
+
+Plan client digital transformation, company vision, team objectives, and team member progress
+
+Integrations
+
+Connectwise
+
+Autotask
+
+Halo PSA
+
+ServiceNow
+
+Syncro
+
+BMS by Kaseya
+
+Hudu
+
+ITGlue
+
+Ninja | RMM
+
+Datto | RMM
+
+Brightgauge
+
+Warranty Updating
+
+Office 365 Reporting
+
+All Integrations
+
+Pricing
+
+Services
+
+Onboarding
+
+Free. Account set up, first template built, first report run.
+
+Migration Assistance
+
+Free. Move off your current vCIO tool in 5 days.
+
+vCIO Peer Groups
+
+A closed room of vCIOs from non-competing MSPs, twelve sessions a year.
+
+vCIO Boot Camp
+
+Two days in person, ten seats, one real client account.
+
+Professional Services
+
+PSA, templates, automation, AI and MCP setup, scoped to you.
+
+General MSP Training
+
+$250. One on one on any vCIO or QBR topic you choose.
+
+Contact
+
+Demo
+
+Login
+
+X
+
+Home
+
+About
+
+Our Story
+
+Careers
+
+Features
+
+vCIO/QBR Automation
+
+Client Portal
+
+Asset Lifecycle/Warranty Updating
+
+Office 365 Reporting
+
+Arya AI QBR Automation
+
+Plan Module
+
+Integrations
+
+Connectwise
+
+Autotask
+
+BMS by Kaseya
+
+Syncro
+
+Halo PSA
+
+Warranty Updating
+
+Hudu
+
+Datto | RMM
+
+NinjaOne
+
+ITGlue
+
+Brightgauge
+
+Office 365 Reporting
+
+All Integrations
+
+Pricing
+
+Services
+
+Onboarding
+
+Migration Assistance
+
+vCIO Peer Groups
+
+vCIO Boot Camp
+
+Professional Services
+
+General MSP Training
+
+Contact
+
+Free Account
+
+Demo
+
+Login
+
+Our Story
+
+We ran an MSP for 15 years and managed strategy in spreadsheets. Strategy Overview is the vCIO and QBR automation software we wished we had, built by the brothers who lived the problem.
+
+Born inside a working MSP
+
+We started an MSP in 2002, Red Key Solutions, and grew it into one of the best managed IT companies across New York City, Connecticut, Los Angeles and Florida. When we moved to a full managed model in 2009, one thing became obvious fast: we had to standardize our stack and give every client a real digital transformation roadmap.
+
+We ran that process on spreadsheets for eight years. It worked, but it did not scale. So we turned the spreadsheet into a QBR app. The first beta saved Red Key’s own vCIOs hundreds of hours a year, and we knew every MSP shared the same frustration.
+
+Founded by brothers Alex and Dimitri Markov, Strategy Overview became its own company in 2017. We are just getting started.
+
+Alex and Dimitri Markov
+Co-Founders
+
+Red Key Solutions, New York
+
+Two decades in the MSP industry
+
+2002
+
+Founded Red Key Solutions
+
+Our own MSP in New York, where the whole playbook was learned client by client.
+
+2015
+
+The spreadsheet becomes an app
+
+First proof of concept: converting our assessment spreadsheet into software.
+
+2017
+
+Launched at IT Nation
+
+Version 1 released to the community, and Strategy Overview becomes its own company.
+
+2021
+
+Rebuilt from the ground up
+
+Two years of work ships as version 3: an entirely new platform built for the long term.
+
+2023
+
+Warranty updating and the client portal
+
+The warranty engine launches, Halo and Syncro integrations ship, and the white labeled portal gets custom domains.
+
+2024
+
+The Plan module, and Arya is born
+
+Plans with owners and dates ship in September. In November, Arya, the world's first vCIO assistant, says hello.
+
+2025
+
+QBR by Arya and a European datacenter
+
+Arya starts building report content, grades and risk write-ups. EU partners get their own datacenter.
+
+2026
+
+Tickets, 30+ integrations and the open platform
+
+The portal Tickets module ships, the integration family passes 30 apps, Strategy Academy live training launches, and the Open API + MCP server arrive in September.
+
+STRATEGY FOR ALL
+
+We’re modernizing strategic planning for the digital age: one intelligent vCIO and QBR automation platform that lets MSPs plan transformation, set goals, manage risk, and lead every client with clarity.
+
+90%less prep time
+
+5 minto a full assessment
+
+4×more QBRs delivered
+
+Schedule Demo
+
+Backed by a community of MSPs
+
+Strategy Overview is built and backed by the MSP community, not conglomerates. No hard sales with endless upsells, no long term contracts, fair pricing that stays fair, a roadmap driven by MSP veterans, and profits reinvested into the product and our partners. When you grow, we grow. We are tired of our favorite apps being acquired and abandoned. We are breaking the pattern and building for the long term.
+
+No long-term contracts
+
+Fair pricing that stays fair
+
+A roadmap driven by MSP veterans
+
+Profits reinvested in the product
+
+Core Values
+
+We are driven by our core values to build the world’s most beautiful vCIO and QBR app.
+
+01
+Quality & Value
+
+We’re obsessed with delivering epic value in every feature we build
+
+02
+Authentic Partnerships
+
+We exist to help our partners reach new levels of success
+
+03
+Positive Impact
+
+We believe companies can be a force for good for our team, our partners, and the world
+
+04
+Community Driven
+
+We are long term members of the MSP community and we listen to it
+
+05
+Focused Innovation
+
+We build real tools MSPs need and innovate at the cutting edge
+
+06
+Simple is Beautiful
+
+Every solution we build is focused on being simple and clean
+
+What MSP leaders say
+
+Real reviews from MSPs running their vCIO process on Strategy Overview.
+
+❮
+
+❯
+
+Our Leadership Team
+
+The operators, strategists and builders behind Strategy Overview.
+
+Alex Markov
+
+CEO & Co-Founder
+
+Dimitri Markov
+
+CTO & Co-Founder
+
+Jesse Smith
+
+Chief Strategy Officer
+
+Matt Moniello
+
+CFO
+
+Fidan Gadimbayli
+
+Project Manager
+
+Paul Grenci
+
+Strategy Advisor
+
+Matt Zaretsky
+
+Business Director
+
+Dan Gamez
+
+Strategy Advisor
+
+Luis Maurad
+
+Centralized Services
+
+Arya
+
+AI Assistant
+
+Award Winning
+
+Recognized by the MSP community and the industry’s biggest stages.
+
+Become a Strategic MSP
+
+Start a mature vCIO process in 5 minutes with our free golden template.
+
+Schedule Demo
+
+Free Account
+
+New Strategy Overview 10 Video
+
+Become a Strategic MSP
+
+Start a mature vCIO process in 5 minutes with our free golden template
+
+Address
+
+Strategy Overview
+
+925 Westchester Ave Suite 100
+
+White Plains, NY 10604
+
+Navigation
+
+About
+
+Integrations
+
+Pricing
+
+Training
+
+Contact
+
+Features
+
+vCIO/QBR Automation
+
+Client Portal
+
+Asset Lifecycle/Warranty Updating
+
+Office 365 Reporting
+
+Arya AI QBR Automation
+
+Plan Module
+
+Contact
+
+Careers
+
+[email protected]
+
+[email protected]
+
+Ic Youtube
+
+Ic Instagram
+
+Ic Facebook
+
+Ic Linkedin 2
+
+Strategy Overview. All Rights Reserved.
+
+Terms
+
+Privacy Policy
+
+Website Powered by
+
+About
+
+Our Story
+
+Careers
+
+Features
+
+vCIO/QBR Automation
+
+Client Portal
+
+Asset Lifecycle/Warranty Updating
+
+Office 365 Reporting
+
+Arya AI QBR Automation
+
+Plan Module
+
+Integrations
+
+Connectwise
+
+Autotask
+
+Halo PSA
+
+ServiceNow
+
+Syncro
+
+BMS by Kaseya
+
+Hudu
+
+ITGlue
+
+Ninja | RMM
+
+Datto | RMM
+
+Brightgauge
+
+Warranty Updating
+
+Office 365 Reporting
+
+All Integrations
+
+Pricing
+
+Training
+
+Contact
+
+Demo
+
+Free Account
+
+Login
