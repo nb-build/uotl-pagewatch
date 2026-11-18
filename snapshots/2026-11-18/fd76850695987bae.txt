@@ -1,0 +1,242 @@
+AI Voice Agent Onboarding Part 2: Monitor calls as a CSR
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+AI Voice Agent Onboarding Part 2: Monitor calls as a CSR
+
+Updated on Oct 16, 2026
+
+Published on Mar 12, 2026
+
+5 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+ServiceTitan's Voice Agent (VA) is an automated assistant that handles common call scenarios, such as scheduling appointments and taking messages for follow-ups. As a Customer Service Representative (CSR), you can monitor the Voice Agent's performance by checking booked appointments for accuracy and following up on calls that did not result in a booking. This oversight ensures all customer needs are met and appointments are correctly logged.
+
+Who uses this feature
+
+CSRs and managers
+
+Applies to all business types
+
+Feature configuration
+
+This feature is currently in Early Access and available for specific accounts. It is subject to change. If you want to enable this feature for your account, click here.
+
+Permissions are required to use this feature. See Set reporting permissions for more information.
+
+Voice Agent overview
+
+The Voice Agent understands customer inquiries, gathers key details, delivers precise answers, and books jobs in your ServiceTitan account. This automation cuts missed calls, non-revenue interactions, and agent workload.
+
+The AI Voice Agent can:
+
+Book a new job or schedule an appointment: The agent is designed to handle common call scenarios by greeting the caller, identifying existing customers, inferring job types, and booking new jobs using Adaptive Capacity.
+
+Take a message for follow-up: For scenarios it cannot handle, the agent takes a message and communicates that a team member will follow up with the caller.
+
+Create a custom calls report
+
+Use the Calls template to create a custom report that tracks all calls, filters for Voice Agent calls, compares call volume against your promo offer, and monitors total calls for billing purposes.
+
+Note: You need reporting permissions to create custom reports. If you don't have them, contact the account administrator on your team to create and share the report with you.
+
+Go to the navigation bar and click Reports.
+
+Click Create Report.
+
+On the New Report screen, select Calls as the report type.
+
+Under Select a report template, click Calls.
+
+Under Columns to be displayed in the report, select which columns you want to include in your report. You can always add and remove columns later.
+
+Tip: If you're unsure which columns you want to include in your report, use the Reporting Dictionary to search for appropriate data fields.
+
+When finished, click Next.
+
+In the Name field, enter a name for your report.
+
+Click the Category dropdown and select a category where your report will be listed.
+
+Tip: Use the Description field to add a description.
+
+You can set sharing settings for your report. Otherwise, click Save.
+
+The new report screen opens where you can Run, filter and export the results. See Calls report template to learn how to read the report results.
+
+Access shared custom reports
+
+After a custom Calls report is created and shared with you, access it anytime from the Reports tab. Search for the shared report and click it to open. Run, filter and export the results.
+
+Filter for Voice Agent calls
+
+When viewing your report results, you can filter for Voice Agent calls only.
+
+On the new report screen, click Filter next to the Name column.
+
+In the Filter menu, select Contains from the dropdown.
+
+In the text field below, enter Voice Agent.
+
+Note: This is the Voice Agent employee record manually created under Settings > People > Employees during setup.
+
+Click Filter.
+
+The table automatically updates, and the filter icon highlights to show that a filter was applied.
+
+Note: To remove a filter, click Filter and then Clear.
+
+Search for your Voice Agent calls
+
+Find and review your Voice Agent calls with ease using ServiceTitan's search tool.
+
+Go to the navigation bar and click Search .
+
+From the Search dropdown, select Call.
+
+Under Filters, use the Agent dropdown and select Voice Agent.
+
+(Optional) Use other filters to refine your search.
+
+Tip: To view all records that exist in a category, leave these fields blank.
+
+When you're ready to perform your search, click Search.
+
+Review your search results. If a job was booked through the Voice Agent call, you'll see the job number in the Job # column.
+
+Tips:
+
+Click a column name to sort it alphabetically or numerically.
+
+Click Audio next to the customer's name to listen to a call and review its details.
+
+Export your results as an XLSX or CSV file if you have the Allow Exporting Search Results permission enabled. To download a file, click the dropdown next to search and select a format.
+
+You can also find Voice Agent calls using ServiceTitan's Dashboard call metrics and Agent Scorecards.
+
+Review Voice Agent call details
+
+To access Voice Agent call details, select the call from the Call Reports or Dashboards, or click Audio in your search results.
+
+In the new flyout that opens, you can find the following information:
+
+Overview: Displays the essential details of the call, including:
+
+Summary of the call generated by Titan Intelligence (TI)
+
+Date and time the call occurred
+
+Customer's account and phone number
+
+Tracking number the customer dialed
+
+Voice Agent's name (listed as the agent)
+
+Tags applied to the call
+
+Attached forms, if any, for additional context
+
+Recording and Transcript: Provides access to the audio recording of the call and its automatically generated transcript for review and reference.
+
+Classification Details: Shows if the call requires reclassification and allows you to update it.
+
+Note: Voice Agent calls that were not booked are automatically tagged Voice Agent Follow-Up Needed. Use this tag to track calls that still require action. After the CSR reviews the call and completes any follow-up, they can remove the tag to indicate no further action is needed.
+
+Want to learn more?
+
+See AI Voice Agent Onboarding Part 1: Set up for Basic Phones and Phones Pro
+
+See AI Voice Agent for Basic Phones and Phones Pro - FAQ
+
+See Understand call classifications
+
+See Reclassify and edit calls
+
+ServiceTitan's AI-powered inbound phone agent that answers calls, gathers caller information, and books or reschedules jobs without a human CSR.
+
+What it does: Handles inbound calls 24/7, capturing after-hours demand and reducing hold times during peak periods — without adding headcount.
+
+Also called: AI receptionist, Virtual CSR, VA
+
+Tags: Phones Pro, AI-Powered
+
+See the full glossary →
+
+ServiceTitan’s real-time engine that tracks available technician time based on shifts, skills, zones, business units, and capacity rules.
+
+What it does: Manages booking availability so CSRs only book jobs when technicians truly have capacity, cutting over-booking and missed appointments.
+
+Where to find it: Settings › Adaptive Capacity.
+
+Also called: Live booking availability, Real-time capacity
+
+Tags: Scheduling Pro, AI-Powered
+
+Learn more → · See the full glossary →
+
+ServiceTitan's integrated phone system that routes calls, records conversations, and connects call data to job and customer records.
+
+What it does: Gives businesses a CSR productivity platform with call tracking, recording, and booking analytics built into the same system as their jobs.
+
+Also called: ST Phones, Integrated phone system
+
+Tags: Phones Pro
+
+See the full glossary →
+
+Was this article helpful?
+
+Yes No
+
+Previous article
+
+AI Voice Agent Onboarding Part 1: Set up for Basic Phones and Phones Pro
+
+Next article
+
+Configure your Voice Agent Settings in ServiceTitan
+
+Related articles
+
+AI Voice Agent Onboarding Part 1: Set up for Basic Phones and Phones Pro
+
+Product Areas > Phones > Virtual Agents
+
+AI Voice Agent for Basic Phones and Phones Pro - FAQ
+
+Product Areas > Phones > Virtual Agents
+
+Configure your Voice Agent Settings in ServiceTitan
+
+Product Areas > Phones > Virtual Agents
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use

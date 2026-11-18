@@ -1,0 +1,180 @@
+Clerri Integrates Patient Financing Through New Cherry Partnership - Group Dentistry Now
+
+Home
+
+News
+
+DSO Deals
+
+ADSO News
+
+Legal
+
+Hygiene
+
+Clinical
+
+Education
+
+HR
+
+DSO People
+
+Tech
+
+Cybersecurity
+
+Business
+
+PE
+
+About
+
+Publisher’s Corner
+
+Editorial Board
+
+Subscribe
+
+Contact Us
+
+Advertise
+
+Testimonials
+
+eNewsletters
+
+Services
+
+Education
+
+Private Equity Firms
+
+DSO Services
+
+Accounting & CFO Services
+
+Solo Owner Dentists
+
+Emerging Groups
+
+Leaders Network
+
+Events
+
+Monthly Calendar
+
+Event List
+
+Event Details
+
+ADSO Events
+
+Podcasts
+
+Webinars
+
+Upcoming
+
+Recordings
+
+Careers
+
+Marketing
+
+Learning Hub
+
+Most Popular Articles
+
+DSO RESOURCE GUIDE
+
+November 18, 2026
+|
+The AI-Powered Cybercrime Revolution: Why DSOs Must Rethink Their Cybersecurity Defenses
+
+November 17, 2026
+|
+Beyond the Cleaning: How the Hygiene Chair Drives Patient Care and Practice Growth
+
+November 13, 2026
+|
+Dentures are quietly costing DSOs margin. Going digital hasn’t fixed it yet.
+
+November 12, 2026
+|
+The Group Dentistry Now Show: The Voice of the DSO Industry – Episode 284
+
+November 12, 2026
+|
+Inside Tend’s Dentist Recruitment Success and 160% Surge in Applications
+
+Search for:
+
+DSO RESOURCE GUIDE
+
+Clerri Integrates Patient Financing Through New Cherry Partnership
+
+Posted By: GroupDentistryNow
+May 20, 2026
+
+Practices can now present financing options and complete membership enrollment from the same screen—no switching tools and no added steps required.
+
+Clerri, the dental industry’s largest and most trusted membership platform, announced recently a new partnership with Cherry, adding patient financing natively to the Clerri platform. The integration gives front office staff the ability to initiate a Cherry financing pre-approval directly from the patient’s treatment plan view—the same screen where membership enrollment already takes place.
+
+“This partnership reflects how we’re thinking about Clerri as a platform, not a single product. Membership has always been our foundation, but the practices we serve need a unified surface for every financial conversation with a patient. Our integration with Cherry is the first of several innovations built around that idea,” said Jacob Evans, Chief Product and Technology Officer at Clerri.
+
+Cost is the most common reason patients delay or decline treatment. Clerri’s integration with Cherry eliminates the friction at the exact moment it matters most: case presentation. With financing and membership both accessible from a single workflow, staff can walk a patient through their full range of options, including savings through a membership plan, flexible payment terms through Cherry, or both, all without leaving the platform or logging into a separate system.
+
+One Workflow. Two Powerful Tools. Zero Extra Steps.
+
+The Cherry integration is simple to set up and offers a streamlined three-step process that fits naturally into the existing Clerri experience:
+
+1. Connect your API key to Clerri. From the Practice Portal, navigate to Product Settings› Connect Cherry. Paste the API key and the integration is live. Setup takes about two minutes.
+
+2. Initiate a pre-approval from the treatment plan. From within the patient’s treatment plan in the Clerri platform, staff can run a Cherry pre-approval on the spot. The result is a financing range valid for 60 days, returned in seconds.
+
+3. Patient applies and gets financing. The patient completes a ~30-second application on their phone. Cherry manages the checkout process end to end. Once complete, the practice receives payment for the treatment.
+
+Staff never leave the Clerri platform. There is nothing new to log into, no separate software to manage, and no additional training required to get up and running.
+
+Availability and Setup
+
+The Cherry integration is live today for Clerri customers using the Bridge and rolls out to all Clerri practices in the coming weeks. Practices new to Cherry complete a one-time approval with Cherry, then connect in about two minutes. Groups or practices new to Clerri can request a demo at clerri.com/get-started.
+
+About Clerri
+
+Clerri is the leading care membership platform transforming how dental practices grow. By simplifying access to care through smart, sustainable membership plans, Clerri empowers providers to increase patient loyalty, reduce insurance dependence, and build recurring revenue. Trusted by over 25,000 dentists, including more than 5,000 independent offices and 200-plus group practices, Clerri delivers a clear path to practice success powered by automation, expert support, and nationwide compliance.
+
+About Cherry
+
+Cherry is the fastest-growing patient financing partner in healthcare, trusted as the top choice by more than 50,000 providers nationwide. Known for offering the lowest fees in the industry and approval rates as high as 90%, providers choose Cherry five times more often than competitors when selecting a preferred financing partner. Cherry’s patient-centric platform allows more patients to say “yes” to treatment through a lightning-fast, 35-second application that requires no hard credit check and features no deferred interest. By providing transparent, easy monthly payments alongside treatment plans, Cherry empowers top-performing dental practices to significantly increase case acceptance and make high-quality care more accessible.
+
+Media Contact
+
+David Demaree Product Manager
+
+david.demaree@clerri.com
+
+SHARE
+
+TWEET
+
+PIN
+
+SHARE
+
+Previous post
+
+Next post
+
+Follow Us
+
+Contact Us
+
+Site Map
+
+Terms of Use
+
+Privacy Policy
+
+Copyright 2025 | Group Dentistry Now LLC | 1250 South Bethlehem Pike, Suite 400, Hatfield, PA 19440 | 239.567.9494

@@ -1,0 +1,214 @@
+Reviews Overview | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Marketing Center
+
+Reviews
+
+Reviews Overview
+
+Reviews Overview
+
+What is the reviews app and what can I do with it?
+
+Updated yesterday
+
+Table of contents
+
+Housecall Pro Win More Jobs Workshop
+
+Every new review builds trust with customers who haven’t hired you yet. Want a plan to bring in even more work? Register for the Win More Jobs Workshop.
+
+Register Here
+
+Getting Started with Reviews
+
+Reviews help you automatically collect and manage customer feedback to build a stronger online reputation and grow your business — all in one place.
+
+By automating review requests and centralizing responses in a simple dashboard, Reviews saves you time, builds trust with real customer stories, and boosts your online visibility to help grow your business. Stay organized, respond faster, and turn positive feedback into a powerful tool for winning more jobs.
+
+Access Reviews Dashboard
+
+Your Reviews Dashboard is located in the Marketing Center of Housecall Pro.
+
+Just click the Marketing tab in the left navigation bar of your Housecall Pro account, then select Reviews from the dropdown menu on
+
+Set Up and Send Review Requests
+
+Review requests are automatically sent when a job is completed. You can change this any time in your Reviews settings.
+
+To view and manage responses, make sure your Reviews Dashboard is set up:
+
+Navigate to Reviews by clicking Marketing in the left navigation bar of your Housecall Pro account and selecting Reviews from the dropdown menu.
+
+Then, click the Set up reviews button in the middle of the page.
+
+You now have the option to connect Reviews to Facebook or Google, or to skip this step.
+
+🔎 Learn more about connecting Facebook and Google to Reviews.
+
+If you skip the Facebook and Google setup steps, you will be directed to your Reviews Dashboard.
+
+Understanding Your Reviews Dashboard
+
+Your Reviews Dashboard gives you access to all previous reviews and important analysis to understand your customer feedback.
+
+To access your Reviews Dashboard:
+
+Select Marketing in the left navigation bar of your Housecall Pro account and select Reviews from the dropdown menu.
+
+Total Reviews: Counts all reviews collected by your customers across both Housecall Pro & Google Reviews of all time (including all previous Google Reviews), all platforms.
+
+Reviews by Platform: See the total number of reviews with your average rating by platform.
+
+View Activity: See all recent activity of emails and texts that have been sent to customers.
+
+Edit distribution: Control the percentage of reviews directed to Housecall Pro, Google, and Facebook platforms based on preferences or business goals.
+
+Bulk request: send review requests via email to multiple customers at once.
+
+Recent Reviews: See reviews listed by most recent, with key information like their name, date of review, the employee that worked with the customer, review, source, and the review comment on the Reviews Dashboard.
+
+Reply: You can reply directly to the Review, and it will post to the public on both Facebook and Google. (Note: this is a Premium Review feature only.)
+
+Featured: If you favorite a review (select the star icon) only for HCP Reviews on HCP Website (for HCP Website Pros only).
+
+Job: Takes you to the Job page from which the review was sent.
+
+Which job did this review come from? For Google and Facebook reviews, Housecall Pro suggests the job that earned each review so you can confirm it.
+
+See Match Google and Facebook Reviews to Jobs.
+
+Filter Reviews by Source: Easily view and manage reviews from different sources by clicking the Housecall Pro, Google, or Facebook tabs in your Reviews Dashboard. This lets you quickly see how you’re performing on each platform and focus your follow-ups where they matter most.
+
+Sending Review Requests
+
+Your account is automatically configured by default to send Review Requests when you click or tap “Finish” within a Job.
+
+Note: Review request timing and message settings now live under Settings > Notifications. Your Google and Facebook connection settings are still under Settings > Marketing Center > Reviews.
+
+To change send timing
+
+Click the gear icon to open Settings
+
+Select Notifications
+
+Find the Reviews section and open Initial request
+
+Find Request timing and choose when requests should send
+
+If you update your Review settings to send the Review Request when a Job is paid, it will automatically send after you finish a job and collect payment.
+
+Choose Where to Send Your Review Requests
+
+By default, we will optimize your review requests for you. This means that we will send all of your customers with a Gmail email address straight to Google to leave their reviews (this is because customers need to have a Google account in order to leave a review on Google Business Profile). The rest of your customers will be split equally between your Facebook page and the reviews that you can collect for your website.
+
+You can also decide what percentage of review requests you want to go to each platform (Website, Facebook, or Google). To do this:
+
+Navigate to the Marketing tab in the left navigation bar of your account.
+
+From the dropdown menu, select Reviews to open your Reviews Dashboard.
+
+In the Reviews Dashboard, click Actions, then Edit distribution.
+
+Toggle off Optimize requests for me.
+
+Adjust the percentage for each source as needed.
+
+Click Save.
+
+🛠️ Pro Tip: If you'd like all review requests to be sent to just one review source (Google, Facebook, or your website), set that source's percentage to 100%.
+
+How to Reply to a Review
+
+With our Premium Reviews feature, you can respond to reviews on Google, Facebook, and your website. Replies to Google and Facebook reviews will appear directly on those platforms, while replies to website reviews will be emailed to your customers.
+
+🛠️ Pro Tip: Make sure that you have your Google and Facebook accounts connected in order to reply to all of your reviews.
+
+To reply to a review:
+
+Go to My Apps by clicking the 3x3 square icon in the left navigation of your HCP account.
+
+Select the Reviews app.
+
+Hover over a review and click the reply icon in the floating menu on the right.
+
+In the reply window, you can either write your own response or use the "Write it for me" feature to generate a suggested reply based on the review content.
+
+Review or edit the response, then click Post reply to publish it.
+
+📌 Note: The AI-generated reply can be customized before sending to match your tone and message.
+
+Reviews settings
+
+Review settings live in two places.
+
+Settings > Notifications > Reviews controls how and when review requests are sent:
+
+Review message style: Personalized or Custom
+
+Request timing: when a review request sends after a job
+
+Exclude customers: customer and job tags that stop a request from sending
+
+Sending to customers who have notifications turned off
+
+Settings > Marketing Center > Reviews controls your review sources and where reviews appear:
+
+Connect your accounts: link Google or Facebook
+
+Add reviews to my website: choose which reviews appear on your HCP website
+
+Website Widget: showcase reviews on your site
+
+Your review request messages
+
+Housecall Pro personalizes each review request using the details of the job you just completed, so every customer gets a message that mentions their actual service.
+
+To see how your messages are written:
+
+Go to Settings > Notifications > Reviews
+
+Click the edit button next to Initial request.
+
+Under Review message style, you can choose:
+
+Personalized — a unique message for each customer, based on the job completed. This is the default.
+
+Custom — one message you write, sent to every customer.
+
+When Personalized is selected, a Personalized request examples section appears. Click through the example tabs — New customer, Repeat customer, No name on file, No job details — to see how each kind of message reads. These are samples that show the style, not the exact messages your customers will receive.
+
+You can also preview the real thing by adding yourself as a customer and completing the job process. Learn more about personalized review requests.
+
+Need help?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746.
+
+Related Articles
+
+Connect Google Business Profile and Facebook to Reviews
+
+Share Customer Reviews
+
+Podium Integration Overview
+
+Reviews FAQs
+
+Match Google and Facebook Reviews to Jobs
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

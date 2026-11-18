@@ -1,0 +1,166 @@
+BombBomb Unveils Engage an Video Messaging Platform
+
+Advertisement
+
+Your Source for Marketing Technology Insights
+
+About|Contact|Advertise
+
+News
+
+Insights
+
+Podcast
+
+Voices
+
+Events
+
+Reports
+
+Subscribe
+
+Back
+
+BombBomb Unveils Engage: A Next-Generation Video Messaging Platform
+
+MarTech360 Bureau•May 19, 2025
+
+Advertisement
+
+BombBomb, the trusted video messaging platform for sales professionals, has announced the launch of BombBomb Engage—a fully reimagined, enterprise-grade platform designed to help modern sales teams stand out in crowded inboxes with authentic, face-to-face video communication.
+
+As the B2B sales landscape evolves—marked by longer sales cycles, changing buyer behaviors, and intensified digital competition—sales professionals are under increasing pressure to break through noise, reach key decision-makers, and maintain personalized outreach at scale. In response, many are turning to digital tools that not only streamline daily workflows, but also support automation and data-driven decision-making. Among these, video messaging continues to emerge as a high-impact solution—enabling sellers to foster trust, personalize engagement, and accelerate deal cycles.
+
+BombBomb Engage: Purpose-Built for Scale, Simplicity, and Speed
+
+BombBomb Engage represents a complete rebuild of the company’s core video messaging platform—redesigned to meet the demands of today’s enterprise sales teams. The new user interface is intuitive and frictionless, offering faster performance, streamlined navigation, and seamless access to recording, editing, sending, and tracking personalized videos. Whether used by individual sellers or large sales organizations, Engage empowers users to deliver impactful video messages quickly and efficiently.
+
+The platform integrates natively into email clients, web browsers, and CRM systems, removing the need for platform switching or extensive training. Admins benefit from enterprise-ready tools such as Role-Based Access Controls (RBAC) and customizable team-level permissions, ensuring secure and scalable management.
+
+“Sales pros don’t need more tools, they need better ones,” said Conor McCluskey, CEO of BombBomb. “Engage automates video outreach, so nothing falls through the cracks, and sales pros can see exactly who’s watching, clicking and engaging, in real time. It’s not about sending more videos…it’s about sending the right video at the right time to drive a real pipeline.”
+
+Also Read: MontyCloud Partners with Pax8 to Simplify Cloud Operations for MSPs
+
+Key New Capabilities Introduced with BombBomb Engage
+
+The launch of BombBomb Engage also introduces several powerful features designed to support go-to-market teams and enterprise users:
+
+Copilot – Automated Video Workflows
+
+Included in BombBomb’s Core + Copilot and Enterprise plans, Copilot enables users to automate video campaigns, removing the need to send each message manually. Sales reps can record key videos once, and Copilot ensures they’re delivered at the right moment. Admins can build fallback videos into campaigns, and team members benefit from pre-written scripts and video examples to make content creation fast and simple.
+
+Role-Based Access Control (RBAC)
+
+Now a standard feature across all BombBomb packages, RBAC ensures compliance and governance by allowing teams to control who can view, edit, or manage content—an essential capability for large organizations.
+
+Enterprise-Grade Security and Compliance
+
+BombBomb Engage comes equipped with SOC 2 Type II compliance and Single Sign-On (SSO) functionality, offering the robust security enterprises require for modern software deployments.
+
+Looking Ahead: AI-Driven Innovation on the Horizon
+
+With the launch of Engage, BombBomb is laying the foundation for a series of AI-powered enhancements that will begin rolling out later this year.
+
+“Incorporating generative AI into anything should never be a 'one and done' venture,” said Heather Stevens, VP of Product at BombBomb. “It needs to be incorporated in a way that it is forever retraining and learning how to be better and more effective. This is why our approach to AI is thoughtful, purposeful & not just adding AI for the sake of AI.”
+
+BombBomb Engage sets a new standard for sales engagement tools, delivering the speed, personalization, and automation modern sellers need to build pipeline and close deals—faster and more authentically.
+
+Advertisement
+
+Trending Now
+
+News
+How AI is rewriting the buyer’s journey
+Nov 18, 2026
+
+News
+FusionAuth Appoints Phil Allen as Chief Revenue Officer and Eve Maler as Strategic Advisor
+Nov 18, 2026
+
+News
+Replenit launches Maestro 2.0, the AI CRM workforce that runs retail customer revenue
+Nov 18, 2026
+
+News
+Nico Vonau Joins TripleLift as Senior Director of Business Development
+Nov 18, 2026
+
+News
+Matthew McClelland Becomes Head of Partnerships, APAC at Dotdigital
+
+Nov 18, 2026
+
+You May Also Like
+
+How AI is rewriting the buyer’s journeyNov 18, 2026
+
+FusionAuth Appoints Phil Allen as Chief Revenue Officer and Eve Maler as Strategic AdvisorNov 18, 2026
+
+Shoplazza Launches Shoplazza Accounts for Cross-Border Fund ManagementNov 17, 2026
+
+Businesses chase the sale, but ignore the stay: just 6% of digital tests target retention
+
+Nov 16, 2026
+
+Nutcake launches Nutcake Intelligence to solve the three biggest challenges in creator marketingNov 16, 2026
+
+Advertisement
+
+Stay Updated
+
+Get the latest martech insights delivered to your inbox weekly.
+
+Subscribe
+
+Martech, Simplified.
+
+Your trusted source for marketing technology insights, trends, and in-depth analysis shaping the future of martech.
+
+Stay Updated
+
+Get the latest martech insights delivered to your inbox.
+
+Subscribe
+
+Explore
+
+News
+
+Insights
+
+Podcast
+
+Voices
+
+Events
+
+Reports
+
+Company
+
+About Us
+
+Advertise
+
+Contact Us
+
+Legal
+
+Privacy Policy
+
+Copyright Policy
+
+Terms of Service
+
+GDPR
+
+Do Not Sell
+
+Disclaimer
+
+Cookie Fraud Prevention Policy
+
+MarTech360 Powered by Data Demand
+
+MarTech360. All rights reserved. Unauthorized use, duplication, or repurposing of site material is strictly prohibited without express written consent from MarTech360.

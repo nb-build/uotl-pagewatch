@@ -1,0 +1,271 @@
+$100M Acquisition: How Descartes & Tai Boost Broker Efficiency - FreightWaves
+
+SONAR Demo
+|
+
+SONAR Login
+|
+
+Customer Support
+|
+
+SONAR Demo
+|
+
+Subscribe
+|
+
+Newsletters
+
+Contact Us
+
+Brands
+
+Search
+
+Close
+
+Search for:
+
+Search
+
+News
+Analysis & Insights
+Top Stories
+
+Technology & Startups
+
+Fuel & Energy
+
+Compliance & Regulation
+
+Freight Fraud
+
+Legal Issues
+
+Layoffs & Bankruptcies
+
+Cross-Border (Mexico/Canada)
+
+Equipment & OEM
+
+Drivers & Workforce
+
+Company Earnings
+
+Payments & Finance
+
+M&A
+
+Trade & Tariffs
+
+Trade Compliance
+
+Infrastructure & Reindustrialization
+
+Logistics & Brokerage
+
+Warehousing
+
+E-Commerce & Fulfillment
+
+Weather & Critical Events
+
+Modes
+Truckload
+
+LTL
+
+Maritime
+
+Intermodal
+
+Rail
+
+Air Cargo
+
+Parcel & Last Mile
+
+Markets & Data
+Inside SONAR
+
+SONAR Sitreps
+
+SONAR Chart of the Week
+
+Pricing Power Index
+
+Freightonomics
+
+SONAR
+Learn More
+
+Request a Demo
+
+SONAR Self-Serve Data
+
+SONAR API
+
+SONAR Knowledge Center
+
+Media
+FreightWaves Today
+
+What the Truck?!?
+
+Brake Check
+
+The Long Haul
+
+Events
+Cross Border Logistics Summit 2026
+
+FreightWaves Roadshow - Chicago
+
+3PL Summit
+
+Transportation Family Business Summit
+
+FreightWaves Capacity Summit - Spring
+
+Small Fleet & Owner Operator Summit
+
+Freight Fraud Symposium
+
+Domestic Supply Chain Summit
+
+Supply Chain AI Symposium
+
+Future of Last Mile Summit
+
+Enterprise Fleet Summit
+
+FreightWaves Capacity Summit - Fall
+
+F3 Awards Dinner
+
+Supply Chain Day
+
+F3: Future of Freight Festival 2027
+
+Awards
+Fraud Fighters Awards
+
+AI Excellence in Supply Chain Awards
+
+FreightTech Awards
+
+Shipper of Choice Awards
+
+Resources
+Sponsored Insights
+Insurance & Risk Management
+
+Webinars
+
+White Papers
+
+FreightWaves Playbook
+
+FreightWaves Checkpoint
+
+FreightWaves Health
+
+CFCO (Compliance Certification)
+
+CFPA (Pricing Certification)
+
+Advertise With Us
+
+RSS
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+YouTube
+
+Instagram
+
+●
+Watch Now
+
+Click here to open Menu
+
+Click to close the product launchpad
+
+Home/TV & Podcasts/FreightWaves Today/$100M Acquisition: How Descartes & Tai Boost Broker Efficiency
+
+FreightWaves TodayTV & Podcasts
+
+$100M Acquisition: How Descartes & Tai Boost Broker Efficiency
+
+FreightWaves Staff
+
+·
+
+Thursday, August 27, 2026
+
+Descartes’ recent $100 million acquisition of Tai Software is set to transform the freight brokerage landscape. Learn how this merger creates an AI-powered platform designed to help freight brokers overcome challenges like fraud, margin pressure, and fragmented workflows. Discover the future of unified logistics technology and how it promises to deliver unprecedented efficiency and value to your operations.
+
+Descartes Systems Group has acquired TAI Software for $100 million, folding an AI-powered freight brokerage platform into a global logistics network that already includes MacroPoint, MyCarrierPortal, and Aljex. The deal, disclosed during a FreightWaves Today interview, is the company’s second major TMS acquisition in two years — the first being 3G, which serves the managed transportation market — and is aimed squarely at brokers squeezed by margin pressure, rising fraud risk, and fragmented technology stacks.
+
+Walter Mitchell, VP of Transportation Management Solutions at Descartes and former CEO of TAI Software, said existing TAI customers will see no immediate changes but will gain access to a broader set of tools over time. “What it means for our new customers, the customers who are coming with us and the rest of the freight brokers, is opportunity to continue to level up and continue to have great products available to them that’ll help them become better freight brokers,” Mitchell said.
+
+Andrew Wimer, Associate GM of Transportation Management Solutions at Descartes, described a platform strategy centered on eliminating the need for brokers to toggle between disconnected applications. He pointed to TAI’s inbound email automation — which can ingest spot-quote requests, build quotes, and execute them in near real time — as an immediate example of a capability Descartes could not previously offer its broker customers. Layering in carrier analytics from MacroPoint and MyCarrierPortal, he said, will allow that engine to generate more accurate rates and capacity recommendations.
+
+“We really believe that the future state here is a single execution layer for the customers, for the brokers to operate efficiently, not for AI sake or automation sake, like Mitch said, for realizing and earning or seeing value in saving time, in delivering value to their customers.” — Andrew Wimer, Associate GM of Transportation Management Solutions, Descartes
+
+Mitchell said TAI’s product roadmap heading into the deal was already focused on two aspirational goals: building a TMS from which a broker would “never have to make a check call again” and one where a broker would “never lose a load again.” He said access to Descartes’ fraud-mitigation data and carrier-risk intelligence makes those targets more achievable than they were as an independent company.
+
+On the question of which freight mode will feel the impact first, Mitchell was direct: truckload leads, given that it represents the majority of TAI customers’ volume, followed by drayage and cross-border, with LTL behind that. The multimodal scope of the platform — truckload, LTL, drayage, and cross-border — remains intact under the combined entity.
+
+Wimer pushed back on characterizing the deal as evidence of a broad freight-tech consolidation wave, describing Descartes’ acquisition strategy as methodical and portfolio-driven rather than opportunistic. The company looks for well-run businesses addressing gaps in its existing customer solutions where valuation makes sense — criteria he said both 3G and TAI met. For brokers evaluating technology partners, the practical near-term message is that TAI’s team and product roadmap continue unchanged while Descartes’ data assets are incrementally integrated into the platform.
+
+Descartes acquired TAI Software for $100 million, its second major TMS deal in two years, to provide freight brokers a unified AI-powered execution platform.
+
+The combined platform will pipe MacroPoint and MyCarrierPortal carrier data into TAI’s existing quote-automation and AI workflows, targeting better rates and faster carrier identification without adding headcount.
+
+Truckload is the first mode expected to benefit, with fraud prevention and TMS-native risk signals cited as priority capabilities; drayage, cross-border, and LTL follow.
+
+This Summary is generated thanks to a transcription of the interview, for the full interview please enjoy the video above.
+
+FreightWaves Staff
+
+WATCH FWTV IN HD
+
+© Copyright 2026, All Rights Reserved, FreightWaves, Inc
+
+Home
+
+About
+
+Advertise
+
+FreightWaves Health
+
+Contact
+
+Terms
+
+Privacy
+
+Logout
+
+Do Not Sell
+
+RSS
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+YouTube
+
+Instagram
+
+Close AI search

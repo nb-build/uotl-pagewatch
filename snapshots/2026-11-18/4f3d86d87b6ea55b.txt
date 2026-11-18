@@ -1,0 +1,374 @@
+Create Recurring Service Campaigns using SMS
+
+Documentation Index
+
+Fetch the complete documentation index at: https://help.servicetitan.com/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Search
+
+CTRL+K
+
+Press CTRL+K to open search
+
+Powered by
+
+Create Recurring Service Campaigns using SMS
+
+Updated on Oct 16, 2026
+
+Published on Sep 28, 2026
+
+12 minute(s) read
+
+Focus
+
+Listen
+
+Print
+
+Copy pageCopy as Markdown for LLMsView as MarkdownView the page as plain text
+
+Open in ChatGPTAsk ChatGPT about this pageOpen in ClaudeAsk Claude about this page
+
+Article summary Prev Next
+
+Overview
+
+With ServiceTitan, you can build campaigns to automatically target and reach out to Recurring services customers. This includes automating your booking reminders, follow-ups, and thank you messages. With this feature, your customers can get SMS reminders to book their upcoming Recurring service events.
+
+Make sure you're viewing the correct Marketing Pro content
+
+This article is for free Marketing and Marketing Pro. If you are using Marketing Pro v2, see Create Pro campaigns for content specific to your experience.
+
+To check which version of Marketing Pro you're using:
+
+Go to the navigation bar and click Marketing .
+
+If the side menu under Analytics includes One-Time Campaigns and Automated Campaigns, you're using Marketing Pro v2. If these options aren't visible, you're using Marketing Pro.
+
+Who uses this feature
+
+Marketing managers, business owners, CSRs, and other marketers on your team
+
+Feature configuration
+
+Account configuration is required to use this feature. Please contact Technical Support for details.
+
+Things to know
+
+The Chat feature is required to create recurring service reminder campaigns that use SMS text messages. Please contact your CSM to learn more about Chat if you do not currently have the feature.
+
+Recurring service reminder SMS campaigns are launched the next day at the earliest. This allows ServiceTitan to process and queue up your text messages ahead of time, which ensures proper delivery.
+
+Recurring service reminder SMS campaigns can only be created as automated campaigns, not one-time campaigns. Automated campaigns stay live indefinitely until you manually stop them. While the campaign is live, customers can enter the audience in the future and receive the campaign text if they meet the dynamic date criteria. Automated campaigns do not send the same content repeatedly to the same audience indefinitely.
+
+Campaigns can be archived, unarchived, and cloned. For more, see Manage Marketing Pro functions.
+
+SMS recurring service reminder text messages are sent to the oldest mobile contact number on the Customer Record that has both the Marketing updates and Job Notifications toggles enabled. If the text message fails to send to this number, ServiceTitan then attempts to send to any additional non-landline phone number on the customer record that has both Marketing Updates and Job Notifications enabled. For more, see Set notification preferences for customers.
+
+Use the Analytics dashboard to track how campaigns perform throughout their life cycle. For more, see Use marketing analytics.
+
+Marketing SMS recurring service campaigns do not count as a follow-up for recurring service events. To learn how to log a follow-up, see Manage recurring service events.
+
+To make sure your customers can receive your transactional SMS text messages, see Configure customer profiles for marketing campaigns.
+
+Create a Recurring Service SMS campaign
+
+You can create SMS campaigns for recurring services from the Marketing Overview, SMS, Email, Direct Mail, Dashboard, and Campaigns screens in Marketing Pro.
+
+Go to the navigation bar and click Marketing .
+
+Click Create Campaign.
+
+Select SMS Text Message - Transactional Campaigns as the campaign category then click Next.
+
+Note: The Activate Chat to Continue pop-up opens if you don't have the Chat feature activated and asks you to navigate to Settings. For more, see Set up and enable Chat.
+
+On the Create Campaign: SMS pop-up that opens, enter a unique, brief, and descriptive Campaign Name for your SMS campaign with a maximum of 60 characters.
+
+(Optional) Enter a description of the campaign.
+
+Click Start Building.
+
+This opens the SMS draft campaign screen with all four steps:
+
+Step 1 - Goal: Choose the campaign type that best matches your strategy.
+
+Note: If you don't have Marketing Pro, Recurring Service is the only option available to select.
+
+Step 2 - Outbound Tracking Number: Assign a unique outbound phone number to properly track revenue for your campaign. You can generate a new one or select an existing number from the numbers you already own.
+
+Step 3 - Audience: Set which of your customers you want to receive the SMS reminder messages.
+
+Step 4 - Automated Text Message Content: Create a sequence of automated text messages that will be sent to customers as part of this campaign. You can include up to four text messages.
+
+Step 1: Goal
+
+The Goal step is where you designate the campaign strategy.
+
+Note: If you don't have Marketing Pro, Recurring Service is the only option available to select.
+
+Click Select Goal.
+
+Select Recurring Service then click Save.
+
+Step 2: Outbound Tracking Number
+
+Add a unique tracking phone number. ServiceTitan uses this number to attribute revenue generated by jobs booked from this number to your recurring service reminder campaign. You can either generate a new number or assign an existing number.
+
+Generate a new number
+
+Note: Adding new tracking number steps can differ depending on the phone integration you use. For more, see Add or edit tracking numbers.
+
+Click Add Number.
+
+Click Add Tracking Number and then Generate new number.
+
+On the Add New Number screen that opens, select Local Number for a local campaign or Toll-Free Number for a regional or national campaign.
+
+For Local Number only, enter the area code or ZIP Code you want the tracking number to correspond to.
+
+(Optional) If you want your tracking number to include a particular set of digits, enter them in the Contains field.
+
+Click Search Numbers.
+
+On the Search Results screen that opens, select a tracking number and click Choose Number.
+
+On the Set Forwarding Number screen that opens, enter the phone number at which you want to receive incoming calls for this campaign, or select to use a default number and then click Add Number.
+
+Click Save.
+
+Assign existing number
+
+Click Add Number.
+
+Click Add Tracking Number and then Assign existing number.
+
+On the Select Existing Number screen that opens, select an existing number from the list then click Assign Number to add the selected number to your campaign.
+
+Click Save.
+
+Step 3: Audience
+
+Add the audience who will receive your recurring service campaign SMS messages. Make sure to select an audience with dynamic dates so your audience can grow over time. Static dates limit the ability of your SMS campaign to send texts on an ongoing basis.
+
+Note: Audiences created for SMS recurring service event reminder campaigns are limited to the Recurring Services and Location filter sets only. All SMS recurring service reminder audiences require a recurring service filter to be applied to each inclusion group.
+
+Click Add Audience.
+
+Add the audience who will receive your recurring service SMS messages:
+
+From your audience list, select one of your existing audiences to use for this campaign.
+
+Tip: Hover over the phone number of the audience to see how many customers are included in each audience.
+
+To create a new audience, click Create new, enter the Audience Name, and then click Begin.
+
+Click Apply Audience.
+
+Step 4: Automated Text Message Content
+
+Click Add Content.
+
+Confirm the Terms of Use and then click Continue.
+
+In Text Message 1, enter the SMS text message you want your customers to read.
+
+Tip: If you don't want to create a custom message, you can use the default message provided.
+
+Click Add Merge Tag to add merge tags to your message. Merge tags automatically populate information like the customer's first name. Options include:
+
+Customer First Name: First name of the customer.
+
+Company Name: Your company's name entered in the Company Name field in Settings > Marketing Pro > Marketing.
+
+Tracking Phone Number: The unique tracking number you selected when building the campaign.
+
+Schedule Appointment Link: A link that allows recipients to schedule an appointment through the legacy web scheduler. The legacy web scheduler is only compatible with open capacity planning, not Adjustable Capacity Planning (ACP).
+
+Note: If you don't want to use the legacy web scheduler, you can add your preferred scheduler to the message instead of using this merge tag.
+
+Schedule Appointment CP Link: A link that allows recipients to schedule an appointment and attributes the incoming booking requests to the Customer Portal instead of the web scheduler.
+
+Unsold Estimates Link: A unique link that allows recipients to see their most recent open estimate, including their estimate options.
+
+Click Send Time, select the time of day to send your message, and then click Set.
+
+Note: ServiceTitan sends campaign SMS messages in batches over a period of time to prevent overloading or throttling our sending provider.
+
+To add another SMS text message to the campaign, click + Add Text Message then repeat the steps above. You can include up to four SMS text messages.
+
+If you add more than one message, click Send texts until and select a condition to stop sending SMS text messages to a specific customer after that customer has met the selected criteria. Options include:
+
+Call Created: A customer calls a phone number associated with this campaign.
+
+Job Booked: A customer books a job where the SMS campaign is assigned as the job campaign.
+
+No Trigger: The campaign will continue sending each SMS text message in the campaign sequence until the customer no longer qualifies for the audience or unsubscribes. For more information on audience inclusion criteria, see Create audience.
+
+(Optional) Select Stop sending texts when a recipient leaves the audience if ServiceTitan should stop sending customers marketing content when they leave the audience chosen for this campaign. This option is enabled by default.
+
+Click Save & Continue to save your content and return to the SMS draft campaign screen.
+
+Review and schedule the campaign
+
+You can review your campaign, send a test SMS text message, and schedule a launch date if all looks good:
+
+Review each setup step of the campaign. If anything needs to be changed, go to that setup step and click Edit to make your changes.
+
+Go to the Automated Text Message Content section and click Send Test, then enter the phone number to send the SMS text message for the test.
+
+If all looks good, click Schedule Campaign.
+
+Note: If you're not ready to schedule the campaign, click Finish Later to save it and schedule it at a later time.
+
+In the Schedule Campaign pop-up that opens, click Calendar to select a campaign launch date, or manually enter a launch date. SMS text messages will start sending on this date.
+
+Note: You can launch the transactional campaign with tomorrow's date at the earliest.
+
+Click Schedule.
+
+Your campaign is scheduled. Click View All Campaigns to see a list of all your campaigns.
+
+Note: SMS campaigns can't be edited after they go live. If you need to make changes to your SMS campaign, you can only do so when the campaign is in either Draft or Scheduled status. If you need to revert your SMS campaign from Scheduled back to Draft status, go to Marketing > Campaigns and select your campaign. Then click Revert to Draft and click Continue. After making your edits, make sure to schedule the campaign again.
+
+Recurring Service SMS campaigns on the Job Booking screen
+
+To help you prioritize the chats you receive from your recurring service SMS campaigns, the Recurring Services Booking tag is applied to a customer's chat thread on the Chat tab of the Job Booking screen if they received a campaign text message.
+
+Note: The Recurring Services Booking tag disappears after your customer books a recurring service appointment within 30 days of receiving the text message. If your customer doesn't book a recurring service appointment within 30 days, the Follow Up tag appears.
+
+Opt-out SMS message
+
+To stop receiving SMS campaigns, customers can send an SMS message with the word Stop to the tracking phone number. After a customer opts out, they can no longer receive any SMS campaigns from you, regardless of whether the phone number used in the original SMS campaign is used again or a new phone number is used. Additionally, opted-out customers can't receive any messages sent to them through Chat.
+
+Note: The Stop request applies to all tracking phone numbers associated with your SMS campaigns, meaning they will subsequently stop receiving messages from any other campaigns with the same tracking phone numbers.
+
+Opt-in SMS message
+
+To start receiving SMS campaigns again, a customer can send an SMS message with the word Start to one of the following three options:
+
+The same tracking number they opted out from
+
+Another tracking number from another campaign
+
+Your company's default Outbound SMS number
+
+This allows them to opt in again and receive future SMS campaigns from you.
+
+FAQ
+
+Why is the yearly tag not available for SMS audiences?
+
+Customer tags may not be available for SMS audiences in transactional campaigns because SMS Text Message - Transactional campaigns are limited to specific filter sets.
+
+For Recurring Services campaign audiences, you can only use the Recurring Services and Location filter sets, with each inclusion group requiring at least one applied recurring services filter.
+
+For Unsold Estimates campaign audiences, you're limited to the Estimates, Customer, and Location filter sets, with each inclusion group requiring at least one applied estimates filter.
+
+Why does the Follow Up Status show Not Attempted after a Marketing SMS recurring service campaign is sent to a customer?
+
+Marketing SMS recurring service campaigns do not directly update the Follow Up status of customers. This is because these SMS campaigns are separate from the actual recurring service events.
+
+Can I create a recurring service event reminder campaign without Marketing Pro?
+
+Yes, but account configuration is required to use this feature. Please contact Technical Support for details.
+
+Want to learn more?
+
+See Manage recurring service events
+
+See Overview: Using ServiceTitan Marketing Pro
+
+See Why can't I see the job notifications option for contacts?
+
+The package of service visits included with a membership. When you sell a membership, recurring services are attached to the customer service location with details including start dates, service recurrence, and preferred technician. These details are used to create recurring service events.
+
+Learn more → · See the full glossary →
+
+Targeted text message campaigns sent to customer segments through Marketing Pro.
+
+What it does: Reaches customers on the highest-open-rate channel (SMS) with time-sensitive promotions, reminders, and service offers.
+
+Also called: Text marketing, SMS marketing
+
+Tags: Marketing Pro
+
+See the full glossary →
+
+a.k.a. Text Campaigns
+
+Recurring service events appear in Follow Ups where they can be booked into jobs. They are scheduled based on the frequency details of a service location's recurring services. The recurring service event includes details from the recurring service to help job booking.
+
+Learn more → · See the full glossary →
+
+ServiceTitan's integrated marketing automation platform for email, SMS, direct mail, and digital ad campaigns.
+
+What it does: Drives new customer acquisition and repeat revenue by automating targeted campaigns across multiple channels — all tied to actual job revenue.
+
+Also called: ST Marketing, Marketing automation
+
+Tags: Marketing Pro
+
+See the full glossary →
+
+The top-level account in ServiceTitan representing a property owner or account holder, containing all locations, jobs, and history.
+
+What it does: Serves as the single source of truth for all customer interactions, history, and financial data.
+
+Also called: Customer account, Client record
+
+Tags: Core
+
+See the full glossary →
+
+The legacy daily-cap booking tool that Adaptive Capacity replaces. Sunsetting.
+
+What it does: Allowed businesses to set manual daily booking limits per Business Unit. Now replaced by Adaptive Capacity.
+
+Also called: Legacy daily-booking-limit tool
+
+Tags: Core
+
+See the full glossary →
+
+a.k.a. ACP
+
+A self-service web portal where customers can view job history, request service, make payments, and communicate with the business.
+
+What it does: Reduces inbound call volume and improves customer satisfaction by giving homeowners 24/7 access to their service records.
+
+Also called: Customer self-service, Online portal
+
+Tags: Core
+
+See the full glossary →
+
+Was this article helpful?
+
+Yes No
+
+Previous article
+
+Create Missed Calls Campaigns using SMS
+
+Next article
+
+Submit Marketing Registration
+
+Related articles
+
+Create Marketing Campaigns using SMS
+
+Product Areas > Marketing Pro > Marketing campaigns
+
+Create Unsold Estimates Campaigns using SMS
+
+Product Areas > Marketing Pro > Marketing campaigns
+
+ServiceTitan
+Privacy Policy
+Security
+Terms of Use
