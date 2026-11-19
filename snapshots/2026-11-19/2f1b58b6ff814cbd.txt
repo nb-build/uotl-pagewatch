@@ -1,0 +1,215 @@
+Understand Google updates on your Business Profile - Google Business Profile Help
+Skip to main content
+
+Google Business Profile Help
+
+Sign in
+
+Google Help
+
+Help Center
+
+Community
+
+Google Business Profile
+
+Privacy Policy
+
+Terms of Service
+
+Submit feedback
+
+Send feedback on...
+
+This help content & information
+
+General Help Center experience
+
+CloseNext
+
+Help Center
+
+Community
+
+Get-Started Guide
+
+Google Business Profile
+
+Manage your business information
+
+Understand Google updates on your Business Profile
+
+Understand Google updates on your Business Profile
+
+To help keep your Business Profile accurate, Google gathers info from different sources, like user reports and licensed content.
+
+If sources report that your profile info is incorrect or outdated, Google may update your profile. You can review and manage these updates on your Business Profile.
+
+Understand Google updates to your profile
+
+Important: You can’t manage all Google updates through your Business Profile.
+
+Your Business Profile may be updated based on info from different sources. These updates show on Maps, Search, and other Google services.
+
+In the profile editor, text color shows the type of update:
+
+Blue: Shows info changed by Google.
+
+Black or white: No updates from Google.
+
+Tip: If your profile has Google updates, you’ll find a notification at the top of the page.
+
+Understand notifications about suggested edits
+
+Google may receive suggestions from users to update your Business Profile. To help you maintain accurate information and provide more control, Google will notify you about certain suggested edits before they are published.
+
+If a suggested edit requires your review, you may receive an email or an in-product notification. Once notified, you have 4 days to accept or reject the suggestion.
+
+If you don’t respond within 4 days, Google may automatically publish the update if it is supported by other publicly available information, such as your business website.
+
+Important:
+
+Google may apply suggested user edits to your business information without prior review. This happens in cases where edits are necessary to meet policy guidelines.
+
+You can always update your Business Profile directly to ensure it remains accurate. Learn how to edit your Business Profile.
+
+Understand bulk uploads & updates
+
+When you use a spreadsheet to update multiple locations, make sure to import them before you manage Google updates. Here’s what to keep in mind:
+
+If a field stays the same as your last upload, Google ignores it: Your info remains unchanged, and Google doesn’t accept or discard updates for that field.
+
+If you change a field, the system accepts the new value: This new value replaces both the previous value and any updated info.
+
+If a field is blank: An automatic update may apply.
+
+Particularly personal places
+
+Google may identify your Business Profile as a particularly personal place. In most cases, Maps designates particularly personal places automatically with data from websites, users, and businesses. Some places may also be added manually. This designation does not impact your Business Profile's visibility nor does it reduce users’ ability to interact with it on Maps and Search.
+
+Learn more about particularly personal places.
+
+If you’d like to provide feedback about whether your business is particularly personal, you can complete this form.
+
+Related resources
+
+Report a violation of Business Profile third-party policies
+
+Edit your Business Profile
+
+Need more help?
+
+Try these next steps:
+
+Post to the help community Get answers from community members
+
+Contact us Tell us more and we’ll help you get there
+
+true
+
+Manage your business information
+
+1 of 16
+Manage your business address
+
+2 of 16
+Manage your business hours
+
+3 of 16
+Manage your service areas for service-area & hybrid businesses
+
+4 of 16
+Manage your services on your Business Profile
+
+5 of 16
+Manage your local business links
+
+6 of 16
+Manage your social media links
+
+7 of 16
+Manage your Business Profile description
+
+8 of 16
+Manage your business category
+
+9 of 16
+Manage your business attributes
+
+10 of 16
+Manage your business short name & URL
+
+11 of 16
+Customize for your business category
+
+12 of 16
+Understand what happens to your Business Profile edits
+
+13 of 16
+Understand Google updates on your Business Profile
+
+14 of 16
+Understand business summaries on Google Maps
+
+15 of 16
+Understand how Google sources & uses info in Business Profiles & local search results
+
+16 of 16
+About automated calls and texts from Google to your business
+
+Shape the future of Google support
+User research studies help us improve our support services by allowing us to get feedback directly from users like you. Learn more, or sign up now for invitations to participate in future studies.
+
+Google
+Privacy Policy
+
+Terms of Service
+
+Language català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیहिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
+
+Enable Dark Mode
+
+Send feedback on...
+This help content & information General Help Center experience
+
+Search
+
+Clear search
+
+Close search
+
+Google apps
+
+Main menu
+
+13682192653424759291
+
+true
+
+Search Help Center
+
+false
+
+true
+
+true
+
+true
+
+true
+
+true
+
+99729
+
+false
+
+false
+
+false
+
+false
+
+false
+
+false

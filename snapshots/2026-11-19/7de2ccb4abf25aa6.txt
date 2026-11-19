@@ -1,0 +1,792 @@
+WPForms - World's Leading WordPress AI Form Builder Plugin
+
+FeaturesToggle Menu
+
+CORE FEATURES
+Drag & Drop Builder
+WPForms AI
+2,000+ Templates
+Conditional Logic
+Entry Management
+Payment Forms
+File Uploads
+
+CONVERSION TOOLS
+Form Analytics
+Lead Forms
+Conversational Forms
+Form Abandonment
+Calculations
+Form Landing Pages
+Multi-Page Forms
+
+ADVANCED FEATURES
+Surveys & Polls
+Quiz Builder
+Digital Signatures
+PDF Generator
+Save & Resume
+User Registration
+Form Scheduling
+
+View All Features
+
+What's new
+
+WPForms Now Turns Your Form Signups Into Drip Subscribers on Every Plan!
+Read more
+
+[NEW] Stripe Subscription Trials in WPForms – Win Customers Over Before the First Payment!
+Read more
+
+See all the updates
+
+SolutionsToggle Menu
+
+BY INDUSTRY
+Healthcare & Medical
+Education & Schools
+Nonprofit & Charity
+Real Estate
+eCommerce & Retail
+Professional Services
+
+BY USE CASE
+Payment & Order Forms
+Registration Forms
+Survey & Feedback Forms
+Lead Generation Forms
+Application Forms
+Booking Forms
+
+BY ROLE
+Marketers
+IT Professionals
+Customer Service
+Finance
+Human Resources
+
+Browse 2,000+ Templates
+
+Pricing
+IntegrationsToggle Menu
+
+All Integrations
+Marketing
+Payments
+Productivity
+eCommerce
+Events
+Social Media
+View all
+
+Featured Integrations
+
+Stripe
+
+PayPal
+
+Square
+
+Mailchimp
+
+Zapier
+
+HubSpot
+
+Google Sheets
+
+Salesforce
+
+Testimonials
+ResourcesToggle Menu
+
+DocumentationStep-by-step guides on all things WPForms.
+BlogOur latest tips, tutorials, and insights.
+DevelopersIn-depth developer resources and advanced guides.
+Form TemplatesOur gallery of customizable pre-built form templates.
+Facebook GroupCommunity support and exclusive updates.
+
+Featured Blog Articles
+
+How to Generate Branded PDFs with WPForms
+
+Read more
+
+The 5 Best Tools for Building Online Surveys
+
+Read more
+
+What’s New
+Log In
+Get WPForms
+
+Drag & Drop WordPress Form Builder
+
+The World’s Best WordPress Forms Plugin. Join 5,000,000+ Professionals Who Build Smarter Forms and Surveys with WPForms AI Form Builder.
+
+Contact Forms
+
+Payment Forms
+
+Survey Forms
+
+Newsletter Forms
+
+Registration Forms
+
+2,100+ Form Templates
+
+Get WPForms Now
+
+13,527 Reviews
+
+4.8
+
+Finally, a WordPress Forms Plugin That’s Easy and Powerful
+
+WPForms is the best WordPress contact form plugin. Here are the features that make WPForms the most powerful and user-friendly WordPress form builder in the market.
+
+Drag & Drop Form Builder
+
+Easily create a beautiful online forms in just a few minutes with WPForms AI + our drag & drop WordPress form builder.
+
+2,100+ Form Templates
+
+Start with our pre-built online form templates to save time and improve your workflow.
+
+Mobile-Friendly Forms
+
+WPForms is 100% responsive which means your WordPress forms will automatically look good on all devices.
+
+Smart Conditional Logic
+
+Personalize your forms based on the user’s input. Easily show or hide fields with our smart conditional logic.
+
+Form Notifications
+
+Easily notify customers or employees when forms are submitted through automated emails and more.
+
+Entry Management
+
+View all your leads, payments, and WordPress form data in one place to streamline your workflow.
+
+Payments Made Easy
+
+Securely accept credit card payments, donations, and online orders through your online forms.
+
+Marketing Integrations
+
+Automatically send your form data to your favorite email marketing tools and CRM integrations to save time.
+
+Automate Workflows
+
+Create dynamic workflows to accept user-generated content, create new user registration, data routing, and more.
+
+Electronic Signatures
+
+Easily collect electronic signatures in your form for payments, contracts, releases, and more on any device.
+
+Surveys & Polls
+
+Create better user surveys, NPS surveys, and polls with our user-friendly forms to boost form completion.
+
+Form Security
+
+Protect your WordPress forms with our powerful spam protection tools, smart form permissions, and access control.
+
+Get WPForms Now
+
+See All Features
+
+GDPR Compliant
+
+PCI Compliant
+
+CCPA Compliant
+
+“
+It is flexible: I use it for contact forms, donation forms, grant application forms, events, and more. Simple yet powerful interface for collecting payments. I install WPForms on every website I have – I know it will be used.
+”
+
+Nir A.
+
+Verified Customer
+
+“
+I’ve used WPForms for years on several different websites and it’s worked really well. It’s not clunky and does exactly what I need. Thank you!
+”
+
+M3l1
+
+Verified Customer
+
+“
+Drag and drop feature without having to write tedious code. Really simple to implement. It just works well. Integration in wordpress is very easy.
+”
+
+Raelynn J.
+
+Verified Customer
+
+“
+I have nothing but praise for WP Forms. They’ve made everything easier and effective. The customer service is outstanding. I’m incredibly grateful.
+”
+
+Hinara
+
+Verified Customer
+
+“
+Works as advertised and without issue. Great plugin!
+”
+
+Tpaige
+
+Verified Customer
+
+“
+The interface is straightforward, the creation process simple, and the range of options and templates is all one could wish for. Impossible to criticise.
+”
+
+Harveyyates
+
+Verified Customer
+
+“
+The plugin functions as expected and allows a decent amount of configuration for standard forms. It worked seamlessly with my WordPress/Elementor pages.
+”
+
+jhoris
+
+Verified Customer
+
+“
+I’m a WordPress newbie (although a long-time software developer), and found this forms plug-in to be extremely easy to use. It does everything I want.
+”
+
+harborbay
+
+Verified Customer
+
+“
+It is flexible: I use it for contact forms, donation forms, grant application forms, events, and more. Simple yet powerful interface for collecting payments. I install WPForms on every website I have – I know it will be used.
+”
+
+Nir A.
+
+Verified Customer
+
+“
+I’ve used WPForms for years on several different websites and it’s worked really well. It’s not clunky and does exactly what I need. Thank you!
+”
+
+M3l1
+
+Verified Customer
+
+“
+Drag and drop feature without having to write tedious code. Really simple to implement. It just works well. Integration in wordpress is very easy.
+”
+
+Raelynn J.
+
+Verified Customer
+
+View all
+
+One WordPress Form Builder, for Any Industry
+
+Create unlimited custom online forms for any industry with WPForms.
+
+Health & WellnessEducationMarketingEvent PlanningNonprofitCustomer ServiceeCommerce
+
+Health & Wellness
+
+Transform your health and wellness services with our intuitive and customizable forms. Whether you need patient intake forms, appointment scheduling, or feedback surveys, WPForms has you covered. Enhance your client experience and streamline your operations with ease.
+
+Education
+
+Empower your educational institution with versatile and user-friendly forms. From enrollment applications and permission slips to course evaluations and feedback forms, WPForms simplifies the process. Enhance communication, streamline administration, and focus on delivering quality education.
+
+Marketing
+
+Elevate your marketing efforts with customizable and powerful forms. Capture leads, conduct market research, and gather valuable customer insights effortlessly. WPForms helps you create compelling campaigns and engage your audience like never before.
+
+Event Planning
+
+Streamline your event planning process with our versatile and easy-to-use forms. From RSVPs and registrations to feedback surveys and vendor applications, WPForms has everything you need to ensure your event runs smoothly. Focus on creating memorable experiences while we handle the details.
+
+Nonprofit
+
+Maximize your nonprofit’s impact with efficient and customizable forms. Whether you need donation forms, volunteer applications, or event registrations, WPForms makes it easy to connect with your community and supporters. Simplify your operations and focus on your mission.
+
+Customer Service
+
+Enhance your customer service experience with our customizable and efficient forms. Collect feedback, handle inquiries, and resolve issues swiftly with WPForms. Improve customer satisfaction and build lasting relationships by streamlining your support processes.
+
+eCommerce
+
+Boost your online store’s efficiency with customizable and powerful forms. From order forms and customer feedback to product inquiries and returns, WPForms simplifies the eCommerce experience. Enhance customer satisfaction and streamline your operations for sales and growth.
+
+Explore All Templates
+
+Try Demo
+
+Top 7 Reasons Why Over 5 Million Users Love WPForms
+
+WPForms is the perfect WordPress form plugin for YOU. Here’s why 5,000,000+ smart business owners, designers, and developers love WPForms, and you will too!
+
+Build Custom Online Forms in Minutes, Not Hours
+
+Building forms in WordPress can be hard. WPForms makes it easy.
+
+WPForms AI + easy drag-and-drop WordPress form builder allows you to create contact forms, online surveys, donation forms, online order forms, and other custom WordPress forms in just a few minutes without any code.
+
+Simplify Your Data Collection Without Sacrificing Flexibility
+
+Say goodbye to paper forms and productivity loss. WPForms makes it easy for you to collect any data that you need to grow your business.
+
+From radio buttons to file uploads to multi-page forms, we have all the form fields that you need. With our smart conditional logic, notifications, and data routing, you have maximum flexibility.
+
+Easily Connect With Your Favorite Apps to Streamline Your Workflow
+
+WPForms helps you automate your workflow with over 9,000+ integrations with popular email marketing tools, CRM, and other business apps.
+
+Simply put, you can reliably send your data anywhere you want to boost workplace productivity with the best WordPress form plugin in the market.
+
+Secure Online Payment Forms Made Easy
+
+Start accepting one-time and recurring credit card payments without the hassles of a shopping cart.
+
+WPForms integrates with Stripe, PayPal, Square, and Authorize.net. Our PCI-compliant credit card fields reduce risk and help you collect payment data safely. Other payment features include: coupons, payment dashboard, and more.
+
+Powerful Conversion Tools to Help Boost Form Completion
+
+Stop losing leads and improve your top-line revenue with WPForms’ powerful form conversion tools.
+
+Our conversion toolkit includes form landing pages, user journey reports, partial form submissions, form abandonment technology, conversational forms, PPC lead forms, dynamic field population, and more.
+
+Advanced WordPress Form Features That Adapt to Your Needs
+
+WPForms gives you all the advanced WordPress form features and customizations without the HIGH costs.
+
+This includes: accepting user-generated content, WordPress user registration forms, surveys & polls, quizzes, calculator forms, save & resume multi-page forms, offline forms, collecting digital signatures, custom form layouts, access control, and more.
+
+World-Class Customer Support From an Expert Team
+
+With 13,527+ 5-star reviews, our support team has been recognized for industry-leading ratings from our customers.
+
+We’re always standing by to lend a hand when you need it. Our support team is made up of WordPress experts with deep knowledge of the platform.
+
+WPForms Blog & Resources
+
+WPForms Now Turns Your Form Signups Into Drip Subscribers on Every Plan!
+
+Lead Qualification Checklist: 10 Questions for Sales Handoff
+
+How to Create an Expense Reimbursement Form Employees Can Submit Online
+
+Frequently Asked Questions and Resources
+
+Do you have a question about WPForms? See the list below for our most frequently asked questions. If your question is not listed here, then please contact us.
+
+Does WPForms have an AI form builder?
+
+Yes, WPForms comes with a powerful AI form builder for WordPress. WPForms AI lets you describe the form you need in plain English and generates a fully working form in about 60 seconds. It handles field types, validation rules, and layout automatically.
+
+No copy-pasting from ChatGPT, no manual field setup. Just type something like “create a quote request form for a roofing company” and you get a production-ready form with the right fields, labels, and logic already configured. You can also use AI to generate individual dropdown lists, checkbox groups, and multiple choice options for any field.
+
+WPForms AI form builder is designed to help you save time on building any type of forms including online order form, quizzes, lead calculators, and more.
+
+Can I build calculation forms with WPForms?
+
+Absolutely. The Calculations addon lets you build real-time calculators that update as visitors type or select options. Use it for instant price quotes, order totals, loan calculators, ROI estimators, BMI calculators, or any formula-based form. If you can write “x 0.15” for a 15% tax rate, you can build it.
+
+One WPForms customer eliminated $10,000 in pricing disputes in a single quarter by letting customers calculate their own quotes. Calculations work with dropdowns, number fields, radio buttons, and checkboxes, so you can build anything from a simple cost estimator to a multi-step configurator.
+
+What integrations does WPForms support?
+
+WPForms connects with 400+ tools across every category you need:
+
+Payment Gateways: Stripe, PayPal Commerce, Square, Authorize.Net (plus a Coupons addon for discount codes).
+
+CRMs: Salesforce, HubSpot, Pipedrive, Zoho CRM.
+
+Email Marketing: Mailchimp, Constant Contact, AWeber, Brevo, ActiveCampaign, Campaign Monitor, Drip, GetResponse, MailerLite, Kit.
+
+Cloud Storage: Google Drive, Google Sheets, Dropbox, Airtable, Notion.
+
+Communication: Slack notifications, Twilio (SMS and WhatsApp), Google Calendar event creation.
+
+WordPress Native: User registration, post submissions, and full compatibility with all major page builders.
+
+All of these are native, built-in integrations that connect through a simple toggle or API key. No custom code required. And if you need something not on the list, Zapier (10,000+ apps), Make, and n8n let you connect WPForms to virtually any tool you already use.
+
+How much does WPForms cost? Is there a free version?
+
+WPForms Lite is 100% free and includes the drag-and-drop builder, pre-built templates, email notifications, and spam protection. No credit card required, no trial period, no feature lockout on a timer. Over 6 million websites use WPForms Lite today. When you’re ready for more, paid plans start at $49.50/year and every plan includes a 14-day money-back guarantee, so there’s zero risk to try it.
+
+Do I need any coding skills to use WPForms?
+
+Not at all. WPForms was built for non-technical users from day one. The drag-and-drop builder lets you add, remove, and rearrange fields visually. Or skip the builder entirely and let WPForms AI generate a complete form from a text description. With 2,100+ pre-built templates covering everything from simple contact forms to multi-page applications, you rarely need to start from scratch. WPForms works with every major page builder, including Elementor, Divi, and the native WordPress block editor. As one user put it: “As a non-programmer, I was amazed by how easy and intuitive this tool is to use.” Most people have their first form live in under 5 minutes.
+
+How does WPForms handle spam protection?
+
+WPForms gives you four layers of spam defense built in: Google reCAPTCHA, hCaptcha, Cloudflare Turnstile, and Akismet filtering. You can enable any combination with a single toggle. On top of that, WPForms includes its own smart anti-spam engine that blocks bot submissions without making your visitors solve puzzles.
+
+Will WPForms slow down my website?
+
+No. WPForms is engineered for performance. Forms load with lightweight, optimized assets, and features like form abandonment tracking run silently in the background using minimal JavaScript. There’s no bloat: WPForms only loads scripts on pages where your forms actually appear. As one user described it: “Super clean form builder. No bloat, works great with my theme.” WPForms is consistently rated among the fastest WordPress form plugins available, trusted by over 6 million websites, including high-traffic sites that can’t afford any slowdown.
+
+How reliable are WPForms WordPress form notifications?
+
+Unlike other WordPress form plugins, WPForms have one of the most robust built-in WordPress form notification system. WPForms sends email notifications through your WordPress site’s mail system every time someone submits a form. You can customize who gets notified, what the email says, and route different notifications based on form answers using conditional logic.
+
+For guaranteed email delivery, WPForms works seamlessly with WP Mail SMTP (used on 4+ million sites) to send notifications through trusted providers like Gmail, Outlook, SendGrid, SendLayer, Amazon SES, MailGun and Brevo. This means your form submissions bypass the spam folder and land in the inbox.
+
+You can also set up instant Slack notifications, SMS alerts via Twilio, and automatic sync with Google Sheets, so you never miss a submission regardless of email.
+
+Is WPForms Secure and Privacy Compliant?
+
+Yes, WPForms follows WordPress security best practices and includes proper proper data validation and sanitization to help protect form submissions from common security risks.
+
+For maximum data security and privacy, all form submission data is stored in your own WordPress database, never on third-party servers. WPForms is GDPR and CCPA compliant out of the box.
+
+For payment forms, all transactions are processed with PCI-compliant security. You can also use the Form Locker addon to password-protect forms, restrict access to logged-in members, or set submission limits.
+
+How to Create a Multi Step Form in WordPress (Without Code)
+
+How to Create a WordPress User Registration Form Easily
+
+How to Make a Digital Contract in WordPress [With Signature]
+
+How to Create a WordPress File Upload Form (Easy Guide)
+
+How to Create a WordPress Order Form (Step by Step)
+
+How to Allow User Submitted Posts on Your WordPress Site (Step by Step)
+
+WordPress Form Builder
+
+We were tired of the bloated and buggy contact form builder plugins.
+
+We believe that you shouldn’t have to hire a developer to create a WordPress contact form. That’s why we built WPForms, an AI form builder for WordPress that’s both EASY and POWERFUL.
+
+With our online form builder workflow, you can create responsive WordPress forms in 5 minutes or less. Over 6 million websites use WPForms because of our easy drag & drop WordPress form builder.
+
+WordPress Form Plugin
+
+WPForms is consistently voted the best WordPress form plugin by industry authorities such as WPBeginner, ElegantThemes, WP Engine, Zapier, and HubSpot.
+
+Unlike other WordPress form plugins, WPForms is 100% drag & drop, and you can create any type of WordPress forms ranging from simple WordPress contact form to more advanced WordPress user registration forms, payment forms, quizzes, calculators, email subscription forms, surveys & polls, and more.
+
+WordPress Contact Form Plugin
+
+There are thousands of free WordPress contact form plugins out there. The problem with most is that they are either too limited or extremely complicated to use.
+
+With WPForms Lite, we created the most beginner friendly WordPress contact form plugin. You can start with our built-in WordPress contact form template or create an entirely custom WordPress form using our AI form builder.
+
+WordPress contact forms created with WPForms are 100% mobile responsive meaning your contact forms will always look great on all devices including desktop, mobile phones, tablets, and laptop computers.
+
+How to Create an Online Event Registration Form [+Template]
+
+How to Create a WordPress Registration Form With Payment
+
+How to Create a WordPress Order Form (Step by Step)
+
+Gravity Forms vs WPForms: The Ultimate Plugin Debate
+
+How to Create a Graded Quiz in WordPress
+
+How to Create a Job Application Form in WordPress
+
+Start Building Smarter
+WordPress Forms
+
+Create and publish forms in minutes...
+What are you waiting for?
+
+Get WPForms Now
+
+Talk to an expert
+
+Company
+
+Careers
+
+Testimonials
+
+Contact
+
+Press
+
+AI Info
+
+Affiliates
+
+Blog
+
+FTC Disclosure
+
+Top Features
+
+Online Form Builder
+
+Conditional Logic
+
+Conversational Forms
+
+Form Landing Pages
+
+Entry Management
+
+Form Abandonment
+
+Form Notifications
+
+File Uploads
+
+Calculation Forms
+
+Geolocation Forms
+
+Multi-Page Forms
+
+Repeater Fields
+
+PDF Generation
+
+Post Submissions
+
+Signature Forms
+
+Spam Protection
+
+Surveys and Polls
+
+User Registration
+
+Quizzes
+
+WPForms AI
+
+Integrations
+
+Mailchimp
+
+Google Sheets
+
+Salesforce
+
+HubSpot
+
+Google Drive
+
+Slack
+
+Brevo
+
+Stripe
+
+PayPal
+
+Square
+
+Helpful Links
+
+Support
+
+Documentation
+
+Plans & Pricing
+
+WPVibe.ai
+
+WPBeginner
+
+WP Mail SMTP
+
+WPConsent
+
+Universally
+
+WordPress Forms for Nonprofits
+
+Copyright -2026 WPForms, LLC.
+WPForms is a trademark of WPForms, LLC.
+
+Terms of Service
+
+Privacy Policy
+
+Sitemap
+
+WPForms Coupon
+
+The WordPress® trademark is the intellectual property of the WordPress Foundation. Uses of the WordPress®, names in this website are for identification purposes only and do not imply an endorsement by WordPress Foundation. WPForms is not endorsed or owned by, or affiliated with, the WordPress Foundation.
+
+What's New
+
+View The Latest Updates
+
+×
+
+🔔
+Subscribe to get our latest updates
+
+📧
+Subscribe to Emails
+
+×
+
+Email Subscription
+
+Please enable JavaScript in your browser to complete this form.
+
+Join our Newsletter
+
+First Name *
+
+First Name Email
+
+Email *
+
+We won’t spam you. We only send an email when we think it will genuinely help you. Unsubscribe at any time!
+
+Submit
+
+Integration
+
+New Feature
+
+November 19, 2026
+
+Grow Your Drip List Right From Any WPForms Form
+
+Drip now works inside WPForms itself, so any form can create or update subscribers in your Drip account without a separate addon to manage.
+
+Tags set on a connection travel with each new subscriber, which lets the Drip workflow tied to that tag pick them up straight away.
+
+Link a Drip account in WPForms » Settings » Integrations, then set up a connection from the Marketing panel of the form builder.
+
+Sites that ran the earlier Drip addon keep their accounts, connections, and field mappings exactly as they were.
+
+Read the full announcement to learn more!
+
+😞
+
+😐
+
+😊
+
+✓
+Thanks for your feedback!
+
+New Feature
+
+Payments
+
+November 5, 2026
+
+Start Your Stripe Subscriptions With a Trial Period
+
+A Stripe subscription sold through WPForms can now begin with a trial period: the subscriber signs up today, and their first payment waits until the trial is over.
+
+The card is collected and checked at signup, held by Stripe, and charged automatically on the day the trial ends.
+
+The length is a number of days, weeks, months, or years, chosen in the form builder’s Payments tab for each Stripe subscription you sell.
+
+Each trial shows up in WPForms » Payments with a Trialing status until that first payment lands.
+
+Read the full announcement to learn more!
+
+😞
+
+😐
+
+😊
+
+✓
+Thanks for your feedback!
+
+Improvement
+
+October 22, 2026
+
+Weekly Email Summary
+
+The weekly summary WPForms emails you now opens with stat tiles for entries, views, and spam, each marked with how it moved against the previous week.
+
+Beneath them, a table gives every form its own line, and when the data earns it the headline changes to call out a best week, a milestone, or a form that has gone quiet.
+
+A single button takes you from the email back into WPForms, so the thing worth checking is one click away.
+
+Read the full announcement to learn more!
+
+😞
+
+😐
+
+😊
+
+✓
+Thanks for your feedback!
+
+Integration
+
+New Feature
+
+Payments
+
+October 6, 2026
+
+Paystack Addon
+
+The Paystack addon brings card, bank transfer, and mobile money payments to your forms for buyers in Nigeria, Ghana, South Africa, and Kenya.
+
+Buyers click submit and pay in the Paystack popup in naira, cedis, rand, or Kenyan shillings, with no new field to add to your form.
+
+Bank transfer and mobile money payments are saved as Pending, and WPForms can hold your notification emails until Paystack confirms the payment, then completes the order on its own.
+
+Every Paystack payment shows up in WPForms » Payments, and full refunds can be issued without leaving WordPress.
+
+Read the full announcement to learn more!
+
+😞
+
+😐
+
+😊
+
+✓
+Thanks for your feedback!
+
+New Feature
+
+September 17, 2026
+
+WPForms Dashboard
+
+The WPForms Dashboard is a new home screen that opens the moment you click WPForms in your admin menu. Stat cards across the top total up your forms, entries, payments, views, and spam across the whole site.
+
+An Entries widget charts activity over your chosen date range with a per-form table of entries, views, interactions, and conversion rate, and a payments widget totals everything collected once a gateway is connected.
+
+With the Geolocation addon active, Top Locations ranks the countries your visitors come from, and a Suggested Next Steps panel points to features worth turning on.
+
+Nothing to install, as it comes with every plan, including Lite!
+
+Read the full announcement to learn more!
+
+😞
+
+😐
+
+😊
+
+✓
+Thanks for your feedback!
+
+Load More
+
+View All Announcements

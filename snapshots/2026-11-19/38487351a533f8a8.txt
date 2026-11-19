@@ -1,0 +1,454 @@
+Sonant AI Product Updates: October 2026 New Features
+
+Sonant is now an Applied Epic Certified Vendor Integration
+
+Learn more ->
+
+Sonant is now an Applied Epic Certified Integration Partner. Learn more ->
+
+Solutions
+
+INSURANCE PRODUCTS
+
+AI Receptionist
+
+Insurance Call Answering Service
+
+Bilingual Answering Service
+
+AI Appointment Setter
+
+AI Lead Qualification
+
+Customer Conversation Management
+
+Productivity
+
+AI Note Taker
+
+Applied Certified Vendor
+
+Learn more ->
+
+Integrations
+
+agency management systems
+
+Applied Epic
+
+Momentum
+
+AMS360
+
+AgencyZoom
+
+HawkSoft
+
+QQCatalyst
+
+EZLynx
+
+calendars
+
+Google Calendar
+
+Outlook Calendar
+
+Calendly
+
+Automation
+
+Zapier
+
+Make
+
+n8n
+
+View all integrations ->
+
+Insurance Tools
+
+calculators
+
+AI Policy Comparison Tool
+
+Agency Valuation Calculator
+
+Live Transfer ROI Calculator
+
+Front Desk Cost Calculator
+
+Guides & Playbooks
+
+AI Buyer's Guide
+
+Producer Compensation Playbook
+
+AI Business Case Builder
+
+Front Desk Staffing Cheat Sheet
+
+Resources
+
+CONTENT
+
+Blog
+
+Reports
+
+Press
+
+Comparisons
+
+Industries
+
+Mid-market agencies
+
+Enterprise operations
+
+Brokers
+
+Customers
+
+CASE STUDIES
+
+Cornerstone Insurance Services
+
+O'Connor Insurance
+
+BIG Pickering Insurance
+
+View all Case Studies ->
+
+Reviews
+
+Contact
+
+Book a Demo ->Login ->
+
+Login ->
+
+Book a Demo
+Login ->
+
+<
+
+Home
+
+/
+
+Blog
+
+/
+
+name
+
+/
+
+name
+
+/
+
+name
+
+/
+
+What's New at Sonant: Team Hours, Warm Transfer Analytics and Office Hours Instructions
+
+What's New at Sonant: Team Hours, Warm Transfer Analytics and Office Hours Instructions
+
+9 min
+
+∙
+
+|
+
+Publish date ·
+
+2 Nov
+
+2026
+
+|
+
+Last updated ·
+
+4 Nov
+
+2026
+
+TABLE OF CONTENTS
+
+Every update we ship starts with something an agency asked for. This month's round centers on one moment in particular: when your AI receptionist hands a caller to your team. Three bigger updates are now live. You decide when each person on your team receives calls, you can see how many transferred calls actually reach them, and you can give your receptionist separate instructions for when the office is open and when it's closed. Five smaller improvements round it out.
+
+For the bigger picture on what Sonant handles day to day, see our guide to the AI receptionist for insurance agencies.
+
+‍
+
+Sonant's October updates in 60 seconds.
+
+Key Takeaways
+
+Each person in your Transfer Directory now has their own hours: all day, office hours only, after hours only, or a custom day-by-day schedule.
+
+Vacations and holidays can be booked in advance. The receptionist won't transfer calls to that person on those dates, and they go back to their normal hours automatically when the dates pass.
+
+You can choose a backup for each person, and decide whether the receptionist tells the caller it's passing them to someone else.
+
+The new Warm Transfer Analytics section shows how many warm transfers were attempted, how many didn't connect, and the failure rate, broken down by person and department.
+
+Each step in your call flow can now hold instructions marked "only when the office is open" or "only when the office is closed", and the receptionist only sees the set that matches your office hours at that moment.
+
+45% of consumers say having to repeat their issue to a new rep after a transfer or disconnect is one of the most frustrating parts of customer support, according to a Twilio survey of 2,000 Americans.
+
+Also new: after-hours call filters, on-call checks for phone numbers, emails, zip codes and VINs, a VIP routing safeguard, team email addresses on request, and account details shown first in call details.
+
+What's New at Sonant AI: Team Hours, Warm Transfer Analytics, and Office Hours Instructions
+
+You decide when each person on your team receives calls
+
+Until recently, transfers followed the same rules for everyone in your Transfer Directory. That meant your receptionist could put a caller through to someone who was on vacation or out of the office for the afternoon. Now each person has their own settings:
+
+Their own hours. Available all day, only during office hours, only after hours, or on a custom schedule you set day by day.
+
+Time off booked in advance. Add vacations and holidays ahead of time and the receptionist won't transfer calls to that person on those dates. When the dates pass, they're back on their normal hours automatically, so nobody has to remember to switch them back on.
+
+A backup person. Choose who gets the call when someone is unavailable, and whether the receptionist tells the caller it's passing them to someone else, as in "Sarah's away today, I'll connect you with Mike."
+
+We announced this one to clients separately when it launched, but it's one of the changes agencies asked for most, so it leads this round. With the holidays coming up, now is a good time to add your team's time off: click the arrow next to any contact in your Transfer Directory.
+
+See how many transferred calls actually reach your team
+
+When Sonant transfers a caller, it first calls the person on your team to introduce the caller, then connects them. That's a warm transfer. If the person doesn't answer, the transfer fails and the caller doesn't get to speak with the person they needed. Until now, there was no easy way to see how often that was happening, or with whom.
+
+The new Warm Transfer Analytics section, in the Analytics tab of your Workflows page, shows:
+
+How many warm transfers your receptionist attempted
+
+How many of them didn't connect
+
+The percentage of transfers that failed
+
+Below that, a table breaks these numbers down by each person and department on your team, for whatever date range you choose. In the sample dashboard from our announcement video, the agency's overall failure rate is 14.1%, but one claims agent misses a third of their transfers and accounts for two-thirds of all the failures. That's the kind of pattern that used to stay hidden.
+
+If one person is missing most of their transfers, it usually means they're often away from their desk or their number needs updating. A quick change to their hours or backup in the Transfer Directory fixes it.
+
+Set separate instructions for when your office is open and when it's closed
+
+Many call flows handle callers differently depending on the time of day: transfer the caller to someone on your team during the day, or offer a callback when you're closed. Until now, both sets of instructions lived together in the same step of your call flow, and the receptionist worked out on each call which one applied.
+
+Now, when you edit a step in your call flow, you can mark a set of instructions as "only when the office is open" or "only when the office is closed". During a call, the receptionist only sees the instructions that match your office hours at that moment. One step, two sets of instructions: a caller at 2:15 PM gets transferred to the right person, and a caller at 7:40 PM gets offered a callback, so every call follows exactly what you set for that time of day.
+
+Nearly every Sonant receptionist has already moved to this setup. You can see how yours looks in the Flowchart tab of your Agent Overview page and edit it from there.
+
+Want to see these updates on your own account? → Talk to Sonant
+
+And a few more updates
+
+After-hours calls at a glance. In the Calls section of your dashboard, you can now filter to only the calls that came in after hours, and combine that with who the call was transferred to. It builds on the Call Logs filters from our last update.
+
+Fewer mistakes in phone numbers, emails, zip codes and VINs. Your receptionist now checks these details while the caller is still on the phone. If something doesn't look right, like a phone number with a digit missing, it politely asks the caller to repeat it, so your team spends less time chasing clients for the right details.
+
+Your VIP clients always reach a real person. Sonant no longer lets you save a VIP list that sends calls back to your main agency number. That setup used to send VIP calls in a circle back to the receptionist instead of reaching your team.
+
+Your team's email addresses, on request. If a caller asks for the email address of someone on your team, the receptionist can now read it out, using the email saved for that person in your Transfer Directory.
+
+Clearer client lookups in your call details. When the receptionist looks up a caller in your agency management system, the call details page and summary email now show the details that matter first: the account name and the account manager. More on how those details reach your system in how an AI receptionist logs call notes to your AMS.
+
+What changed this month
+
+Update
+
+Before
+
+Now
+
+Transfer Directory
+
+Same transfer rules for everyone, so callers could be put through to someone on vacation
+
+Per-person hours, time off booked in advance, and a backup when someone is away
+
+Warm transfers
+
+No easy way to see how often transfers failed, or with whom
+
+Attempts, failures and failure rate by person and department, for any date range
+
+Open and closed instructions
+
+Both sets lived in the same call-flow step, and the receptionist worked out which applied
+
+Instructions marked open-only or closed-only; the receptionist only sees the set that matches the time
+
+Calls section
+
+No quick way to pull only the calls that came in after hours
+
+Filter to after-hours calls, alongside who the call was transferred to
+
+Caller details
+
+Typos in numbers, emails, zip codes and VINs left for your team to chase
+
+Checked on the call; the caller is asked to repeat anything that doesn't look right
+
+VIP routing
+
+A VIP list pointed at the main number looped calls back to the receptionist
+
+That setup can't be saved, so VIP calls reach your team
+
+‍
+
+Answer every call. Write every note to your AMS. - Sonant AI.
+
+Sonant AI - AI receptionist for P&C insurance agencies. Book a demo.
+
+Get Started
+
+‍
+
+Why warm transfers and team availability matter
+
+A transfer is the moment a caller finds out whether your agency has its act together. In a 2022 Twilio survey of 2,000 Americans, the top complaint about customer support, named by 45% of respondents, was having to repeat the details of an issue to a new representative after being disconnected or transferred. In the same survey, 62% said they would stop buying from a company after a bad support experience. For an agency, that caller is usually in the middle of a claim, a renewal or a quote, and a transfer that rings out leaves them right where they started.
+
+Until now, a failed transfer was easy to miss, and there was no easy way to see how often it happened or with whom. Warm Transfer Analytics turns it into a number for each person, and the Transfer Directory settings are how you fix it: adjust someone's hours, book their time off, or give them a backup. Office hours instructions close the other gap, so an after-hours caller can be offered a callback instead of a transfer to an empty office. For more on that side of the day, see what happens to after-hours insurance calls with an AI receptionist and the real cost of missed calls at an insurance agency.
+
+The timing matters too. December is when coverage gaps show up: holidays, PTO and half-days, while renewals and claims keep coming in. Book the time off once and Sonant routes around it, then puts everyone back on their normal hours when they return. We cover the wider playbook in how to keep renewals moving when a team member leaves.
+
+Step 1
+
+Call Comes In
+
+The AI receptionist answers and checks your office hours.
+
+Step 2
+
+Right Instructions
+
+It follows the open or closed instructions for that step.
+
+Step 3
+
+Right Person
+
+It warm-transfers to the right teammate, or their backup if they're away.
+
+Step 4
+
+Transfer Tracked
+
+The attempt shows up in Warm Transfer Analytics.
+
+‍
+
+Live now
+
+All of these updates are live in Sonant today. Nearly every receptionist has already moved to the new open and closed instructions, and the Transfer Directory hours, time off and backups are ready whenever you want to set them. If you have questions about any of them, want help adding your team's time off before the holidays, or want to talk through how to get more from your Sonant account, just reply to your update email or reach out to your Sonant contact. We're always happy to help.
+
+Our product roadmap continues to be driven by feedback from independent agencies, so thank you for sharing your ideas and helping us build the future of AI for insurance. Keep them coming.
+
+Want to see how these updates would run on your own account? Talk to Sonant →
+
+Related reading
+
+AI receptionist for insurance agencies
+
+What's new at Sonant: multi-office greetings, smarter call search and instant speed-to-lead
+
+What happens to after-hours insurance calls with an AI receptionist?
+
+The real cost of missed calls at an insurance agency
+
+How to keep renewals moving when a team member leaves
+
+Does an AI receptionist log call notes to your AMS automatically?
+
+Frequently asked questions
+
+How do I set my team's hours and time off?
+
+Open your Transfer Directory and click the arrow next to any contact. From there you can set their hours (all day, office hours, after hours or custom), add time off in advance, and choose a backup. Your Sonant contact can walk you through it.
+
+‍
+
+What counts as a failed warm transfer?
+
+When Sonant transfers a caller, it first calls the person on your team to introduce the caller. If that person doesn't answer, the transfer doesn't connect and it counts as a failure. You'll find the totals, and the breakdown by person and department, in the Analytics tab of your Workflows page.
+
+‍
+
+Will the receptionist tell callers it's passing them to a backup?
+
+Only if you want it to. When you choose a backup for someone in your Transfer Directory, you also decide whether the receptionist tells the caller it's passing them to someone else.
+
+‍
+
+Can my AI receptionist handle calls differently after hours?
+
+Yes. In any step of your call flow, you can mark instructions as "only when the office is open" or "only when the office is closed", and the receptionist only follows the set that matches your office hours at that moment. For example, it can transfer callers during the day and offer a callback at night.
+
+‍
+
+Where do I ask questions about these updates?
+
+Reply to the product update email or reach out to your usual Sonant contact. The team can help you set up or fine-tune any of these features.
+
+‍
+
+Get the latest insights on
+Agency Growth
+
+Customer Service
+
+-
+
+4 min
+
+Top 10 Benefits of Insurance Business Process Outsourcing in 2025
+
+Sonant Editorial Team
+
+Agency Growth
+
+-
+
+4 min
+
+How to Increase Policy Renewals with Voice AI
+
+Sonant Editorial Team
+
+Customer Service
+
+-
+
+4 min
+
+How AI Voice Assistants are Transforming the Insurance Industry in 2025
+
+Sonant Editorial Team
+
+When the phone rings, we're already there.
+
+Get a Personalized Demo ->Get a Personalized Demo ->
+
+Solutions
+AI Note TakerAI Voice AgentsAppointment BookingCustomer Conversation ManagementInsurance Call Answering ServiceLead Qualification
+
+Product
+StatusSupportIntegrationsWhat's New
+
+Free Tools & Resources
+BlogReportsPressCase StudiesCustomer TestimonialsComparisonsPolicy Comparison ToolLive Lead Transfer ROI CalculatorP&C Agency Valuation Calculator Sitemap
+
+Trust & Security
+SecurityTrust Center
+
+Legal
+Privacy PolicyCookie PolicyTerms of ServiceData Subject Access Request
+
+Sonant by Bluberry AI.
+
+Bluberry AI, Inc. All Rights reserved

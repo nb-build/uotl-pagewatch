@@ -1,0 +1,708 @@
+Lusha | B2B Data and Intelligence for GTM Teams and AI Agents
+
+New! Claude now connects directly to Lusha’s verified B2B data
+New! Claude now connects directly to Lusha’s verified B2B data
+
+Connect now
+
+Connect now
+
+Copy logo to clipboard (png) Copy logo to clipboard (svg)
+
+Product
+
+WorkspaceSearch, enrich, and manage contacts & companies
+
+MCPVerified B2B data in Claude, ChatGPT, and any MCP client
+
+APIRun workflows and plays with accurate data
+
+ExtensionReveal contacts on professional network & sites
+
+INTELLIGENCE
+Intent & buying signalsTrack real-world changes
+
+Lead prioritizationRank accounts by fit & signals
+
+AI recommendationsGet your ranked list daily
+
+Website visitorsSee companies visiting your site
+
+Solutions
+
+Use cases
+Data enrichment
+
+CRM Sync
+
+Inbound lead enrichment
+
+Sales prospecting
+
+Lead scoring
+
+Lookalike prospecting
+
+Waterfall enrichment
+
+Buying group mapping
+
+Department
+Operations
+
+Sales
+
+Marketing
+
+Recruitment
+
+Our Data
+
+Resources
+
+CampusLearn how to use Lusha with our best resources
+
+Trust centerLearn all about our data and privacy policies
+
+Case studiesLearn how GTM teams use Lusha in their workflows
+
+LEARN
+Help center
+
+Integrations
+
+Workflows
+
+AI connectors
+
+Blog
+
+Releases
+
+COMPANY
+About
+
+Affiliates
+
+Feature requests
+
+The competition
+
+Partner program
+
+Pricing
+
+English
+English
+
+Español
+
+Français
+
+Português
+Start for free Contact sales
+
+English
+English
+
+Español
+
+Français
+
+Português
+Login Contact sales Start for free
+Start for free
+
+Data you can build on
+
+Give your team and AI agents the GTM intelligence they need to build pipeline from the accounts most likely to buy. Rank accounts against your ICP, map the buying committee, and act on relevant market signals to grow revenue.
+
+Start for freeContact sales
+
+Trusted by 280,000+ GTM teams worldwide
+
+CASE STUDY
+
+WalkMe hits 120% of its prospecting goals with Lusha
+
+“I needed a sales intelligence solution with accurate, up-to-date contact data, global reach, and GDPR-compliant coverage—and Lusha delivered.”
+
+Jeremy Levine
+
+Director of Business Development
+
+CASE STUDY
+
+Zesty reaches its revenue goals faster with Lusha
+
+“After issues with ZoomInfo and RocketReach in Europe, I switched to Lusha. Now my BDR team gets accurate data on ideal customers, with 85% contact accuracy.”
+
+Dani Feldsher
+
+Revenue Operations Manager
+
+CASE STUDY
+
+Oracle NetSuite sees over 1000% ROI on Lusha
+
+“I find, connect, and book meetings with C-suite executives. With more customers working remotely, having the right contact number is critical to my success.”
+
+Chancellor Corbett
+
+Business Development Consultant
+
+Pipeline from every use case
+
+Fill in missing emails, phone numbers, and company details in your CRM, CSV lists, through the API, or directly in Claude and ChatGPT.
+
+Enrichment Inbound Prospecting Lead scoring Lookalikes Territories
+
+How Lusha’s B2B data foundation is built
+
+Two layers do the work. Lusha Search gives you verified contacts and companies. Deep Intelligence scores them against your ICP and learns from your pipeline to predict which accounts are likely to buy. You get your own list, with the likeliest buyers first and a reason to reach out to each one.
+Learn more about the Lusha Data Framework
+
+Search layer
+
+Lusha Search covers 515M+ verified contacts and 29M+ companies, with 77 fields on every record. Every email comes with a confidence score, and every phone number and email shows when it was last updated. Lusha also tracks 32 types of buying signals, like job changes, funding rounds, hiring surges and new leaders, each one dated and tied to a named company.
+
+515M+ contacts
+
+29M+ companies
+
+32 buying signal types
+
+165M+ verified emails
+
+Intelligence layer
+
+Deep Intelligence scores every account against your ICP and uses your CRM history to predict which ones are likely to buy. Recent signals give you the reason to reach out: a new VP, a funding round, a hiring push. For each account, it maps the buying committee: who decides, who champions, who uses it. It also finds lookalikes of your best customers and shows which companies are visiting your website.
+
+Predictive scoring
+
+Signal scoring
+
+Buying committees
+
+Lookalikes
+
+LUSHA ANYWHERE
+
+The same verified answer,
+whether it’s you asking or your agent
+
+Workspace Claude ChatGPT
+
+Describe the list you want to buildRank US SaaS companies with 50–500 employees by fit to my ICP and show the latest buying signal for each one
+
+Find decision-makers Spot buying signals Rank accounts by fit
+
+Put Lusha to work in your stack and in your AI chats
+
+LUSHA API
+
+Verified B2B data in your stack
+
+Pull contacts, companies and signals into your own code, score any list for ICP fit and buying signals, and schedule the refresh through n8n. To push records into Salesforce or HubSpot, use Workspace, the extension or a chat.
+
+Explore the API
+
+LUSHA MCP
+
+Verified B2B data in your AI chats
+
+Claude, ChatGPT or any MCP-compatible assistant work from the same verified data and dated signals your team sees, right in the conversation. Save a list to a Workspace table or push it straight into your CRM.
+
+Explore the MCP
+
+Data that’s consistent everywhere it lands
+
+The contact you reveal in the Chrome extension is the same record your AI agent returns through MCP and the same one that lands in Salesforce. One database, one refresh cycle, one set of certifications, whether the record arrives in a browser tab or an API call.
+
+Learn more about Lusha integrations
+
+Direct
+
+MCP
+
+API
+
+Workspace
+
+Chrome extension
+
+AI Assistants
+
+Claude
+
+ChatGPT
+
+Gemini
+
+Perplexity
+
+Automations
+
+Clay
+
+Make
+
+n8n
+
+Zapier
+
+CRMs
+
+Salesforce
+
+HubSpot
+
+monday
+
+Zoho
+
+Privacy and security, independently verified
+
+Accredited ISO 27701
+
+Privacy information management. Certified by accredited third party auditors.
+
+ISO/IEC 42001
+
+AI Management System (AIMS) certified, responsible development and governance of AI capabilities.
+
+SOC 2 Type II
+
+Independently audited for security, availability, confidentiality and privacy controls.
+
+GDPR and CCPA
+
+GDPR certified by ePrivacyseal GmbH. CCPA validated by TrustArc.
+
+See every certificate on the trust center
+
+Launch data-backed GTM plays in minutes
+
+LESSON
+
+How to connect Claude to verified B2B contact data with the Lusha MCP
+Watch Lesson →
+
+LESSON
+
+How to enrich inbound leads automatically in Google Sheets
+Watch Lesson →
+
+LESSON
+
+How to enrich HubSpot leads with Make and Lusha
+Watch Lesson →
+
+PLAY
+
+How to grade every inbound lead before it reaches an AE
+
+Confirm ICP fit and the real job title on each lead, so reps only call the ones worth calling.
+
+View Play →
+
+REPORT
+
+12.25% of US sales leaders change roles each year
+
+140,284 records, tracked over twelve and twenty-four months. Not the 30% usually quoted.
+
+Read the report →
+
+PLAY
+
+How to keep forms short and still get complete contacts
+
+Lusha enriches every new HubSpot contact with verified data before a rep opens the record.
+
+View Play →
+
+What customers say about us
+
+Before Lusha we were not able to reach decision makers. With Lusha we now reach 40-50% of decision makers. We chose Lusha because we could easily extract the data.
+
+Shahin Hoda Founder @ xGrowth
+
+The hardest part of my job is cold calling and getting in touch with the right people. Now with Lusha, my contact rate is up 4X from 5% to 20%.
+
+Thayer Selleck AM @ Insight Global
+
+With Lusha, our team spends less time chasing invalid leads and more time on meaningful conversations.
+
+Minh Nguyen Data Management Specialist @ Nextgen
+
+With Lusha, SDRs spend 87 additional hours prospecting each month. We’ve tripled the number of outbound meetings generated.
+
+Florence Broderick VP Marketing @ Carto
+
+We tried other tools before Lusha, but none had enough information or phone numbers. One of my BDRs just had his best month with 142% over quota.
+
+Alexandre Koskas Operations Manager @ Suxeed
+
+Lusha is the perfect fit for our phone-first approach, enabling rapid outreach and supporting our delivery methodology.
+
+Chris Coghlan Performance & Development Manager @ Empiric
+
+We chose Lusha because it offers exceptional value at a low cost, with 80% data accuracy and seamless LinkedIn integration. It’s a tool we rely on every day.
+
+Lauren Palmer Global Operations Manager @ Signify Technology
+
+Most of my meetings I get now, I get thanks to Lusha. Out of 10 meetings, 7 are booked with Lusha, which is highly accurate so I don’t need anything else.
+
+Catherine Gomis Sales Development Representative @ Anaplan
+
+Before Lusha we were not able to reach decision makers. With Lusha we now reach 40-50% of decision makers. We chose Lusha because we could easily extract the data.
+
+Shahin Hoda Founder @ xGrowth
+
+The hardest part of my job is cold calling and getting in touch with the right people. Now with Lusha, my contact rate is up 4X from 5% to 20%.
+
+Thayer Selleck AM @ Insight Global
+
+With Lusha, our team spends less time chasing invalid leads and more time on meaningful conversations.
+
+Minh Nguyen Data Management Specialist @ Nextgen
+
+With Lusha, SDRs spend 87 additional hours prospecting each month. We’ve tripled the number of outbound meetings generated.
+
+Florence Broderick VP Marketing @ Carto
+
+We tried other tools before Lusha, but none had enough information or phone numbers. One of my BDRs just had his best month with 142% over quota.
+
+Alexandre Koskas Operations Manager @ Suxeed
+
+Lusha is the perfect fit for our phone-first approach, enabling rapid outreach and supporting our delivery methodology.
+
+Chris Coghlan Performance & Development Manager @ Empiric
+
+We chose Lusha because it offers exceptional value at a low cost, with 80% data accuracy and seamless LinkedIn integration. It’s a tool we rely on every day.
+
+Lauren Palmer Global Operations Manager @ Signify Technology
+
+Most of my meetings I get now, I get thanks to Lusha. Out of 10 meetings, 7 are booked with Lusha, which is highly accurate so I don’t need anything else.
+
+Catherine Gomis Sales Development Representative @ Anaplan
+
+Before Lusha we were not able to reach decision makers. With Lusha we now reach 40-50% of decision makers. We chose Lusha because we could easily extract the data.
+
+Shahin Hoda Founder @ xGrowth
+
+The hardest part of my job is cold calling and getting in touch with the right people. Now with Lusha, my contact rate is up 4X from 5% to 20%.
+
+Thayer Selleck AM @ Insight Global
+
+With Lusha, our team spends less time chasing invalid leads and more time on meaningful conversations.
+
+Minh Nguyen Data Management Specialist @ Nextgen
+
+With Lusha, SDRs spend 87 additional hours prospecting each month. We’ve tripled the number of outbound meetings generated.
+
+Florence Broderick VP Marketing @ Carto
+
+We tried other tools before Lusha, but none had enough information or phone numbers. One of my BDRs just had his best month with 142% over quota.
+
+Alexandre Koskas Operations Manager @ Suxeed
+
+Lusha is the perfect fit for our phone-first approach, enabling rapid outreach and supporting our delivery methodology.
+
+Chris Coghlan Performance & Development Manager @ Empiric
+
+We chose Lusha because it offers exceptional value at a low cost, with 80% data accuracy and seamless LinkedIn integration. It’s a tool we rely on every day.
+
+Lauren Palmer Global Operations Manager @ Signify Technology
+
+Most of my meetings I get now, I get thanks to Lusha. Out of 10 meetings, 7 are booked with Lusha, which is highly accurate so I don’t need anything else.
+
+Catherine Gomis Sales Development Representative @ Anaplan
+
+Before Lusha we were not able to reach decision makers. With Lusha we now reach 40-50% of decision makers. We chose Lusha because we could easily extract the data.
+
+Shahin Hoda Founder @ xGrowth
+
+The hardest part of my job is cold calling and getting in touch with the right people. Now with Lusha, my contact rate is up 4X from 5% to 20%.
+
+Thayer Selleck AM @ Insight Global
+
+With Lusha, our team spends less time chasing invalid leads and more time on meaningful conversations.
+
+Minh Nguyen Data Management Specialist @ Nextgen
+
+With Lusha, SDRs spend 87 additional hours prospecting each month. We’ve tripled the number of outbound meetings generated.
+
+Florence Broderick VP Marketing @ Carto
+
+We tried other tools before Lusha, but none had enough information or phone numbers. One of my BDRs just had his best month with 142% over quota.
+
+Alexandre Koskas Operations Manager @ Suxeed
+
+Lusha is the perfect fit for our phone-first approach, enabling rapid outreach and supporting our delivery methodology.
+
+Chris Coghlan Performance & Development Manager @ Empiric
+
+We chose Lusha because it offers exceptional value at a low cost, with 80% data accuracy and seamless LinkedIn integration. It’s a tool we rely on every day.
+
+Lauren Palmer Global Operations Manager @ Signify Technology
+
+Most of my meetings I get now, I get thanks to Lusha. Out of 10 meetings, 7 are booked with Lusha, which is highly accurate so I don’t need anything else.
+
+Catherine Gomis Sales Development Representative @ Anaplan
+
+FAQs
+
+What is Lusha?
+
+Lusha is the B2B data and intelligence layer for GTM teams and AI agents. Lusha scores accounts against your ICP, flags dated buying signals, maps the buying committee and returns verified contact details, from 515M+ contacts and 29M+ companies, with 132M+ contacts in the United States. Teams use it in Lusha Workspace, inside Claude and ChatGPT, through the Chrome extension and the API, and sync it with Salesforce, HubSpot and other CRMs.
+
+Is Lusha an AI prospecting tool?
+
+Yes, and prospecting is one of several jobs it runs. Lusha combines a verified B2B database with an intelligence layer: AI recommendations for accounts and contacts, dated buying signals, ICP scoring and lookalikes, available in Claude, ChatGPT and any MCP client.
+
+Is Lusha's B2B contact data GDPR and CCPA compliant?
+
+Yes. Lusha is GDPR and CCPA compliant, and independently certified under ISO 27001, ISO 27701, ISO 31700, ISO 42001 and SOC 2 Type II, with a TRUSTe seal. Certificates are published on the trust center.
+
+How accurate is Lusha's contact data?
+
+Lusha states 98% email accuracy and 85% US / 86% global phone accuracy across the full database, published on lusha.com/data. Sources are checked daily and contact fields refresh weekly. Lusha also publishes how fast that data goes stale: in a September 2026 measurement of 140,284 records, 12.25% of US sales leaders changed roles within twelve months. Both figures are published and linked, so you can check them rather than take them on trust. How Lusha verifies emails and phone numbers →
+
+How fast does B2B contact data go stale?
+
+Lusha measured it, twice: 12.25% of US sales leaders changed roles in twelve months in the latest run, September 2026. Contact details usually survive a job change; titles and employers do not. The measurement is published on the Lusha blog.
+
+Can I use Lusha inside Claude or ChatGPT?
+
+Yes. Lusha connects directly to Claude and ChatGPT, and through MCP to any compatible AI agent, so search, enrichment and buying signals run inside the conversation.
+
+What buying signals does Lusha track?
+
+26 signal types, each a named, dated event tied to a specific company. Funding, hiring, leadership and job change signals refresh weekly. IT spend and website traffic refresh monthly.
+
+Does Lusha integrate with Salesforce and HubSpot?
+
+Yes, with native integrations for both, plus Zoho, Pipedrive, Bullhorn, Dynamics and Capsule. See who’s already in your CRM while you search, import records to enrich and score them, push verified data back with duplicate matching and field mapping, and keep records current on a schedule with CRM Auto-Sync. CRM sync. Comparisons of enrichment tools for Salesforce and HubSpot users are on the blog.
+
+Can Lusha help with recruiting, not just sales?
+
+Yes. Recruiting teams use Lusha to re-verify past candidate pools and source new ones with verified direct dials and emails.
+
+Is there a free way to try Lusha?
+
+Yes. The free plan needs no credit card. Limits are on the pricing page.
+
+Give every rep, AI agent, and system data they can build on
+
+Start for free Contact sales
+
+Get a personalized walkthrough
+
+We'll show you exactly how to wire Lusha into your workflow, so you skip the trial and error and won't burn tokens on research.
+
+Where we help the most
+
+How to plug into your AI agents and workflows
+
+The right implementation pattern for your stack
+
+Pricing that matches how you'll actually use it
+
+Work email address
+
+First name
+
+Last name
+
+Phone number
+
+What is your current position? (Title)
+
+1-1011-5051-100101-200201-500501-1,0001,001-5,0005,001-10,00010,000+ How many employees in your company?
+
+How can we help?
+
+By clicking ‘Submit’ or signing up, you agree to the Terms of Use and Privacy Policy.
+You also agree to receive information and offers relevant to our services via email and SMS, and you may opt-out at any time.
+This site is protected by reCAPTCHA.
+
+Thank you! We’ll reach out soon.
+
+In the meantime, you can prospect with Lusha.
+Start for free
+
+Trusted by 280,000+ revenue teams of all sizes
+
+Product
+
+Workspace
+
+MCP
+
+API
+
+Chrome Extension
+
+Engage
+
+Integrations
+
+Workflows
+
+Datasets
+
+Pricing
+
+Intelligence
+
+Intent & buying signals
+
+Lead prioritization
+
+Buying group mapping
+
+AI recommendations
+
+Website visitor identification
+
+Use cases
+
+Sales prospecting
+
+Direct dials and mobile numbers
+
+Lookalike prospecting
+
+Territory planning
+
+Data enrichment
+
+Inbound lead enrichment
+
+Waterfall enrichment
+
+Lead scoring
+
+CRM Sync
+
+Company
+
+About
+
+Careers
+
+Newsroom
+
+Our Data
+
+Partner Program
+
+Affiliate Program
+
+FAQ
+
+Resources
+
+Blog
+
+Campus
+
+Help Center
+
+Lusha Glossary
+
+AI connectors
+
+API documentation
+
+MCP documentation
+
+Lusha alternatives
+
+Revenue Calculator
+
+Sales Script Generator
+
+Lusha facts for AI assistants
+
+Releases
+
+Information
+
+Data sources
+
+Data accuracy
+
+B2B buying signals
+
+Community Program
+
+Community Terms of Use
+
+Community FAQ
+
+Solutions
+
+Operations
+
+Sales
+
+Marketing
+
+Recruitment
+
+B2B data for AI agents
+
+Case studies
+
+WalkMe
+
+Zesty
+
+Oracle NetSuite
+
+All case studies
+
+Legal
+
+Terms & Conditions
+
+Privacy Notice
+
+Cookie Policy & Settings
+
+Vendor Code of Conduct
+
+Trust Center
+
+Opt Out
+
+TIA
+
+Do Not Sell My Info
+
+Modern Slavery Statement
+
+Find us on social
+
+LinkedIn
+
+Facebook
+
+X
+
+YouTube
+
+G2
+
+TikTok
+
+Ask AI About Lusha
+
+© Copyright
+2026 Lusha Systems Inc. All rights reserved. 800 Boylston St. Suite 1410 Boston, MA 02199.
+Lusha is the B2B data and intelligence layer for GTM teams and AI agents: verified contacts, company data and dated buying signals, available in the Lusha Workspace, the Chrome extension and the API, and inside Claude, ChatGPT and any MCP client. Start for free · Lusha facts for AI assistants
+
+The images on this webpage are for illustrative purposes only and do not depict real individuals or contain real personal data.
