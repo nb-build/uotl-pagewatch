@@ -1,0 +1,356 @@
+Create tasks
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+CRM
+
+Tasks
+
+Create tasks
+
+Create tasks
+
+Last updated:
+
+September 21, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+All products and plans
+
+Seats required for certain features
+
+Additional subscriptions required for certain features
+
+To manage your to-do list in HubSpot, create tasks. Tasks are reminders for work you need to complete and can be associated with specific records, such as contacts, companies, or deals.
+
+Once you’ve created tasks, learn how to complete tasks or edit and delete them.
+
+Task details
+
+Regardless of where you create a task in HubSpot, you can fill in the following information.
+
+Title: enter a task name. Include the text call or email in the title of your task to automatically set the corresponding task type.
+
+Type: select Call, Email, or To-do. If you're using HubSpot's integration with LinkedIn Sales Navigator, select Sales Navigator - Send InMail or Sales Navigator - Connection request.
+
+Priority: select if the task is low, medium, or high priority.
+
+Associate with records or [x] associations: select records to associate with the task.
+
+Assigned to: select the user to whom the task will be assigned, or select Customer to assign the task to a contact.
+
+Queue: add the task to an existing task queue or create a new task queue.
+
+Due date: select the date and time the task is due. The time format (e.g., 12 hour vs. 24 hour format) is determined based on your date and number settings.
+
+Task reminders or Reminder: click the dropdown menu to select when an email reminder should be sent to the task owner. Learn more about task reminders.
+
+Notes: enter details about your task.
+
+Please note: tasks can be saved without associated records. Unassociated tasks won't appear on record timelines, but the assigned user can still receive task notifications and view them in their tasks list without an associated record.
+
+Learn how to set defaults for due date, due time, and reminders for all tasks you create.
+
+Set defaults for creating tasks
+
+If there are consistent details for your tasks, you can set up defaults so they're filled in each time you create a task. You can set a default due date, due time, and time period before a task's due date to receive a reminder. For example, always create tasks that are due one week after they're created and at 11:00 am.
+
+These preferences only apply to tasks you create in the tasks index page or on a record. Your defaults will automatically populate the Due date and Task Reminders fields when you create a new task, but you can still adjust these fields for individual tasks as needed.
+
+In your HubSpot account, click your account name in the top right corner, then click Profile & Preferences.
+
+Navigate to the Tasks tab.
+
+In the Defaults section, click the dropdown menus to select the default:
+
+Due date: select the default number of days or weeks that your tasks are due after they are created.
+
+Due time: select the default time that your tasks are due.
+
+Reminder: select the default amount of time before your task's due date to receive a reminder. Select No reminder to turn off default task reminders. Learn more about task reminders.
+
+In the Follow-up tasks section, select the checkboxes to receive a reminder to create a follow up task every time you complete a task from a list view or when you disqualify a lead. Clear the checkbox to turn off follow-up reminders.
+
+Once you're done, click Save.
+
+Create tasks
+
+You can create tasks in HubSpot from multiple tools, including the tasks index page, an object index page, or on an individual record.
+
+If you're on a mobile device, learn how to create tasks in the HubSpot mobile app.
+
+Create tasks on the tasks index page
+
+Seats required for certain features
+
+An assigned Core, Sales, or Service seat is required to create, use, or be assigned recurring tasks.
+
+In your HubSpot account, click More, then navigate to CRM > Tasks. If More doesn't appear in your account, navigate to CRM > Tasks directly.
+
+In the upper right, click Create task.
+
+In the right panel, enter the details for your task.
+
+To make the task recurring, select the Set to repeat checkbox. Enter or click the arrows to select a number, then use the dropdown menu to select days, weeks, months, or years as the interval of time for your task to repeat (e.g., every 2 months). Repeated tasks keep the same title, assignee, notes, and associations, and will continue to be created while the repeat option remains turned on. A new task will be created if the previous task is completed, deleted, or becomes overdue.
+
+Click Create, or Create and add another to create the current task and start creating another task.
+
+Create tasks for records
+
+You can create tasks for multiple records in bulk or for individual records, either on the object index page or within a record.
+
+Seats required for certain features
+
+An assigned Core, Sales, or Service seat is required to create, use, or be assigned recurring tasks.
+
+Navigate to your records.
+
+To create tasks for multiple records:
+
+Select the checkboxes next to the records you want to create tasks for. To create tasks for all records on the page, select the checkbox at the top left of the table.
+
+Click + Create tasks at the top of the table.
+
+In the right panel, enter the details for your tasks.
+
+Click Create. A task will be created for each selected record with the same details.
+
+To create a task on an individual record:
+
+Click the name of the record.
+
+In the left panel, click tasks Task.
+
+In the task editor, enter the details for your task.
+
+To make the task recurring, select the Set to repeat checkbox. Enter or click the arrows to select a number, then use the dropdown menu to select days, weeks, months, or years as the interval of time for your task to repeat (e.g., every 2 months). Repeated tasks keep the same title, assignee, notes, and associations, and will continue to be created while the repeat option remains turned on. A new task will be created if the previous task is completed, deleted, or becomes overdue.
+
+Click Create.
+
+Create follow up tasks on record activities
+
+You can create tasks to follow up with an action after an activities. For example, log a meeting with a contact, then create a task to email them in three days to check in about the meeting.
+
+Navigate to your records.
+
+Click the name of the record.
+
+In the left panel, log a call, email, note, or meeting or draft a one-to-one email.
+
+At the bottom of the activity editor, select the Create a To-do checkbox.
+
+To change the task type, click To-do and select Call or Email.
+
+To change the due date, click the due date and select an option or set a custom date.
+
+Depending on the activity, click Log activity, Save note, or Send. A new task will be created.
+
+Create tasks in Gmail
+
+If you've connected your personal Gmail inbox and installed the HubSpot Sales Chrome extension, you can create tasks in your Gmail inbox.
+
+Log in to Gmail.
+
+On the right side of your Gmail inbox, click the sprocket sprocket icon.
+
+Click the Tasks tab.
+
+Click Create task, then enter the details for your task.
+
+At the bottom, click Save.
+
+Learn how to create tasks while after sending an email in Gmail.
+
+Create tasks with a workflow
+
+You can automatically create tasks using the workflows tool. For example, when a contact submits an inquiry form, create a task for the sales team to call the contact.
+
+Subscription required
+
+A Professional or Enterprise subscription is required to create tasks with workflows.
+
+In your HubSpot account, click More, then navigate to Automation > Workflows. If More doesn't appear in your account, navigate to Automation > Workflows directly.
+
+Create or edit a workflow.
+
+Set up your enrollment triggers.
+
+Add an action. In the left panel, select Create task.
+
+Configure your task details, then click Save.
+
+Finish setting up the workflow.
+
+Tasks will be automatically created when the workflow enrollment criteria is met.
+
+Please note: to review how a task was created, navigate to the task on a record's activity timeline and open the task's property history panel.
+
+Create tasks with a sequence
+
+You can create tasks as part of a sequence. For example, automatically send an email, then a task to call three days after the email if there's no response.
+
+Seats required
+
+An assigned Sales or Service seat is required to create tasks within a sequence.
+
+In your HubSpot account, click More, then navigate to Sales > Sequences. If More doesn't appear in your account, navigate to Sales > Sequences directly.
+
+Create or edit a sequence.
+
+Add a General, Email, or Call task step to your sequence.
+
+Finish creating your sequence.
+
+Tasks will automatically be created at the defined step in the sequence.
+
+Tasks
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

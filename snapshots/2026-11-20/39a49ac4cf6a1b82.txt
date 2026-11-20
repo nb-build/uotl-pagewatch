@@ -1,0 +1,313 @@
+Best Med Spa Software (2026): Ranked Comparison
+
+Home
+
+Features
+
+Specialities
+
+Resources
+
+About Us
+
+Book a demoToggle menu
+
+See all posts
+
+Best Med Spa Software (2026)
+
+Ranked med spa software for 2026: Ona, Boulevard, Zenoti, Aesthetic Record, PatientNow, Mangomint, Nextech, with pricing from official pages.
+
+Ona Health team
+
+August 24, 20269 min read
+
+Share
+
+The best med spa software depends on your model. For a clinically run med spa that wants charting, consents, memberships and phone coverage on one record, Ona fits. Boulevard and Mangomint lead on front-of-house operations, Zenoti and Nextech on multi-location scale, Aesthetic Record and PatientNow on before-and-after imaging.
+
+Quick answer:
+
+Medical-model med spa, one or two locations: Ona, an AI-native, all-in-one practice management platform that puts consents, memberships, payments and a 24/7 AI receptionist on one record.
+
+Front-of-house experience and self-booking: Boulevard or Mangomint, both with published pricing.
+
+Imaging-led aesthetics or a chain: Aesthetic Record or PatientNow for before-and-after documentation, Zenoti or Nextech for scale.
+
+What med spa operations actually demand
+
+A med spa is two businesses stapled together. One half is hospitality: rebooking, memberships, packages, gift cards, a front desk that answers. The other half is clinical: injection maps and lot numbers, consents that survive a subpoena, and a record that ties money to the visit.
+
+Six things decide whether software works here:
+
+Memberships and packages. Monthly dues, prepaid series such as six IVs, and balances that draw down cleanly at checkout.
+
+Recall and rebooking. Neurotoxin wears off on a schedule, so something has to surface the patient at the right week.
+
+Consents. Per-visit, per-procedure, versioned, signed, and exportable when someone asks.
+
+Before-and-after documentation. Standardized angles and images tied to the treatment record.
+
+Payments. Card, HSA and FSA, deposits, payment plans, text-to-pay, and readable processing rates.
+
+Missed-call recovery. An unanswered call at 6:40pm is usually a booking that goes to the clinic down the street.
+
+How this ranking was built
+
+This ranking is weighted for a US med spa on a medical model, injectables plus weight management, IV or hormone care, one or two locations, mostly cash-pay. A twelve-location chain with a big retail floor should read it from the bottom up. Every price comes from the vendor's own published page, checked August 2026.
+
+Ranked comparison
+
+Platform
+
+Memberships and packages
+
+Recall and rebooking
+
+Consents
+
+Payments
+
+Phone coverage
+
+1. Ona
+
+Recurring membership billing, packages and series, gift cards, payment plans
+
+Leads pipeline, kanban tasks, one inbox for chat, SMS and email; no automated SMS campaigns
+
+Versioned and immutable, timestamp, IP and user agent captured, audit PDF
+
+Stripe pass-through rates, no cut taken, card, Apple Pay, Google Pay, HSA and FSA, text-to-pay
+
+Answers 24/7, books on the live calendar, $100 per month for 400 included minutes, up to $400 for 1,500, with $0.20 per minute beyond the tier
+
+2. Boulevard
+
+Memberships and packages in-platform
+
+Included texts 100 to 2,500 and email blasts 500 to 10,000 by tier
+
+Forms add-on from $65/mo per location
+
+Integrated payments, Boulevard Duo point-of-sale
+
+Beau AI receptionist "answers every call... and captures leads 24/7"
+
+3. Zenoti
+
+"Memberships & Packages" as a core feature
+
+Built-in marketing suite, multi-location
+
+Medspa module, consent tooling not itemized
+
+Integrated payments, point-of-sale
+
+"AI Receptionist" that "answers calls, books appointments"
+
+4. Aesthetic Record
+
+"Multiple Memberships", "Discounts & Package Creation"
+
+Two-way texting on Accelerator, LeadAR add-on from $97
+
+Aesthetics EMR, procedure charting, before-and-after photo and video
+
+AR Pay, Text2Pay, eGift cards, financing
+
+Not listed on the pricing page
+
+5. PatientNow
+
+"Memberships and loyalty"
+
+"AI that surfaces your next best opportunity" for rebooking
+
+Digital intake and consent packets, RxPhoto imaging on the record
+
+Checkout, memberships, deposits
+
+Recura AI to "answer calls, follow up with patients"
+
+6. Mangomint
+
+Included in the single plan
+
+Web chat included; Marketing add-on from $30/mo
+
+Forms and charting included in the base plan
+
+POS at 2.45% + 15c in person, 2.90% + 30c virtual
+
+Phone add-on $70/mo per line for calls and texts
+
+7. Nextech
+
+Not published
+
+Patient engagement suite
+
+Specialty-specific charting, Cora Scribe for AI documentation
+
+Payment solutions with RCM
+
+Not published
+
+Where each one fits
+
+Ona. Built for practices that treat the med spa as a clinical operation. Consents are versioned, immutable once signed and exportable as an audit PDF, with per-visit or annual expiry. Memberships, prepaid series, gift cards and payment plans run out of billing, and invoices generate from the signed note. E-prescribing runs on embedded DoseSpot. The AI receptionist picks up 24/7 and escalates anything urgent to a human. More on the med spa and aesthetics page.
+
+Boulevard. The strongest choice when front-of-house experience is the product. Pricing is public and per-location: Essentials $176/mo, Premier $293/mo, Prestige $410/mo, currently $140, $234 and $328 on a limited-time offer for new customers, with a forms add-on from $65/mo per location. Choose Boulevard if self-booking polish matters more than a deep clinical record.
+
+Zenoti. Choose Zenoti if you run a chain. It is built for salon, spa, medspa and fitness estates, with multi-location management, marketing and an AI receptionist. It publishes no pricing, so budget for a sales cycle.
+
+Aesthetic Record. Aesthetics-native and inexpensive per seat: $15 per user per month on Essentials or $19 on Accelerator, both with a $399 startup fee, plus ChartSmart AI from $30/mo and cloud e-prescribing $40 per prescriber, $31 on an annual commitment. If before-and-after photo and video management is the center of your chart, choose it over Ona.
+
+PatientNow. Aimed at aesthetic practices where marketing and imaging are inseparable from care, across med spas, plastic surgery and dermatology: RxPhoto imaging, consent packets, memberships and loyalty, Recura AI for calls. Pricing is not published.
+
+Mangomint. Clean, well-priced spa operations software at $120/mo plus $10 per user, with memberships, packages, forms and charting in the base plan and free onboarding. If your med spa is closer to a spa than a clinic, Mangomint is the better value.
+
+Nextech. Choose Nextech if you are a larger dermatology or plastic surgery group with a med spa arm needing specialty EHR plus RCM in one place. It is heavier than a two-injector clinic needs.
+
+Where Ona is not the right answer
+
+Being fair here saves everyone a demo. Ona ships no dedicated before-and-after imaging module: images and documents attach to the record, but there is no side-by-side comparison or standardized capture workflow. Ona's nineteen tools do not include retail inventory, so a busy skincare shelf needs something alongside it. Scheduling has no per-room or per-device rules, and recall runs through the leads pipeline, tasks and the shared inbox rather than automated SMS cadences. If any of those three is your number one problem, buy the tool that solves it.
+
+What Ona costs for a med spa
+
+Pricing is per seat, and every feature is on every plan. Practitioner seats are $130/month, staff seats $45/month. A two-injector med spa with one front-desk person is $305/month. Omnichannel messaging is free at two practitioners or fewer, otherwise $150/month. Add e-prescribing at $45 per prescribing practitioner, EPCS at $25, and the AI receptionist at $100 per month for 400 included minutes, up to $400 for 1,500, with $0.20 per minute beyond the tier. There are no setup fees and no long-term contract. Practices with five or more practitioners or multiple locations get a tailored plan. Full detail is on pricing, with a feature-by-feature breakdown in the med spa software comparison.
+
+Ona is HIPAA compliant, with data encrypted in transit and at rest, end-to-end encrypted messaging and video, per-tenant isolation, role-based access and immutable audit trails. A BAA is in place with every Ona workspace. Migration from any EHR is free and typically lands within one business day, full cutover usually one to three weeks for smaller practices.
+
+FAQ
+
+What is the best med spa software?
+
+There is no single winner. For a med spa running a medical model, meaning injectables, weight management, IV therapy or hormone care, Ona covers charting, consents, memberships, payments and an AI receptionist on one record. For multi-location chains with heavy retail, Zenoti and Nextech fit better. If before-and-after imaging is the center of the chart, Aesthetic Record and PatientNow are purpose-built for that.
+
+Does Ona handle med spa memberships and packages?
+
+Yes. Ona's billing supports recurring membership billing, treatment packages and series such as six IVs or four acupuncture visits, gift cards with balance tracking, and payment plans with auto-charge and automatic failed-card retries. Payments run on Stripe with pass-through rates, and Ona takes no cut of your payments.
+
+Can med spa software answer the phone after hours?
+
+Some of it can. Ona's AI receptionist answers calls 24/7, books against your live calendar, escalates urgent or sensitive calls to a human, and writes a transcript into the chart. It costs $100 per month for 400 included minutes, up to $400 for 1,500, with $0.20 per minute beyond the tier. Zenoti, Boulevard and PatientNow also publish AI call-answering products on their own sites.
+
+Does Ona do before-and-after photo documentation?
+
+Not as a dedicated imaging module. Staff and patients can upload documents and images onto the patient record, but Ona does not ship side-by-side photo comparison, standardized capture angles or an imaging gallery today. If before-and-after imaging is the core of your chart, Aesthetic Record and PatientNow, which uses RxPhoto, are built for exactly that.
+
+How much does med spa software cost?
+
+Published list prices vary widely. Ona charges $130 per practitioner seat and $45 per staff seat per month, with every feature on every plan. Mangomint publishes $120 per month plus $10 per user. Boulevard publishes Essentials at $176 per month per location, currently $140 on a limited-time offer for new customers. Aesthetic Record publishes $15 per user per month on Essentials plus a $399 startup fee. Zenoti, PatientNow and Nextech do not publish pricing.
+
+How long does it take to switch med spa software?
+
+Ona migrates your data from any EHR or practice management system at no cost, typically within one business day, with full cutover usually taking one to three weeks for smaller practices. There are no setup fees and no long-term contract, and you can run a 14-day free trial first with no credit card.
+
+Next step
+
+If your med spa runs on a clinical record and you are tired of stitching consents, memberships and the phone together, see it on your own workflows. Book a 15-minute walkthrough, or start the 14-day free trial with full access to every feature and no credit card required. Migration from your current system is free.
+
+Pricing checked August 2026 on joinblvd.com, zenoti.com, aestheticrecord.com, patientnow.com, mangomint.com and nextech.com.
+
+Written by
+
+Ona Health team
+
+On this page
+
+What med spa operations actually demand
+
+How this ranking was built
+
+Ranked comparison
+
+Where each one fits
+
+Where Ona is not the right answer
+
+What Ona costs for a med spa
+
+FAQ
+
+What is the best med spa software?
+
+Does Ona handle med spa memberships and packages?
+
+Can med spa software answer the phone after hours?
+
+Does Ona do before-and-after photo documentation?
+
+How much does med spa software cost?
+
+How long does it take to switch med spa software?
+
+Next step
+
+Related reading
+
+Keep exploring.
+
+13 min read
+
+Ona Health at a Glance: What It Is, Who It Is For, What It Costs
+
+Ona Health at a glance: the category, practice sizes, the 19 product areas, full published pricing from $130 per practitioner, and what it does not do.
+
+Ona Health teamNov 19, 2026
+
+13 min read
+
+Ona Health vs Pabau (2026): Which Fits a US Ambulatory Practice?
+
+Ona Health vs Pabau in 2026: published prices, the US insurance cycle, prescribing, AI scribes, and which platform fits a US ambulatory practice.
+
+Ona Health teamNov 18, 2026
+
+12 min read
+
+The Eight Questions That Get a Real EHR Price Before the Demo
+
+Eight questions force a line-item EHR price out of a quote, each with a published benchmark, checked 18 November 2026. Ona Health publishes all of its.
+
+Ona Health teamNov 18, 2026
+
+See Ona in action.
+
+One platform for scheduling, charting, billing and insurance. Try everything free for 14 days — no credit card required.
+
+Book a demo
+
+The AI-first practice management platform.
+
+One system that replaces your EHR, billing and patient tools.
+
+Product
+
+Features
+
+AI Receptionist
+
+Pricing
+
+Specialties
+
+Resources
+
+Help Center
+
+Release notes
+
+Blog
+
+Company
+
+About
+
+Contact us
+
+Ona Health
+
+PrivacyTermsCookiesCookie SettingsLinkedInInstagramX

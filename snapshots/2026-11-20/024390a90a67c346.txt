@@ -1,0 +1,399 @@
+CoverForce aims to cut insurance brokerage launch times
+
+News
+Industry News
+
+Company News
+
+Funding Rounds
+
+Partnerships
+
+M&A
+
+People News
+
+Sector Updates
+Blockchain & Cryptocurrencies
+
+CyberTech
+
+Data & Analytics
+
+ESG FinTech
+
+Funding Platforms
+
+Infrastructure & Enterprise Software
+
+InsurTech
+
+Marketplace Lending
+
+PayTech
+
+PropTech
+
+RegTech
+
+WealthTech
+
+Industry Research
+Whitepaper: Addressing Advisor Movement in Wealth Management
+
+Features
+
+Events
+AI FinTech Forum
+
+AML & FinCrime Tech Forum
+
+AML & FinCrime Tech Forum – USA
+
+Data Management Tech Forum
+
+ESG FinTech Summit
+
+CX in Financial Services Forum
+
+Global InsurTech Summit – Europe
+
+Global InsurTech Summit – USA
+
+Global RegTech Summit – Europe
+
+Global RegTech Summit – APAC
+
+Global RegTech Summit – USA
+
+Global WealthTech Summit – Europe
+
+Global WealthTech Summit – USA
+
+FinTech Rankings
+AIFinTech100
+
+CyberTech100
+
+ESGFinTech100
+
+InsurTech100
+
+RegTech100
+
+WealthTech100
+
+Market Maps
+ESG FinTech
+
+WealthTech
+
+FinCrime Tech
+
+Newsletters
+
+Marketing
+
+About Us
+
+Search
+
+LOG IN
+
+Welcome! Log into your account
+
+Forgot your password?
+
+Recover your password
+
+FinTech Global
+
+News
+Industry News
+
+Company News
+
+Funding Rounds
+
+Partnerships
+
+M&A
+
+People News
+
+Sector Updates
+Blockchain & Cryptocurrencies
+
+CyberTech
+
+Data & Analytics
+
+ESG FinTech
+
+Funding Platforms
+
+Infrastructure & Enterprise Software
+
+InsurTech
+
+Marketplace Lending
+
+PayTech
+
+PropTech
+
+RegTech
+
+WealthTech
+
+Industry Research
+Whitepaper: Addressing Advisor Movement in Wealth Management
+
+Features
+
+Events
+AI FinTech Forum
+
+AML & FinCrime Tech Forum
+
+AML & FinCrime Tech Forum – USA
+
+Data Management Tech Forum
+
+ESG FinTech Summit
+
+CX in Financial Services Forum
+
+Global InsurTech Summit – Europe
+
+Global InsurTech Summit – USA
+
+Global RegTech Summit – Europe
+
+Global RegTech Summit – APAC
+
+Global RegTech Summit – USA
+
+Global WealthTech Summit – Europe
+
+Global WealthTech Summit – USA
+
+FinTech Rankings
+AIFinTech100
+
+CyberTech100
+
+ESGFinTech100
+
+InsurTech100
+
+RegTech100
+
+WealthTech100
+
+Market Maps
+ESG FinTech
+
+WealthTech
+
+FinCrime Tech
+
+Newsletters
+
+Marketing
+
+About Us
+
+InsurTech
+
+Commercial/Enterprise Insurance
+
+FinTech News
+
+Sector Updates
+
+Infrastructure & Enterprise Software
+
+Technology Updates
+
+CoverForce aims to cut insurance brokerage launch times
+
+October 7, 2026
+
+CoverForce, a New York-based commercial insurance distribution network, has launched a Startup Program designed to help early-stage founders establish digital commercial insurance brokerages within days rather than years.
+
+The programme combines access to more than 60 carrier integrations with market access partners and educational resources for founders without previous insurance industry experience. CoverForce said the programme brings these elements together in a single offering for new entrants to commercial insurance distribution.
+
+Launching a commercial insurance brokerage has traditionally required founders to work through a lengthy series of regulatory, licensing and market-access requirements. Businesses must establish a licensed entity, obtain producer and entity licences in each state where they intend to operate, secure individual carrier appointments and build connections to each carrier.
+
+CoverForce said the process can take months or years and require significant capital before a brokerage can bind its first policy. The expertise required to navigate the process has also historically been concentrated within established brokerages.
+
+Participants in the programme will receive discounted access to CoverForce’s quoting and binding infrastructure, with pricing increasing according to application volumes as their books grow. A single integration provides real-time appetite, quoting and binding across General Liability, Business Owners Policy, Workers’ Compensation and Professional Liability.
+
+Market access remains a key barrier for new entrants. CoverForce has therefore partnered with Amwins DAIS to provide programme participants with preferential access to established appointments, allowing them to quote and bind while they work towards securing their own carrier relationships.
+
+Founders will also receive practical resources covering commercial insurance terminology and the process of establishing a digital brokerage.
+
+CoverForce operates a single API that enables brokerages, wholesalers, MGAs and startups to access real-time quoting and binding across more than 60 carriers. The company said it operates as neutral infrastructure rather than as a broker of record or market access provider, allowing it to work with clients without competing for their business.
+
+CB Insights included CoverForce in its 2025 ranking of the 50 most innovative InsurTech startups. Its investors include Nyca Partners, QED and Insight Partners.
+
+The company said the programme formalises activity already taking place on its platform, with more than a dozen digital brokerage startups currently building on CoverForce. Several have progressed from kickoff to live multi-carrier quoting in less than 30 days, according to the company.
+
+The first phase of the programme is open to stealth, incubated, venture-backed and accelerator-backed digital brokerages with newly formed books, as well as startups looking to add commercial insurance distribution to existing products.
+
+CoverForce co-founder and CEO Cyrus Karai said, “With this type of offering, we believe any company can be an insurtech. This was not possible five years ago. Every piece – the carriers, the appointments, the technology, the knowledge – existed in isolation, but no one had assembled them into something a small team could actually pick up and use. That is what we have built, and we are starting with early-stage founders who stand to gain the most from it.”
+
+Rosella co-founder and CTO Chris Dwyer added, “If you’re building an AI-native brokerage, you can’t do much programmatically without API access to carriers – and building those integrations ourselves would have taken years. CoverForce gives us the API connectivity we need without having to build all that plumbing ourselves, so all of our engineering time can stay focused on our product.”
+
+Broker Buddha founder and CEO Jason Keck also commented, “Brokers have spent years digitizing the front end of the application process, only to rekey the same data into carrier portals on the back end. CoverForce closes that gap for us. One API connection puts real-time quotes in front of our agencies without us building and maintaining carrier integrations ourselves.”
+
+Read the daily FinTech news
+
+Copyright FinTech Global
+
+Enjoying the stories?
+
+Subscribe to our daily FinTech newsletter and get the latest industry news & research
+
+Investors
+
+The following investor(s) were tagged in this article.
+
+TAGS
+
+Amwins DAIS
+
+Broker Buddha
+
+Commercial Insurance
+
+CoverForce
+
+digital brokerage
+
+insurtech
+
+Rosella
+
+Previous articlePFH acquires Yellow Tunnel to expand AI investing offering
+
+Next articleElevenLabs hits $22bn as financial firms adopt AI agents
+
+Molly Snaylam
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+Company News
+
+Slice pushes insurance into brokers’ AI assistants
+
+Commercial/Enterprise Insurance
+
+AIG expands Latin American reach with Everest deals
+
+FinTech News
+
+Winter floods put vacant buildings at risk of £2.5m losses
+
+Commercial/Enterprise Insurance
+
+BHSI taps Poland to accelerate European insurance growth
+
+Commercial/Enterprise Insurance
+
+Corgi hires ex-Chubb executive to lead AI underwriting
+
+FinTech News
+
+Bind AI targets insurance brokers with inbox-native AI
+
+Latest Analysis
+
+FinTech News
+
+Global FinTech funding grew 35% YoY in Q3 driven by surge...
+
+November 16, 2026
+
+FinTech News
+
+Indian FinTech investment doubled YoY in Q3 as investors prioritised larger...
+
+November 13, 2026
+
+FinTech News
+
+Denmark emerged as leading European WealthTech hub attracting 40% of top...
+
+November 11, 2026
+
+FinTech News
+
+US FinTech funding hit five-quarter high driven by a 2.4x YoY...
+
+November 6, 2026
+
+FinTech News
+
+UK companies complete 38% of all deals in first three quarters...
+
+November 5, 2026
+
+News Stories
+
+Almost $1bn raised in FinTech deals in strong week for investment
+
+November 20, 2026
+
+Across the 17 deals reported on by FinTech Global this week, there was a total of $991m raised – showcasing a continuous strength in...
+
+FINRA’s new outside activities rule rewrites compliance
+
+November 20, 2026
+
+US broker-dealers face a significant overhaul of their compliance frameworks as FINRA’s new Rule 3290, covering outside activities requirements, reshapes how firms assess and...
+
+How insured.io is transforming the customer experience for carriers
+
+November 20, 2026
+
+Founded in 2011, insured.io was created by a team that came from the California MGA market, where they saw first-hand how far the insurance...
+
+TBC Georgia secures $51m as ADB and IFC back trade finance
+
+November 20, 2026
+
+TBC Georgia, a leading Georgian financial institution and member of the London-listed TBC Bank Group, has raised $51m from international commercial banks to widen...
+
+NAB bets on Smart ATMs as cash keeps its grip
+
+November 20, 2026
+
+National Australia Bank (NAB), the Australian lender operating a nationwide network of more than 700 cash machines, has begun replacing its ATM fleet with...
+
+Terms & Conditions
+
+Privacy Policy
+
+FinTech Global’s Editorial mission
+
+Contact Us
+
+© Copyright 2026 FinTech Global. All Right Reserved
+
+Technology partner
+
+120,000+ FinTech leaders get exclusive industry stories delivered every week
+
+I WANT IN TOO!
+
+MORE STORIES
+
+UK InsurTech Send bags $10m Series A
+
+November 16, 2022
+
+Global insurance broker Howden Group secures $703m
+
+February 9, 2026

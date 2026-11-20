@@ -1,0 +1,464 @@
+Move deals forward with deal progression
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+CRM
+
+Records
+
+Move deals forward with deal progression
+
+Move deals forward with deal progression
+
+Last updated:
+
+November 18, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+Sales Hub
+Professional, Enterprise
+
+Service Hub
+Professional, Enterprise
+
+HubSpot Credits required for certain features
+
+Seats required
+
+The deal progression card uses HubSpot’s AI to help you review deal context, update CRM data, and identify recommended next steps from one place. Deal progression can analyze logged meetings, calls, and emails to recommend actions on deal records and suggest deal property updates.
+
+For example, after a call with a buyer, a sales rep at Sprocket Supply Co. can review prioritized next best actions for the deal. These recommendations are based on all calls and meetings associated with the deal, not just the most recent interaction. At any point, sales reps, managers, and operations leaders can review the deal’s current status and focus on the next steps to move it forward. They can also review extracted action items, approve suggested CRM updates, and send a HubSpot AI-generated reply without leaving the deal record.
+
+When a sales methodology is configured, HubSpot’s AI can use your qualification framework as additional context, which can make deal recommendations and CRM updates more relevant to how your team sells.
+
+To give sales reps and buyers a shared space to track milestones, assign ownership, and monitor progress in one place, learn how to keep buyers on track with deal plans.
+
+Please note: you can manage AI feature access in your AI settings and configure what data is shared. Review HubSpot's AI Trust FAQs and AI Model Cards for detailed information on AI security controls, data use, and compliance.
+
+Before you get started
+
+Seats required
+
+An assigned Sales Seat or Service Seat is required to use smart deal progression features.
+
+HubSpot Credits required
+
+HubSpot Credits are required to update custom properties and sales methodology properties using deal progression. These updates are powered by data agent, which consumes HubSpot Credits. Learn more about how many credits data agent uses in the Products & Services Catalog. Updates to HubSpot default properties don't consume credits.
+
+For example, a sales rep finishes a discovery call with a buyer. Deal progression analyzes the call transcript and recommends updates to the deal stage, close date, and a custom Deal Health property. The rep accepts the suggested updates to the deal stage and Deal Health properties. In this example, HubSpot Credits are consumed for the update to the custom Deal Health property, which uses data agent. The update to the default Deal stage property doesn't consume credits.
+
+Understand requirements
+
+To use deal progression features, a Super Admin must:
+
+Be enrolled in the Deal Progression: Next Best Actions and Deal Plans public beta.
+
+Have HubSpot Notetaker set up or connect your account to one of the following meeting tools: Zoom, Microsoft Teams, or Google Meet.
+
+Have recording and transcription turned on. Learn more about recording and transcription.
+
+To review and apply recommendations on deals, you must:
+
+Have a connected email inbox.
+
+Set up deal progression
+
+Set up deal progression from Agent Hub to allow HubSpot’s AI to track deal activity and keep your CRM up to date. The setup flow guides you through three steps: connecting your call and meeting transcripts, configuring smart data capture so HubSpot’s AI can identify and suggest CRM property updates, and adding context such as your sales methodology or customer personas to make recommendations more relevant to your sales process.
+
+To set up deal progression:
+
+In your HubSpot account, navigate to Agents > Agent Hub.
+
+On the Overview tab, under Win Deals, click Deal progression.
+
+On the Deal progression page, click Set up deal progression.
+
+In the pop-up box, connect your transcripts. Select an option:
+
+Connect your existing notetaker: pull recordings in through an integration. Click Configure.
+
+Use HubSpot’s Notetaker: HubSpot’s built-in bot joins your meetings and captures the full transcript. Click Configure. Learn how to set up notetaker.
+
+After you’ve connected your transcripts in Settings, in the pop-up box, click Next.
+
+To add more properties and configure auto-updates, click Configure. Add more properties relevant to your sales process to get more suggested updates or turn on auto-updates. When smart data capture is turned on, HubSpot's AI uses call and meeting transcripts to identify and suggest updates to CRM properties. You'll be notified when updates are ready for review.
+
+HubSpot Credits required
+
+Updating custom properties or sales methodology properties using deal progression requires data agent and consumes HubSpot Credits. Learn more about how many credits data agent uses in the Products & Services Catalog.
+
+After you’ve set up smart data capture, click Next.
+
+Add context to improve recommendations. Configure the following options:
+
+Upload a sales methodology: how your team qualifies and moves deals. Learn how to set up a sales methodology.
+
+Add customer personas: who you sell to.
+
+Set up deal plan templates: mutual plans that keep buyers aligned. Learn how to set up deal plans.
+
+When you are done, click Finish.
+
+Set up a sales methodology
+
+Set up a sales methodology to give the deal progression card a qualification framework, such as MEDDIC, BANT, or a custom methodology, to reference when it suggests deal updates. HubSpot uses your methodology as context for recommended next best actions and Breeze Assistant's generated email replies. Setting up a sales methodology is optional.
+
+Create a sales methodology using a template or from scratch, or accept a methodology recommendation based on your CRM data using HubSpot's AI. After you set up a sales methodology, review the Sales methodology card on the Catch-up tab to see how each deal compares to your sales process.
+
+Super Admin permissions are required to set up a sales methodology.
+
+Use a framework template
+
+To configure a sales methodology from a template:
+
+In your HubSpot account, navigate to Agents > Agent Hub.
+
+Click the Context tab.
+
+In the left sidebar, click Team & Process.
+
+Click Add Methodology.
+
+In the right panel, select a framework template:
+
+BANT: focuses on quickly qualifying whether a prospect is worth pursuing.
+
+MEDDIC: a rigorous qualification framework for complex B2B sales.
+
+SPICED: customer-centric qualification for B2B sales.
+
+SPIN: uses strategic questions to uncover needs in complex sales.
+
+MEDDPIC: extended MEDDIC for complex, high value sales with long timelines.
+
+Click Next.
+
+In the Name and Description fields, edit the text as needed.
+
+Configure the steps:
+
+Edit the step name.
+
+Click the Linked deal property dropdown menu and select a deal property for each step.
+
+Reorder the steps by clicking and dragging the step box to your desired location.
+
+Click + Add step to add a new step. Enter the step name and select the linked deal property from the dropdown menu.
+
+Click the
+
+delete icon to delete a step.
+
+Click Next.
+
+To allow data agent to recommend property updates, select the checkbox next to the property name. To select all, select the All linked properties checkbox.
+
+Click Add methodology.
+
+Create a custom sales methodology
+
+To create a custom sales methodology:
+
+In your HubSpot account, navigate to Agents > Agent Hub.
+
+Click the Context tab.
+
+In the left sidebar, click Team & Processes.
+
+Click Add Methodology.
+
+In the right panel, click Start from scratch.
+
+Click Next.
+
+Enter a name and description.
+
+Click + Add step.
+
+Enter the step name and select the Linked deal property from the dropdown menu.
+
+Continue to add steps as needed.
+
+To reorder the steps, click and drag the step box to your desired location.
+
+Once finished, click Next.
+
+Select the checkbox next to the property name to allow data agent to recommend property updates. To select all properties, select the All linked properties checkbox.
+
+Click Add methodology.
+
+After saving, the following updates take effect:
+
+Automatic property updates: methodology properties update based on buyer conversations, reducing manual data entry.
+
+Catch-up tab insights: the Catch-up tab on each deal record shows real-time progress against your qualification criteria alongside standard next-step recommendations.
+
+Use the deal progression card
+
+Use the deal progression card on the Catch-up tab of a deal record to review CRM update suggestions and recommended next best actions. The deal progression card also displays the most recent activity and the next activity. If set up, the Catch-up tab also displays the deal plan card and the sales methodology card, so you can review all of your deal information in one place.
+
+Review CRM update suggestions
+
+On the deal progression card, you can review suggested CRM updates to your deal record. Deal progression uses context from logged emails, notes, and conversation transcripts. Review the recommendations for accuracy, then accept or reject the value update. Use this to reduce manual effort in updating properties and provide context for next steps.
+
+To review CRM update suggestions:
+
+In your HubSpot account, click More, then navigate to CRM > Deals. If More doesn't appear in your account, navigate to CRM > Deals directly.
+
+Click the name of a deal.
+
+On the Catch-up tab, navigate to the Deal progression card.
+
+Next to CRM update suggestions, click Review [x] suggestions.
+
+If needed, filter the suggestions by Record owner or Activity date. You can also use the search field to search by record name.
+
+Review the property’s current value and suggested value.
+
+To accept a suggested value, click the success accept suggestion icon to mark the recommended action as done.
+
+To dismiss a suggested value, click the remove remove icon.
+
+To accept all suggestions, in the upper right, click Approve all.
+
+Review next best actions
+
+The deal progression card provides recommended next best actions for your deal. When you act on a suggestion, HubSpot pre-fills key details such as recipient, subject, meeting context so you can complete actions quickly from the card without starting from scratch. Next best actions are also available on the deal index page, so you can review what needs attention across all your deals.
+
+To review recommended next best actions:
+
+In your HubSpot account, click More, then navigate to CRM > Deals. If More doesn't appear in your account, navigate to CRM > Deals directly.
+
+Click the name of a deal.
+
+On the Catch-up tab, navigate to the Deal progression card.
+
+In the Next best actions section, click an action to display a summary of the context behind the recommendation.
+
+For each recommended action, select an available option:
+
+Send an email: click Draft an email to open the email compose pop-up box. The email is pre-populated with the recipient, suggested subject, and a context-aware draft from your deal history. The draft can also include meeting requests with relevant information. Manually edit the text if needed.
+
+Schedule a meeting: review the context for the meeting and the pre-filled meeting title, time, and attendees. Click Edit to make changes. Click Send meeting invite to schedule the meeting.
+
+Prepare for a Meeting: click Prepare for a meeting to be directed to the meeting prep page. This option appears before upcoming meetings.
+
+Create a task: click Create a task to automatically create a task assigned to you that contains the details of the recommended action.
+
+Copy to clipboard: click the
+
+copy icon to copy the action name and details to your clipboard for use in other areas of HubSpot.
+
+Re-engage with contact: click Re-engage with contact, then select an option to draft an email, make a call, or schedule a meeting. This option appears if a deal is stalled and has had no activity for 14 or more days, and displays the prompt: “Reach out before this deal is at risk.”
+
+Please note: the Catch-Up tab also surfaces deal health information such as deal scores. Learn how to use and review deal scores.
+
+Take action on an email thread
+
+Review email next steps on a deal
+
+In your HubSpot account, click More, then navigate to CRM > Deals. If More doesn't appear in your account, navigate to CRM > Deals directly.
+
+Click the name of a deal.
+
+At the top of the middle column, click the Activities tab.
+
+In the activity timeline, locate an email thread, then click Review next steps to view action items based on the thread content of the email and approve or reject CRM property update suggestions.
+
+To approve or reject CRM property update suggestions:
+
+In the panel, hover over a CRM property and make edits to the suggestion, if desired. Click the success accept suggestion icon to approve the value update.
+
+In the panel, hover over a CRM property, then click the remove remove icon to reject the value update.
+
+Review email next steps in Gmail or Outlook
+
+Address action items from your Gmail or Outlook inbox with the HubSpot Sales Chrome extension or Office 365 add-in. Learn how to view deal information in Gmail and Outlook.
+
+Install the HubSpot Sales extension:
+
+Gmail: HubSpot Sales Chrome extension
+
+Outlook: HubSpot Sales Office 365 add-in
+
+Navigate to your inbox.
+
+View deals from an email thread in Gmail or Outlook.
+
+On the Details tab, review suggested action items, then approve or reject CRM property update suggestions:
+
+Approve: hover over a CRM property and make edits to the suggestion, if desired. Click the success accept suggestion icon to approve the value update.
+
+Reject: hover over a CRM property, then click the remove remove icon to reject the value update.
+
+Draft a reply to a deal email
+
+Use Breeze Assistant to draft a reply to an email using context from buyer goals, risks, and previous threads in the email chain. This can reduce time spent writing a recap email and reduce the need to search through notes to find certain action items.
+
+To start an email reply with Breeze Assistant:
+
+In your HubSpot account, click More, then navigate to CRM > Deals. If More doesn't appear in your account, navigate to CRM > Deals directly.
+
+Click the name of a deal.
+
+At the top of the middle column, click the Activities tab.
+
+In the activity timeline, locate an email associated with the deal, then click Write a reply for me. Breeze Assistant automatically drafts a reply.
+
+Review and insert the generated draft, then make edits to the recipient, subject line, or body, if desired.
+
+When you're finished, click Send.
+
+records
+
+BETA
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

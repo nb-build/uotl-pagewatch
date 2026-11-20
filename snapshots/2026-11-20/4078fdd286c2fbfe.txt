@@ -1,0 +1,138 @@
+Customer Notifications in Settings | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Notifications
+
+Customer Notifications
+
+Customer Notifications in Settings
+
+Customer Notifications in Settings
+
+Learn how to configure automated customer notifications for jobs, estimates, and invoices in Housecall Pro.
+
+September 3, 2026
+
+Table of contents
+
+Customer Notifications in Settings
+
+The Notifications page in Settings lets you configure the automated communications sent to your customers whenever key actions take place — like scheduling a job, sending an invoice, or cancelling an estimate. You can control which messages are enabled, what channel they're sent on (email or text), and customize the message templates to match your brand.
+
+To access this page, go to Settings > Notifications > Customer.
+
+Jobs
+
+The Jobs section controls notifications related to your service jobs.
+
+Scheduled — Sent when a job is scheduled manually or through online booking.
+
+On my way — Sent when a technician is on their way to a job.
+
+Finished — Sent when a job is marked as finished.
+
+Reminder — Reminds the customer of an upcoming job appointment.
+
+Cancelled — Sent when a job is cancelled.
+
+Estimates
+
+The Estimates section controls notifications related to your customer estimates.
+
+Scheduled — Sent when an estimate is scheduled manually or through online booking.
+
+On my way — Sent when a technician is on their way to an estimate.
+
+Finished — Sent when an estimate is marked as finished.
+
+Sent — Notifies the customer that an estimate has been sent.
+
+Cancelled — Sent when an estimate is cancelled.
+
+Invoices
+
+The Invoices section controls notifications related to your customer invoices.
+
+Sent — Notifies the customer that an invoice has been sent.
+
+Reminder — Reminds the customer that an invoice is due.
+
+Refund — Notifies the customer that a refund has been processed.
+
+Receipt — Sent when a customer makes a payment.
+
+Reviews
+
+Initial request — Sent after job completion and/or payment.
+
+Online Booking
+
+Confirmed — Sent when a customer confirms an online booking.
+
+Cancelled — Sent when an online booking is cancelled.
+
+Service Plans
+
+Renewal reminder — Sent when a service plan is about to expire.
+
+Cancelled — Sent when a service plan is cancelled.
+
+Receipt — Sent when a customer makes a service plan payment.
+
+Payment failed — Sent when a service plan payment fails.
+
+Confirmation — Sent when a service plan is activated or renewed.
+
+Scheduling reminder — Remind customer to schedule their next service plan visit.
+
+New plan sent — Sent when you send a new service plan to a customer for acceptance.
+
+Renewal sent — Sent when you send a renewal of an existing service plan to a customer for acceptance.
+
+Accepted plan copy — Sent with the details of a service plan that is already accepted.
+
+Customizing Notification Messages
+
+Each notification has a pencil icon ✏️ that lets you edit the message template. Click it to open the message editor, where you can customize the content of your email or text to match your business's tone and branding:
+
+Compose your message using the variables.
+
+Preview your message to confirm it is what you want to send to your customers.
+
+Make sure to save your edits in order to return to the notifications page.
+
+An email or text that is a required setting will indicate that it cannot be disabled.
+
+To configure reminder communications, you can edit the content of your text and email, and set the cadence of each communication.
+
+Need help?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746.
+
+Related Articles
+
+Customer Notifications Overview
+
+What's the difference between Unschedule, Cancel, and Delete?
+
+Setting Up SMS Job Reminders
+
+Customer Profile Overview
+
+Customer Notification Hours
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents
