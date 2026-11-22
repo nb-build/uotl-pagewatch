@@ -1,0 +1,159 @@
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers - WhatTheyThink
+
+Search News & Articles
+
+Sign In
+Become a Member
+
+Quarterly
+Commentary & Analysis
+News
+Data
+Video
+Webinars
+Magazine
+
+SECTIONS
+
+PrintStats
+
+Wide-Format & Signage
+
+Packaging
+
+Software
+
+Finishing & Embellishment
+
+Digital & Inkjet
+
+Textiles & Apparel
+
+Offset
+
+Print Geeks
+
+FEATURED
+Artificial Intelligence Resource Center
+Printing United Expo
+2026 Technology Outlook
+Installations and Placements
+In Memoriam
+
+PrintReleaf and CEO Juice Launch ERP Integration for e-automate Dealers
+
+Monday, October 05, 2026
+
+Press release from the issuing company
+
+DENVER, CO – PrintReleaf today announced a new integration with CEO Juice that connects PrintReleaf directly to e-automate, the most widely used service management system among North American office technology dealers. The integration runs through CEO Juice's ID136 API and is available now for any e-automate dealer that subscribes to ID136.
+
+Most PrintReleaf use by MPS dealers draws page volume from Device Collection Agents (DCAs) or spreadsheet uploads. A DCA can miss devices that aren't on a network or record rogue meter reads, so the volume in PrintReleaf sometimes comes in different from the volume on the client's bill.
+
+Connecting to e-automate billing data gives dealers:
+
+Complete coverage: devices that were never connected to a DCA are included.
+
+Accuracy: pages reforested or offset in PrintReleaf match the pages on the client's invoice.
+
+Easier management: switching DCAs has no effect on PrintReleaf, so there's no customer-by-customer migration.
+
+Easier scaling: when a dealer acquires an MPS provider, moving those clients into its e-automate database brings them into PrintReleaf too.
+
+Billing model options: dealers can align PrintReleaf with actuals only, or with base allowances plus actuals.
+
+"When a client asks how their pages were counted, a dealer should be able to point to the invoice," said Jordan Darragh, CEO of PrintReleaf. "Now they can, and the integration takes much of the friction out of the acquisitions and DCA changes that are so common in the MPS Dealer channel right now."
+
+"We are always happy to connect e-automate to the tools our clients’ businesses depend on," said Gary Lavin, Founder at CEO Juice. "More of our clients are hearing sustainability questions from their customers, and the PrintReleaf integration lets them answer with data they already trust."
+
+Availability
+
+Dealers subscribe to ID136 through CEO Juice, receive their API credentials, and register their CEO Juice server in PrintReleaf. To get started, contact PrintReleaf or visit the ID136 page on the CEO Juice website and subscribe.
+
+Share on LinkedIn
+
+Share via Email
+
+Video Center
+
+This Video Is Brought To You By The Letter E
+
+AVT Goes Beyond Inspection for Labels and Packaging
+
+Cool Tools with Mary Schilling: Viesus
+
+More Video
+
+Recent Printing Industry News
+
+Friday, November 20, 2026
+
+Webinar Reminder! The 2027 Strategic Planning Playbook
+
+FASTSIGNS Ranks No. 6 Among Entrepreneur's Top 150 Franchises for Veterans in 2026
+
+Waasa Graphics Commissions Finland’s First Jetfire 50 from HEIDELBERG
+
+Signs Express Delivers Standout NFL Pop-Up Retail Graphics with Drytac Solutions
+
+Minuteman Press Franchise Owners John & Daryn Harrell Join President’s Club in High Point, NC
+
+OnPrintShop Wins at the Canadian Printing Awards 2026 for Bringing AI Automation into Everyday Print Operations
+
+Global E-Commerce Packaging Market to Top $105 Billion by 2031 as Automation Transforms Retail, New Report Finds
+
+Graphic Arts Advisors Leads Alcom Printing Group’s Acquisition of PDQ Print Center
+
+INX International Ink Co. Announces Retirement of President and CEO Bryce Kristo; Shane Bertsch Named Successor
+
+Partnership on the Pharma Packaging Line: MM Pharma & Healthcare Packaging Takes to the Stage in Frankfurt
+
+Unstoppable: How the Traditional Belgian Brewery Martens Fills Up to 120,000 Cans Per Hour with a New High-Speed Line Featuring the SmartCan by KHS/Ferrum
+
+Graphic Arts Advisors Leads Sale of Design to Print to Duggal Visual Solutions
+
+KT-Digital Presents Software Suite for Print Providers: Web-to-Print, ERP and Preflight
+
+HERMA Wins FINAT Sustainability Award
+
+SupplyOne Highlights Custom Corrugated Packaging Design for Product Protection, Brand Differentiation, and Supply Chain Efficiency
+
+MM Digital Expands to Simplify Pulp Ordering
+
+Siegwerk India Accelerates Sustainable Packaging with Launch of AQUAGEN Water-Based Ink Technology
+
+AATCC Offers Discount On Select Testing Products During ITMA ASIA + CITME
+
+Impact USA, Exclusive U.S. Distributor of Fedar DTF Printers, Supplies Equipment and Parts from Ontario, California
+
+Contact Us
+
+Member Center
+Premium membership, reset password,
+set email and notification preferences.
+
+Explore
+
+About
+
+Editorial Team
+
+Reprints
+
+Syndication
+
+Submit Your News
+
+Marketing Programs
+
+Advertising
+
+Media Planner
+
+Lead Gen
+
+Custom Content Development
+
+Video Production
+
+Copyright © WhatTheyThink. All Rights Reserved. | Privacy Policy | Terms

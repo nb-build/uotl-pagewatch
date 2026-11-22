@@ -1,0 +1,388 @@
+Dental Practice Management Software Market Data: What Is Actually Known
+
+Partner With Us
+
+Let’s Meet
+
+877.885.1010
+
+July 31st, 2026
+
+Dental Practice Management Software Market Data: What Is Actually Known
+
+Industry Research — PMS
+
+Somebody is going to ask you what share of the market Dentrix has. Here is why you should be skeptical of any confident answer.
+
+There is no reliable public data on dental practice management software market share. Not from the ADA, not from Capterra, not from any of the market research firms selling reports about it. What exists instead is a mix of genuinely good data about dentists, vendor self-reported customer counts, and a set of confident-sounding percentages that trace back to nothing. This page separates the three, because we could not find anyone else who had.
+
+What Is Actually Measured
+
+The American Dental Association’s Health Policy Institute maintains the most rigorous publicly available picture of how US dentists practice. It does not track software. But it is the foundation any credible market estimate would have to build on, so start here.
+
+DSO affiliation by career stage and specialty, 2024
+
+This is the most useful table in the category, and it is free.
+
+Segment
+
+Percent affiliated with a DSO
+
+All US dentists
+
+16.1%
+
+Up to 10 years out of dental school
+
+26.5%
+
+11 to 25 years out of dental school
+
+14.4%
+
+More than 25 years out of dental school
+
+9.1%
+
+Orthodontists
+
+22.8%
+
+Oral and maxillofacial surgeons
+
+21.8%
+
+Endodontists
+
+20.8%
+
+General practitioners
+
+15.5%
+
+Pediatric dentists
+
+15.0%
+
+Periodontists
+
+14.3%
+
+Prosthodontists
+
+11.1%
+
+Source: ADA Health Policy Institute, Distribution of Dentists According to Size of Dental Practice and Affiliation with a DSO, 2024, read from the downloadable data file (hpidata_dentist_practice_modalities_2024.xlsx).
+
+The career-stage spread is the number that matters for anyone planning a decade ahead. A dentist in their first ten years is roughly three times as likely to be DSO-affiliated as one more than twenty-five years out. That gap is not a preference difference. It is a generational shift in how dentistry gets practiced, and it sets the direction of travel for every software vendor selling into this market. It is also the single most useful input to a multi-location technology plan, which is why we build our DSO technology playbook around consolidation trends rather than product cycles.
+
+Read the methodology before you cite it
+
+Credible data deserves its caveats in the open, and HPI publishes its own.
+
+The affiliation figures above are not survey estimates. They come from HPI’s Dental Office Database, and the analysis covers 198,117 of the 212,459 practicing dentists in the United States, roughly 93% of the profession. That is close to a census, which is why this dataset deserves more weight than anything else in this article.
+
+HPI defines a practice as DSO-affiliated when an outside entity manages some or all of its non-clinical functions such as billing, marketing, or human resources. The definition covers ADSO members plus other entities HPI judges to function as DSOs. HPI also states that its methodological choices likely produce a slight undercount of DSO affiliation, having deliberately chosen estimates below what it believes the true level to be rather than risk overcounting. The real figure is probably a little higher than 16.1%.
+
+Do not confuse this with HPI’s Survey of Dental Practice, which is a separate voluntary questionnaire and the source of the widely quoted income and billings figures. Its methodology section states that HPI drew a stratified national sample of 58,568 dentists in private practice in January 2025, and that data collection closed in February with 1,208 responses, a final response rate of 2.1%. Those numbers are in the survey’s own data file (hpidata_sdpi_2024.xlsx), not on the landing page, which is part of the problem: the reliability caveats are one download removed from the figures everyone quotes.
+
+The two datasets have very different reliability, and citing one’s methodology alongside the other’s numbers is a mistake we see regularly.
+
+Also note the unit. HPI measures dentists, not practices. Those are different denominators, and converting between them without saying so is the most common quiet error in dental market analysis.
+
+What Is Vendor-Reported
+
+The only hard numbers about software adoption come from the software companies. They are not audited, they are not independently verifiable, and they are scoped differently from one another. That does not make them useless. It makes them claims rather than measurements.
+
+Claim
+
+Source
+
+Status
+
+More than 48,000 US dental practices on Dentrix and Dentrix Ascend
+
+Henry Schein One, March 2026
+
+Vendor-reported
+
+90% of the top 50 DSOs use Dentrix or Dentrix Ascend
+
+Henry Schein One, March 2026
+
+Vendor-reported
+
+More than 13,000 practices on Planet DDS platforms
+
+Planet DDS
+
+Vendor-reported
+
+Two cautions on reading these. First, watch the scope. Henry Schein One publishes a global, all-products practice count elsewhere that is much larger than the US Dentrix-family number above, and the two are not interchangeable even though both are true.
+
+Second, when competing vendors each claim a large share of the top DSOs, those claims are usually not contradictory. Large DSOs commonly run more than one platform across acquired practices, so overlapping claims can both be accurate. That fragmentation is one of the inherited costs we look for during IT due diligence on a dental practice acquisition. Treat any “we serve X% of the top DSOs” statement as a statement about presence, not exclusivity.
+
+What Is Not Measured At All
+
+Here is the part that matters most, and the reason this page exists.
+
+Market share percentages
+
+The set of figures that circulates most widely presents dental PMS share as roughly Dentrix 18 to 22 percent, Eaglesoft 15 to 20 percent, and Open Dental 14 to 18 percent. Follow those numbers back and they do not have a source. They resolve to search engine optimization listicles and syndicated press releases with no survey, no panel, and no disclosed methodology behind them.
+
+Two things should make you suspicious of that set even before you check the sourcing. The ranges are wide enough to be unfalsifiable, and they sum conveniently to about half the market, which is the shape of a number written to sound reasonable rather than one that was measured.
+
+A related claim, that Dentrix, Eaglesoft, and Carestream together account for roughly 82 percent of the market, appears to be an artifact from a decade ago. It does not reflect Open Dental’s growth or the cloud entrants, and anyone citing it today is citing something quite old without saying so.
+
+Technographic estimates
+
+Several data vendors publish per-platform customer counts that look authoritative. They should not be cited as adoption data, for two reasons that are easy to check yourself. First, the figures are unstable: load one of these pages twice and the customer counts and share percentages can differ between views, which is not how a measured install base behaves. Second, the magnitudes do not survive a sanity check. At least one of these tools reports Open Dental customer counts in the hundreds, which is off by more than an order of magnitude from the platform’s known footprint. These products infer software usage by detecting web technologies, which is a fundamentally different thing from counting practice installations.
+
+The cloud versus server split
+
+There is no credible measured figure for what share of US dental practices run cloud versus server-based practice management software. The commonly quoted claim that more than 80% are now cloud-based traces to a vendor blog that, on the same page, also states that more than 40% remain on legacy systems. A source that contradicts itself within one page cannot support either number.
+
+This is the largest genuine data gap in the category. Given the installed base of server-based Dentrix and Eaglesoft systems, a figure above 80% cloud is not plausible on its face. Those aging on-premise servers are also the most common reason dental office computers run slowly, and the practical tradeoffs of moving a practice to cloud-based software matter more to an operator than any share figure.
+
+Market size in dollars
+
+Multiple research firms publish dental software market size and growth forecasts. They disagree substantially with one another on size, growth rate, and horizon, and none disclose sample or panel construction in a way that permits evaluation. At least one names commercial contact databases among its inputs, which is the same class of inference that produced the technographic numbers above. Treat all of them as models, not measurements.
+
+Who Owns What, Verified
+
+Ownership is one area where facts exist and the circulating version is frequently out of date. Several widely repeated statements are simply wrong as of today.
+
+Platform
+
+Owner
+
+Note
+
+Dentrix, Dentrix Ascend, Dentrix Enterprise
+
+Henry Schein One
+
+Joint venture of Henry Schein and Internet Brands
+
+Eaglesoft, Fuse
+
+Patterson Companies
+
+Patterson was taken private by Patient Square Capital, closed April 17, 2025. No longer publicly traded.
+
+Denticon, Cloud 9, Apteryx
+
+Planet DDS
+
+Recapitalized by Aquiline Capital Partners in 2022, with Level Equity retaining a stake. Cloud 9 was acquired from Accel-KKR, announced January 2023.
+
+Carestream Dental (Sensei)
+
+Investor group incl. General Atlantic Credit and Canyon Partners
+
+Recapitalized September 2024 with more than $525M, led by General Atlantic Credit’s Atlantic Park fund; CD&R continues as a minority investor.
+
+CareStack
+
+Independent
+
+Straumann Group holds a strategic minority stake announced July 2022.
+
+Open Dental
+
+Independent, privately held
+
+No outside majority owner identified.
+
+Oryx
+
+Independently operated, per the company
+
+Founded by Dr. Rania Saleh.
+
+tab32
+
+Independent
+
+Most recent disclosed round was a Series B in August 2021.
+
+Three corrections worth stating explicitly, because they appear in current content across the industry.
+
+Patterson is not a public company. The Patient Square Capital acquisition closed on April 17, 2025 at $31.35 per share and Patterson was delisted. Anything describing Patterson by its former ticker is out of date.
+
+Envista’s Carestream Dental acquisition did not include the software. That 2022 transaction covered the intraoral scanner business, which became DEXIS. The practice management software business followed a separate path and remains separately owned.
+
+Cloud-native is a marketing term, not a certification. Every vendor uses it and no independent body verifies it. The observable questions are whether a local server is required, whether access is browser-only, and when the product was originally architected. Those you can check. The label you cannot.
+
+How To Evaluate Any Dental Software Statistic
+
+Four questions will disqualify most of what circulates.
+
+Who collected it, and how? A survey has a sample size and a response rate. A panel has a construction method. If neither is disclosed, the number is an estimate wearing a lab coat.
+
+Is the unit dentists, practices, or locations? These differ by large multiples. A DSO with forty offices is one organization, forty locations, and some other number of dentists, which is also why IT support for a multi-location group is priced and staffed differently than support for a single practice. Statistics that switch units mid-argument are usually doing so to make a point the data does not support.
+
+Does the source have a commercial interest in the answer? Vendor-reported counts are legitimate and useful when labeled. They are not independent verification.
+
+Can you trace it to a primary document? Follow the citation chain. A striking number of dental industry statistics resolve to a blog citing a blog citing nothing.
+
+The Honest Summary
+
+We know a lot about dentists and very little about dental software adoption. The ADA data is solid and public. The vendor numbers are real claims that deserve attribution rather than dismissal. The market share percentages are, as best we can determine, invented.
+
+If you are choosing a platform, none of this should drive the decision anyway. Market share tells you what is popular, not what fits your operating model, your imaging setup, or your growth plan. The same sourcing problem runs through this category’s pricing, where we traced which vendors publish a rate card and which do not. For that question we maintain a separate breakdown of how the major dental practice management systems compare, which is a more useful place to start than any share figure would be.
+
+If you are building a growth plan around DSO consolidation, the ADA career-stage data above is the number to anchor on. It is measured, it is longitudinal, and it points clearly in one direction. Our look at the largest DSOs in the US covers who is doing the consolidating.
+
+We will update this page as better data appears. If you have a primary source that resolves any of the gaps above, particularly a methodologically transparent survey of platform adoption, we would genuinely like to see it.
+
+Frequently Asked Questions
+
+What is the market share of dental practice management software?
+
+No credible public data exists. The percentages that circulate widely for Dentrix, Eaglesoft, and Open Dental trace to content marketing pages with no disclosed survey, panel, or methodology. Vendors publish their own customer counts, and those are the only hard adoption numbers available, but they are self-reported, differently scoped, and not independently audited.
+
+How many US dentists are affiliated with a DSO?
+
+16.1% of US dentists were affiliated with a dental support organization in 2024, according to the ADA Health Policy Institute. The figure varies sharply by career stage: 26.5% of dentists up to ten years out of dental school are DSO-affiliated, compared with 9.1% of those more than twenty-five years out. This comes from HPI’s Dental Office Database covering 198,117 of 212,459 practicing dentists, not a sample survey, and HPI notes its method likely undercounts affiliation slightly.
+
+What percentage of dental practices use cloud-based software?
+
+There is no reliable measurement of this. The frequently quoted claim that more than 80% of practices are cloud-based comes from a source that simultaneously states more than 40% remain on legacy systems, which cannot both be true. Given the large installed base of server-based systems, figures above 80% are not plausible.
+
+Who owns Dentrix, Eaglesoft, and Denticon?
+
+Henry Schein One, a joint venture of Henry Schein and Internet Brands, owns Dentrix, Dentrix Ascend, and Dentrix Enterprise. Patterson Companies owns Eaglesoft and Fuse; Patterson was taken private by Patient Square Capital in April 2025 and is no longer publicly traded. Planet DDS owns Denticon, Cloud 9, and Apteryx, and was recapitalized by Aquiline Capital Partners in 2022.
+
+Is dental practice management software market size data reliable?
+
+Treat it as modeled rather than measured. Multiple research firms publish market size and growth figures that disagree substantially with one another, and none disclose sample construction in enough detail to evaluate. At least one names commercial contact databases among its inputs, which infers rather than counts.
+
+Why is there no good dental software adoption data?
+
+No neutral body collects it. The ADA tracks practice modality and DSO affiliation in detail but does not track software. Review platforms publish rankings, not install-base counts. Technographic vendors infer usage from detected web technology, which does not capture server-based systems at all. That leaves vendor self-reporting as the only direct source, and vendors have no incentive to publish comparable figures.
+
+Posted in PMS
+
+July 30th, 2026
+
+Dental Care Alliance Data Breach: What It Means for DSOs
+
+August 4th, 2026
+
+Great Expressions Data Breach: What It Means for DSOs
+
+Ready for a free consultation?
+
+I'm Ready
+Not Sure
+
+Will you work with my previously purchased systems and software?
+
+Yes! We take a personalized approach to practice management software, imaging software and digital equipment. This means we recommend dental IT solutions based on our experience and feedback from nationwide clients. Whether you are looking to build a new practice or renovate your current systems, we can develop a personalized technology roadmap for your practice.
+
+Do you cost more than other dental technology companies?
+
+No. We haven’t found a dental technology company that matches our services and offerings, so it’s difficult to compare our value. Our goal is to provide guidance and protection through important practice investments to maximize your ROI.
+
+In fact, through our Onyx Partnership you can reduce office downtime, keep staff happy, prevent unexpected maintenance costs and use our technology roadmap to budget for hardware, software and equipment upgrades. With one flat monthly fee, our Onyx Partnership makes it easy to budget for your practice needs.
+
+Why do I need an Onyx Partnership if my equipment is new?
+
+The dental and technology industries are always changing. We keep your systems running at optimal levels with preventative maintenance, proactive security monitoring, unlimited tech support and warranty assistance. This protects your investment for as long as possible and keeps systems running efficiently.
+
+Our Onyx Partnership also ensures your practice is up-to-date with the latest HIPAA compliance standards. An Onyx Partnership from Medix Dental IT provides dental IT solutions that go beyond equipment – unlimited, remote IT support as a subscription service.
+
+View All FAQs
+
+Quick Links
+
+Contact Us
+
+Career Opportunities
+
+Industry Research
+
+Call Us
+
+p 877.885.1010
+
+f 563.322.4500
+
+Serving dental practices and DSOs across the United States.
+
+Proudly based in IA with team members nationally.
+
+Newsletter
+
+Instagram
+
+This field is for validation purposes and should be left unchanged.
+
+Email
+
+Submit
+
+Just be a dentist®
+
+Medix Dental
+
+Partner with Medix
+
+DSOs
+
+Dental Practices
+
+Our Partnerships
+
+Technical Capabilities
+
+Technology Integration
+
+IT Support
+
+Data Protection
+
+Cybersecurity Assessments
+
+Open Dental Cloud
+
+Project Management
+
+Phone/VOIP Solutions
+
+About
+
+Our Leadership
+
+Our Projects
+
+Careers
+
+Contact Us
+
+Partner Support
+
+Request Support
+
+Connect Me
+
+Pay Invoice
+
+Continuing Education
+
+Dental CE Courses
+
+CE Calendar
+
+Resource Library
+
+Industry Research
+
+Filter By:
+
+Project Type
+Break RoomCable ManagementCapabilitiesConsult RoomDoctors OfficeFront OfficeHygiene BaysOperatoriesSterileWaiting Room
+
+Clients
+Dr. Jeff RubelDr. John CampbellDr. Kaisha BrownDr. Kim KissellDr. Matthew CrocoDr. Pat Wolfe

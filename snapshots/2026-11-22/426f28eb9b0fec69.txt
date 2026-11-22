@@ -1,0 +1,345 @@
+Clerri Integrates Patient Financing Through New Cherry Partnership - Group Dentistry Now
+
+Skip to content
+
+Linkedin
+
+Facebook-f
+
+X-twitter
+
+Instagram
+
+About Us
+
+Editorial Board
+
+Advertise
+
+eNewsletters
+
+Contact Us
+
+Testimonials
+
+About Us
+
+Editorial Board
+
+Advertise
+
+eNewsletters
+
+Contact Us
+
+Testimonials
+
+See all results
+
+Generic selectors
+
+Exact matches only
+
+Search in title
+
+Search in content
+
+Post Type Selectors
+
+Subscribe
+
+News
+
+M&A
+
+Top Stories
+
+DSO People
+
+ADSO News
+
+Business
+
+Human Resources
+
+Careers
+
+Legal
+
+Marketing
+
+Technology
+
+Cybersecurity
+
+Clinical
+
+Hygiene
+
+Education
+
+Learning Hub
+
+Podcasts & Webinars
+
+Podcasts
+
+Webinars
+
+Upcoming
+
+Recordings
+
+Services
+
+Private Equity Firms
+
+DSOs
+
+Accounting & CFO
+
+Solo Owner Dentists
+
+Emerging Groups
+
+DSO Resource Guide
+
+Leaders Network
+
+Events
+
+News
+
+M&A
+
+Top Stories
+
+DSO People
+
+ADSO News
+
+Business
+
+Human Resources
+
+Careers
+
+Legal
+
+Marketing
+
+Technology
+
+Cybersecurity
+
+Clinical
+
+Hygiene
+
+Education
+
+Learning Hub
+
+Podcasts & Webinars
+
+Podcasts
+
+Webinars
+
+Upcoming
+
+Recordings
+
+Services
+
+Private Equity Firms
+
+DSOs
+
+Accounting & CFO
+
+Solo Owner Dentists
+
+Emerging Groups
+
+DSO Resource Guide
+
+Leaders Network
+
+Events
+
+Clerri Integrates Patient Financing Through New Cherry Partnership
+
+Business, News, Technology Trends
+
+May 20, 2026
+
+Practices can now present financing options and complete membership enrollment from the same screen—no switching tools and no added steps required.
+
+Clerri, the dental industry’s largest and most trusted membership platform, announced recently a new partnership with Cherry, adding patient financing natively to the Clerri platform. The integration gives front office staff the ability to initiate a Cherry financing pre-approval directly from the patient’s treatment plan view—the same screen where membership enrollment already takes place.
+
+“This partnership reflects how we’re thinking about Clerri as a platform, not a single product. Membership has always been our foundation, but the practices we serve need a unified surface for every financial conversation with a patient. Our integration with Cherry is the first of several innovations built around that idea,” said Jacob Evans, Chief Product and Technology Officer at Clerri.
+
+Cost is the most common reason patients delay or decline treatment. Clerri’s integration with Cherry eliminates the friction at the exact moment it matters most: case presentation. With financing and membership both accessible from a single workflow, staff can walk a patient through their full range of options, including savings through a membership plan, flexible payment terms through Cherry, or both, all without leaving the platform or logging into a separate system.
+
+One Workflow. Two Powerful Tools. Zero Extra Steps.
+
+The Cherry integration is simple to set up and offers a streamlined three-step process that fits naturally into the existing Clerri experience:
+
+1. Connect your API key to Clerri. From the Practice Portal, navigate to Product Settings› Connect Cherry. Paste the API key and the integration is live. Setup takes about two minutes.
+
+2. Initiate a pre-approval from the treatment plan. From within the patient’s treatment plan in the Clerri platform, staff can run a Cherry pre-approval on the spot. The result is a financing range valid for 60 days, returned in seconds.
+
+3. Patient applies and gets financing. The patient completes a ~30-second application on their phone. Cherry manages the checkout process end to end. Once complete, the practice receives payment for the treatment.
+
+Staff never leave the Clerri platform. There is nothing new to log into, no separate software to manage, and no additional training required to get up and running.
+
+Availability and Setup
+
+The Cherry integration is live today for Clerri customers using the Bridge and rolls out to all Clerri practices in the coming weeks. Practices new to Cherry complete a one-time approval with Cherry, then connect in about two minutes. Groups or practices new to Clerri can request a demo at clerri.com/get-started.
+
+About Clerri
+
+Clerri is the leading care membership platform transforming how dental practices grow. By simplifying access to care through smart, sustainable membership plans, Clerri empowers providers to increase patient loyalty, reduce insurance dependence, and build recurring revenue. Trusted by over 25,000 dentists, including more than 5,000 independent offices and 200-plus group practices, Clerri delivers a clear path to practice success powered by automation, expert support, and nationwide compliance.
+
+About Cherry
+
+Cherry is the fastest-growing patient financing partner in healthcare, trusted as the top choice by more than 50,000 providers nationwide. Known for offering the lowest fees in the industry and approval rates as high as 90%, providers choose Cherry five times more often than competitors when selecting a preferred financing partner. Cherry’s patient-centric platform allows more patients to say “yes” to treatment through a lightning-fast, 35-second application that requires no hard credit check and features no deferred interest. By providing transparent, easy monthly payments alongside treatment plans, Cherry empowers top-performing dental practices to significantly increase case acceptance and make high-quality care more accessible.
+
+Media Contact
+
+David Demaree Product Manager
+
+david.demaree@clerri.com
+
+You Might Also Like
+
+Business, Cyber
+
+November 18, 2026
+
+The AI-Powered Cybercrime Revolution: Why DSOs Must Rethink Their Cybersecurity Defenses
+
+How cybercriminals are weaponizing artificial intelligence to manipulate employees, exploit technical vulnerabilities, and launch increasingly sophisticated attacks against dental support organizations. The cybersecurity threat landscape is undergoing a fundamental transformation....
+
+Clinical, Education, Technology Trends
+
+November 13, 2026
+
+Dentures are quietly costing DSOs margin. Going digital hasn’t fixed it yet.
+
+Sponsored Content How a two-appointment workflow gives clinicians a reason to adopt, and keeps a network on one standard. More than 40 million Americans wear dentures. They rely on them...
+
+Cyber, News, Top Stories
+
+October 22, 2026
+
+Navigating the AI Frontier and Private Equity Pressures: Insights for 2027 — Dental Cyber Watch Live Episode 5
+
+Securing DSOs and multi-site healthcare systems requires navigating a rapidly shifting landscape marked by emerging generative AI technologies, complex regulatory demands, and tightening operational budgets. In Episode 5 of...
+
+Business, Cyber, Top Stories
+
+September 17, 2026
+
+The Risk You Don’t Control: Why Third Parties and Shadow AI Are Creating a New Cybersecurity Challenge for DSOs
+
+Dental Service Organizations (DSOs) have spent years strengthening their cybersecurity. They have deployed firewalls, endpoint protection, employee training, multifactor authentication and other security technologies designed to protect their environments....
+
+Clinical, Podcasts, Technology Trends
+
+September 3, 2026
+
+The Group Dentistry Now Show: The Voice of the DSO Industry – Episode 275
+
+Ranked the #1 DSO Podcast! Welcome to The Group Dentistry Now Show: The Voice of the DSO Industry! Beyond the Crown: How DSOs Are Rethinking Lab Partnerships, Data, and Digital...
+
+Business, Cyber
+
+August 20, 2026
+
+Dissecting a Cyberattack: Insights from a Real-Time Simulation — Dental Cyber Watch Live Episode 4
+
+Defending a DSO against cybercriminals requires far more than robust cybersecurity—it demands proper insurance coverage and timely legal guidance. In Episode 4 of the Dental Cyber Watch Live podcast,...
+
+Cyber, News, Technology Trends
+
+August 19, 2026
+
+Black Talon Security Launches ONIX Alliance to Connect Healthcare Technology Leaders
+
+Press Release Invitation-only community gives healthtech executives a trusted forum to exchange real-world insights, discuss challenges, and seek help from experienced peers Black Talon Security today announced the launch of...
+
+Podcasts, Technology Trends
+
+August 13, 2026
+
+The Group Dentistry Now Show: The Voice of the DSO Industry – Episode 272
+
+Ranked the #1 DSO Podcast! Welcome to The Group Dentistry Now Show: The Voice of the DSO Industry! Website Mastery for Multi-Location Dental Groups: Security, AI, and Best Practices in...
+
+Business, Clinical, Education, Podcasts, Technology Trends
+
+July 23, 2026
+
+The Group Dentistry Now Show: The Voice of the DSO Industry – Episode 269
+
+Ranked the #1 DSO Podcast! Welcome to The Group Dentistry Now Show: The Voice of the DSO Industry! AI, Systems & Human Capital in Dentistry. Dr. Peter Boulden, Founder of...
+
+Business, Cyber, Top Stories
+
+July 22, 2026
+
+Size Doesn’t Matter: Why Every Dental Organization Is Now a Target—and Why DSOs Have the Most to Lose
+
+DentaQuest recently experienced a cybersecurity breach involving unauthorized access to part of its network, with the ShinyHunters extortion group claiming it stole 234GB of data tied to about 2.6 million...
+
+Cyber, Technology Trends
+
+July 21, 2026
+
+Black Talon Announces Collaboration with Henry Schein One to Bring Continuous Cyber Readiness to Dental Practices
+
+Press Release Pairing TechCentral’s Dental IT Expertise with Black Talon’s Advanced Cybersecurity Platform to Protect Patient Data and Practice Operational Continuity Black Talon Security, the premier cybersecurity firm in the...
+
+Business, Clinical, Podcasts, Technology Trends
+
+July 2, 2026
+
+The Group Dentistry Now Show: The Voice of the DSO Industry – Episode 266
+
+Ranked the #1 DSO Podcast! Welcome to The Group Dentistry Now Show: The Voice of the DSO Industry! Building the Backbone: DSO Facilities Management Across 600 Locations. Scott Graversen, Director...
+
+Technology Trends
+
+June 22, 2026
+
+Dental practices and DSOs can now add AI-powered screening directly to their websites- reducing front-desk load while improving patient conversion
+
+scanO’s cOpilot brings photographic AI screening to the patient’s first online interaction, turning website visitors into informed, better-qualified patients By Dr. Vidhi Bhanushali, Co-Founder & CEO, scanO For the past...
+
+Copyright 2026 | Group Dentistry Now LLC | 1250 South Bethlehem Pike, Suite 400, Hatfield, PA 19440 | 239.567.9494
+
+Contact Us
+
+Site Map
+
+Terms of Use
+
+Privacy Policy
+
+Contact Us
+
+Site Map
+
+Terms of Use
+
+Privacy Policy
+
+Join The Group Dentistry Now Community!
+
+Free Newsletter & Podcast
+
+Subscribe Now
+
+×

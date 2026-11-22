@@ -1,0 +1,1839 @@
+Synup Listing & Reputation Management Tools & API
+
+November Week 3Protect Your Business Details on GoogleGoogle edit protection
+
+Explore updatesExplore updates→
+
+Agent
+Product
+Solutions
+
+Resources
+Pricing
+
+Sign in
+Start free trial
+
+Chat
+Talk to the agent in plain language.
+
+Memory
+It remembers your brand, tone and history.
+
+Skills
+Purpose-built abilities for local marketing.
+
+Playbooks
+Repeatable workflows it runs for you.
+
+Capabilities
+Everything the agent can do, end to end.
+
+Inference
+How the agent reasons and makes decisions.
+
+Approvals inbox
+Review and sign off on work in one place.
+
+Audit trail
+A full record of every action taken.
+
+Marketing suite
+
+Listings
+Accurate profiles across every directory.
+
+Review Monitoring
+Track reviews from every source live.
+
+Review Generation
+Turn happy customers into reviews.
+
+Social
+Schedule and publish across locations.
+
+SEO
+Rank higher in local search results.
+
+Locator & Pages
+Store locators and local landing pages.
+
+AEO
+New
+
+Get cited by AI answer engines
+
+See how ChatGPT, Gemini, and Perplexity describe your business — and fix the gaps.
+
+See your AI visibility
+
+Partner suite
+
+Multi-client command center
+Run every client from one place.
+
+Client portal
+A branded portal that looks like yours.
+
+White-label
+Your brand, your domain, no Synup anywhere.
+
+Team seats & permissions
+Scoped, per-client access for your team.
+
+APIs
+Build on top of everything.
+
+MCP support
+Native MCP for popular LLMs.
+
+White-labeled agent
+
+Deploy the agent for every client
+
+Partners run the agent in each client’s portal and over text — fully branded, no Synup in sight.
+
+See the white-labeled agent
+
+For agencies & platforms
+
+Agencies
+SEO, web and ads. Run more clients without more people.
+
+Software Platforms
+Ship local marketing as a feature, not a roadmap item.
+
+For brands & local businesses
+
+Multi-Location Brands
+One brand, hundreds of locations performing locally.
+
+Franchises
+Brand consistency across every location.
+
+Local Businesses & SMB
+Your marketing team, without the team.
+
+Learn
+
+Blog
+Practical local marketing guides.
+
+Customer Stories
+How teams grow with Synup.
+
+Compare
+See how Synup stacks up.
+
+What's NewShipped weekly.
+
+Build & support
+
+Knowledgebase
+Guides, tutorials, and how-tos.
+
+API Docs
+Build on the Synup platform.
+
+The AI agent for local marketing.
+
+Sydekick turns insights into action across listings, reviews, social, SEO and AI Search - without adding more work for your team.
+
+Start free trial
+Contact Sales
+
+14-day free trial
+•
+$50 in AI credits
+•
+Cancel anytime
+
+ai.synup.com
+
+Product demonstration: a request becomes a coffee post, a reply thanking Alex, and holiday hours. All work remains in draft for review.
+
+∞SydekickJuniper Coffee Co.
+
+Juniper Coffee Co.
+
+Your marketing week
+
+Social postDraft
+
+Review replyDraft
+
+Holiday hoursDraft
+
+Social postDraft
+
+JJuniper Coffee Co.
+
+Your usual is waiting. Drop in for a coffee at Juniper.
+
+Review replyDraft
+
+A
+Reply to AlexJuniper Coffee Co.
+
+Thanks, Alex! We’re glad you stopped by. Hope to see you again soon.
+
+Holiday hoursDraft
+
+Juniper Coffee Co.
+
+MonTueWedThuFri
+
+Thanksgiving Day
+
+Closed
+
+Friday
+
+Regular hours
+
+M
+Write a post for this week.
+
+14-day free trial·$50 in AI credits
+
+Cancel anytime
+
+Trusted by the top brands
+
+Stop clicking. Just ask.
+
+Your work gets done where your team already talks.
+ListingsReviewsSocialLocal SEOAI visibilityReporting
+
+The old way
+
+Click through screens.
+
+Workspace / Locations01
+
+WOverviewLocationsReportsSettings
+
+Locations
+
+LocationStatus
+
+Tempe officeLive
+
+Mesa officeLive
+
+Chandler officeLive
+
+Workspace / Business details02
+
+WOverviewLocationsReportsSettings
+
+Business details
+
+Business address1400 W Elliot Rd
+
+Phone(480) 555-0147
+
+Workspace / Directory status03
+
+WOverviewLocationsReportsSettings
+
+Directory status
+
+GoogleChecked
+
+Apple MapsChecked
+
+BingChecked
+
+Find the location. Edit the details. Check the directories.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Victoria Brito9:02 AM
+
+@Sydekick update the Tempe office address to 1400 W Elliot Rd.
+
+Roshan Agarkar9:02 AM
+
+Phone changed too — (480) 555-0147.
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+I found the old details. Here’s the change to review.
+
+Tempe office · Address update
+
+Was
+2100 S Rural Rd
+
+New address
+1400 W Elliot Rd, Tempe
+
+Phone(480) 555-0100(480) 555-0147
+
+Updates: Google · Apple Maps · Bing
+
+Victoria Brito9:04 AM
+
+Looks good. Go ahead.
+
+SydekickAPP9:04 AM
+
+LISTINGS · TEMPEBusiness details submitted
+Approved
+
+1400 W Elliot Rd, Tempe(480) 555-0147
+
+GoogleAddress and phoneSubmitted
+
+Apple MapsAddress and phoneSubmitted
+
+BingAddress and phoneSubmitted
+
+Approved by Victoria · Directory updates are processing.
+
+Message #client-atlas
+
+Works everywhere
+
+ListingsWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / Locations01
+
+WOverviewLocationsReportsSettings
+
+Locations
+
+LocationStatus
+
+Tempe officeLive
+
+Mesa officeLive
+
+Chandler officeLive
+
+Workspace / Business details02
+
+WOverviewLocationsReportsSettings
+
+Business details
+
+Business address1400 W Elliot Rd
+
+Phone(480) 555-0147
+
+Workspace / Directory status03
+
+WOverviewLocationsReportsSettings
+
+Directory status
+
+GoogleChecked
+
+Apple MapsChecked
+
+BingChecked
+
+Find the location. Edit the details. Check the directories.
+
+@Sydekick update the Tempe office address to 1400 W Elliot Rd.
+
+NNorthwind# client-atlas
+
+Victoria Brito
+@Sydekick update the Tempe office address to 1400 W Elliot Rd.
+
+RoshanPhone: (480) 555-0147.
+
+SydekickAPPPrepared for review
+
+Tempe office · Address update
+
+Was
+2100 S Rural Rd
+
+New address
+1400 W Elliot Rd, Tempe
+
+Phone(480) 555-0100(480) 555-0147
+
+Updates: Google · Apple Maps · Bing
+
+Victoria BritoLooks good. Go ahead.
+✓
+
+LISTINGS · TEMPEBusiness details submitted
+Approved
+
+1400 W Elliot Rd, Tempe(480) 555-0147
+
+GoogleAddress and phoneSubmitted
+
+Apple MapsAddress and phoneSubmitted
+
+BingAddress and phoneSubmitted
+
+Approved by Victoria · Directory updates are processing.
+
+Works everywhere
+
+The old way
+
+Click through screens.
+
+Workspace / Reviews inbox01
+
+WOverviewReviewsReportsSettings
+
+Reviews inbox
+
+ReviewsView
+
+Tempe · Unanswered→
+
+Mesa→
+
+Chandler→
+
+Workspace / Reply editor02
+
+WOverviewReviewsReportsSettings
+
+Reply editor
+
+Reply editor“Thanks, Maria! We’ll pass that along to the team.”
+
+Workspace / Response status03
+
+WOverviewReviewsReportsSettings
+
+Response status
+
+ReviewsReview
+
+Next stepBrand voice checked · Flagged reviews held
+
+Open the review. Write the reply. Check what posted.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Victoria Brito9:02 AM
+
+@Sydekick draft replies to our unanswered reviews. Keep them human.
+
+Roshan Agarkar9:02 AM
+
+Keep them human — no template voice.
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+Replies are ready to review. Sensitive reviews stay with your team.
+
+Suggested reply · Tempe
+
+Context
+“Great cleaning, friendly team!”
+
+Prepared for review
+“Thanks, Maria! We’ll pass that along to the team.”
+
+Brand voice checked · Flagged reviews held
+
+Victoria Brito9:04 AM
+
+Approved. Post the replies.
+
+SydekickAPP9:04 AM
+
+REVIEWSApproved replies submitted
+Submitted
+
+TEMPE · CUSTOMER REVIEW“Great cleaning, friendly team!”
+
+“Thanks, Maria! We’ll pass that along to the team.”
+
+✓ Reply submitted
+
+!
+Sensitive reviews stay with your teamFlagged for a manager’s review.
+
+Approved responses sent. Flagged reviews held.
+
+Message #client-atlas
+
+Works everywhere
+
+ReviewsWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / Reviews inbox01
+
+WOverviewReviewsReportsSettings
+
+Reviews inbox
+
+ReviewsView
+
+Tempe · Unanswered→
+
+Mesa→
+
+Chandler→
+
+Workspace / Reply editor02
+
+WOverviewReviewsReportsSettings
+
+Reply editor
+
+Reply editor“Thanks, Maria! We’ll pass that along to the team.”
+
+Workspace / Response status03
+
+WOverviewReviewsReportsSettings
+
+Response status
+
+ReviewsReview
+
+Next stepBrand voice checked · Flagged reviews held
+
+Open the review. Write the reply. Check what posted.
+
+@Sydekick draft replies to our unanswered reviews. Keep them human.
+
+NNorthwind# client-atlas
+
+Victoria Brito
+@Sydekick draft replies to our unanswered reviews. Keep them human.
+
+RoshanKeep the replies human.
+
+SydekickAPPPrepared for review
+
+Suggested reply · Tempe
+
+Context
+“Great cleaning, friendly team!”
+
+Prepared for review
+“Thanks, Maria! We’ll pass that along to the team.”
+
+Brand voice checked · Flagged reviews held
+
+Victoria BritoApproved. Post the replies.
+✓
+
+REVIEWSApproved replies submitted
+Submitted
+
+TEMPE · CUSTOMER REVIEW“Great cleaning, friendly team!”
+
+“Thanks, Maria! We’ll pass that along to the team.”
+
+✓ Reply submitted
+
+!
+Sensitive reviews stay with your teamFlagged for a manager’s review.
+
+Approved responses sent. Flagged reviews held.
+
+Works everywhere
+
+The old way
+
+Click through screens.
+
+Workspace / Location pages01
+
+WOverviewSocialReportsSettings
+
+Location pages
+
+SocialView
+
+Tempe · Location page→
+
+Mesa→
+
+Chandler→
+
+Workspace / Post editor02
+
+WOverviewSocialReportsSettings
+
+Post editor
+
+Post editor“Saturday mornings just got easier. We’re now open on Saturdays.”
+
+Workspace / Publishing queue03
+
+WOverviewSocialReportsSettings
+
+Publishing queue
+
+SocialReview
+
+Next stepGoogle · Facebook · Instagram
+
+Choose a page. Adapt the post. Schedule each location.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Roshan Agarkar9:02 AM
+
+@Sydekick announce our new Saturday hours across our locations.
+
+Victoria Brito9:02 AM
+
+Give each location its own version.
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+I’ve drafted a version for each location. Here’s Tempe’s.
+
+Tempe · Saturday hours
+
+Context
+New post
+
+Prepared for review
+“Saturday mornings just got easier. We’re now open on Saturdays.”
+
+Google · Facebook · Instagram
+
+Roshan Agarkar9:04 AM
+
+Approved. Schedule the posts.
+
+SydekickAPP9:04 AM
+
+SOCIALSaturday hours posts queued
+Queued
+
+ATLAS DENTAL · TEMPEHello,
+Saturday.Now open Saturdays
+
+Tempe
+Saturday mornings just got easier.
+Google · Facebook · Instagram
+
+ATLAS DENTAL · MESAA little more
+weekend care.Saturday hours are here
+
+Mesa
+Your weekend. Your neighborhood dentist.
+Google · Facebook · Instagram
+
+Location-specific versions added to the publishing queue.
+
+Message #client-atlas
+
+Works everywhere
+
+SocialWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / Location pages01
+
+WOverviewSocialReportsSettings
+
+Location pages
+
+SocialView
+
+Tempe · Location page→
+
+Mesa→
+
+Chandler→
+
+Workspace / Post editor02
+
+WOverviewSocialReportsSettings
+
+Post editor
+
+Post editor“Saturday mornings just got easier. We’re now open on Saturdays.”
+
+Workspace / Publishing queue03
+
+WOverviewSocialReportsSettings
+
+Publishing queue
+
+SocialReview
+
+Next stepGoogle · Facebook · Instagram
+
+Choose a page. Adapt the post. Schedule each location.
+
+@Sydekick announce our new Saturday hours across our locations.
+
+NNorthwind# client-atlas
+
+Roshan Agarkar
+@Sydekick announce our new Saturday hours across our locations.
+
+VictoriaA version for each location.
+
+SydekickAPPPrepared for review
+
+Tempe · Saturday hours
+
+Context
+New post
+
+Prepared for review
+“Saturday mornings just got easier. We’re now open on Saturdays.”
+
+Google · Facebook · Instagram
+
+Roshan AgarkarApproved. Schedule the posts.
+✓
+
+SOCIALSaturday hours posts queued
+Queued
+
+ATLAS DENTAL · TEMPEHello,
+Saturday.Now open Saturdays
+
+Tempe
+Saturday mornings just got easier.
+Google · Facebook · Instagram
+
+ATLAS DENTAL · MESAA little more
+weekend care.Saturday hours are here
+
+Mesa
+Your weekend. Your neighborhood dentist.
+Google · Facebook · Instagram
+
+Location-specific versions added to the publishing queue.
+
+Works everywhere
+
+The old way
+
+Click through screens.
+
+Workspace / Local rankings01
+
+WOverviewRankingsReportsSettings
+
+Local rankings
+
+Local SEOView
+
+Tempe · Map rankings→
+
+Mesa→
+
+Chandler→
+
+Workspace / Location audit02
+
+WOverviewRankingsReportsSettings
+
+Location audit
+
+Location auditScottsdale · Old suite number in citations
+
+Workspace / Recommended fixes03
+
+WOverviewRankingsReportsSettings
+
+Recommended fixes
+
+Local SEOReview
+
+Next stepReview the underlying listings before making changes
+
+Check rankings. Open the audit. Assemble the next steps.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Victoria Brito9:02 AM
+
+@Sydekick why did our locations drop out of the map pack?
+
+Roshan Agarkar9:02 AM
+
+Which locations?
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+I found category and address details that need a closer look.
+
+Local visibility · Findings
+
+Context
+Mesa · Primary category changed
+
+Prepared for review
+Scottsdale · Old suite number in citations
+
+Review the underlying listings before making changes
+
+Victoria Brito9:04 AM
+
+Show me the priority fixes.
+
+SydekickAPP9:04 AM
+
+LOCAL SEOPriority listing fixes
+Ready to review
+
+01
+MESA · PRIMARY CATEGORYReview the category change
+Check the intended category against the current listing.
+
+02
+SCOTTSDALE · CITATIONSCorrect the old suite number
+Review the affected directory details before applying changes.
+
+Findings gathered. Changes stay in your control.
+
+Message #client-atlas
+
+Works everywhere
+
+Local SEOWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / Local rankings01
+
+WOverviewRankingsReportsSettings
+
+Local rankings
+
+Local SEOView
+
+Tempe · Map rankings→
+
+Mesa→
+
+Chandler→
+
+Workspace / Location audit02
+
+WOverviewRankingsReportsSettings
+
+Location audit
+
+Location auditScottsdale · Old suite number in citations
+
+Workspace / Recommended fixes03
+
+WOverviewRankingsReportsSettings
+
+Recommended fixes
+
+Local SEOReview
+
+Next stepReview the underlying listings before making changes
+
+Check rankings. Open the audit. Assemble the next steps.
+
+@Sydekick why did our locations drop out of the map pack?
+
+NNorthwind# client-atlas
+
+Victoria Brito
+@Sydekick why did our locations drop out of the map pack?
+
+RoshanWhich locations?
+
+SydekickAPPPrepared for review
+
+Local visibility · Findings
+
+Context
+Mesa · Primary category changed
+
+Prepared for review
+Scottsdale · Old suite number in citations
+
+Review the underlying listings before making changes
+
+Victoria BritoShow me the priority fixes.
+✓
+
+LOCAL SEOPriority listing fixes
+Ready to review
+
+01
+MESA · PRIMARY CATEGORYReview the category change
+Check the intended category against the current listing.
+
+02
+SCOTTSDALE · CITATIONSCorrect the old suite number
+Review the affected directory details before applying changes.
+
+Findings gathered. Changes stay in your control.
+
+Works everywhere
+
+The old way
+
+Click through screens.
+
+Workspace / AI answers01
+
+WOverviewResearchReportsSettings
+
+AI answers
+
+AI visibilityView
+
+ChatGPT · Tempe→
+
+Mesa→
+
+Chandler→
+
+Workspace / Brand mentions02
+
+WOverviewResearchReportsSettings
+
+Brand mentions
+
+Brand mentionsPerplexity · Brand mention check
+
+Workspace / Visibility notes03
+
+WOverviewResearchReportsSettings
+
+Visibility notes
+
+AI visibilityReview
+
+Next stepAnswers and source context gathered together
+
+Check each tool. Record the mentions. Compare the answers.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Roshan Agarkar9:02 AM
+
+@Sydekick check how AI tools describe our Tempe location.
+
+Victoria Brito9:02 AM
+
+Perplexity too.
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+I’ve brought the checks together so you can compare the answers.
+
+Tempe · AI visibility
+
+Context
+ChatGPT · Brand mention check
+
+Prepared for review
+Perplexity · Brand mention check
+
+Answers and source context gathered together
+
+Roshan Agarkar9:04 AM
+
+Bring the findings into this channel.
+
+SydekickAPP9:04 AM
+
+AI VISIBILITY · TEMPETempe citation snapshot
+Answer snapshot
+
+Query: a dentist in Tempe
+
+ChatGPTCited
+
+PerplexityCited
+
+Google AI OverviewsNot cited
+
+THE GAP
+Google AI Overviews didn’t cite the location in this check.
+
+Answers and citation context brought together for review.
+
+Message #client-atlas
+
+Works everywhere
+
+AI visibilityWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / AI answers01
+
+WOverviewResearchReportsSettings
+
+AI answers
+
+AI visibilityView
+
+ChatGPT · Tempe→
+
+Mesa→
+
+Chandler→
+
+Workspace / Brand mentions02
+
+WOverviewResearchReportsSettings
+
+Brand mentions
+
+Brand mentionsPerplexity · Brand mention check
+
+Workspace / Visibility notes03
+
+WOverviewResearchReportsSettings
+
+Visibility notes
+
+AI visibilityReview
+
+Next stepAnswers and source context gathered together
+
+Check each tool. Record the mentions. Compare the answers.
+
+@Sydekick check how AI tools describe our Tempe location.
+
+NNorthwind# client-atlas
+
+Roshan Agarkar
+@Sydekick check how AI tools describe our Tempe location.
+
+VictoriaPerplexity too.
+
+SydekickAPPPrepared for review
+
+Tempe · AI visibility
+
+Context
+ChatGPT · Brand mention check
+
+Prepared for review
+Perplexity · Brand mention check
+
+Answers and source context gathered together
+
+Roshan AgarkarBring the findings into this channel.
+✓
+
+AI VISIBILITY · TEMPETempe citation snapshot
+Answer snapshot
+
+Query: a dentist in Tempe
+
+ChatGPTCited
+
+PerplexityCited
+
+Google AI OverviewsNot cited
+
+THE GAP
+Google AI Overviews didn’t cite the location in this check.
+
+Answers and citation context brought together for review.
+
+Works everywhere
+
+The old way
+
+Click through screens.
+
+Workspace / Location metrics01
+
+WOverviewReportsLocationsSettings
+
+Location metrics
+
+ReportingView
+
+Tempe · Location metrics→
+
+Mesa→
+
+Chandler→
+
+Workspace / Report builder02
+
+WOverviewReportsLocationsSettings
+
+Report builder
+
+Report builderLocation performance and a client-ready summary
+
+Workspace / Report export03
+
+WOverviewReportsLocationsSettings
+
+Report export
+
+ReportingReview
+
+Next stepReport prepared for your review
+
+Export the metrics. Build the report. Share the file.
+→
+
+The new way Works everywhere:
+
+Get it done in a conversation.
+
+Northwind ⌄
+Channels# client-atlas# reviews# socialApps Sydekick
+
+NNorthwind
+
+#client-atlas
+
+Victoria Brito9:02 AM
+
+@Sydekick build our monthly location report for the client call.
+
+Roshan Agarkar9:02 AM
+
+Bring the location metrics together.
+
+SydekickAPP9:03 AM
+
+Sydekick is working···
+
+The location metrics are together. Here’s the report to review.
+
+Atlas Dental · Monthly report
+
+Context
+Calls · Direction requests · Reviews
+
+Prepared for review
+Location performance and a client-ready summary
+
+Report prepared for your review
+
+Victoria Brito9:04 AM
+
+Approved. Share it in this channel.
+
+SydekickAPP9:04 AM
+
+REPORTINGMonthly report shared
+Shared
+
+MONTHLY LOCATION REPORT
+Atlas
+Dental.
+Location performance,
+clearly presented.
+
+CallsDirection requestsReviews
+
+PDF
+atlas-dental-monthly.pdfLocation metrics + client-ready summary
+
+Shared in the conversation for your team to review.
+
+Message #client-atlas
+
+Works everywhere
+
+ReportingWorks everywhere
+
+The old way→Just ask
+
+THE OLD WAY
+One task. Screen after screen.
+
+Find›Edit›Check
+
+Workspace / Location metrics01
+
+WOverviewReportsLocationsSettings
+
+Location metrics
+
+ReportingView
+
+Tempe · Location metrics→
+
+Mesa→
+
+Chandler→
+
+Workspace / Report builder02
+
+WOverviewReportsLocationsSettings
+
+Report builder
+
+Report builderLocation performance and a client-ready summary
+
+Workspace / Report export03
+
+WOverviewReportsLocationsSettings
+
+Report export
+
+ReportingReview
+
+Next stepReport prepared for your review
+
+Export the metrics. Build the report. Share the file.
+
+@Sydekick build our monthly location report for the client call.
+
+NNorthwind# client-atlas
+
+Victoria Brito
+@Sydekick build our monthly location report for the client call.
+
+RoshanInclude all location metrics.
+
+SydekickAPPPrepared for review
+
+Atlas Dental · Monthly report
+
+Context
+Calls · Direction requests · Reviews
+
+Prepared for review
+Location performance and a client-ready summary
+
+Report prepared for your review
+
+Victoria BritoApproved. Share it in this channel.
+✓
+
+REPORTINGMonthly report shared
+Shared
+
+MONTHLY LOCATION REPORT
+Atlas
+Dental.
+Location performance,
+clearly presented.
+
+CallsDirection requestsReviews
+
+PDF
+atlas-dental-monthly.pdfLocation metrics + client-ready summary
+
+Shared in the conversation for your team to review.
+
+Works everywhere
+
+One agent and all the marketing surfaces it operates on
+
+Sydekick · the agent
+
+Weekly listings audit
+
+Every Monday, 9:00 AM
+
+Run now
+
+Skills
+
+Teach it a repeatable task.
+
+Weekly local posts
+
+Draft 44 posts
+
+2Rewrite in each store's voice
+
+3Publish to
+
+Playbooks
+
+Multi-step jobs across every location.
+
+Google Business Profile
+
+Slack
+
+HubSpot
+
+AApple Business Connect
+
+Integrations
+
+Plugs into the tools you already use.
+
+Synup · marketing suite
+
+Ember Coffee Roasters
+
+Live on 47 directories
+
+Google Business Profile
+
+Apple Maps
+
+Bing Places
+
+Listings
+
+Accurate profiles across every directory.
+
+★★★★★Tripadvisor · Hayes Valley
+
+“The cold brew here is unreal.”
+
+V★★★★★Vitals · 2h ago
+
+★★★★☆Facebook · 5h ago
+
+Review Monitoring
+
+Track reviews from every source live.
+
+Thanks for stopping by Ember Coffee today. Mind leaving a quick review? ember.co/r/4kt
+Opens onhg
+
+Review Generation
+
+Turn happy customers into reviews.
+
+ECHayes Valley
+
+Cold brew season starts today.
+
+Social
+
+Schedule and publish across locations.
+
+Local pack#3
+
+1Ritual Coffee4.6 ★
+
+2Ember Coffee Roasters4.8 ★
+
+3Andytown Coffee4.5 ★
+
+SEO
+
+Rank higher in local search results.
+
+ember.co/locations/hayes-valley
+
+Hayes Valley0.4 mi
+
+Fillmore1.2 mi
+
+Mission2.8 mi
+
+Locator & Pages
+
+Store locators and local landing pages.
+
+ChatGPT“cold brew in hayes valley”
+
+Locals point to Ember Coffee Roasters on Linden St. ember.co
+
+Also cited inClaudeGemini
+
+AEO New
+
+Get cited by AI answer engines.
+
+Built for agencies
+
+Everything you need to run marketing across clients & locations
+
+Manage every client, keep each brand separate, and put your name on all of it.
+
+Scroll to explore all 9
+
+All clients
+
+Clients · 24
+
+RDRosewood
+
+BBBloom & Bean
+
+NWNorthWest
+
+VFVitaFit
+
+RDRosewood Dental
+
+45
+
+Locations
+
+4.6★
+
+Avg rating
+
+98%
+
+Listings live
+
+12
+
+To review
+
+Command center
+
+Multi-client command center
+
+Run every client from one place — each with its own context.
+
+Learn more: Multi-client command center
+
+Branding settings
+
+Upload logoSVG or PNG · shown everywhere
+
+Brand color
+
+Custom domain
+
+https://acmeagency.co
+
+White-label
+
+Pixel-perfect white-labeling
+
+Your brand, your domain, your colors — no Synup anywhere.
+
+Learn more about pixel-perfect white-labeling
+
+acmeagency.co
+
+AAcme Agency
+
+DashboardReviewsReports
+
+Welcome back
+
+Your visibility this month
+
+1.2kProfile views
+
+86Calls
+
+4.7★Rating
+
+Client portal
+
+Fully customizable client portal
+
+Give clients a branded portal that looks like yours.
+
+Learn more: Fully customizable client portal
+
+June performance
+
+B
+
+Monthly reportRosewood Dental · June 2026
+
+Auto
+
+Send to client
+1st monthly
+
+Reporting
+
+Automated branded client reporting
+
+Sydekick builds and sends client-ready reports on schedule.
+
+Learn more: Automated branded client reporting
+
+Brand profile
+
+BB
+
+Bloom & Bean
+
+Café · warm & playful
+
+Tone of voice
+
+FriendlyWarmLocalNo emoji
+
+Memory: Always mention the seasonal roast. Never discount below 10%. Sign off “See you soon ☕”.
+
+Brand voice
+
+Per-client brand voice & context
+
+Each client keeps its own voice, memory, and rules.
+
+Learn more: Per-client brand voice & context
+
+Team & access
+
+AL
+
+Ana Lópezana@agency.co
+
+Admin
+
+JM
+
+Jon Meyerjon@agency.co
+
+Editor
+
+Rosewood Dental
+
+Bloom & Bean
+
+VitaFit — billing
+
+Team & roles
+
+Team seats, roles & permissions
+
+Add your team with scoped, per-client access.
+
+Learn more: Team seats, roles & permissions
+
+Deploy agent
+
+VFVitaFit
+3 surfaces
+
+Listings45 locations
+
+ReviewsAuto-reply on
+
+Deploy to VitaFit
+
+Deploy
+
+Deploy Sydekick across client surfaces
+
+Put Sydekick to work on every client's listings, reviews, and pages.
+
+Learn more: Deploy Sydekick across client surfaces
+
+API reference
+
+POST/v2/locations200 OK
+
+curl -X POST api.synup.com \
+
+-H "Authorization: Bearer ••••"
+
+-d '{ "client": "rosewood" }'
+
+{ "id": "loc_8f2", "live": true }
+
+API
+
+Comprehensive APIs
+
+Build on top of everything with a full API.
+
+Learn more: Comprehensive APIs
+
+MCP connectors
+
+Synup MCP
+
+◆ClaudeLinked
+
+◇GPTLinked
+
+GGeminiLinked
+
+MCP
+
+First-party MCP support
+
+Native MCP for popular LLMs — plug Sydekick into your stack.
+
+Learn more: First-party MCP support
+
+Success Stories
+
+Join 5,000+ partners growing with us
+
+20%
+
+Revenue impact
+
+Zoek Marketing Delivers Custom Solutions For Clients by Partnering with Synup
+
+Read Story
+
+30%
+
+Revenue impact
+
+Olive Street Design Scales Client Solutions Effectively by Partnering with Synup
+
+Read Story
+
+Awards & recognition
+
+FAQs
+
+Everything you need to know about Synup, how it works, and getting started.
+
+What is Synup?
+
+Synup is a software platform that helps small businesses, multi location brands and agencies manage local listings, reviews, SEO presence and AEO (AI Optimization) paired with an agent, Sydekick which runs Local SEO & marketing on autopilot.
+
+How is Synup different from a traditional local marketing platform?
+
+Traditional tools give you dashboards and make you click through every task. Synup's platform includes AI features and it's agent, Sydekick capable of handling full tasks including research, content generation, campaign planning and execution.
+
+What can Sydekick actually do?
+
+It fixes and syncs business listings, monitors and responds to reviews, publishes local social posts, tracks and improves local rankings, and checks your visibility in AI search engines like ChatGPT and Perplexity. It also runs recurring skills and multi-step playbooks across all your locations.
+
+Can I cancel anytime?
+
+Yes. Every plan starts with a 14-day free trial that includes $50 in AI credits and one location to test. Cancel anytime — no long-term contracts, no cancellation fees. You can add a business and watch Sydekick complete your marketing tasks in real time.
+
+How does Sydekick keep me in control?
+
+You set the guardrails. Sydekick proposes actions and can run approved skills automatically, but anything sensitive like publishing a review response or changing core business info requires your sign-off. You see everything it does and can pause, edit, or reverse any action.
+
+Can it manage multiple locations and clients?
+
+Yes. Synup is built to scale from a single storefront to thousands of locations. You can run playbooks across every location at once, segment by brand or region, and manage separate client workspaces from one place.
+
+Which directories and tools does it connect to?
+
+Sydekick syncs listings to Google Business Profile, Apple Business Connect, Bing, Facebook and 100+ publishers, voice assistants and data aggregators, plus the review and social channels where your customers already are.
+
+Is it built for agencies?
+
+Absolutely. Agencies use Synup to onboard clients quickly, run marketing at scale, and prove results with white-labeled reporting. Sydekick does the repetitive work so your team can focus on strategy and growth.
+
+How does AI-search visibility (AEO) work?
+
+Answer Engine Optimization makes sure your business shows up accurately when people ask AI engines like ChatGPT, Perplexity, and Google's AI overviews for recommendations. Synup checks how you appear, flags gaps, and strengthens the structured data and content that these engines rely on.
+
+How much does it cost?
+
+Pricing scales with the number of locations and the capabilities you turn on. Every plan starts with a 14-day free trial, and you can see transparent pricing before you ever talk to sales.
+
+Is my data secure?
+
+Yes. Synup follows enterprise-grade security practices, encrypts your data in transit and at rest, and only connects to the platforms you authorize. You stay in control of what Sydekick can access and act on.
+
+How long does setup take?
+
+Minutes. Add a business, connect your accounts, and Sydekick starts scanning your listings, reviews, and visibility right away, surfacing what needs attention before you finish your coffee.
+
+Show all 12 questions
+
+Give the busywork to Sydekick
+
+Connect your business and give Sydekick a job: check your listings, draft review replies or plan next week’s posts.
+
+Start free trialTalk to us
+
+14-day free trial
+
+$50 in AI credits
+
+Cancel anytime
+
+Agent
+
+Chat
+
+Memory
+
+Skills
+
+Playbooks
+
+Capabilities
+
+Inference
+
+Approvals
+
+Audit trail
+
+Marketing Suite
+
+Listings
+
+Review Monitoring
+
+Review Generation
+
+Social
+
+SEO
+
+Locator & Pages
+
+AEO
+
+Partner Suite
+
+Multi-client command center
+
+Client portal
+
+White-label
+
+Team seats & permissions
+
+APIs
+
+MCP support
+
+White-labeled agent
+
+Resources
+
+Blog
+
+Customer Stories
+
+Compare
+
+Guides
+
+Help Center
+
+API Docs
+
+AI Info
+
+Affiliates
+
+Company
+
+Contact
+
+Pricing
+
+Solutions
+
+Agencies·
+Software Platforms·
+Franchises·
+Multi-Location Brands·
+Local Businesses
+
+Compare
+
+Synup vs Yext·
+Synup vs Birdeye·
+Synup vs Uberall·
+Synup vs BrightLocal
+
+Synup vs Vendasta·
+Synup vs Moz Local·
+View all →
+
+Ask AI about Synup
+
+Privacy Policy
+Terms
+Cookies
+Synup
+
+English
+
+EnglishEspañolFrançaisDeutsch

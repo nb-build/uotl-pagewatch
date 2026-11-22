@@ -1,0 +1,516 @@
+ServiceTitan Adaptive Capacity + Hatch AI Agents Update
+
+Product
+
+Product
+
+One AI platform for every call, text, and email.
+
+Explore products
+
+Platform Overview
+
+An overview of the Hatch platform
+
+Journey Builder
+
+Reach customers proactively at every stage
+
+Voice AI
+
+Answer, filter, and book calls, 24/7
+
+Data Bridge
+
+Integrate AI throughout your tech stack
+
+Messaging AI
+
+Always-on AI for SMS and email conversations
+
+Command Center
+
+Central hub for CSR tasks, AI, and insights
+
+Knowledge Engine
+
+Train and customize how your AI thinks
+
+AI Embed
+
+Embed AI into your processes the way you work
+
+Hatch’s Product Guide to AI Communication
+
+Download the eBook
+
+Solutions
+
+Solutions
+
+Turn every conversation into a booked job.
+
+Explore solutions
+
+24/7 Call Handling
+
+Leads, non-leads, and emergencies
+
+Customer Care
+
+Reminders, updates, follow-up, invoicing
+
+Speed to Lead
+
+Book more digital leads, 24/7
+
+Customer Recontact
+
+Membership, recurring services, past customers
+
+Estimate Follow-up
+
+Personalized follow-up to drive more revenue
+
+Marketing Blasts
+
+One to many outreach to leverage large audiences
+
+Lead Nurture
+
+Re-engage aged leads, estimates, no-shows
+
+See how Hatch books jobs 24/7
+
+Watch video
+
+Customers
+
+Customers
+
+Built for service businesses of every size.
+
+All Success Stories
+
+By Industry
+
+Home Services
+
+Masonry Concrete
+
+Cleaning
+
+Home Improvement
+
+Pressure Washing
+
+Handyman
+
+Pest Control
+
+Moving
+
+By Size
+
+SMB and Mid-Market
+
+Scalable communication for growing teams
+
+PE, Enterprise, and Multi-Location
+
+Standardize complex communication at scale
+
+Trusted by 2,000+ service brands raising the bar
+
+All Success Stories
+
+Integrations
+
+Resources
+
+Resources
+
+Guides, webinars, and tools to grow with AI.
+
+R-454B refrigerant change: What HVAC CSRs should tell homeowners
+
+View all blogs
+
+Playbooks
+
+30 Spam Triggers to Avoid in Your SMS Campaigns
+
+Hatch’s Product Guide to AI Communication
+
+Can AI Work in High-Ticket, Relationship-Driven Sales?
+
+View all playbooks
+
+Webinars
+
+Before You Invest in AI: The 3 Shifts Top Service Businesses Are Making
+
+The Science Behind High-Converting Estimate Follow-Up
+
+How AI is Shaping Lead Generation & Conversion
+
+View all webinars
+
+Tools
+
+Speed to Lead ROI Calculator
+
+Estimate Follow-Up Calculator
+
+Missed Call Recovery Calculator
+
+Pricing
+
+Login
+
+Try now
+
+Get a demo
+
+Test our Voice CSR yourself
+
+Talk to Hatch AI
+
+Request a demo
+
+Test our Voice CSR yourself
+
+See what your customers could experience firsthand.
+
+Talk to Hatch AI
+
+Call the number -> Checkout a demo experience
+
+Hatch Home Services
+(810) 425-1485
+
+Pick something to say:
+
+“My AC stopped cooling.”
+
+“Can someone come out tomorrow?”
+
+Request a demo
+
+Request a demo
+
+Share this article:
+
+URL Copied.
+
+BackBack
+
+August 19, 2026
+
+Hatch Updates & Info
+
+Hatch x ServiceTitan partnership expands to include Adaptive Capacity access
+
+The real test for AI booking isn't speed. It's whether it can follow complex rules and get the job done right.
+
+Written by
+
+Katie Eck
+
+Over a few short years, the AI market for the trades has rapidly become crowded, with a stream of new companies coming onto the scene promising everything you need to automate operations, including “full” integrations with many of the industry’s most trusted CRMs and FSMs, including ServiceTitan. Some of it works, but much of it doesn't hold up once you look at how it actually connects to your critical workflows, and the depth of integration each platform truly offers.
+
+When it comes to AI communications, every voice agent can answer phone calls quickly. Many can qualify leads and book appointments. Nobody is asking if these things are possible anymore.
+
+What owners and operators are asking now are the harder questions - those that determine whether a business can actually trust AI to book jobs correctly: Can AI actually know how my business operates? Can it run the specific workflows I need it to - the way a CSR would?
+
+Over 1,100 ServiceTitan businesses already know the answer: Hatch can.
+
+And for those running operations off of their Adaptive Capacity settings in ServiceTitan, the next question isn’t simply “Does it integrate with ServiceTitan ?” They're asking which platforms can actually understand scheduling logic, dispatch rules, and data well enough to be trusted with the customer relationship end-to-end. Better yet - they’re asking who ServiceTitan believes can do that well for their Titans.
+
+The answer doesn’t change. Hatch can.
+
+As a partner and ServiceTitan Certified App, Hatch has a deep, native integration that funnels ServiceTitan data directly into Hatch workflows, and back. Earlier this month, that funnel expanded to include Adaptive Capacity - a level of access entrusted only to select ServiceTitan partners in good standing.
+
+This is just one more reason ServiceTitan users can feel confident about choosing Hatch as their AI communications platform.
+
+How we got here
+
+Hatch has been an official ServiceTitan integration partner for years, long before "AI communications" was a category anyone was competing in. That relationship has grown into a strategic partnership, and Hatch consistently invests to build and support the needs of their mutual customers. This level of commitment eventually earned Hatch Certified App status in the ServiceTitan Marketplace, a status Hatch is committed to maintain.
+
+Certification isn't a badge you buy. ServiceTitan vetted and tested the integration directly, and now recommends and supports it. That matters more than it sounds like it should. If an issue ever comes up, both teams own the fix, so businesses aren't stuck bouncing between support teams trying to figure out which system dropped the ball.
+
+This level of collaboration is ultimately the result of two brands that share a core value going deeper than any integration: they care deeply about delivering best-in-class solutions that clear the path for home services businesses to operate as efficiently as possible, and grow revenue.
+
+So it’s no surprise that with a large percentage of customers already using Adaptive Capacity to optimize scheduling and booking, Hatch made the investment to build in simple new settings that enable ServiceTitan’s API to pass that same dispatching logic to Hatch.
+
+As a result, AI agents in Hatch can now follow the same rules when booking jobs for customers who have Adaptive Capacity set up. This means more Hatch x ServiceTitan customers are able to streamline complex scheduling and dispatch requirements across the two platforms, taking operational efficiency to an entirely new level.
+
+It's only natural that responsible business owners and operators are thinking about what "certified partner" should mean right now. AI booking is only as trustworthy as its ability to follow a business's actual rules, and most AI scheduling tools simply can't get there. Hatch can, because their integration was built for it.‍
+
+BOOK A DEMO OF HATCH
+
+‍
+
+Why does Hatch's integration with ServiceTitan's adaptive capacity matter?
+
+Hatch took care to make this a simple setting update on the Hatch side,1 but it has a large effect. A few things it unlocks:
+
+Every rule followed, automatically. A business that cuts maintenance capacity in half every Friday, or keeps a newer tech out of certain zones, doesn't have to explain that separately to Hatch AI. Hatch already sees it, because it's reading the same source of truth as ServiceTitan.
+
+Booking precision at scale. The same rules, the same accuracy, whether that's one location or twenty, one season or the busiest week of the year.
+
+AI that books like your best CSR. Same live data, same attention to detail around dispatch scheduling - even across multi-location or seasonal scheduling.
+
+One less reason to wait on AI. For operators who have invested time and resources to build out Adaptive Capacity rules, but have been waiting for an approved ServiceTitan AI communications platform partner to see those rules, the wait is over.
+
+How it works
+
+Note: See “Getting connected” for steps businesses need to take to make sure Hatch can access Adaptive Capacity rules and settings in ServiceTitan.
+
+Adaptive Capacity is ServiceTitan's own scheduling engine for businesses whose dispatching isn't simple. It's how a business injects real operating rules directly into ServiceTitan - which technicians are cleared for which job types, which zones a newer tech shouldn't cover alone, how much capacity to hold back during a slow week or open up during a busy one.
+
+Hatch now connects directly to that same Adaptive Capacity endpoint. When a Hatch AI agent looks for an appointment time, it asks ServiceTitan for availability the same way, using the capacity settings and rules the business has built out. ServiceTitan only returns the slots that already satisfy those rules, so Hatch is never offering a time that ServiceTitan itself wouldn't allow.
+
+As Hatch AI agents work with leads and customers to book jobs, that job doesn't sit in a separate system waiting for someone to key it in manually. It goes straight onto the ServiceTitan calendar, following the same scheduling logic ServiceTitan already uses to run that business - the technicians who are certified for the work, the zones they're allowed to cover, the capacity a business has actually planned for.
+
+What happens in ServiceTitan is what shows up in Hatch, and what Hatch books is what ServiceTitan dispatches.
+
+That seamless, end-to-end flow - lead in, conversation handled, job booked, dispatch rules respected - is the whole point. Two platforms that both understand what it takes to run a service business with real operational complexity, working from the same set of rules instead of two separate ones.
+
+Getting connected
+
+If you ServiceTitan customer already running Adaptive Capacity, it takes only a few minutes to make sure Hatch gets what it needs:
+
+In ServiceTitan: Update API access settings to the latest version of Hatch.
+
+Go to Settings → API Application Access → Hatch (Official) → Update to New Version → Enable Access.
+
+In Hatch: Update Capacity Source in ServiceTitan calendar settings to Adaptive, then run a test to confirm the connection has updated.
+
+Open the Calendar command → Set the calendar type to Advanced Dispatch → Go to ServiceTitan Configuration → Set Capacity Source to Adaptive
+
+Click Test Configuration in Hatch to confirm the connection. Pick a business unit and job type, run Fetch Availability, and confirm it returns real, available slots.
+
+Full step-by-step instructions, including screenshots, are in the Hatch Calendar command documentation. If you're not yet running Adaptive Capacity in ServiceTitan, that's a conversation with your ServiceTitan rep. Once it's on, Hatch is ready for it.
+
+Note: If you’re a ServiceTitan customer and unsure if you’re running Adaptive Capacity, it’s easy to confirm in ServiceTitan by searching your Settings for "cap." If you’re not using it, reach out to your ServiceTitan rep to find out how to get it set up.
+
+Where this is headed
+
+This may not be a surprise to savvy operators that have their pulse on the latest in the world of strategic partnerships within the home services industry. This update is also a reflection of a broader industry-wide shift. While the market remains crowded, the reality is the industry is starting to consolidate around fewer, deeper platform relationships - not more point solutions stacked on top of each other.
+
+That’s the vision Hatch has been building toward for years, relentlessly committed to building a single platform that delivers best-in-class, trustworthy AI-powered communications across the channels businesses use every day to engage and nurture customers, and convert more leads to booked jobs.
+
+Since the beginning, Hatch has embraced that this is done best by working in lockstep with the systems businesses already trust, making it as easy as possible for a business to harness the power of AI, without having to change how it actually runs.
+
+Hatch customers should be excited to know expanding the platform to support Adaptive Capacity is the newest evidence of this commitment, but it’s certainly not the last.
+
+We’re just getting started.
+
+Looking for more?
+
+Step-by-step guide to setting up Adaptive Capacity in Hatch
+
+Learn more about ServiceTitan’s Adaptive Capacity
+
+About Hatch: Hatch is a communications platform trusted by over 1,100 ServiceTitan businesses to use AI voice agents to answer calls - inbound and outbound - with text and email agents to handle the rest. Hatch AI agents work together to handle customers, qualify leads, and book jobs 24/7-with deep, certified integrations across the tools home service businesses already run on.
+
+‍
+
+1 Adaptive Capacity toggle is only useful if you have Adaptive enabled in ServiceTitan and have Adaptive Rules you’d like Hatch agents to follow. Customers need to make sure they are on the latest version of the Hatch app in ServiceTitan, then update their ServiceTitan configurations in their AI agent Calendar settings.
+
+Related articles
+
+View all articlesView all articles
+
+View all articles
+
+Nov 17
+
+Hatch Updates & Info
+
+Hatch Announces NPMA Partnership to Help Pest Professionals Grow Their Businesses with AI
+
+Learn MoreLearn More
+
+Oct 1
+
+Hatch Updates & Info
+
+Hatch Surpasses 150 Million Leads, Expands AI Agent Platform Into New Service Categories
+
+Learn MoreLearn More
+
+Sep 10
+
+Hatch Updates & Info
+
+Hatch introduces GPT-Live-1-powered Voice AI for service businesses
+
+Learn MoreLearn More
+
+Rated 4.3
+
+(77 Reviews)
+
+Scale revenue,
+
+not headcount
+
+Footer
+
+The AI communications platform for the trades
+
+Rated 4.3
+
+(77 Reviews)
+
+Product
+
+Platform Overview
+
+Voice AI
+
+Messaging AI
+
+Knowledge Engine
+
+Journey Builder
+
+Data Bridge
+
+Command Center
+
+AI Embed
+
+Solutions
+
+24/7 Call Handling
+
+Speed to Lead
+
+Estimate Follow-Up
+
+Lead Nurture
+
+Customer Care
+
+Customer Recontact
+
+Marketing Blasts
+
+Customers
+
+Home services
+
+Home improvement
+
+SMB/mid-market
+
+PE, enterprise, multi-location
+
+Case studies
+
+Users
+
+Resources
+
+Blog
+
+Playbooks
+
+Webinars
+
+Integrations
+
+Company
+
+Why Hatch
+
+Help Center
+
+Referral Program
+
+Pricing
+
+Careers
+
+Watch a demoWatch a demo
+
+Product
+
+Platform Overview
+
+Voice AI
+
+Messaging AI
+
+Knowledge Engine
+
+Journey Builder
+
+Data Bridge
+
+Command Center
+
+AI Embed
+
+Solutions
+
+24/7 Call Handling
+
+Speed to Lead
+
+Estimate Follow-Up
+
+Lead Nurture
+
+Customer Care
+
+Customer Recontact
+
+Marketing Blasts
+
+Customers
+
+Home services
+
+Home improvement
+
+SMB/mid-market
+
+PE, enterprise, multi-location
+
+Case studies
+
+Users
+
+Resources
+
+Blog
+
+Playbooks
+
+Webinars
+
+Integrations
+
+Company
+
+Why Hatch
+
+Help Center
+
+Referral Program
+
+Pricing
+
+Careers
+
+Watch a demoWatch a demo
+
+Hatchify, Inc. All rights reserved.
+
+Privacy Policy
+
+Your browser does not support the video tag.

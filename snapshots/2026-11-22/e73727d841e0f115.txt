@@ -1,0 +1,827 @@
+Loxo: The Talent Intelligence Platform That Replaces the ATS
+
+Platform
+
+‹ Back
+
+Platform overview
+
+Loxo’s Talent Intelligence Platform →
+
+Built as one, comprehensive platform — which means your entire workflow is in one, easy-to-use platform.
+
+DISCOVER TALENT
+
+Loxo Source
+
+Source from your database & Loxo’s at once
+
+Loxo Chrome Extension
+
+Easily add candidates to your database
+
+Contact Info Finding Agent
+
+Access candidates’ personal contact info
+
+ENGAGE CANDIDATES
+
+Loxo Outreach
+
+Build omnichannel outreach campaigns
+
+Campaign Automation
+
+Easily manage ongoing communications
+
+AI Notetaker
+
+Automatically capture interview notes
+
+MANAGE CANDIDATES
+
+ATS
+
+Move candidates through your pipeline
+
+CRM
+
+Build & nurture a strong talent database
+
+Self-Updating CRM Agent
+
+Transform your CRM into a living system
+
+COLLABORATE WITH CLIENTS
+
+Candidate Status Reports
+
+Turn your pipeline into customizable reports
+
+Hiring Manager Portal
+
+Share updates & get real-time client feedback
+
+Candidate Submittal Agent
+
+Share compelling candidate summaries
+
+TRACK PROGRESS
+
+Business Reporting
+
+Stay on top of key business metrics
+
+Team Reporting
+
+Incentivize performance & foster accountability
+
+Job Reporting
+
+Identify & double-down on winning behaviors
+
+GROW YOUR BUSINESS
+
+Sales CRM
+
+Build sales pipelines & track growth over time
+
+Account-Based Prospecting
+
+Find & engage ideal clients and companies
+
+Business Development Outreach
+
+Develop comprehensive nurture campaigns
+
+AI
+
+‹ Back
+
+AI overview
+
+With Loxo, you don’t get a collection of AI tools and third-party LLM wrappers — you get native AI integrated throughout your entire workflow, so it gets smarter with every search.
+
+Loxo’s approach to AI
+
+Learn more about AI at Loxo — from our agents to our philosophy on AI in recruitment — and how we've been paving the way in this arena since 2012.
+
+Learn more about AI at Loxo
+
+AI AGENTS
+
+Data Agents
+
+Keep your database clean, unique, and current
+
+Sourcing Agents
+
+Find the best talent faster with the Longlist and Shortlist agents
+
+Candidate Submittal Agent
+
+Easily craft compelling candidate summaries for clients
+
+Job Description Agent
+
+Build structured Skills DNA that powers the JD
+
+AI Notetaker
+
+Auto-capture and sync interview notes to your database
+
+Contact Info Finding Agent
+
+Access candidate phone numbers and email addresses
+
+AI FEATURES
+
+The Agent Impact Center
+
+See how Loxo's AI is working for you in real-time
+
+Loxo AI Chat
+
+Bring your favorite AI assistant into Loxo
+
+Natural Language Search
+
+Start your candidate search with plain text
+
+AI Recommendations
+
+See strong semantic matches at the top of your list
+
+Loxo Outreach GPT
+
+Have Loxo’s AI help you craft compelling outreach
+
+The Loxo MCP
+
+Unite Loxo with the AI tools you use daily
+
+Solutions
+
+‹ Back
+
+Success stories
+
+We understand that rarely does a recruitment firm work in only one particular model or industry — so explore the different ways Loxo can meet your varied needs.
+
+Success stories
+
+Hear from real recruitment leaders — across countries, recruitment types, and industries — how Loxo has impacted their business.
+
+Explore customer stories
+
+RECRUITMENT TYPE
+
+Direct hire firms
+
+Executive search firms
+
+In-house executive search
+
+Staffing agencies
+
+Corporations
+
+RPO firms
+
+INDUSTRY
+
+Technology
+
+Healthcare
+
+Insurance
+
+Nursing
+
+Life Sciences
+
+Construction & Trades
+
+Resources
+
+‹ Back
+
+A collection of resources that will help you become a Loxo power user, level up your recruitment game based on current best practices, and learn more about Loxo as a whole.
+
+USING LOXO
+
+Customer stories
+
+Hear success stories from real users
+
+ROI calculator
+
+Discover how much you could save
+
+Product updates
+
+Stay in-the-know about what’s going on
+
+Integrations
+
+Explore powerful integrations
+
+LEVELING UP
+
+Blog
+
+Keep your finger on the pulse
+
+Playbooks
+
+Deep-dives on recruitment best practices
+
+Webinars
+
+A library of in-depth learning sessions
+
+Podcast
+
+Hear from recruitment movers & shakers
+
+COMPANY
+
+About us
+
+From our founder, in his own words
+
+Why Loxo?
+
+See what makes us different
+
+Careers
+
+Explore open roles on our growing team
+
+Referrals
+
+Share Loxo with others & get rewarded
+
+Pricing
+
+More
+
+↓
+
+Sign InStart freeBook a demo
+
+Sign inStart free
+Book a demo
+
+CREATED BY LOXO | BUILT AROUND ARTIFICIAL INTELLIGENCE SINCE 2013
+
+The Talent Intelligence Platform replaces the ATS.
+
+An AI-native ATS is still an ATS.
+
+The ATS and CRM are only two of the fourteen pillars a firm runs on. Loxo is the Talent Intelligence Platform for executive search firms and recruiting agencies, with all fourteen in one system of record, from sourcing on the 850M+ professional graph we built to an agentic workforce and revenue operations. Ask any vendor to show you all fourteen.
+
+Start freeBook a demo
+
+What is a Talent Intelligence Platform, and how is it different from an AI-native ATS/CRM?
+
+G2
+
+4.6 star rating
+
+Capterra
+
+4.6 star rating
+
+#1 Momentum
+
+Leader
+
+Software Advice
+
+4.6 star rating
+
+GetApp
+
+4.6 star rating
+
+For too long, recruiters have been forced to settle for fragmented workflows. At Loxo, we set out to build something fundamentally different...
+
+What is a Talent Intelligence Platform?
+
+In short? The end to both the legacy ATS and the point solutions that have sustained them for so long.
+
+One system that unifies the entire recruiting lifecycle — sourcing, CRM, ATS, outreach, people data, Agents and AI — and learns as you use it.
+
+Legacy ATS
+
+A database that stores your work and nothing more — candidates sit in a system that never learns.
+
+Relationships live in your head, a spreadsheet, or a recruiter's inbox — and walk out the door when they do.
+
+Sourcing means manually toggling between social platforms, job boards, and data sources.
+
+Outreach is manual, inconsistent, and only as good as whoever sent the last email.
+
+Business development and recruiting live in separate tools, so BD context never reaches the recruiting team.
+
+Contact data is stale, third-party, and wrong half the time — so your best outreach still bounces.
+
+AI is merely bolted onto your workflow — and trained on someone else's data.
+
+Automation requires a separate tool, a Zapier workaround, or an engineer — and breaks when the API changes.
+
+Talent Intelligence Platform
+
+An enterprise-grade ATS that moves every candidate through your pipeline, connected to everything else.
+
+A true Recruiting CRM that builds and nurtures talent communities that compound over time.
+
+Native sourcing with 850 million people and millions of companies built in, not bolted on.
+
+Multi-channel outreach sequences that mirror your best recruiter — at scale.
+
+A unified Sales CRM and prospecting platform that manages BD and client relationships in one place.
+
+People and company data Loxo owns — verified mobile, personal, and work contact details.
+
+Proprietary AI across the whole platform, with models that get smarter with every successful search.
+
+Proprietary AI Agents are at work across the platform, handling the work so your team focuses on relationships.
+
+See all fourteen pillars of a Talent Intelligence Platform
+
+OUR POINT OF VIEW
+
+AI-native is a label. 2013 is a date.
+
+If AI-native means built around artificial intelligence from the first day, Loxo has been AI-native since 2013. The 2013 loxo.co homepage described the next generation ATS built around artificial intelligence and machine intelligence, and the first Loxo AI shipped in 2015.
+
+An AI-native ATS and CRM is where a Talent Intelligence Platform starts: two of its fourteen pillars. Loxo started there in 2013. The other twelve are the thirteen years since.
+
+A firm that only wants AI on top of its ATS and CRM records does not need a new ATS/CRM for that. Loxo’s API and MCP already connect a firm’s record to the AI assistant it uses every day.
+
+The step up from an AI-native ATS is a Talent Intelligence Platform. Loxo has been building that one around artificial intelligence since 2013.
+
+“For any team that’s serious about scaling,
+
+Loxo
+
+is
+
+worth it
+
+.
+
+”
+
+Isabel Cosby | PROTIS GLOBAL
+
+What makes Loxo different?
+
+Loxo was designed to give you everything you need to turn your best searches into the standard.
+
+01. Workflow
+
+02. Consolidation
+
+03. AI
+
+A REPEATABLE WORKFLOW
+
+One workflow to rule them all
+
+At Loxo, we believe that your workflow is your competitive advantage — and a repeatable workflow leads to repeatable quality.
+
+When your entire team is working on a shared, end-to-end workflow, leaders can identify (and double-down on) winning behaviors, spot bottlenecks early, and forecast confidently.
+
+That’s why we built our platform from first-principles, with the ideal recruitment workflow at the very center — so you can keep getting better, with every search.
+
+AN END-TO-END PLATFORM
+
+See everything in one place
+
+Consolidation isn’t just about saving clicks (although that’s nice, too). It’s about gaining the visibility you need to know what’s working, what isn’t, and why.
+
+With all of your data in one source-of-truth platform, you not only save time but gain confidence.
+
+By consolidating your ATS/CRM, sourcing, outreach, and more in one place, Loxo eliminates busywork and helps teams move faster — without sacrificing quality.
+
+INTENTIONAL, OWNED INTELLIGENCE
+
+Built around artificial intelligence since 2013
+
+AI-native is table stakes. What matters is what the AI stands on. At Loxo that is your firm’s own record, the 850M+ professional graph Loxo built and enriches, and every step of the workflow in one platform. Loxo shipped its first AI in 2015 and added an agentic workforce in August 2026.
+
+Make every search your best search
+
+Results that make you say “Let’s do it again. And again. And again...”
+
+Repeatable quality
+
+From knowledge stuck in recruiters’ heads...
+
+To a system that compounds, so that your best searches become the standard.
+
+Repeatable quality
+
+To a shared, repeatable system that turns your best searches into the standard.
+
+Owned intelligence
+
+From renting data and tools...
+
+To owned intelligence, all within one platform that keeps getting smarter.
+
+Owned intelligence
+
+To owned intelligence, within one platform that keeps getting smarter.
+
+Visibility and control
+
+From managing by gut...
+
+To a system that gets smarter over time and compounds productivity across the firm.
+
+Visibility and control
+
+To system-level visibility that shows you what's working, what isn't, and why.
+
+The firms that take talent seriously run on Loxo
+
+“Users” and “raving fans” tend to be one in the same around here.
+
+Explore customer stories
+
+From 10 tools to 2
+
+400%
+
+Growth in 18 months
+
+Isabel Cosby
+
+‍VP, Operations
+
+"Before Loxo, we were using three or four different tools just to keep things moving. Now, everything is in one place and it’s cut our time spent managing candidates by half."
+
+Dante Nino
+
+‍Founder & Managing Partner
+
+"One of our most recent hires made a placement in just 39 days. Another one just hit four placements in 90 days.”
+
+"The partnership with Loxo has been hand-in-hand."
+
+7 day
+
+Reduction in time-to-hire
+
+Four beliefs that guide our team, our products, and our innovation
+
+Matt Chambers
+
+Founder & CEO
+
+Modern recruiters should have it all
+
+You shouldn’t have to choose between sophistication and simplicity when choosing a technology partner.
+
+It shouldn’t take 10+ tools to make 1 hire
+
+We reject the status quo — and the death-by-a-thousand-clicks that has long defined recruitment.
+
+Intelligence must be owned, not rented
+
+Borrowed intelligence isn't a moat, and a system of record must be built to last.
+
+Workflow as a competitive advantage
+
+How you work is how you win — because without the right workflow, even the best tech will fall short.
+
+Matt Chambers
+
+Founder & CEO
+
+Ready to shape the future?
+
+Your job is placing the best talent in the roles that will define their careers, their lives, and our future. Our job is making it easier for you to do it.
+
+Start free
+
+Book a demo
+
+Find your recruitment zen
+
+If you’ve made it all the way down here, you’re very thorough! Which means you’re probably a master of your craft — and maybe a little bit stressed out. Either way, you deserve a deep breath and a moment of calm. We’ve curated a playlist designed to add a bit of peace to your day.
+
+Listen on Spotify
+
+Platform
+Talent Intelligence PlatformRecruiting CRMATSSourceConnectOutreachOutreach GPTAISales CRMBoost
+
+Recruitment types
+Direct hire firmsExecutive search firmsIn-house executive searchStaffing agenciesRPO firmsIn-house
+
+Industries
+HealthcareNursingTechnologySoftware EngineeringLife sciencesInsuranceConstruction & trades
+
+Resources
+BlogCustomer storiesPodcastsWebinarsPlaybooksROI CalculatorIntegrationsProduct updates
+
+Company
+AboutWhy Loxo?CareersReferralsPricingLegalAI Audit CenterRequest a demoStart free
+
+Follow us!
+
+©Loxo, All rights reserved.
+Privacy PolicySitemapTerms of ServiceGDPRCCPA Policy
+Your Privacy Choices
+
+Iframe is blocked. Accept cookies to load it.
+
+Preferences
+
+Accept All
+
+Preferences
+
+Manage Consent Preferences
+
+Essentials
+
+Always active
+
+Necessary for the site to function. Always On.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Analytics
+
+Analytics
+
+Measures usage and improves your experience.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Marketing
+
+Marketing
+
+Used for targeted advertising.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Personalization
+
+Personalization
+
+Remembers your preferences and provides enhanced features.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Reject All
+
+Accept All
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+By clicking "Accept", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Privacy Policy for more information.
+
+Preferences
+
+Reject
+
+Accept
+
+Preferences
+
+Manage Consent Preferences
+
+Essentials
+
+Always active
+
+Necessary for the site to function. Always On.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Analytics
+
+Analytics
+
+Measures usage and improves your experience.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Marketing
+
+Marketing
+
+Used for targeted advertising.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Personalization
+
+Personalization
+
+Remembers your preferences and provides enhanced features.
+
+Provider name
+
+Privacy Policy
+
+Name
+
+Tracker Name
+
+Description
+
+Tracker description
+
+Type
+
+Tracker type
+
+Retention:
+
+Tracker retention
+
+No trackers detected for this category.
+
+No providers detected for this category.
+
+Reject All
+
+Accept All
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+By clicking "Accept", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Privacy Policy for more information.
+
+Preferences
+
+Reject
+
+Accept
+
+Powered by
