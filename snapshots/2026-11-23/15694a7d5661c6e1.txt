@@ -1,0 +1,144 @@
+Campaigns: Send Automated Campaigns | Housecall Pro Help Center
+
+Skip to main content
+
+EnglishEspañol
+English
+
+EnglishEspañol
+English
+
+Search for articles...
+
+All Collections
+
+Marketing Center
+
+Campaigns
+
+Campaigns: Send Automated Campaigns
+
+Campaigns: Send Automated Campaigns
+
+July 24, 2026
+
+Table of contents
+
+Generate repeat business with Campaigns. Turn emails and text messages into paid jobs with Campaigns, our powerful marketing solution.
+
+Campaigns is your built-in marketing engine, designed to turn emails, texts, and postcards into booked jobs and repeat business. With automated sends, dynamic personalization, AI-powered content, and professionally designed templates, you can engage the right customers at the right time, without juggling third-party tools. All housed in the Marketing Center, Campaigns makes it easy to save time, cut costs, and turn one-time customers into loyal advocates.
+
+To access Campaigns:
+
+Go to Marketing > Campaigns
+
+How to Send an Automated Campaign
+
+To send an automated campaign:
+
+Go to Marketing > Campaigns
+
+Click Create a campaign
+
+Scroll down on the page and select Automated Campaigns
+
+Choose the targeting you’d like to have for your automated campaign. You can:
+
+Click New list to create a list from scratch
+
+Select an existing list, or
+
+Click the More icon (⋮) next to an existing list to edit list criteria
+
+When creating a list, you can create a list based on:
+
+Customer tags
+
+Location
+
+Lead source
+
+Lifetime value
+
+Creation date
+
+Last service date
+
+Customer type
+
+Notification
+
+The default customer exclusions that you cannot edit:
+
+Are unsubscribed/opted-out
+
+Are marked as Do not service
+
+Have invalid contact info
+
+Were last serviced more than three years ago
+
+When you’re ready to review your list, click Save & preview in the top right corner of the page
+
+Now you can choose a campaign flow template or build your own.
+
+When building your own Campaign, you can start a campaign based on either a Job or an estimate. Edit the triggers and add filters based on what is best for your campaign.
+
+Choose your Early exit rule by tapping on the “Early exit” button. You can choose when customers exit the campaign, and stop receiving comms from the Campaign based on:
+
+New job is scheduled
+
+New estimate is scheduled
+
+Estimate is won or lost
+
+Edit your time delays or messages by tapping on the card you want to edit.
+
+📌 Note: Your custom text message number must be set up before sending automated text messages
+
+To add a new step, tap the Add new button, and you can add an email, text message, or time delay.
+
+When you’re done editing your campaign, tap Next and preview your campaign.
+
+Understanding Delays
+
+In a multi-step flow, each delay in your campaign counts from the completion of the previous step, not from the original trigger.
+
+Example:
+
+If your flow is:
+
+Trigger: Job Completed
+
+Delay: 1 week → Email sends
+
+Delay: 2 weeks → Text message sends
+
+The text message will be sent 3 weeks after the job is completed (1 week + 2 weeks), not 2 weeks. Think of each delay as the gap between that step and the one before it.
+
+Automated Campaigns FAQ
+
+Are there restrictions on who I can send automated marketing messages to?
+
+Please read more in this help article to understand marketing consent.
+
+Need help?
+
+We're here for you! Chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746.
+
+Related Articles
+
+Automated Email Campaigns Overview and FAQ
+
+Campaigns: Step-by-Step Guide
+
+How Customer Lists Work for Different Campaign Types
+
+Housecall Pro Postcard Campaigns: A Complete Guide
+
+Automated Text Campaigns
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents

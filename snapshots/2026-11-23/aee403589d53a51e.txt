@@ -1,0 +1,146 @@
+Podium - Status
+
+Podium - Status Page
+
+Contact Support
+
+Get updates
+
+EmailSlackMicrosoft TeamsGoogle ChatWebhookRSSAtomAPI
+
+Contact Support
+
+Get updates
+
+EmailSlackMicrosoft TeamsGoogle ChatWebhookRSSAtomAPI
+
+Bulk Messaging experiencing partial outage
+
+Report an Issue
+
+Bulk Emails are failing to send
+Identified·Partial outage
+
+Update · November 23, 2026 at 7:05 PMUTC
+
+We are still monitoring the incident and working to return bulk email functionality as soon as possible
+
+Identified · November 23, 2026 at 6:45 PMUTC
+We're aware of an outage causing all bulk emails to fail to send. We're working with our partner to ensure a speedy resolution and will provide an update soon.
+
+Subscribe
+
+EmailWebhook
+
+Automations - Operational
+
+Automations
+
+Operational
+
+Bulk Messaging - Partial outage
+
+Bulk Messaging
+
+Partial outage
+
+Contacts - Operational
+
+Contacts
+
+Operational
+
+Messaging - Operational
+
+Messaging
+
+Operational
+
+Mobile - Operational
+
+Mobile
+
+Operational
+
+Payments - Operational
+
+Payments
+
+Operational
+
+Podium Services - Operational
+
+Podium Services
+
+Operational
+
+Public API - Operational
+
+Public API
+
+Operational
+
+Reviews - Operational
+
+Reviews
+
+Operational
+
+Surveys - Operational
+
+Surveys
+
+Operational
+
+LeadDrive - Operational
+
+LeadDrive
+
+Operational
+
+Phones - Operational
+
+Phones
+
+Operational
+
+Web Application - Operational
+
+Web Application
+
+Operational
+
+Webchat - Operational
+
+Webchat
+
+Operational
+
+Marketplace - Operational
+
+Marketplace
+
+Operational
+
+AI Employee - Operational
+
+AI Employee
+
+Operational
+
+Recent notices
+Show history
+
+Show history
+
+Show notice history
+
+Powered by Instatus
+
+© Podium Corp Inc. 2026
+
+Terms & Conditions | Privacy
+
+UTC
+
+UTC
