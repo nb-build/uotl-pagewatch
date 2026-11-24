@@ -1,0 +1,753 @@
+ECI Spruce ERP Integration | Evolution X Help Center
+
+Skip to main content
+
+Search for articles...
+
+All Collections
+
+ERP Integration
+
+ECI Spruce ERP Integration
+
+ECI Spruce ERP Integration
+
+Spruce Sync App for EvolutionX with details about setup, use cases, how customer sync works and more.
+
+Written by João Estima
+Updated today
+
+Table of contents
+
+What is Spruce ERP?
+
+Spruce® ERP software is an end-to-end business management software solution specifically for lumber, building materials, and hardware suppliers.
+
+👍 Important: Orders can only be created via the storefront. Admin order creation can be started but must be completed on the storefront by the customer. The cart verification, product verification (tally types, etc), and tax calculations between Spruce and EvolutionX work through the checkout process on the storefront.
+
+Spruce
+
+EvolutionX
+
+Accounts
+
+→
+
+Customers
+
+Addresses
+
+→
+
+Addresses
+
+Prices
+
+LIVE
+
+Storefront Prices
+
+Order History
+
+LIVE
+
+Storefront Orders
+
+Account Balances
+
+LIVE
+
+Storefront Account Balances
+
+Invoice History
+
+LIVE
+
+Storefront Invoices
+
+Statements
+
+LIVE
+
+Storefront Statements
+
+Inventory on Hand
+
+LIVE
+
+Live Inventory
+
+Web Order
+
+←
+
+New Order Processing
+
+Install from the App Store
+
+Enable the ECI Spruce ERP App from the App Store under the ERP category. Go to the EvolutionX Admin and click App Store → ECI Spruce ERP Integration.
+
+Spruce API Version: Indicates the Spruce system version used by the store. This version allows features to be automatically released for those specific versions.
+
+ECI API Endpoint URL: Set the API endpoint provided by ECI
+
+ECI SOAP Endpoint URL: Set the SOAP endpoint provided by ECI
+
+API Key: Set the API Key provided by ECI
+
+Shipping Country Code: Sets the country code for all shipping user addresses when synchronising Spruce customers with EvolutionX. ISO Alpha-2 code must be used
+
+Guest Customer Account: Sets the Account number that is going to be used for guest users
+
+ERP Order Discount Product SKU : Sets the SKU that will be used for order level discount
+
+👍 Important: Discounting isn't supported for stores with Non-taxable product.
+
+Auto Process Account Balance/Invoice payment In Spruce: The toggle determines if account balance and invoice payments are to be auto processed in Spruce. The default setting is true
+
+Auto Process Orders In Spruce: The toggle determines if orders placed on the storefront are to be auto processed in Spruce. Below are the options available:
+
+Auto Process Orders: Select this option to always auto process all orders in Spruce
+
+Do Not Auto Process Orders: Select this option to not auto process any order in Spruce
+
+Only Auto Process Orders With No Order Notes: Select this option to only auto process orders in Spruce if the order does not have an order note
+
+Map checkout order notes to Spruce delivery note field: The toggle determines if checkout order notes are mapped to Spruce delivery notes. If toggled on, the checkout order notes will have a character limit to avoid the notes being cut off in Spruce Order and Invoices PDFs.
+
+Spruce order notes (Sent along with the Order id): Sets the value to show under the Order ID in Spruce Order and Invoice PDFs. Read More Here
+
+​
+
+Environmental Fees: Apply Environmental Fees to certain products as soon as they're added to the cart. Read More Here
+
+Convenience Fees on Account/Invoice payments: The toggle determines if on account/invoice payments have convenience fees defined in Spruce for each payment method. Read More Here
+
+Convenience Fees Message: Tooltip to show to the user explaining the convenience fee. This message will override the message defined in Spruce.
+
+​
+
+Invoice Discounting Terms: The toggle determines if discounting can be applied to on-account payments or invoice payments. Read More Here
+
+​
+
+Invoice Consolidated Payments: The toggle determines if users can pay invoices from multiple jobs in a single transaction, including any applicable Finance Charges. Read More Here
+
+​
+
+Delivery Date on Orders: The toggle determines if the delivery date selected by the user during checkout is sent to Spruce with the order. This allows Spruce eCommerce orders with specified delivery dates to be prioritized for handling to facilitate on-time pickup or delivery. Requires Spruce version 31 or later.
+
+​
+
+Tax Method: Determines how taxes are applied during checkout. Read More Here. The available options are:
+
+Spruce tax code and rates for all orders — Uses Spruce tax codes and rates for all delivery and collection orders. This is the default option.
+
+Override Spruce tax for all delivery orders — Uses store taxes for delivery orders and Spruce taxes for collection orders.
+
+Override Spruce tax for Orders with New Addresses — Uses store taxes for delivery orders only when the shipping address does not have a seller reference. If the shipping address has a seller reference, Spruce taxes are used. Collection orders always use Spruce taxes.
+
+Override Tax Code: Sets the tax code to be used when store taxes are applied. This field is always displayed and is used when the selected tax method applies store tax calculation instead of Spruce tax calculation.
+
+Address State Field Mapping: Determines the source for the Address State value in EvolutionX. You can choose to use the standard Spruce State Field or the Spruce Delivery Point Field (with the State field as a fallback if the delivery point is empty).
+
+Error notification e-mail Sender: SES E-mail address to be used as sender (FROM) for emails sent when an integration error occurs.
+
+Error notification e-mail Receiver: E-mail address to receive (TO) information when an integration error occurs.
+
+Live Pricing & Inventory (Stock) Setup
+
+Learn how to setup live pricing and inventory (stock) from our dedicated article.
+
+Customer Account, Job(Child Account), and Address Sync
+
+Each night a one-way sync of all accounts, Jobs(child accounts in EvoX), and Addresses is pulled from Spruce customers tables and will create or update customers on EvolutionX. By default, these syncs are scheduled to run overnight to minimize any potential impact on your site’s performance during peak usage hours.
+
+👍 Important: Any Account or Address in EvoX that has an Account code and Seller reference will be updated by the sync process. Any existing data will be overwritten with the Spruce data, as Spruce is the owner of those records.
+
+You can also trigger a one-way sync of all accounts and child accounts from the ECI Spruce ERP App Store in EvolutionX. The duration of a sync depends on the volume of data being transferred. Larger data sets may take several hours to complete, while smaller syncs may finish more quickly. It’s recommended to plan for a few hours for larger syncs to ensure smooth operations.
+
+Customer Field Mapping
+
+Here are some important EvolutionX fields and how they are mapped with data from Spruce.
+
+Customer Account Number — EvolutionX sets this value as the Spruce Customer Account Number.
+
+Customer Seller Reference — EvolutionX sets this value as the Spruce Customer Job value.
+
+Customer Account Name — EvolutionX sets this value as the Spruce Customer Name.
+
+Customer Branch — EvolutionX sets this value as the Spruce Customer AR Branch
+
+Customer Address — EvolutionX sets this value as the Spruce Customer Address.
+
+Pricing Override AddToCart — All accounts with Spruce Status "On Hold" won't see the "Add to Cart" button in the Storefront.
+
+Account Status — All parent and children account with Spruce Status "Active", "Inactive" and "On Hold" will be enabled on the EvoX, but the ones with "Disabled" or "Closed" status will be disabled.
+
+Credit Status — All accounts with Spruce Account Type "Charge" will have the Credit Status enabled in EvoX. The child accounts inherit the credit status of the parent.
+
+N.B - Accounts disabled through the sync process can only be enabled from the admin
+
+Credit Status / On Account Payments
+
+👍 Important: The child accounts inherit the credit status of the parent. Credit status changes in EvoX will be overridden every night when the sync runs.
+
+Customers are able to pay "On Account" when their Account is set to Credit enabled.
+
+Admin
+
+Checkout
+
+The Customer Account in EvoX will be updated every night with the credit account status from Spruce. This is what control the "On Account" payment button. If you have credit, you get the button. If you don't have credit, the button should be removed.
+
+We are not evaluating orders in real time during checkout to determine if an account is over their allocated budget.
+
+When Spruce receives the order
+
+If the "Enforce Credit Limits" parameter is enabled for the API (In Spruce), orders can still be submitted, but whether the order is automatically processed or must be manually imported and reviewed is what the "Enforce Credit Limits" parameter determines.
+
+The "Enforce Credit Limits" parameter works in conjunction with the Credit Limit Override setting on the customer's account. If the credit limit override is set to "No password required", then the submitted order will be auto processed regardless of if the order total exceeds the customers credit limit
+
+The other credit limit override values will auto process or require manual processes based on some criteria
+
+Store Mgr Password and Credit Mgr Password
+
+If set and the order total exceeds the accounts credit limit, then the order will be queued and need manual import, review and processing
+
+Credit Mgr Password if 30 + balance
+
+If set and the order total exceeds the accounts credit limit, and the account is carrying a a past due 30 day balance, then the order will be queued and need manual import, review and processing
+
+Credit Mgr Password if 60 + balance
+
+If set and the order total exceeds the accounts credit limit, and the account is carrying a a past due 60 day balance, then the order will be queued and need manual import, review and processing
+
+Credit Mgr Password if 90 + balance
+
+If set and the order total exceeds the accounts credit limit, and the account is carrying a a past due 90 day balance, then the order will be queued and need manual import, review and processing
+
+Credit Mgr Password if 120 + balance
+
+If set and the order total exceeds the accounts credit limit, and the account is carrying a a past due 120day balance, then the order will be queued and need manual import, review and processing
+
+Payments Methods
+
+Credit Card Payments
+
+This includes tokenizing credit cards on the storefront, authorizing the amount of the order, and passing the token to Spruce for capturing the payments.
+
+Invoice
+
+Supported Payment Gateways
+
+BlueSnap
+
+Opayo
+
+Nuevi
+
+Card on file (Spruce)
+
+Spruce Card On File Credit Card Payments
+
+On Spruce ERP installations that support credit card payments, including US and UK customers, some card on file payment features can be supported on EvolutionX.
+
+Card on File for Payment of Storefront Orders — Available if the user role enables it and a card is already stored on Spruce for the customer's account.
+
+The card on file is selected at checkout as the payment method and Spruce will charge the card at the normal time during the order processing steps in Spruce.
+
+Card on File for Invoice Payments — Available if the user role enables it and a card is already stored on Spruce for the customer's account.
+
+The card on file is selected after the invoices have been chosen for payment. The card is either charged immediately or when processed by staff based on the "Auto Process Account Balance/Invoice payment In Spruce" toggle in Spruce app.
+
+Invoice Payments and Paying Balances Setup
+
+The storefront customers have the ability to pay invoices if they have their roles allowing the viewing of Invoices. This can be done in the Roles.
+
+If the storefront user has access to the Invoices or Account Balance screens, they will be allowed to pay using the card on file in Spruce.
+
+View ERP Cards on File allows the customer to use the card on file in checkout.
+
+👍 Important: This permission View ERP Cards on File can't be set for roles used by guest users.
+
+Invoice Payments - Three Types of Spruce Posting Accounts
+
+Using Spruce, Customers have many choices for paying their charge accounts. They can pay all their bills monthly in one payment, they can pay monthly by job, they can pay monthly by invoice and/or job, and they can pay by invoice with special discount terms for early payment. Each of these posting account types can be broken down by account or job:
+
+​
+
+Balance Forward: These accounts make bulk payments against the account or by job. Accounts that pay within a certain time, get a discount.
+
+Open Item: These accounts make payments by invoice and collectively get a discount if they pay by a certain date. Invoices can be grouped by job.
+
+Open Item (Terms): These accounts make payments by invoice only, and the amount of discount applied depends on the date the individual invoice is paid.
+
+Paying Invoices & Balance Forward by credit card
+
+You can enable customers to pay their balance forward accounts or Invoices by enabling it via the payment methods.
+
+Supported card types
+
+BlueSnap
+
+Opayo
+
+Nuvei
+
+Card on file (Spruce)
+
+Orders
+
+Make sure to tick "Require Cart Verification" for orders to be successfully sent to Spruce.
+
+​
+
+ERP Sales Code
+
+👍 Important: Please note that this feature requires Spruce version 33 or later.
+
+The Sales Branch Code in Spruce is an order-level field used primarily for tracking purposes, such as attributing sales commissions. This field is independent from both the order branch and the customer branch code. EvolutionX now supports sending this value when creating orders in Spruce by resolving it dynamically during checkout using a structured fallback approach.
+
+During checkout, EvolutionX first retrieves the customer account record from Spruce. If a Sales Branch Code is defined on the customer record, that value is used directly and included in the order sent to Spruce. This ensures that any customer-specific configuration in Spruce takes priority. This value is not stored in EvolutionX which ensures that the most up-to-date value is always used.
+
+If the customer record does not contain a Sales Branch Code, EvolutionX falls back to a new field introduced on the EvolutionX Branch configuration called ERP Sales Code. This allows businesses to define a default sales code at the branch level when customer-specific data is not available.
+
+If the Branch ERP Sales Code is also not populated, EvolutionX performs a final fallback to a new ERP Sales Code field configured at the store level in EvolutionX Store Settings. This provides a global default to ensure a value can still be sent when neither the customer nor branch has one defined.
+
+If no value is found across any of these three sources (customer, branch, or store), the Sales Branch Code is simply not included in the order sent to Spruce.
+
+Delivery Taxes
+
+You can setup the taxes for delivery in the following screen in Spruce system.
+
+Sales >> Database >> Adjustment codes
+
+​
+
+For delivery orders the zip code used for tax calculations is the zip code from shipping address defined by the user in checkout. Where a zip code doesn't exist against the Shipping Address, the country code will be used.
+
+For collection orders, the zip code used is from the selected collection branch. Where a zip code doesn't exist against the Branch Address, the country code will be used.
+
+​
+
+👍 Important: No delivery taxes should be set in EvolutionX. All taxes must be configured in Spruce.
+
+Spruce Order Notes
+
+Enabling the "Map checkout order notes to Spruce delivery note field" toggle will set a character limit in EvoX checkout order notes, to prevent the notes being cut in Spruce PDFs (green box) and will show a field to insert the "Spruce order notes". This text inserted in this field will be presented in Spruce Order and Invoices PDFs (red box).
+
+​
+
+Non-Stock Item Support (Template SKU, Vendor Codes)
+
+👍 Important: Spruce version 27.0 or later.
+
+To setup your non-stock items (e.g. Orgill & Do it Best), you will need to add your Vendor Code and Template SKU. Set that at the supplier level.
+
+If you need to override the Template SKU at the product level, add it here at the product level.
+
+We support non-stock items using the below.
+
+Template SKU - Supplier level or Product level
+
+Vendor Codes - Supplier level
+
+How the logic works for non-stock items
+
+EvoX does a live price lookup
+
+If the supplier has both of the below, we will pass them to Spruce in the live pricing request. If the product has the Template SKU, we'll send that to Spruce instead of the supplier's Template SKU
+
+Template sku in EvoX
+
+Vendor sku in EvoX
+
+Product UOM Logic
+
+If Vendor sku exists
+
+pass Spruce UOM
+
+If both Vendor sku and Template sku exists
+
+pass Spruce UOM
+
+If Template sku exists and "Include UOM" toggled on
+
+pass EvoX UOM
+
+If only Template sku exists
+
+pass Spruce UOM
+
+Spruce then will check for the following
+
+If product is in inventory based on the sku (Regular own products)
+
+return Price and UOM
+
+If Template sku exists (Special Order items - e.g. Windows)
+
+return Price and UOM
+
+If Vendor sku (DIB products)
+
+return Price and UOM
+
+Convenience Fees
+
+👍 Important:
+
+Convenience fees are only applied to Invoice or AR Balance payments. Convenience fees on an order is not currently supported.
+
+Fees in ACH payments are not currently supported
+
+Fees are only added to Credit Card Payments or Card on File payments.
+
+Spruce version 26.6 or later.
+
+You can enable the "Convenience Fees" toggle in Spruce app and define a information message (this message will override the message defined in Spruce). With this toggle enabled, when a user makes an on account or invoice payment, a percentage of the total amount will be added to the total. This percentage is based on a configuration made in Spruce for each payment method. To see how this is set up in Spruce, see this article. If this is enabled and a payment method used in EvolutionX is not configured in Spruce, we will use the default percentage fee defined in Spruce.
+
+Default Bankcard Type that is set in the branch will be used, if a match isn't found
+
+Payment Methods setup
+
+Spruce app toggle
+
+Storefront payment method card
+
+Invoice payment email
+
+Add-on SKU
+
+👍 Important:
+
+This feature is only available for Spruce customers with Spruce version 26.6 or later.
+
+Add-on SKU are added regardless of the customers location.
+
+In Spruce, you have the capability to incorporate additional products alongside existing ones. In EvolutionX, we use this feature to apply Environmental Fees to certain products as soon as they're added to the cart. To enable this functionality, simply designate an Add-on SKU within Spruce for the desired product.
+
+​
+
+After that, you need to enable the "Environmental Fees" on the EvoX Spruce app.
+
+​
+
+​
+
+Then users will encounter a message associated with the product during their searches or when reviewing items in their cart.
+
+​
+
+At checkout, once the user has selected their preferred delivery options, the additional product will join the cart, updating the total price accordingly.
+
+​
+
+The order details will also include information about the additional product.
+
+​
+
+Display UOM
+
+👍 Important: Spruce version 26.6 or later
+
+If your store has Spruce live pricing it is possible to show another Unit of Measure per product in store front (including configurable products). To show the UOM display on the storefront, simply add in the UOM that exists in Spruce. During the loading of the page we will call out to spruce and get the associated price based on this UOM. This UOM is for display purposes only and not used for pricing of products.
+
+​
+
+👍 Important: This feature requires the "Include UOM" toggled on. See here how to enable it.
+
+This is how it is displayed in store front:
+
+​
+
+​
+
+Zero Priced Items
+
+You can now place orders that include zero-priced items or consist entirely of zero-priced items using Spruce ERP. By turning on the zero-priced items toggle, these items are accepted and processed by the system.
+
+​
+
+Invoice Statement Discounting Terms
+
+👍 Important:
+
+Please note that this feature requires Spruce version 28 or later. Please contact our Spruce team to learn how to configure on Spruce.
+
+To enable Invoice Statement Discounting Terms in EvoX Spruce, navigate to the EvoX Spruce app settings. Locate the toggle labeled "Invoice Discounting Terms" and turn it on to activate this feature.
+
+​
+
+Once the Invoice Discounting Terms feature is enabled, the Storefront Account Overview screen will display a new select dropdown based on the account type. The options in the select will vary as follows:
+
+For Balance Forward Accounts, the select will include the options "Outstanding Amount", "Last Statement," and "Custom Amount."
+
+For Open Item Accounts, the select will include the options "Outstanding Amount" and "Select Invoices."
+
+If there is any discount applicable to either the on-account payment or the invoice payment, the system will display the discount amount and, if applicable, the discount date.
+
+Account Overview
+
+Invoices Grid
+
+​
+
+Payment Screen
+
+Consolidated Payments
+
+👍 Important:
+
+Please note that this feature requires Spruce version 29 or later.
+
+To enable Consolidated Payments in EvoX Spruce, go to the EvoX Spruce app settings. Find the toggle labeled "Consolidated Payments" and switch it on to activate the feature.
+
+Once enabled, users can pay invoices from multiple jobs in a single transaction, including any applicable Finance Charges.
+
+Invoices Grid
+
+Open Credits grid
+
+The Credits tab displays open and posted credits associated with payments, discounts, AR credit adjustments, on the account. It does not currently include debit adjustments. This tab is available in the Account Balance menu, next to the Invoices tab
+
+You can control the access of this tab in the user roles:
+
+👍 Important:
+
+• Please note that this feature requires Spruce version 32 or later.
+
+• Update the Spruce app might be needed to the version check take effect.
+
+Payment Screen
+
+Tax Method
+
+The Tax Method setting determines which tax source is used during checkout for delivery and collection orders.
+
+By default, the integration uses Spruce tax code and rates for all orders. This means Spruce remains the source of truth for tax calculation on both delivery and collection orders.
+
+To support stores that require more flexibility, the following additional options are available:
+
+Override Spruce tax for all delivery orders
+
+Delivery orders use store taxes during checkout.
+
+Collection orders continue to use Spruce taxes.
+
+When store taxes are used for delivery orders, the Override Tax Code value is sent with the order.
+
+Override Spruce tax for Orders with New Addresses
+
+For delivery orders, EvolutionX checks if the shipping address has a seller reference.
+
+If the address does not have a seller reference, store taxes are used during checkout.
+
+If the address does have a seller reference, Spruce taxes are used during checkout.
+
+Collection orders always use Spruce taxes.
+
+When store taxes are used, the Override Tax Code value is sent with the order.
+
+👍 Important: The Override Tax Code field is always shown in the app settings and is used whenever the selected tax method applies store taxes instead of Spruce taxes.
+
+Primary Bin Location
+
+👍 Important: Spruce version 34 or later
+
+The Primary Bin Location shows shoppers where an item is kept in the branch they are shopping. The location comes from Spruce.
+
+Go to the ECI Spruce ERP app settings and turn on Show primary bin location. It is off by default. Save the app.
+
+The toggle is shown only after the feature is enabled for the store. If you do not see Show primary bin location, ask the EvolutionX team to enable it.
+
+Primary bin location text appears when the toggle is on. It sets the text shown after Find in store on the product page:
+
+Code — the primary bin code from Spruce
+
+Description — the primary bin description from Spruce
+
+Code and description — both. This is the default.
+
+In Spruce, if you go to Inventory > Database > Item, the code and the description are set on the item for that branch.
+
+If you navigate, in Spruce, to Inventory > Database > Code definitions > Location tab, you can find the Bin location and description.
+
+On the product page, under the current branch name and below Add to cart, the line reads Find in store followed by the text chosen in Primary bin location text.
+
+The line is for the branch the shopper is currently on. Switching branch loads that branch’s location from Spruce. It is shown only to roles that can view product inventory. Category and search tiles do not show it.
+
+Address State Field Mapping
+
+This setting allows you to choose which field in Spruce should be used as the Address State value in EvolutionX. This provides more flexibility for managing delivery rules if you prefer or need to use the Delivery Point data as the primary identifier for an address location.
+
+Go to the ECI Spruce ERP app settings and locate the Address State Field Mapping dropdown to configure your preference:
+
+Use Spruce State Field (Default): The standard Spruce State field is mapped directly to the EvolutionX State field.
+
+Use Spruce Delivery Point Field as State value: If the Delivery Point field in Spruce contains a value, it will be used as the State value. If the Delivery Point is empty, the system defaults to using the standard Spruce State field.
+
+How it works
+
+The mapping preference applies to the following synchronization processes:
+
+Nightly Scheduled Sync: Addresses are updated during the nightly sync if the associated account has also been updated in Spruce.
+
+Manual Account Sync: You can force an update of all addresses for a specific account by triggering a manual sync from the App Store settings.
+
+Checkout Sync: When a user proceeds to the checkout, EvolutionX always synchronizes the address data from Spruce.
+
+👍 Important: This setting only affects how EvolutionX reads data from Spruce. When EvolutionX sends an order (Order Sync), Spruce accepts any state value provided in the order address, so no changes are made to the order processing logic.
+
+FAQs
+
+Totals not matching in Orders error
+
+Check Delivery Tax isn't setup
+
+If you don't have your tax setup correct in Spruce and Matching EvoX. Check this section to more details.
+
+Check Cart Verification is Enabled in Spruce
+
+The "Require Cart Verification" parameter and the "Allow zero price on items" should be set on the system. Check this section to more details.
+
+Orders without delivery taxes
+
+All taxes are calculated in Spruce. To have delivery taxes in Orders, they need to be defined in Spruce. Check this section to more details.
+
+Is the Global Payments gateway supported for credit cards?
+
+No, we do not currently support the Global Payments (Cayan) gateway.
+
+Enforce PO
+
+If a PO number is required during checkout, but the role does not mandate it, please verify whether the Global Account (for guest users) or the specific account has not enabled the 'CustomerPORequired' option in the Spruce system.
+
+How to setup different pricing scenarios in Spruce
+
+Spruce is a complex ERP that allows you to setup products in multiple ways to suit your internal staff. Positioning your products on an ecommerce store is a new scenario and you may need to display products and pricing in a particular way. Review a few workflows to suit your needs.
+
+See pricing workflows
+
+What Tally types are supported
+
+Learn more about what tally types are supported and how to set them up in EvoX
+
+Running Do it Best and Orgill Catalogs
+
+In order to run your DIB or Orgill catalogs you will need to following.
+
+Spruce version should be at least v26.6
+
+You have a Vendor Template Item setup in Spruce
+
+You have a Template Item for Pricing setup in Spruce.
+
+The delivery date always gets set to the following day in Spruce
+
+The Deliver On date will be set based on the system parameter setting in Spruce for the "To Be Delivered Days" which is set to 1 Day (next day). This is intended to be a place holder delivery date for the Order can can/should be arbitrarily changed by the Merchant based on factors that can/will dictate when the order can actually be delivered i.e. Truck availability, route planning, special delivery requests etc.
+
+There is not a way to set in Spruce system the preferred delivery date based on the passed in Delivery Notes from EvoX. We only allow an order to be requested as delivery, and the final delivery date is then up to the Merchant as stated above.
+
+The Merchant should be reviewing the Orders in case special notes are passed either involving delivery or some other request by the customer. This can be done either in the Orders transaction, or by the Dispatcher in the Deliver module in Spruce.
+
+​
+
+It's also possible place the orders with the AutoProcess flag set to False from EvoX, which then would require the Merchant to manually import, review, and process each online order giving them a chance to immediately review any special notes. See "Auto Process Orders in Spruce"
+
+Store logo is not showing in Order and/or Invoice PDF
+
+If the store logo is not showing in the Order or Invoice PDF on the Storefront, please contact the Spruce support team. Only they can insert the logo into the Spruce system, as this action requires their direct intervention.
+
+What is the difference between the Date and Days fields in the Invoices grid?
+
+In the Invoices grid, there are two fields: Date and Days.
+
+The Date field shows the Invoice Issue Date.
+
+The Days field displays the number of days remaining between today and the Invoice Due Date.
+
+Can I pay invoices from multiple jobs at the same time?
+
+If you're using Spruce version 29 or later , you can pay invoices from multiple jobs simultaneously by enabling the Consolidated Payments feature (see here).
+
+Otherwise, this functionality is not supported. If you have already selected invoices from one job and attempt to select invoices from another, you will receive the following warning message:
+
+​
+
+To proceed, you must either complete payment for the current selection or discard it to start a new selection from the other job.
+
+Add-on SKU Description Truncation
+
+In Spruce, Add-on SKU descriptions are limited to 32 characters. If the description wraps to a second line within Spruce, only the first line (up to 32 characters) will be visible in EvolutionX. As a result, longer descriptions may appear cut off in EvolutionX and Spruce documents.
+
+Why did a payment appear as a discrepancy in EvoX when the return had already been processed?
+
+One of the reasons of this behavior is that the charge returns for the transactions in question were processed in Spruce but had not yet been posted. In Spruce, a return must be posted for it to be fully recognized. Until then, it remains in an "Open Credit" status.
+
+Product shows "Out of stock" in EvolutionX but has inventory in Spruce
+
+If you have one or more products that show as Out of Stock in EvolutionX, even though they have inventory in Spruce, confirm that both the product and the branch are eCommerce enabled in Spruce.
+
+When EvolutionX requests available quantities, if either the branch or the product is not enabled for eCommerce, Spruce will not return any inventory data, resulting in the Out of Stock message, even if there is stock available.
+
+Check Spruce settings to ensure both are correctly enabled for eCommerce.
+
+UOM mismatch (Evo X --> Spruce) can also cause items to show the incorrect/outdated stock. For example, Evo X displays an items UOM as "EA" while Spruce shows "PAL".
+
+Credit Allocation
+
+When a return is processed and it’s associated with an original invoice that is still an Accounts Receivable open item, the return is allocated to the original invoice, so if a user chooses to post that credit, the posting screen will default to applying it against the original invoice:
+
+Until the original invoice has the credit applied against it in Spruce, it can appear (in Spruce eCommerce) as unpaid, but with a balance that is lower than the invoice total:
+
+Because the return is allocated to the invoice, it is deducted from the balance due on that invoice.
+
+Customers can’t see/apply their invoice discounts
+
+If your customers are unable to see or apply their invoice discounts, check the following:
+
+Verify feature is enabled in EvoX Spruce
+
+In the EvoX Spruce app settings, make sure the “Invoice Discounting Terms” toggle is turned on.
+
+Check Spruce system settings
+
+In your Spruce back office, ensure the related Parameter Settings are enabled.
+
+Enable at the customer account level
+
+Open the customer’s account and confirm the discounting option is activated at the account level.
+
+Creating online jobs
+
+Customers cannot create new jobs online; all jobs must be created in Spruce and then synced to EvolutionX.
+
+Finance Charges
+
+Can I require customers to pay finance charges first?
+
+Yes. You can require customers to pay their finance charges first by enabling the appropriate setting in Spruce. In the Spruce back office, navigate to:
+
+​Parameter Settings > Receivables > Posting Options, then select “Pay Finance Charges First.”
+
+If this setting is not enabled, finance charges will still appear on customer accounts; however, customers can choose not to pay them.
+
+Can finance charges be managed on a per-customer basis?
+
+No. This setting is applied globally. Once enabled, it affects all customers and cannot be configured individually per customer.
+
+Why did Spruce/EvolutionX show a payment as "successful" when the ACH actually failed?
+
+Spruce imports ACH transactions as it receives a successful processor response and applies them to the account (it treats ACH like a credit‑card transaction in the UI). ACH settlement, however, is asynchronous (typically 3–5 business days) and can later be returned (NSF, wrong account, etc.). That creates the apparent “disconnect”: the payment was accepted by the processor/ODFI and posted in Spruce/EvoX, but the funds never settled to the merchant bank account.
+
+Spruce’s official guidance on ACH handling, settlement timing, returns, daily reconciliation, and the exact procedures above: Spruce — Setting up and Managing ACH Payments
+
+Did this answer your question?
+Disappointed Reaction😞Neutral Reaction😐Smiley Reaction😃
+
+Table of contents
+
+Website

@@ -1,0 +1,1331 @@
+9 Best Cloud Phone Systems for Business, Compared (2026) | Retell AI
+
+Retell crosses $100M in revenue run rate.
+
+Read our story
+
+Product
+
+Build
+
+Tell-1
+
+Retell's LLM, the #1 model for contact centers
+
+Call Transfer
+
+Switch between human and AI
+
+Book Appointments
+
+Check availability and book
+
+Knowledge Base
+
+AI uses existing knowledge
+
+Navigate IVR
+
+Handle keypad menus
+
+Deploy
+
+Dialer
+
+Run high volume campaigns
+
+Branded Call ID
+
+Your business name as a caller ID
+
+Verified Phone Numbers
+
+Prevent spam flags
+
+Monitor
+
+Post Call Analysis
+
+Uncover what's working
+
+AI Quality Assurance
+
+Improve reliability at scale
+
+Introducing Retell Dialer
+
+See release notes
+
+Solutions
+
+Industries
+
+Healthcare
+
+Financial Services
+
+Insurance
+
+Logistics
+
+Retail & Consumer Goods
+
+Travel & Hospitality
+
+Debt Collection
+
+Use cases
+
+Overview
+
+AI Dispatch Service
+
+Lead Qualification
+
+AI Receptionist
+
+AI Customer ServiceAI Answering Service
+
+Hire a certified Retell solution partner
+
+See Customer Stories
+
+Hear from our customers
+See customer stories
+
+Developers
+
+Resources
+
+Documentation
+
+Status
+
+GlossaryLearn
+
+Integrations
+
+Overview
+
+Make
+
+Twilio
+
+Vonage
+
+Go High Level
+
+n8n
+
+Hubspot
+
+Resources
+
+News
+
+BlogChangelogCommunity
+
+EventsCustomer Stories
+
+Company
+
+About UsCareers
+We’re hiring
+NewsroomBrand AssetsTrust Center
+
+Partners
+
+Solution Partner ProgramSolution Partner DirectoryApp Partner DirectoryCreator Partners
+
+Pricing
+
+Contact salesLoginContact salesTry for free
+
+Product
+
+Solutions
+
+Developers
+
+Resources
+
+Pricing
+
+Try for freeContact sales
+
+Build, deploy, and manage next-generation AI voice agents that sound human, execute tasks, and scale effortlessly.
+
+Product
+
+Solutions
+
+Developers
+
+Resources
+
+Blogs
+/
+
+The 9 Best Cloud Phone Systems of 2026, Compared
+
+The 9 Best Cloud Phone Systems of 2026, Compared
+
+Retell
+
+AI Voice Agent Platform
+
+Published
+
+April 24, 2026
+
+Reviewed
+
+November 24, 2026
+
+22
+
+min read
+
+About this article
+
+Compare 9 cloud phone systems for business in 2026 on published per-seat price, SMS allowances, CRM integrations, AI call handling and support.
+
+BACK TO BLOGS
+
+REVIEWED:
+
+November 24, 2026
+
+Add Retell AI as a preferred source on Google
+
+SHARE ARTICLE
+
+Summarize with:
+
+ON THIS PAGE
+
+Heading Link
+
+See Retell AI in action
+Start free
+
+Back to top
+
+The cloud phone systems compared here are Retell AI, RingCentral, CloudTalk, Nextiva, Dialpad, Zoom Phone, 8x8, GoTo Connect and Quo. Each is compared on published per-seat price and listed add-ons, SMS allowances, CRM integrations, AI call handling and support, using each provider's own pricing pages and docs, checked on November 24, 2026.
+
+Published entry prices run from $10 (Nextiva Go) to $20 (RingCentral RingEX Core) per user per month on annual billing, with CloudTalk Starter at €25 (as of November 2026). The entry plan often leaves out the things teams buy a phone system for: texting volume, CRM integrations, 24/7 phone support and AI call answering.
+
+For smaller teams, see our guide to VoIP phone systems for small business.
+
+Disclosure: Retell AI publishes this list, and Retell AI is one of the nine products in it, placed first. Retell AI is an AI voice agent platform that works on top of a phone system, so it is not a like-for-like alternative to the other eight. The comparison is based on vendor documentation and public pricing pages reviewed in November 2026. We did not run hands-on tests of the other eight products.
+
+Key takeaways
+
+A cloud phone system is a business phone service hosted by the provider and delivered over the internet. Cloud VoIP, hosted VoIP, hosted PBX and cloud PBX describe the same buying decision.
+
+Lowest published per-user prices on annual billing (as of November 2026): Nextiva Go $10, Dialpad Connect Standard $15, Quo Starter $15, Zoom Phone US and CA Unlimited $16, RingCentral RingEX Core $20 and CloudTalk Starter €25. GoTo Connect lists no prices, and we could not confirm a current 8x8 price.
+
+Texting is where entry plans differ most. RingCentral Core includes 25 SMS per user per month, Nextiva Go includes 50, CloudTalk includes none and bills per message, and Quo lists unlimited US and Canada messaging under a fair usage policy.
+
+CRM integrations usually start one tier up: RingCentral Advanced, Dialpad Connect Pro, CloudTalk Essential, Nextiva Business and Quo Business.
+
+AI call answering is priced separately from seats almost everywhere: RingCentral AI Receptionist starts at $39 per month, CloudTalk AI voice agents start at €99 per month after 50 free minutes, and Nextiva XBert costs $1.50 per interaction after 10 free ones.
+
+An AI voice agent such as Retell AI connects to an existing cloud phone system over SIP and answers the calls your team cannot pick up. It does not replace seats, extensions or internal calling.
+
+Best cloud phone systems at a glance
+
+Retell AI: Best for businesses that want to automate calls, not just route them
+
+RingCentral RingEX: Best for teams needing deep CRM integration depth
+
+CloudTalk: Best for SMB and growing B2B sales teams
+
+Nextiva: Best for 24/7 human customer support
+
+Dialpad: Best for built-in call transcription and AI coaching
+
+Zoom Phone: Best for teams already paying for Zoom Meetings
+
+8x8: Best for unlimited international calling
+
+GoTo Connect: Best visual dial plan editor
+
+Quo (formerly OpenPhone): Best for under-10-person teams and shared inboxes
+
+How do these cloud phone systems compare?
+
+Feature
+
+Retell AI
+
+RingCentral
+
+CloudTalk
+
+Nextiva
+
+Dialpad
+
+Zoom Phone
+
+8x8
+
+GoTo Connect
+
+Quo
+
+Best For
+
+AI call handling
+
+CRM integrations
+
+SMB outbound dialing
+
+24/7 support
+
+AI transcription
+
+Zoom-native teams
+
+International calling
+
+Visual routing
+
+Under-10 teams
+
+Pricing (start)
+
+From $0.07/min, no per-seat fee
+
+$20/user/mo (annual)
+
+€25/user/mo (annual)
+
+$10/user/mo (annual)
+
+$15/user/mo (annual)
+
+$16/user/mo (annual)
+
+Not confirmed
+
+Quote-only
+
+$15/user/mo (annual)
+
+SIP/Telephony
+
+Yes, bring-your-own
+
+Managed
+
+Managed
+
+Managed
+
+Managed
+
+Managed, BYOC option
+
+Managed
+
+Managed
+
+Managed
+
+AI Call Handling
+
+Native, full agents
+
+AI Receptionist add-on, from $39/mo
+
+AI voice agents sold separately, from €99/mo
+
+XBert, 10 free interactions, then $1.50 each
+
+AI Agents, billed per conversation
+
+Call summaries included, Virtual Agent add-on
+
+Not confirmed
+
+AI Receptionist plan tier
+
+Sona included, capped
+
+SMS Cap (base plan)
+
+None
+
+25/user/mo
+
+No allowance, billed per message
+
+50/user/mo
+
+Not published
+
+Domestic SMS and MMS included
+
+Not confirmed
+
+Not published
+
+Unlimited US/Canada (fair use)
+
+Concurrent Calls
+
+20 free, scalable
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Per seat license
+
+Post-Call Analytics
+
+Structured, per call
+
+Core reporting on Advanced
+
+Conversation Intelligence add-on
+
+10 AI summaries/user/mo on Go
+
+AI Recaps included
+
+Call summaries included
+
+Not confirmed
+
+AI call summaries on CX plans
+
+AI summaries on Business and up
+
+Compliance
+
+SOC 2 Type I and II, HIPAA BAA, GDPR
+
+HIPAA, GDPR, PCI, HITRUST
+
+SOC 2 Type 2, HIPAA, GDPR
+
+SOC 2, HIPAA, ISO 27001
+
+SOC 2, HIPAA, GDPR
+
+SOC 2 Type 2, HIPAA
+
+Not confirmed
+
+Not confirmed
+
+SOC 2 Type II, HIPAA
+
+Free Trial/Credit
+
+$10 credits
+
+14-day trial
+
+14-day trial
+
+Not published
+
+14-day trial
+
+Trial available, length not published
+
+Not confirmed
+
+Not published
+
+7-day trial
+
+Pricing and plan details checked against each vendor's own pricing page on November 24, 2026. GoTo Connect lists no per-seat rates. 8x8's pricing pages could not be loaded on that date, so its cells show "Not confirmed" except where 8x8's help center covers the point. CloudTalk's page displayed euro prices.
+
+How we evaluated these cloud phone systems
+
+This is a desk comparison. On November 24, 2026 we read each vendor's public pricing page, plan comparison and help or security pages, and recorded what each one states. Where a page did not state something, the entry says "not published" or "not confirmed" and gives no estimate from review sites.
+
+We did not place test calls, measure call quality, audit customer invoices or interview customers. Retell AI is placed first because it is our product and because this guide weights AI call handling. The other eight entries are not scored, and their order is not a ranking by score.
+
+Every entry is compared on the same five criteria.
+
+Published per-seat price and listed add-ons
+
+We recorded the entry price on annual and monthly billing, any seat minimum, and the add-ons the vendor prices separately. Taxes and regulatory fees are extra with most providers. RingCentral lists a Federal Universal Service Recovery Fee, an E911 Service Fee and a Compliance and Administrative Cost Recovery Fee. CloudTalk adds an 11% cost recovery fee for customers billed in the United States.
+
+SMS allowances
+
+We recorded the texting allowance on the entry plan and the next tier up. Business texting in the US also requires registration with The Campaign Registry. Quo lists a one-time $19.50 carrier review fee and a monthly fee of $1.50 to $3 for it.
+
+CRM integrations
+
+We recorded which plan first includes CRM integrations and which CRMs the vendor names. We did not test sync behavior.
+
+AI call handling
+
+We separated AI that helps a person on a call (transcripts, summaries, coaching) from AI that answers the call itself (an AI receptionist or voice agent), and recorded how each is priced.
+
+Support
+
+We recorded the support channels and hours each vendor lists per plan, and whether a free trial is published.
+
+What is a cloud phone system?
+
+A cloud phone system is a business phone service that runs over the internet from the provider's data centers instead of on PBX hardware in your office, so your team can make and take calls on a desk phone, laptop or mobile app. Cloud VoIP, hosted VoIP and cloud PBX are other names for the same thing. The modern cloud phone stack covers inbound routing, outbound dialing, SMS, voicemail, and usually a video or team chat layer bundled as UCaaS (unified communications as a service).
+
+Several tools on this list now include some form of AI call handling, which changes what a cloud phone system can do when no one is free to answer.
+
+How a cloud phone system works
+
+The provider hosts the call control software, connects it to phone carriers, and gives you an admin portal. When someone dials your number, the call reaches the provider, which applies your routing rules (business hours, auto attendant, ring groups, queues) and delivers the call over the internet to an app or IP desk phone. Adding a user means assigning a license and a number in the portal.
+
+Cloud phone system vs VoIP vs hosted PBX
+
+VoIP is the technology that carries voice over an IP network. A cloud phone system is the full product built on it: numbers, routing, voicemail, texting, apps, analytics and admin. Hosted PBX and cloud PBX are older names for a PBX run by the provider. Cloud telephony is the broader term, which also covers SIP trunks and voice APIs that developers build on.
+
+Cloud phone system vs on-premises PBX
+
+Cloud phone system
+
+On-premises PBX
+
+Where it runs
+
+Provider data centers
+
+A server in your office
+
+Hardware
+
+Optional desk phones
+
+PBX server, desk phones and wiring
+
+Cost model
+
+Per-user subscription
+
+Upfront purchase plus maintenance
+
+Adding users
+
+Assign a license in the admin portal
+
+Limited by installed capacity
+
+Remote work
+
+Same number on mobile, laptop or desk phone
+
+Tied to the office unless you add remote access
+
+Maintenance
+
+Handled by the provider
+
+Handled by your IT team or a contractor
+
+Main dependency
+
+Your internet connection
+
+Your on-site hardware
+
+How much does a cloud phone system cost?
+
+Published entry plans cost $10 to $20 per user per month on annual billing and $15 to $30 on monthly billing, with CloudTalk Starter at €25 and €34 (as of November 2026). Two of the nine vendors here do not give a per-seat price we could confirm.
+
+Provider and entry plan
+
+Billed annually
+
+Billed monthly
+
+Texting on the entry plan
+
+Retell AI (pay as you go)
+
+From $0.07 per minute, no per-seat fee
+
+Same
+
+Not a seat-based phone plan
+
+RingCentral RingEX Core
+
+$20 per user
+
+$30 per user
+
+25 SMS per user per month
+
+CloudTalk Starter
+
+€25 per user
+
+€34 per user
+
+No allowance, billed per message
+
+Nextiva Go
+
+$10 per user
+
+$15 per user
+
+50 SMS/MMS per user per month, US only
+
+Dialpad Connect Standard
+
+$15 per user
+
+Not confirmed
+
+Not published
+
+Zoom Phone US and CA Unlimited
+
+$16 per user
+
+$18 per user
+
+Domestic SMS and MMS included
+
+8x8 X Series
+
+Not confirmed
+
+Not confirmed
+
+Not confirmed
+
+GoTo Connect Phone System
+
+Quote only
+
+Quote only
+
+Not published
+
+Quo Starter
+
+$15 per user
+
+$19 per user
+
+Unlimited US and Canada messaging, fair usage policy
+
+Three things move the real bill above the entry price:
+
+The tier you need. CRM integrations start on RingCentral Advanced ($25), Dialpad Connect Pro ($25), CloudTalk Essential (€29), Nextiva Business ($25) and Quo Business ($23), all per user per month on annual billing.
+
+AI add-ons. RingCentral prices AI Receptionist from $39 per month and AI Conversation Expert from $60 per user per month. CloudTalk prices Conversation Intelligence from €9 and its AI Receptionist from €99 per month.
+
+Taxes and fees. Vendor price lists exclude taxes and regulatory recovery fees. Ask for a sample invoice for your state and seat count before you sign.
+
+Cloud phone system reviews
+
+1. Retell AI: Best for Businesses That Want to Automate Calls, Not Just Route Them
+
+What does it do? Retell AI is an AI voice agent platform that answers, qualifies, books and transfers calls on top of the phone system you already have. It does not replace your cloud phone system's seats, extensions or internal calling; it handles the calls your team cannot pick up.
+
+Who is it for? Businesses whose bottleneck is answering calls rather than routing them, from 10-person clinics to large contact centers, and teams that want after-hours calls to end in a booked appointment instead of a voicemail.
+
+Connecting an existing number to Retell over SIP trunking, so you keep your carrier and your numbers.
+Retell connects to your existing carrier or cloud phone system over SIP, including Twilio, Vonage and Telnyx, so you keep your numbers. The agent can book on Cal.com, read and update your CRM, and warm-transfer to a person with the conversation summary first. After each call, post call analysis logs the transcript, sentiment and any custom fields you define. Pine Park Health reports a 38% increase in scheduling NPS after moving patient scheduling calls to Retell.
+
+Post call analysis fields for an agent, including a custom field you define.
+Pros
+
+Warm transfer that briefs the person picking up before the caller joins
+
+Pay as you go from $0.07 per minute, with no per-user seat licensing
+
+SOC 2 Type I and Type II, HIPAA with self-service BAA, GDPR, and PII redaction included at the base level
+
+Bring-your-own telephony via SIP trunking (Twilio, Vonage, Telnyx, or existing carrier) means no rip-and-replace
+
+Cons
+
+The drag-and-drop builder still needs a couple hours of configuration before calls feel tuned; it is not a 10-minute setup for complex flows
+
+Not a phone system on its own, so you still need a carrier or cloud phone system behind it
+
+Pricing: From $0.07 per minute, pay as you go, with no platform fee. $10 in free credits and 20 free concurrent calls on signup, with extra concurrency at $8 per call per month. Retell does not charge for telephony on your own SIP trunk. The pricing calculator shows exact per-minute costs by LLM and voice engine choice.
+
+2. RingCentral RingEX: Best for Teams Needing Deep CRM Integration Depth
+
+RingCentral homepage, October 2026.
+What does it do? A unified communications platform that combines business phone, video meetings, team chat, SMS and fax in one app.
+
+Who is it for? Businesses that work inside Salesforce, HubSpot, Zendesk or ServiceNow and want a phone system with prebuilt integrations for those tools.
+
+RingCentral says it has over 330 integrations, and CRM integrations start on the Advanced plan. Every RingEX plan includes AI Virtual Assistant (AVA). The AI Receptionist (AIR, from $39 per month) and AI Conversation Expert (from $60 per user per month) are paid add-ons. RingCX contact center starts at $65 per user.
+
+Texting is the main limit on the entry plan. Core includes 25 SMS per user per month, Advanced 100 and Ultra 200. RingCentral sells a Business SMS Booster and High Volume SMS separately.
+
+Pros
+
+Over 330 integrations, including Salesforce, HubSpot, Zendesk, ServiceNow and Microsoft Teams
+
+RingCentral states its phone service is 99.999% reliable
+
+AI Virtual Assistant included on every RingEX plan
+
+14-day free trial for new subscribers, limited to five users
+
+Cons
+
+Core includes 25 SMS per user per month, and SMS is not available during the trial
+
+CRM integrations are not on Core, they start on Advanced
+
+AI Receptionist, AI Conversation Expert and RingCX contact center are each priced separately from RingEX
+
+Taxes and recovery fees are added to the listed price
+
+Pricing (as of November 2026): Core $20, Advanced $25 and Ultra $35 per user per month on annual billing. Monthly billing is $30, $35 and $45. Advanced adds CRM integrations and 100 SMS per user. Ultra raises SMS to 200. RingCX starts at $65 per user.
+
+3. CloudTalk: Best for SMB and Growing B2B Sales Teams
+
+CloudTalk homepage, October 2026.
+What does it do? A cloud calling platform for sales and support teams, with call routing, CRM integrations and sales dialers.
+
+Who is it for? SMB and mid-market B2B sales teams that dial from a CRM.
+
+CloudTalk prices in three parts: the per-user plan, calling (numbers and minutes), and an optional AI voice agent priced per account. Essential is the first plan with CRM and helpdesk integrations, and CloudTalk lists 95+ of them, including HubSpot, Pipedrive and Zendesk. The Salesforce integration requires Expert. Essential also includes IVR and skill-based routing.
+
+The dialers sit higher up. Expert includes the smart dialer and the AI Sales Dialer in Power mode, plus live monitoring and wallboards, and requires at least three licenses. On Starter and Essential, Power mode is a €15 add-on. Parallel mode is a €39 add-on per user. The pricing page lists no predictive dialing mode.
+
+CloudTalk's AI Receptionist answers inbound calls 24/7, books appointments into a calendar and transfers to a person on request. The first 50 minutes are free, then bundles start at €99 per month for 200 minutes. The guided AI Specialist plan is €349 per month for 1,000 minutes with a three-month minimum term.
+
+Pros
+
+Power dialer and smart dialer included on Expert, with a parallel dialer add-on
+
+95+ CRM, helpdesk and ATS integrations from the Essential plan
+
+24/7 chat and email support on all plans
+
+14-day trial of the Expert plan with no credit card
+
+Cons
+
+No plan includes an SMS allowance, messages are billed from calling credit
+
+Starter has no CRM integrations
+
+Expert requires at least three licenses
+
+US customers pay an 11% cost recovery fee on the subscription
+
+Pricing (as of November 2026): Starter €25, Essential €29 and Expert €49 per user per month on annual billing. Monthly billing is €34, €39 and €69. The pricing page displayed euros when we checked and offers a US dollar view. AI voice agents are priced separately, from €99 per month after 50 free minutes.
+
+4. Nextiva: Best for 24/7 Human Customer Support
+
+Nextiva homepage, October 2026.
+What does it do? A unified communications platform that bundles voice, texting, video, email and team chat, with customer experience features on its top plan.
+
+Who is it for? Small and midsize teams without an IT department that want to reach a person by phone when something breaks.
+
+Nextiva's current lineup is Go, Business and CX. This guide previously listed NEXT Core, Engage and Scale. Go includes 24/7 chat and portal support. Business and CX add 24/7 phone support, so the support this entry is recommended for starts at $25 per user per month.
+
+Every plan includes the XBert AI receptionist with 10 free interactions. After that, XBert costs $1.50 per interaction on pay as you go, or $100 per month for the Premium tier with 100 interactions included. AI transcription and summaries are capped at 10 conversations per user per month on Go and 200 on Business, and are unlimited on CX.
+
+Pros
+
+24/7 phone, chat and portal support on Business and CX
+
+Lowest published entry price in this list at $10 per user per month on annual billing
+
+500 SMS/MMS per user per month on Business, unlimited on CX
+
+Nextiva lists SOC 2, ISO/IEC 27001 and HIPAA, and advertises 99.999% uptime
+
+Cons
+
+Go has chat and portal support only, with no phone support
+
+Go caps texting at 50 SMS/MMS per user per month, and texting is US only
+
+International calling is billed at per-minute rates on every plan
+
+The 50+ CRM and business integrations start on Business
+
+Pricing (as of November 2026): Go $10, Business $25 and CX $75 per user per month on annual billing. Monthly billing is $15, $35 and $100.
+
+XBert is pay as you go at $1.50 per interaction after 10 free, Premium at $100 per month, or Premium+ at $2,500 per month. Nextiva also sells managed AI packages from $500 per month.
+
+5. Dialpad: Best for Built-in Call Transcription and AI Coaching
+
+Dialpad homepage, October 2026.
+What does it do? A business phone platform built around conversation AI. Dialpad Connect is the phone system, Dialpad Sell and Dialpad Support add coaching and contact center tools, and Dialpad AI Agents handle conversations on their own.
+
+Who is it for? Sales and support teams where coaching, QA and conversation analytics drive performance.
+
+The entry Connect Standard plan includes real-time transcripts and instant call summaries. Dialpad says Connect includes real-time call transcription, voicemail transcription, and call summaries with action items through AI Recaps. CRM integrations and 24/7 customer support start on Pro.
+
+On November 4, 2026, Dialpad and Ada announced they are joining forces to build a combined customer experience platform. Check with Dialpad how the combination affects the plan you are buying.
+
+Pros
+
+Real-time transcripts and call summaries on the $15 Standard plan
+
+Live coaching and AI quality management available through Dialpad Sell and Dialpad Support
+
+International local numbers in over 50 countries
+
+14-day free trial of Dialpad Connect
+
+Cons
+
+Pro ($25 per user per month) is required for CRM integrations and 24/7 customer support
+
+The pricing page does not publish an SMS allowance
+
+AI Agents are custom priced, so there is no list price to compare
+
+Pricing (as of November 2026): Connect Standard $15 and Pro $25 per user per month on annual billing, Enterprise by quote. Dialpad Sell is listed from $39 and Dialpad Support from $89 per user per month. Dialpad AI Agents bill per conversation from a pool of credits, charged only when the AI retrieves information or takes an action.
+
+6. Zoom Phone: Best for Teams Already Paying for Zoom Meetings
+
+Zoom Phone homepage, October 2026.
+What does it do? A cloud phone service that adds business calling to the Zoom app your team already uses for video.
+
+Who is it for? Companies where Zoom Meetings is already deployed and one app and one bill matter more than deep contact center features.
+
+Zoom says every Zoom Phone plan includes AI call summaries, voicemail prioritization and task extraction from voicemail. Its Virtual Agent AI Receptionist, which answers calls and books appointments, is an add-on. Zoom lists native PSTN coverage in 49+ countries and supports bring your own carrier for existing carrier contracts.
+
+If you need call center features, Zoom lists Contact Center and Workforce Management as separate Zoom CX products.
+
+Pros
+
+US and CA Unlimited at $16 per user per month on annual billing includes domestic SMS and MMS
+
+AI call summaries included on every plan
+
+Bring your own carrier option and number porting at no charge
+
+Pro Plus and Business Plus bundle Phone with Zoom Workplace
+
+Cons
+
+International calling is metered
+
+The AI receptionist is an add-on, not part of the base plans
+
+The pricing page does not state a trial length
+
+Pricing (as of November 2026): US and CA Unlimited $16 per user per month billed annually ($18 monthly), Pro Plus (Phone plus Zoom Workplace Pro) $20.50 ($24 monthly) and Business Plus $24.50 ($29 monthly). The Global Select plan covers domestic calling across 40+ countries under one rate plan.
+
+7. 8x8: Best for Unlimited International Calling
+
+8x8 homepage, October 2026.
+What does it do? A unified communications and contact center platform whose X Series licenses include unlimited calling to a set list of countries.
+
+Who is it for? Teams that call the same group of countries every day and want those calls inside the license instead of on a per-minute rate card.
+
+8x8's help center lists unlimited calling within 14 countries on X2, 32 on X3 and 48 on X4 and above, subject to its fair-use policy. In the countries 8x8 marks with an asterisk, the allowance excludes calls to mobile numbers. Contact center licenses (X6 to X8) carry a pooled allowance of 4,000 call minutes per user per month.
+
+We could not load 8x8's pricing pages on November 24, 2026, so this entry gives no price, trial or compliance details. Ask 8x8 for a written quote per license tier.
+
+Pros
+
+Unlimited calling within 48 countries on X4, and within 14 countries on X2
+
+Phone and contact center licenses in one X Series lineup
+
+Cons
+
+No per-seat price we could confirm (as of November 2026)
+
+The unlimited allowance excludes mobile numbers in the countries 8x8 marks with an asterisk
+
+Premium-rate, special service and out-of-zone calls are metered
+
+Pricing: Not confirmed. Budget for taxes and regulatory fees on top of any quote, and ask which SMS charges apply.
+
+8. GoTo Connect: Best Visual Dial Plan Editor
+
+GoTo Connect homepage, October 2026.
+What does it do? A cloud phone system with a drag-and-drop Dial Plan Editor that shows call flows visually, plus video meetings and an optional AI receptionist.
+
+Who is it for? Admins who change call routing often and want to see the whole call flow on one screen.
+
+The base Phone System plan includes customizable dial plans, unlimited auto attendants and call queues, free calls to 50 countries and video meetings with up to 250 participants. The AI receptionist, team inbox and AI call summaries sit on higher plans. Microsoft Teams is listed as an add-on.
+
+The drawback is pricing. GoTo publishes no per-seat rates, and every plan on its pricing page points to sales.
+
+Pros
+
+Drag-and-drop visual Dial Plan Editor
+
+Free calls to 50 countries on the Phone System plan
+
+Unlimited auto attendants and call queues on the base plan
+
+Cons
+
+No public pricing, quote-only model
+
+AI receptionist and AI call summaries sit above the base Phone System plan
+
+The AI Receptionist runs on credits, with 100 included on the Phone System + AI Receptionist plan
+
+Pricing (as of November 2026): GoTo Connect sells by quote across five plans: Phone System, Phone System + AI Receptionist, Customer Experience (CX), CX Complete and Contact Center.
+
+GoTo does not publish per-seat rates, so ask for each tier in writing. AI call summaries, team inbox and ServiceNow or Zendesk integrations start on the CX plans.
+
+9. Quo (formerly OpenPhone): Best for Under-10-Person Teams and Shared Inboxes
+
+Quo homepage, October 2026.
+What does it do? A lightweight business phone system built around shared phone numbers, where teammates see the same call and text history and can ring together on incoming calls.
+
+Who is it for? Startups, solo founders and teams under 10 people who want an app-first phone and texting line without a full UCaaS suite.
+
+OpenPhone became Quo on September 23, 2025. The Sona AI agent is included on all plans with 1,000 free automation credits a month, which Quo equates to 10 calls or 20 text conversations. This makes Quo more than a basic phone system for small teams, though Sona's automation depth is still lighter than dedicated AI voice agent platforms like Retell AI.
+
+Quo is built for calls and texts. Its pricing page lists no video meetings and no power dialer. On Starter, a shared number supports up to 10 paid users and call recording is manual. HubSpot and Salesforce integrations, phone menus and automatic call recording start on Business. Our Quo pricing breakdown covers the plans in more detail.
+
+Pros
+
+Shared phone numbers with internal threads and shared contacts
+
+Calling and messaging to US and Canadian numbers on every plan, subject to a fair usage policy
+
+Sona AI agent included on every plan
+
+Published prices and a 7-day free trial
+
+Cons
+
+No video meetings listed, so you still need a meetings tool
+
+CRM integrations require the Business plan at $23 per user per month
+
+Starter limits a shared number to 10 paid users
+
+The included Sona credits cover about 10 calls a month
+
+Pricing (as of November 2026): Starter $15, Business $23 and Scale $35 per user per month on annual billing. Monthly billing is $19, $33 and $47. All plans include the Sona AI agent with 1,000 free automation credits per month. Additional Sona credit tiers start at $25 per month for 4,000 credits.
+
+How to choose a cloud phone system
+
+Start with the problem you are solving, then check the plan tier that solves it, then price that tier for your headcount.
+
+Routing calls or answering them. If your team needs internal calling, video meetings and CRM-connected calling, a UCaaS platform like RingCentral, Nextiva or Dialpad fits. If your bottleneck is unanswered calls, after-hours coverage or volume beyond your team's capacity, an AI voice agent platform like Retell AI solves a different problem.
+
+Texting volume. Count the texts each user sends in a month and compare it with the plan allowance, not the word "SMS" on the feature list.
+
+Integrations. Confirm your CRM is supported on the tier you plan to buy. In most lineups here that is the second tier.
+
+International calling. List the countries you call. 8x8 X4 covers 48 countries and GoTo Connect lists free calls to 50, while Nextiva and Zoom Phone meter international calls.
+
+Compliance. If you handle patient data, confirm in writing that the vendor will sign a business associate agreement on your tier.
+
+Support hours. Check which plan includes phone support. Nextiva and Dialpad both start 24/7 phone or customer support on their $25 tier.
+
+Then run a trial on your own internet connection and ask for a sample invoice that includes taxes and fees.
+
+Best fit by team type
+
+Team
+
+Shortlist
+
+Why
+
+Under 10 people, mostly calls and texts
+
+Quo, Nextiva Go
+
+Low published entry price, shared numbers on Quo
+
+Sales team dialing from a CRM
+
+CloudTalk Expert, Dialpad Sell
+
+Dialers on CloudTalk Expert, live coaching on Dialpad Sell
+
+Office that needs calls, video and chat in one app
+
+RingCentral, Nextiva, Zoom Phone, GoTo Connect
+
+Meetings and messaging in the same product
+
+Team that needs support at any hour
+
+Nextiva Business, Dialpad Connect Pro
+
+24/7 support listed on the $25 tier
+
+Team calling many countries
+
+8x8, GoTo Connect
+
+Multi-country calling inside the license
+
+Team missing calls or covering after hours
+
+Retell AI alongside your phone system
+
+An AI voice agent answers, books and transfers
+
+How to switch to a cloud phone system
+
+List what you use today. Count users, numbers, locations, ring groups, auto attendant menus and any fax or analog lines.
+
+Test your network. Run a trial on the connection your team will use, including home offices.
+
+Pick the plan tier. Match texting volume, CRM and support needs to the tier that includes them.
+
+Port your numbers. Keep the old service active until the port completes. FCC rules require carriers to complete a simple port within one business day unless the new provider or the customer asks for longer. The rule covers simple ports only, so ask the new provider whether your account qualifies and for a firm date.
+
+Rebuild call routing. Set business hours, auto attendant, queues and voicemail in the admin portal, then test each path.
+
+Roll out apps and phones. Install the desktop and mobile apps, register any desk phones and confirm emergency calling addresses for each user.
+
+How does SIP trunking connect an AI voice agent to a cloud phone system?
+
+SIP trunking is a way to carry business phone calls over the internet between a carrier, a cloud phone system and other services such as AI voice agents.
+
+It lets you keep your numbers and your cloud phone system while an AI agent answers some or all of your calls. Your team keeps its extensions, apps and desk phones.
+
+Retell AI connects over SIP to Twilio, Vonage, Telnyx or any SIP carrier. Retell does not charge for telephony when you use your own SIP trunk, according to its pricing page.
+
+A typical setup takes three steps:
+
+Route your main line, an overflow queue or after-hours calls from your cloud phone system to the agent.
+
+Connect the agent to your calendar and CRM through function calling and webhooks.
+
+Use warm transfer to send live calls back to an extension or queue with a summary first.
+
+Some cloud phone systems also support bring your own carrier. Zoom, for example, offers a Zoom Phone Pro license for Bring-Your-Own-Carrier setups.
+
+What do businesses use a cloud phone system for?
+
+24/7 after-hours call answering: Callers who reach voicemail often hang up without leaving a message. An AI voice agent layered onto your cloud phone system as an AI answering service can book those callers instead of sending them to voicemail. See how overflow and after-hours routing works.
+
+Appointment booking with live calendar sync: Healthcare, home services, and legal practices lose appointments to phone tag. Real-time function calling to Cal.com, Google Calendar, or an EHR lets a voice agent book appointments during the call instead of promising a callback.
+
+Replacing legacy IVR menus: "Press 1 for billing" routes calls but does not handle them. A modern AI IVR understands intent, holds a conversation, and routes based on what the caller needs.
+
+Outbound sales dialing: A seat-based phone system places one call per user at a time. Sales dialers such as the power and parallel modes on CloudTalk queue the next call for the rep, and AI voice agents can run outbound campaigns without a rep on each line.
+
+Inbound lead qualification before human handoff: Routing every inbound call to a sales rep spends time on unqualified callers. Lead qualification by a voice agent ahead of warm transfer sends qualified callers to sales with context.
+
+Warm transfer settings in Retell. A whisper debrief briefs the person picking up without the caller hearing it.
+Multi-location receptionist coverage: Small offices and multi-site service businesses often staff a receptionist at every site. A single voice agent can cover every location, route to the right person, book appointments, and forward urgent calls.
+
+What can go wrong with a cloud phone system?
+
+Fees that are not in the per-user price: Vendor price lists exclude taxes and regulatory fees. RingCentral lists federal universal service, E911 and compliance cost recovery fees, and CloudTalk adds an 11% cost recovery fee for US customers. Add-ons such as extra numbers, toll-free minutes and AI features come on top.
+
+SMS limits on entry plans: RingCentral Core includes 25 SMS per user per month and Nextiva Go includes 50. CloudTalk includes none and bills per message. US business texting also needs Campaign Registry registration before messages deliver reliably, so plan for that step before launch.
+
+AI features sold as separate subscriptions: An AI receptionist or conversation intelligence is usually priced on top of the seat. RingCentral lists AI Receptionist from $39 per month and AI Conversation Expert from $60 per user per month.
+
+Compliance certifications that sound the same but are not: SOC 2 Type I differs materially from Type II. HIPAA BAA availability varies by plan and sometimes by add-on. Buyers in healthcare and finance need to confirm the specific certification and whether it is included on their chosen tier.
+
+Internet dependency: Calls run over your internet connection. Weak Wi-Fi or an outage affects call quality unless you set call forwarding to mobile numbers as a fallback.
+
+Per-seat cost at high call volume: Per-seat plans grow with headcount. If the growth is in call volume and not in staff, compare the cost of more seats with the cost of automating the calls.
+
+FAQs
+
+What is the best cloud phone system for small business?
+
+It depends on what the team does on the phone. For a team under 10 that mostly calls and texts, Quo Starter ($15 per user per month on annual billing) and Nextiva Go ($10) have the lowest published prices in this list (as of November 2026). For sales teams that need dialers, CloudTalk Expert includes them. For a longer small business comparison, see our guide to VoIP phone systems for small business.
+
+What is the cheapest cloud phone system in 2026?
+
+Nextiva Go has the lowest published entry price in this list at $10 per user per month billed annually ($15 monthly), as of November 2026. Dialpad Connect Standard and Quo Starter follow at $15, then Zoom Phone US and CA Unlimited at $16. If most of your volume is inbound calls rather than internal calling, a pay-as-you-go AI voice agent from $0.07 per minute can cost less than adding seats.
+
+What is the difference between a cloud phone system and VoIP?
+
+VoIP is the technology that carries a call over the internet. A cloud phone system is the full business service built on it: numbers, routing, voicemail, SMS, apps and admin, run by a provider in the cloud. For a side-by-side of business VoIP providers, see our VoIP guide.
+
+Which cloud phone providers offer unlimited calling plans?
+
+Most do for domestic calls. RingCentral Core lists unlimited domestic calling, Nextiva lists unlimited voice in the US and Canada, Dialpad Connect Standard lists unlimited calls, Zoom Phone US and CA Unlimited lists unlimited or metered domestic calling, and Quo lists unlimited calling to US and Canadian numbers under a fair usage policy. For international calling, 8x8 X4 includes unlimited calling within 48 countries.
+
+Which cloud phone system has the best SMS coverage without overage fees?
+
+Quo lists unlimited messaging to US and Canadian numbers on every plan under its fair usage policy, and Zoom Phone US and CA Unlimited includes domestic SMS and MMS. Nextiva includes 50 SMS/MMS per user per month on Go, 500 on Business and unlimited on CX. RingCentral includes 25 per user on Core, 100 on Advanced and 200 on Ultra. CloudTalk includes no SMS allowance and bills per message.
+
+Which cloud phone systems include video conferencing and team chat?
+
+RingCentral RingEX, Nextiva, Dialpad Connect and Zoom Phone bundles all list meetings and messaging alongside calling. RingCentral Core includes HD meetings for up to 300 participants, and GoTo Connect lists video meetings with up to 250 participants. Quo lists no video meetings.
+
+What is the best cloud phone system for HubSpot users?
+
+Check which tier includes the HubSpot integration. Quo includes HubSpot and Salesforce integrations on its Business plan ($23 per user per month on annual billing). RingCentral lists a RingEX for HubSpot app, with CRM integrations starting on Advanced. CloudTalk lists HubSpot call logging, with integrations starting on Essential.
+
+Can a cloud phone system handle calls without adding more users?
+
+Traditional UCaaS platforms (RingCentral, Nextiva, Dialpad) price per seat, so scaling call volume means scaling licenses. AI voice agents bill per minute, from $0.07 per minute, and one agent handles many concurrent calls without additional seats, which is why high-volume teams pair a cloud phone system with an AI call bot for overflow.
+
+Is Retell AI a replacement for RingCentral or Nextiva?
+
+Not directly. Retell AI handles the calls; a traditional cloud phone system routes them between human users and manages internal communication. Many businesses run Retell AI alongside their existing UCaaS for call center automation and after-hours coverage, keeping the UCaaS layer for internal calling and video.
+
+Can I connect an AI voice agent to my existing cloud phone system?
+
+Yes. Most teams forward overflow or after-hours calls to the agent, or connect it over SIP trunking so they keep their numbers. Retell AI works with Twilio, Vonage, Telnyx or any SIP carrier and does not charge for telephony on your own SIP trunk.
+
+How long does number porting take between cloud phone systems?
+
+FCC rules require carriers to complete a simple port within one business day unless the new provider or the customer requests a longer period. The rule covers simple ports only, so ask the new provider whether your account qualifies and for a firm date. Call forwarding from the old system to a new provider can route calls immediately while the port is processed, avoiding downtime.
+
+Which cloud phone system is best for HIPAA-compliant healthcare calls?
+
+RingCentral, Nextiva, Dialpad, Zoom, CloudTalk and Quo all address HIPAA compliance on their own sites, and Quo says healthcare organizations can execute BAAs with it. Confirm BAA availability on your tier with any vendor. Retell AI includes a self-service BAA portal and HIPAA compliance in its base tier. Pine Park Health uses Retell AI for patient scheduling and reports a 38% increase in scheduling NPS.
+
+What concurrent call capacity do cloud phone systems support?
+
+Per-seat UCaaS plans scale concurrency with license count. Retell AI includes 20 free concurrent calls on every account with custom enterprise concurrency, which is why high-volume inbound operations and outbound campaigns end up pairing the two.
+
+What is the best cloud phone system for remote and distributed teams?
+
+Any system here works from a laptop or mobile app, so choose on team size and call pattern. Small remote teams can start with Quo (from $15 per user per month on annual billing) for shared numbers. Teams that want calls, meetings and chat in one app can look at RingCentral, Nextiva or Zoom Phone. Teams spread across countries can look at 8x8, whose X4 license includes unlimited calling within 48 countries. Retell AI handles overflow and after-hours calls without adding user seats, particularly valuable for remote teams spanning multiple time zones.
+
+Which cloud phone system has the best AI features in 2026?
+
+It depends on the job. For transcription and coaching, Dialpad includes real-time transcripts and call summaries on its $15 Connect Standard plan. For an AI layer on an existing UCaaS seat, RingCentral includes AI Virtual Assistant in RingEX and sells AI Receptionist from $39 per month. For AI that handles the call itself, Retell AI's voice agent handles entire conversations, qualifying leads, booking appointments, answering questions, processing requests. Check whether "AI-powered" in a vendor's marketing means included or add-on.
+
+ROI Calculator
+
+Estimate Your ROI from Automating Calls
+
+See how much your business could save by switching to AI-powered voice agents.
+
+All done!
+
+Your submission has been sent to your email
+
+Oops! Something went wrong while submitting the form.
+
+Number of human agents
+
+1
+
+Hours Worked Per Day
+
+8
+
+Average hourly wage
+
+20
+
+Oops! Something went wrong while submitting the form.
+
+ROI Result
+
+2,000
+
+Total Human Agent Cost
+
+$5,000
+
+/month
+
+AI Agent Cost
+
+$3,000
+
+/month
+
+Estimated Savings
+
+$2,000
+
+/month
+
+Estimate your monthly voice AI cost
+
+Monthly calls
+
+Average minutes per call
+
+Rate per minute ($)
+
+$ 0.11
+
+Calculate
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+Estimated monthly cost
+
+$1,408
+
+12,800 conversation minutes
+
+Read Other Blogs
+
+18
+
+min read
+
+Best Call Center Software in 2026: 10 Platforms Scored
+
+Retell
+
+AI Voice Agent Platform
+
+9
+
+min read
+
+AI Voice Agent Tools and Actions: How Agents Check Calendars, Update CRMs, and Hand Off Calls
+
+Retell
+
+AI Voice Agent Platform
+
+6
+
+min read
+
+How AI Voice Agents Check Calendars and Book Appointments
+
+Retell
+
+AI Voice Agent Platform
+
+Revolutionize your call operation with Retell
+
+Start building smarter conversations today.
+
+Try For Free
+
+Contact Sales
+
+Products
+
+Build
+Call TransferBook AppointmentsKnowledge BaseNavigate IVR
+
+Deploy
+Batch CallBranded Call IDVerified Phone Numbers
+
+Monitor
+Post Call AnalysisAI Quality Assurance
+
+Solutions
+
+Industries
+
+Overview
+
+Healthcare
+
+Financial Services
+
+Insurance
+
+Logistics
+
+Retail & Consumer Goods
+
+Travel & Hospitality
+
+Debt Collection
+
+Use Cases
+
+Overview
+
+AI Receptionist
+
+Lead Qualification
+
+AI Dispatch Service
+
+AI Auto Dialer
+
+AI Answering ServiceAI IVRAI Appointment SetterAI Telemarketing
+
+Resources
+
+Product & Support
+
+DocumentationModel BenchmarkPricingChangelogBlogCustomer StoriesEventsArea CodeGlossaryLearnRetell UniversityStatus PageAI Instructions
+
+Compare Products
+
+Competitors Overview
+
+VS
+
+Bland
+
+VS
+
+Vapi
+
+VS
+
+Synthflow
+
+VS
+
+Thoughtly
+
+VS
+
+Decagon
+
+VS
+
+Sierra
+
+Partners
+Solution Partner ProgramSolution Partner DirectoryApp Partner DirectoryCreator Partners
+
+Company
+About UsCareersNewsroom
+
+Social Media
+LinkedInXYoutube
+
+Community
+Discord
+
+Retell AI
+Trust CenterPrivacy PolicyHIPAATerms Of ServiceAdd Retell AI as a preferred source on Google
+
+Retell
+
+Something went wrong. Please try again, or email support@retellai.com if it keeps happening.
+
+Check your inbox to confirm your subscription.
+
+Email
+
+I agree to receive the Retell newsletter and accept the data privacy statement.
+
+Subscribe
+
+You can unsubscribe at any time using the link in any email. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+We use Brevo as our marketing platform. By submitting this form you agree that the personal data you provided will be transferred to Brevo for processing in accordance with Brevo's Privacy Policy.
