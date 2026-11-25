@@ -1,0 +1,386 @@
+HubSpot's default activity properties
+
+Skip to content
+
+English
+: Select a language
+
+Español
+
+Deutsch
+
+日本語
+
+Português
+
+Français
+
+Nederlands
+
+Italiano
+
+Polski
+
+Svenska
+
+Suomi
+
+中文 - 繁體
+
+Dansk
+
+Norsk
+
+한국어
+
+ไทย
+
+中文 - 简体
+
+English
+
+Go to my account
+
+Get a demo
+
+Get started free
+
+Home
+
+Knowledge Base
+
+Menu
+
+Help Center
+
+Documentation
+
+Knowledge Base
+Setup, how-to, and troubleshooting guides
+
+Developer Documentation
+Reference for API & CMS development
+
+Training
+
+Academy Content Library
+A complete library of Academy’s free online video lessons and certification courses.
+
+Academy Certification Courses
+A collection of lessons and practical exercises leading to an industry-recognized certification in HubSpot’s tools or strategy.
+
+Classroom Training
+Schedule in-person training for a hands-on and personalized HubSpot training experience.
+
+Community
+
+CRM & Sales Hub
+Ask and answer questions about using HubSpot’s CRM and Sales Hub.
+
+Marketing Hub
+Discuss and learn HubSpot’s marketing tools and inbound strategy.
+
+Service Hub
+Learn about Service Hub and share your expertise.
+
+Meet the Experts
+Learn how to get the most out of HubSpot from those who know it best.
+
+Submit Ideas
+Search, vote for, and submit ideas to improve the HubSpot platform.
+
+HubSpot Developers
+Ask questions and connect with users building on HubSpot.
+
+HubSpot User Groups
+Meet regularly with your local community of HubSpot users.
+
+Blogs
+
+HubSpot Blog
+Marketing, sales, agency, and customer success blog content.
+
+Customer Blog
+Examples of how real customers use HubSpot for their business.
+
+Product Updates Blog
+Updates on the latest releases from HubSpot’s Product team.
+
+Knowledge Base
+
+CRM
+
+Properties
+
+HubSpot's default activity properties
+
+HubSpot's default activity properties
+
+Last updated:
+
+June 11, 2026
+
+Available with any of the following subscriptions, except where noted:
+
+All products and plans
+
+In your HubSpot CRM, activities keep track of the interactions associated with contacts, companies, deals, tickets, and custom object records. When creating or editing calls, emails, meetings, notes, and tasks manually or via import, you can set or update properties. You can also use values of these properties when filtering records in other HubSpot tools such as segments, reports, or workflows.
+
+Please note: activity properties, excluding calls, meetings, and tasks (BETA), are stored separately from CRM object properties, and cannot be edited from the property settings.
+
+General activity properties
+
+The following properties are included for each activity type.
+
+Activity assigned to (for tasks, Assigned to): the owner of the activity. The value for this property must be either the user's name in HubSpot, or the user's email address.
+
+Activity created by: the user that created the activity.
+
+Activity date: the date and time the activity occurred. When importing, this should be formatted as a date-time property. If you import new activities and don't include this property, the Activity date values are automatically set to the date and time the activities were created.
+
+Attached file IDs: the IDs of the files attached to the activity.
+
+Create date: the date that the activity was created in your HubSpot account.
+
+Created by user ID: the user who created the activity. This value is set automatically by HubSpot.
+
+Last modified date: the most recent date that any property on the activity was updated. This can also include updates on HubSpot internal properties, which may be hidden. This is updated automatically by HubSpot.
+
+Record Source: how the activity was created. This is automatically set by HubSpot.
+
+Record Source Detail 1: the first level of detail on how the activity was created. This is automatically set by HubSpot.
+
+Record Source Detail 2: the second level of detail on how the activity was created. This is automatically set by HubSpot.
+
+Record Source Detail 3: the third level of detail on how the activity was created. This is automatically set by HubSpot.
+
+Updated by user ID: the user who last updated the activity. This value is set automatically by HubSpot.
+
+Call properties
+
+Call properties apply to calls made to or received from customers in your HubSpot account. You can also create custom call properties.
+
+Call and meeting type: the type of call. The options are set in your call and meeting type settings.
+
+Call direction: the direction of the call, either Inbound or Outbound.
+
+Call duration: the length of the call, in milliseconds.
+
+Call notes: a text field that describes or provides context about the call.
+
+Call outcome: the outcome of the call. The options are set in your call and meeting outcome settings.
+
+Call source: the source of the call. Options include VoIP, Zoom, or Integrations platform.
+
+Call status: the status or outcome of the call. Options include Busy, Canceled, Completed, Connecting, Failed, In progress, Missed, No answer, Queued, or Ringing.
+
+Call summary: an AI-generated summary of the call.
+
+Call title: the name of the call.
+
+Connected count: the number of calls connected with a live recipient.
+
+From number: the phone number of the person that initiated the call.
+
+From number name: the name of the phone number that initiated the call.
+
+Recording URL: a URL to access the call's recording.
+
+To number: the phone number of the person that received the call.
+
+To number name: the name of the phone number of the person that received the call.
+
+Tracked terms: a list of any tracked terms contained in the call transcript.
+
+Transcript available: indicates if the call has a transcript, either TRUE or FALSE.
+
+Voicemail available: indicates if the call has an associated voicemail.
+
+Voicemail count: the number of calls that end up with a voicemail.
+
+Communication properties
+
+Communications include LinkedIn, SMS, and WhatsApp messages.
+
+Channel type: indicates if the communication channel is SMS, WhatsApp, LinkedIn, or a custom channel.
+
+Communication body: the text body of the message.
+
+Conversations first message timestamp: the timestamp of the first message in the communication thread.
+
+Logged from: where the communication was logged.
+
+Email properties
+
+Email properties apply to one-to-one emails sent to and received from contacts.
+
+Attached video name: the name of a video attached to the email.
+
+Attached video opened: indicates if an attached via has been opened, either TRUE or FALSE.
+
+Attached video watched: indicates if an attached via has been watched, either TRUE or FALSE.
+
+Email BCC address: email addresses of the email's BCC recipients.
+
+Email body: the text body of the email.
+
+Email click rate: the percentage of recipients that clicked the email.
+
+Email direction: the direction of the email, either Incoming or Outgoing.
+
+Email from address : the email address of the email's sender.
+
+Email is member of forwarded subthread: indicates if the email is a member of a forwarded subthread, either TRUE or FALSE.
+
+Email open rate: the percentage of recipients that opened the email.
+
+Email reply rate: the percentage of recipients that replied to the email.
+
+Email send status: the status of the email. Options include Bounced, Failed, Scheduled, Sending, or Sent.
+
+Email subject: the subject line of the email.
+
+Email to address: the email address of the email's recipient.
+
+Number of email clicks: the total number of times the email was clicked.
+
+Number of email opens: the total number of times the email was opened.
+
+Number of email replies: the total number of times the email received a reply.
+
+Number of emails sent: the total number emails sent.
+
+Sequence ID: if the email was sent as part of a sequence, displays the name of the sequence. Displays a null value if the email was not part of a sequence.
+
+Meeting properties
+
+The following properties apply to meetings booked on connected calendars with the meetings tool. If you've connected integrations to track meetings (e.g., Calendly), they may use their own properties rather than the HubSpot default meeting properties.
+
+Call and meeting type: the type of meeting. The options are set in your call and meeting type settings.
+
+Contact first outreach date: the first outreach date of the meeting's associated contact.
+
+HubSpot attendees owner IDs: the list of additional meeting attendees. The value only includes the additional attendees for a meeting, not the meeting's host.
+
+Internal meeting notes: a text field to add notes about the meeting.
+
+Location type: the type of location where the meeting was hosted. Options include Phone Call, Address, or Video Conference.
+
+Meeting description: a text field to describe the meeting.
+
+Meeting end time: the date and time the meeting ended. When importing, this should be formatted as a date-time property.
+
+Meeting location: the name of the meeting's location.
+
+Meeting name: a name for the meeting.
+
+Meeting outcome: the meeting's outcome. The options are set in your call and meeting outcome settings.
+
+Meeting source: the source where the meeting was booked.
+
+Meeting start time: the date and time the meeting started. When importing, this should be formatted as a date-time property.
+
+Outcome canceled count: indicates if the meeting was cancelled. The value will be 1 if cancelled or 0 if not.
+
+Outcome completed count: indicates if the meeting was completed. The value will be 1 if completed or 0 if not.
+
+Outcome no show count: indicates if the meeting was a no show. The value will be 1 if no show or 0 if not.
+
+Outcome rescheduled count: indicates if the meeting was rescheduled. The value will be 1 if rescheduled or 0 if not.
+
+Time to book meeting from first contact: the time it took to book a meeting from first outreach date of the meeting's associated contact.
+
+Video conference URL: stores the video conference URL for an online meeting.
+
+Note properties
+
+Note properties apply to notes logged on records.
+
+Note body: the text body of the note.
+
+Postal mail properties
+
+Note properties apply to postal mail logged on records.
+
+Body preview: a preview of the text body of the postal mail.
+
+Postal mail body: the text body of the postal mail.
+
+Task properties
+
+Task properties apply to tasks you've created in your HubSpot account.
+
+Completed at: the date the task was completed.
+
+Contact time zone: the time zone of the task's associated contact.
+
+Due date: the date and time the task is due. When importing, this should be formatted as a date-time property.
+
+Is overdue: indicates if the task is overdue based on its due date. The value will be TRUE if the task's status is not Complete and the due date has past. Otherwise, the value will be FALSE.
+
+Notes: a text field to add notes about the task.
+
+Priority: the priority assigned to the task. Options include Low, Medium, or High.
+
+Queue: the task queue applied to the task.
+
+Reminder: the dates when reminders will be sent for the task.
+
+Task status: the status of the task. Options include Not started or Complete.
+
+Task title: the name of the task.
+
+Task type: the type of task. Options include Call, Email, or To-Do. If you don't set a type during import, the task will be set to To-Do by default.
+
+properties
+
+CRM
+
+Was this article helpful?
+Yes
+No
+
+Thanks for letting us know. How would you describe this article?
+
+Inaccurate: it doesn’t reflect what I see in the product
+
+Unclear: it’s difficult to understand
+
+Missing information: it’s not comprehensive enough
+
+Irrelevant: it doesn’t match what I searched for
+
+Great! Is there anything we could change to make it even more helpful?
+Is there anything we could change to make this article helpful?
+
+Allow HubSpot to contact me about my documentation feedback.
+
+Email address
+
+Only used if we need clarification on your feedback.
+
+Thank you for your feedback, it means a lot to us.
+
+This form is used for documentation feedback only. Learn how to get help with HubSpot.
+
+0 / 0
+
+Table of contents
+
+Menu
+
+Related content
+
+Store Sensitive Data in HubSpot
+
+Overview of the lead scoring tool
+
+Automatically populate records using smart properties
+
+Copyright HubSpot, Inc.
+
+Legal Stuff
+
+Privacy Policy
+
+Cookie Settings

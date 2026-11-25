@@ -1,0 +1,741 @@
+What Is 10DLC? Registration, Costs and Compliance
+
+llms.txt: site index for AI agents
+
+Home
+
+ProductsSolutionsPricingWhy TelnyxResourcesDevelopers
+Contact salesLog in
+Sign up
+
+Contact salesLog in
+Sign up
+
+Back to blog
+
+Messaging
+
+What Is 10DLC? Registration, Costs and Compliance Explained
+
+What is 10DLC? Learn what a 10-digit long code is, why carriers require registration, how brand and campaign approval works, and what it costs in 2026.
+
+By Emily Bowen
+
+Takeaways
+
+What is 10DLC? The registered local number US businesses text customers from. Registration takes a brand record and a campaign review, usually a few business days in total.
+
+Registration runs in a fixed order: brand, then campaign, then campaign review, then number assignment. Nothing sends until the campaign clears.
+
+Unregistered 10DLC traffic has been blocked outright since February 3, 2025, and carriers pass non-compliance fees of up to $10,000 per violation through to senders.
+
+Optional brand vetting returns a trust score from 0 to 100 that sets your throughput on AT&T and T-Mobile.
+
+The cost has four parts: one-time registration, a monthly campaign fee, carrier fees on each message part, and your provider's number rental and message price.
+
+Something I get asked constantly: why does a business need to "register" to send a text message? The answer sits at the intersection of fraud prevention and deliverability, and understanding it changes how you plan any messaging rollout.
+
+What is 10DLC?
+
+10DLC stands for 10-digit long code: a standard US local phone number, an area code plus seven digits, that carriers have approved for application-to-person (A2P) messaging at commercial volume. The number itself is ordinary, and registration is what turns it into a 10DLC number: the sender registers a brand and a campaign with The Campaign Registry, then assigns the number to the approved campaign.
+
+What a 10DLC number looks like
+
+A 10DLC number looks like any local US number, for example (312) 555-0143, or +13125550143 in E.164 format.
+
+Counts as a 10DLC
+
+A US local landline, VoIP or mobile number that your provider has enabled for SMS
+
+Does not count
+
+Toll-free 8XX numbers
+
+Short codes
+
+Numbers outside the US
+
+Who needs a registered 10DLC number
+
+Anyone sending SMS or MMS through software from a US local number to US mobile numbers needs 10DLC registration, including individuals and sole proprietors. On Telnyx you can buy US local numbers and register them in the same portal, and a VoIP line counts too, so you can get a VoIP number and register it the same way.
+
+Try the Telnyx Messaging API to register your brand, campaign and numbers in the same portal you send from.
+
+What is A2P 10DLC messaging?
+
+A2P 10DLC is the US carrier framework for application-to-person texting on local numbers. The distinction that matters is A2P versus P2P. P2P traffic is low-volume, conversational, and roughly balanced between sending and receiving. A2P traffic is high-volume, one-to-many, and mostly outbound. If your software sends texts on your behalf, that's A2P regardless of volume. Carriers classify by origin.
+
+P2P and A2P 10DLC compared
+
+P2P messaging
+
+A2P 10DLC messaging
+
+Who sends
+
+A person on a handset
+
+Software, through an API
+
+Volume
+
+Human pace
+
+Application volume, capped by throughput tier
+
+Registration required
+
+No
+
+Yes: brand and campaign with The Campaign Registry
+
+Example
+
+A person replying to a friend
+
+Appointment reminders sent by a scheduling app
+
+A registered number stays two-way for 10DLC messaging: the same number handles replies, STOP and HELP commands, conversational SMS threads and voice calls.
+
+Why 10DLC exists
+
+Before 10DLC, businesses sent automated texts over ordinary local numbers built for person-to-person use. Carriers filtered that traffic hard because they had no way to tell a legitimate appointment reminder from a phishing blast. Everyone lost: legitimate messages got caught alongside spam, and consumers stopped trusting texts from numbers they didn't recognize. Carriers introduced 10DLC for A2P messaging so every sender has a record of who it is and what its messages are for.
+
+The Campaign Registry, or TCR, sits at the center of the system. It stores the sender's identity as a brand and the use case as a campaign. Businesses register through a Campaign Service Provider, a CSP, which submits on their behalf. Telnyx registers with TCR directly, so there's no third-party CSP between you and the registry.
+
+The 10DLC rollout and enforcement timeline
+
+2021: 10DLC registration through The Campaign Registry becomes the route for business texting on US long codes.
+
+January 26, 2023: every new campaign goes through manual review, with a $15 fee per submission.
+
+February 3, 2025: unregistered 10DLC traffic is blocked altogether.
+
+Blocked means blocked: not filtered, not rate-limited. Registration is the only path to delivery. Send unregistered and your messages don't arrive, and repeated violations can also trigger carrier non-compliance fees and suspension of your numbers.
+
+How 10DLC registration works
+
+10DLC registration happens in three steps, and each one depends on the last. Before you open the 10DLC registration form, gather what the reviewer will check.
+
+Brand, then campaign, then numbers. Brand vetting is optional and only affects throughput.
+
+Pre-registration checklist
+
+Field
+
+What it must show
+
+Legal company name
+
+The name on the IRS record for your EIN
+
+EIN or tax ID
+
+Your business. Individuals without one use the sole proprietor path
+
+Organisation type
+
+Your actual entity type, such as nonprofit or private company
+
+Website
+
+A live site that identifies the brand and links a privacy policy
+
+Sample messages (three to five)
+
+The messages you will send, with opt-out language
+
+Opt-in process
+
+Evidence the reviewer can check
+
+Step 1. Register your brand
+
+You provide your legal business name, EIN, address, and website. The data must match your official records: a legal name that doesn't match your EIN filing fails verification and stalls everything downstream. There are two brand paths. A sole proprietor brand is for individuals without an EIN, and it is capped at one campaign and one number. A standard brand is for registered businesses, and it can add brand vetting to raise its limits. The 10DLC brand registration guide walks the fields one by one.
+
+Step 2. Register your campaign
+
+You declare a use case, describe opt-in, and provide three to five sample messages. This is where most registrations go wrong: businesses pick a campaign type based on their industry instead of their message content. A gym sending class reminders is account notifications, not marketing. Match the campaign type to what the messages say, and make the description, the samples and the consent wording cover the same message types. A reviewer who reads "appointment reminders" and then sees a sample promoting a sale sends it back.
+
+Telnyx's review looks for four lines beside the opt-in: "Message and data rates may apply", "Message frequency may vary", "Reply STOP to opt out" and "Reply HELP for help". A campaign whose lines sit only on a terms page is rejected. Here is a 10DLC SMS campaign written to pass.
+
+Example appointment-reminder campaign
+
+Campaign
+
+Appointment reminders and scheduling notifications sent by Acme Scheduling to clients who booked an appointment and opted in on the booking form at acme.example/book (example). Messages confirm, remind and let the client reschedule. Clients can reply STOP to opt out or HELP for help at any time.
+
+Sample 1
+
+Acme Scheduling: Your appointment with Dr. Lee is scheduled for Tue Oct 7 at 2:30 PM. Reply C to confirm or R to reschedule. Reply STOP to opt out.
+
+Sample 2
+
+Acme Scheduling: Reminder, your appointment is tomorrow at 2:30 PM at 12 Main St. Reply STOP to opt out.
+
+Sample 3
+
+Acme Scheduling: You missed your appointment today. Rebook at acme.example/book. Reply STOP to opt out.
+
+Opt-in flow
+
+Clients can opt in to appointment texts using an unchecked checkbox on the booking form at acme.example/book. The consent text appears beside the checkbox, with links to the privacy policy and terms.
+
+Call to action
+
+By checking this box, I agree to receive appointment reminders and scheduling notifications by text message from Acme Scheduling. Message and data rates may apply. Message frequency may vary. Reply HELP for help or STOP to opt out. See our Privacy Policy and Terms.
+
+Step 3. Assign numbers and send
+
+Numbers must be attached to an approved campaign before the first message. Traffic from unattached numbers gets blocked the same as unregistered traffic. You can attach existing numbers you already own or buy new ones, which activate instantly. Most existing business numbers can be ported or text-enabled and attached to an approved campaign, so your customers keep texting the number they already know. Send a test message to your own handset before you start production sending.
+
+How long 10DLC approval takes
+
+Telnyx reviews a campaign the same or next business day, and the carriers' review, run by the direct connect aggregator (DCA) between your provider and the carriers, usually takes 3 business days or less. Optional brand vetting takes 1 to 7 business days. A rejected campaign goes through review again and pays another $15 submission fee, so leave a buffer of a few weeks before any hard launch date.
+
+10DLC campaign types and use cases
+
+A brand can have up to five campaigns on Telnyx, and each 10DLC campaign can hold multiple numbers. T-Mobile requires a number pool request above 49 numbers, and each sending number can belong to only one campaign at a time.
+
+A brand sending 2FA codes, appointment reminders and promotions can register separate campaigns or select a mixed use case. Each message type must be covered by the campaign's consent process. Marketing campaigns get the closest reading, so check the broadcast messaging rules before you write the samples.
+
+10DLC campaign use cases
+
+Use case type
+
+What it covers
+
+Example message
+
+2FA (standard)
+
+One-time passcodes and login verification
+
+Your Acme code is 482913. It expires in 10 minutes. Reply STOP to opt out.
+
+Account notification (standard)
+
+Balance, status and account changes
+
+Acme: your password was changed. Reply STOP to opt out.
+
+Customer care (standard)
+
+Support conversations and follow-ups
+
+Acme Support: we have reopened ticket 2231. Reply here with details. Reply STOP to opt out.
+
+Marketing (standard)
+
+Promotions and offers
+
+Acme: 20% off this weekend at acme.example/sale. Reply STOP to opt out.
+
+Mixed and low-volume mixed (standard)
+
+Several purposes on one opt-in flow
+
+Acme: your booking is confirmed. Offers and reminders will follow. Reply STOP to opt out.
+
+Charity, political, emergency (special)
+
+Nonprofits, election campaigns, public safety
+
+Lee for Council: your polling place is Lincoln School, open 6 AM to 7 PM. Reply STOP to opt out.
+
+Sole proprietor (special)
+
+Individuals with no EIN
+
+Jane's Cleaning: I will be there Fri at 9. Reply STOP to opt out.
+
+Special use cases and the sole proprietor path
+
+Special use cases have their own eligibility checks: charity requires nonprofit status, and political requires a Campaign Verify token. The sole proprietor path is for individuals with no EIN. It verifies identity with a one-time code sent to a US or Canadian mobile number and allows one campaign with one number, capped at 1,000 messages a day on T-Mobile and 15 a minute on AT&T. The low-volume mixed use case sits between the two: $1.50 a month, 75 messages a minute on AT&T and 2,000 a day on T-Mobile. Senders who need more can register an EIN-based brand, where throughput depends on the use case and the vetting score.
+
+10DLC trust scores and throughput
+
+Brand vetting, a paid review at $41.50 per request, assigns your brand a trust score from 0 to 100. That score sets your throughput, which covers messages per minute on AT&T and the daily brand cap on T-Mobile. An unvetted brand gets the default limits, and a low score limits capacity without rejecting the brand. At T-Mobile's default of 2,000 messages a day, a 50,000-message send takes 25 days to finish.
+
+A higher trust score moves the brand into a tier that allows more messages a minute on AT&T and more a day on T-Mobile.
+
+How score tiers set throughput on each carrier
+
+Each carrier meters differently. AT&T sets a per-campaign limit from the use case and the vetting score: for standard campaigns, 4,500 messages a minute at a score of 75 to 100, 2,400 at 50 to 74, and 240 at 1 to 49 or with no vetting. T-Mobile caps messages per day per brand, shared across all its campaigns: 200,000 at 75 to 100, 40,000 at 50 to 74, 10,000 at 25 to 49, and 2,000 at 1 to 24 or with no vetting. Verizon does not publish throughput figures and filters on content instead. The 10DLC throughput limits article has the full per-carrier tables.
+
+Preparing for brand vetting
+
+The formula is opaque, and I think the opacity is by design, but the inputs are known. Before you request vetting, check that your legal name and EIN match IRS records, your website identifies the brand, your business phone number is publicly listed, your email domain matches your website, and your address is verifiable. A brand that scores below 75 on a standard vet can request an enhanced vet from Aegis at $101.50, which reviews more evidence and can raise the score. Each request is charged, including a resubmission.
+
+10DLC vs. short codes vs. toll-free numbers
+
+10DLC is one of three A2P channels, and each has a job it does well. The plain recommendations, from what I've seen: choose 10DLC when you want a local identity and can text and call from the same number. Choose a short code when raw throughput is the requirement and you can absorb the lease. Choose toll-free for national support or verification traffic without a local identity.
+
+All three number types send through the same Telnyx Messaging API.
+
+10DLC vs. short codes
+
+Short codes are five or six digit numbers leased through a carrier program. They support high-volume messaging and two-way replies, but not voice calls. On Telnyx a short code leases for $1,000 a month.
+
+10DLC compared with short codes
+
+10DLC
+
+Short code
+
+Number format
+
+10-digit local number
+
+Five or six digits
+
+How it is registered
+
+TCR brand and campaign
+
+Carrier short code application
+
+Time to approve
+
+A few business days
+
+About six weeks on Telnyx
+
+Number rental on Telnyx
+
+$1.10 a month with SMS
+
+$1,000 a month
+
+Outbound SMS on Telnyx
+
+$0.004 per part plus carrier fee
+
+$0.007 per part plus carrier fee
+
+Throughput
+
+Tier-based, up to 4,500 a minute per campaign on AT&T
+
+Up to 100 message parts a second
+
+Voice calls
+
+Yes
+
+No
+
+10DLC vs. toll-free numbers
+
+Toll-free numbers are 10-digit 8XX numbers with moderate throughput, voice support, and national recognition. They skip The Campaign Registry and use a separate toll-free verification, which asks for a use case description and proof of opt-in.
+
+10DLC compared with toll-free
+
+10DLC
+
+Toll-free
+
+Number format
+
+10-digit local number
+
+8XX number
+
+How it is registered
+
+TCR brand and campaign
+
+Toll-free verification
+
+Time to approve
+
+A few business days
+
+Usually 5 business days or less
+
+Number rental on Telnyx
+
+$1.10 a month with SMS
+
+$1.10 a month with SMS
+
+Outbound SMS on Telnyx
+
+$0.004 per part plus carrier fee
+
+$0.0055 per part plus carrier fee
+
+10DLC registration cost and carrier fees
+
+Only part of the 10DLC registration cost is set by your provider. The rest passes through from The Campaign Registry and the carriers. TCR charges a one-time brand registration fee and a monthly campaign fee, and Telnyx collects the first three months of campaign fees up front. Campaign review costs $15 per submission, including resubmissions, and brand vetting is charged per request. Telnyx passes these fees through without markup and separately charges for number rental and messaging.
+
+10DLC fee schedule
+
+Fee (who charges it, when)
+
+Amount
+
+Brand registration, EIN brand (TCR, one-time)
+
+$4.50
+
+Brand registration, sole proprietor (TCR, one-time)
+
+$4.00
+
+Standard vet, sets the trust score (TCR vetting partner, per request)
+
+$41.50
+
+Enhanced vet, optional (Aegis, per request)
+
+$101.50
+
+Campaign review (carriers, per submission)
+
+$15
+
+Campaign fee, standard use cases (TCR, monthly)
+
+$10
+
+Campaign fee, low-volume mixed (TCR, monthly)
+
+$1.50
+
+Campaign fee, sole proprietor (TCR, monthly)
+
+$2.00
+
+Carrier fee per outbound SMS part, AT&T
+
+$0.0035
+
+Carrier fee per outbound SMS part, T-Mobile
+
+$0.0045
+
+Carrier fee per outbound SMS part, Verizon
+
+$0.005 from October 1, 2026 ($0.0045 before)
+
+Telnyx local number with SMS (monthly)
+
+$1.10
+
+Telnyx US outbound SMS (per part)
+
+$0.004
+
+Per-message carrier pass-through fees
+
+Carrier fees apply to each message part. Long messages may use multiple billable parts, and the number of characters per part depends on the encoding. MMS carries higher carrier fees than SMS. The current SMS and MMS carrier fees are on the Telnyx messaging pricing page, and if RCS is the next channel you budget, the same layers apply to RCS messaging pricing.
+
+Example: upfront and monthly costs
+
+A small brand with one standard campaign, one SMS-enabled local number and 2,000 single-part reminder messages a month, before any vetting fee:
+
+Brand registration, one-time: $4.50
+
+Campaign review, per submission: $15
+
+Standard campaign fee, first three months up front: $30
+
+One SMS-enabled local number, monthly: $1.10
+
+2,000 outbound SMS at $0.004: $8
+
+Carrier fees on 2,000 SMS at $0.0035 to $0.005: $7 to $10
+
+Initial payment: $65.60 to $68.60
+
+Months two and three, with the same volume and carrier mix: $16.10 to $19.10 each
+
+From month four, including the campaign fee: $26.10 to $29.10 a month
+
+10DLC compliance requirements
+
+Registration gets you onto the network, and compliance keeps you there. The obligations layer four deep, and campaign reviewers check the consent process and evidence you submit against all of them. The 10DLC compliance guide covers each rule in full.
+
+Federal law. The TCPA requires consent before automated texts, and marketing messages need prior express written consent. Since April 11, 2025, consumers can revoke consent through any reasonable method, including replying in plain language like "quit texting me", and you must honor it within 10 business days. The FCC is revising parts of this rule in 2026, so check the current text before you design an opt-out flow.
+
+Industry guidelines. The CTIA messaging principles define what carriers expect on consent, content, and opt-out handling. Carriers treat these as enforceable through their own filtering policies.
+
+Restricted content. SHAFT stands for sex, hate, alcohol, firearms, and tobacco. On Telnyx, cannabis, CBD and hemp products, firearms, tobacco and vape products, debt collection and payday lending are prohibited regardless of consent. Alcohol is allowed only with age verification. Sending restricted content on a campaign not approved for it gets the campaign suspended.
+
+Carrier rules and documentation. Carriers audit registered traffic against campaign descriptions. Drift between what you declared and what you send looks like evasion. Keep auditable opt-in records: the language the recipient saw, a screenshot of the form, and a timestamp.
+
+Proving opt-in consent
+
+For web opt-ins, place an unchecked checkbox beside consent wording like the call to action in the example campaign above. Consent can't be a condition of purchase, and terms-page language alone does not show that someone opted in. For text-in, verbal or paper opt-ins, document the process and keep the wording, script or form.
+
+An example web opt-in form with a consent checkbox, message disclosures and STOP and HELP instructions.
+
+Required message content, STOP, HELP and disclosures
+
+Every 10DLC SMS flow must honor STOP and HELP. The opt-in confirmation must name the brand, say how often messages arrive, and say that message and data rates may apply. A single-message program can skip the frequency. After approval, honor STOP requests immediately, keep the registered opt-in flow current, monitor complaint rates, and update the campaign registration when the message purpose or consent process changes.
+
+Five 10DLC mistakes that stall campaigns
+
+Most rejections trace back to a few fixable causes in the brand record or the campaign.
+
+10DLC mistakes and fixes
+
+Mistake
+
+Fix
+
+Trade name instead of the legal name on the IRS record
+
+Use the exact IRS name and resubmit the brand
+
+Campaign type chosen by industry, not by message content
+
+Pick the use case your samples show, or a mixed use case
+
+Consent lines only on the terms page
+
+Put them beside the checkbox on the opt-in form
+
+Samples without opt-out language
+
+Add "Reply STOP to opt out" to every sample
+
+Numbers not assigned to the approved campaign
+
+Assign every sending number before the first message
+
+The other rejections are clerical: the wrong organisation type, a website that is down or has no privacy policy, or an opt-in process the reviewer cannot verify. Fix the field and resubmit, and fix everything in one edit, because each resubmission is another review and another $15.
+
+Assuming registration guarantees delivery deserves its own callout. I've found most teams learn this the hard way: registration removes the blocking penalty for unregistered traffic. It does not disable spam filtering. Registered messages with spammy content, public link shorteners, or all-caps urgency still get filtered. Monitor delivery-status webhooks to tell API acceptance from delivery, and inspect failure details before retrying.
+
+Both messages leave the same approved campaign, and only the plain one arrives.
+
+Getting started with 10DLC on Telnyx
+
+The Telnyx SMS API sends over 10DLC, toll-free, and short codes from one integration, with built-in 10DLC registration, per-message delivery tracking, and Ed25519-signed webhooks. Register your brand and campaign in the Mission Control Portal or through the 10DLC API, then assign a purchased or ported SMS-enabled local number to the approved campaign.
+
+Delivery receipts arrive as webhooks. Verify the telnyx-signature-ed25519 header before trusting the payload, and track message.finalized events to measure real delivery rates per template. The webhook guide covers verification end to end. For sample code, the long code SMS example sends through a rate-limited queue with delivery webhooks, and the hosted messaging campaign manager handles STOP and START on the inbound webhook.
+
+Registering on behalf of customers as an ISV or reseller
+
+A campaign service provider registers a separate brand for each customer under its own Telnyx account, with the customer's legal name and EIN, because carriers vet the sender the recipient sees. Each customer's campaigns sit under that customer's brand, and their numbers are assigned to those campaigns. If your use case is complex, talk to our team before you register.
+
+And that's the whole game: the businesses that treat registration as infrastructure instead of paperwork are the ones whose messages actually arrive.
+
+FAQ
+What does 10DLC mean?
+10DLC means 10-digit long code: a standard US local number registered through The Campaign Registry for application-to-person SMS and MMS.
+What is a 10DLC number?
+Any US local landline, VoIP or mobile number assigned to an approved 10DLC campaign. Toll-free numbers and short codes follow their own rules.
+Why does 10DLC matter for business texting?
+Carriers block unregistered application traffic on US local numbers, so registration decides whether your texts arrive at all. It also sets your throughput and keeps a local number customers can reply to and call.
+How long does 10DLC registration take?
+Campaign review usually takes a few business days: Telnyx reviews the same or next business day, and carrier review usually takes 3 business days or less. Optional brand vetting takes 1 to 7 business days.
+What happens if you don't register for 10DLC?
+Your messages to US mobile numbers are blocked. Since February 3, 2025 there is no unregistered path for application traffic over a US local number.
+Is 10DLC registration required for all businesses?
+Registration is required for application-to-person SMS or MMS sent from US local numbers to US mobile numbers. Individuals without an EIN can use the sole proprietor path, and person-to-person handset texting does not require registration.
+
+Register for 10DLC on Telnyx
+
+Register your brand and campaign in the Mission Control Portal or through the API, then send through the Telnyx Messaging API at $0.004 per outbound SMS part plus carrier fees.
+Start with the Telnyx Messaging API
+
+Share on Social
+
+Jump to:
+What is 10DLC?What is A2P 10DLC messaging?Why 10DLC existsHow 10DLC registration works10DLC campaign types and use cases10DLC trust scores and throughput10DLC vs. short codes vs. toll-free numbers10DLC registration cost and carrier fees10DLC compliance requirementsFive 10DLC mistakes that stall campaignsGetting started with 10DLC on Telnyx
+
+Sign up for emails of our latest articles and news
+
+Voice AI AgentsText-to-SpeechSpeech-to-TextEmbeddingsSearch APIBrowser APIMeetingBotVoice DesignInference APIAgentSDKFunctionsStateful ActorsKVSQLDBStorageGlobal NumbersVoice APISIP TrunkingSMS APIEmail APIRCSWhatsAppWebRTCVerify APINumber ReputationNumber LookupDeepfake DetectionBranded CallingIoT SIMeSIMMobile VoicePrivate Wireless GatewaysVirtual Cross ConnectsCloud VPNGlobal IP200+ open-source buildsagent-signup.mdx402View all primitivesHealthcareFinanceTravel and HospitalityLogistics and TransportationContact CenterInsuranceRetail and E-CommerceSales and MarketingServices and DiningView all solutionsVoice AIVoice APIInferenceMobile VoiceSpeech-to-TextText-to-SpeechSIP TrunkingSMS APIEmail APIWhatsApp Business APIGlobal NumbersIoT SIM CardView all pricingOur NetworkGlobal communicationsEdge ComputeAgents PlatformPartnersCareersCustomer storiesResource centerMission Control PortalEventsVoice AI agent playbookSupport centerSETIDev DocsIntegrationsCode examplesBenchmarks
+Start building
+
+Social
+
+Compare
+
+Twilio
+
+Bandwidth
+
+Plivo
+
+Vonage
+
+Wasabi
+
+Amazon S3
+
+ElevenLabs
+
+Vapi
+
+Baseten
+
+Together.ai
+
+Amazon Connect
+
+Lumen
+
+Cloudflare
+
+Resend
+
+SendGrid
+
+Mailgun
+
+Resources
+
+Release Notes
+
+Acceptable Use
+
+Terms and conditions
+
+Website Terms and Conditions
+
+Data and Privacy
+
+Report Abuse
+
+Privacy Policy
+
+Cookie Policy
+
+Law Enforcement
+
+Trust Center
+
+Company
+
+Why Telnyx
+
+Our Network
+
+Global Coverage
+
+Customer Stories
+
+Careers
+
+Country Specific Requirements
+
+Social
+
+Company
+
+Our Network
+
+Global Coverage
+
+Release Notes
+
+Careers
+
+Voice AI
+
+AI Glossary
+
+Legal
+
+Data and Privacy
+
+Report Abuse
+
+Privacy Policy
+
+Cookie Policy
+
+Law Enforcement
+
+Acceptable Use
+
+Trust Center
+
+Country Specific Requirements
+
+Website Terms and Conditions
+
+Terms and Conditions of Service
+
+Compare
+
+ElevenLabs
+
+Vapi
+
+Baseten
+
+Together.ai
+
+Twilio
+
+Bandwidth
+
+Vonage
+
+Amazon Connect
+
+Lumen
+
+Cloudflare
+
+Resend
+
+SendGrid
+
+Mailgun
+
+© Telnyx LLC 2026
+
+ISO • PCI • HIPAA • GDPR • SOC2 Type II
+
+Related articles
+
+Messaging
+What is SMS? Meaning, how it works, and what each message costs
+
+By Serhii Omelchenko
+
+26, Oct 2026
+
+Messaging
+SMS vs MMS Explained for Developers: Limits, Cost and One API
+
+By Serhii Omelchenko
+
+12, Oct 2026
+
+Messaging
+WhatsApp Business API for Restaurants
+
+By Megha Sujanani
+
+6, Oct 2026
+
+Inference
+AI inference provider breaches: every 2026 hack
+
+By Eli Mogul
+
+25, Nov 2026
+
+Voice
+How to check if your business number is marked as spam
+
+By Osman Husain
+
+25, Nov 2026
+
+Voice
+Phone number reputation: why business calls get flagged as spam and how to fix it
+
+By Osman Husain
+
+24, Nov 2026
+
+Ask AI

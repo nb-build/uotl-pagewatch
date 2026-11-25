@@ -1,0 +1,982 @@
+AI Customer Agent for Customer Support | HubSpot
+
+Skip to content
+
+English
+
+Select a language
+
+日本語
+
+Deutsch
+
+English
+
+Español
+
+Português
+
+Français
+
+High Contrast
+
+Customer Support
+
+Contact Sales
+
+Close Search
+
+Log in
+
+About
+
+About
+
+About Us
+
+Careers
+
+Contact Us
+
+Investor Relations
+
+Management Team
+
+Back
+
+Get a demo of agent hub
+
+Menu
+
+Close Search
+
+Products
+
+Products
+
+The HubSpot Customer Platform
+
+All of HubSpot's marketing, sales, and customer service software on one agentic platform.
+
+Free HubSpot CRM
+
+Overview of all products
+
+Marketing Hub
+
+Marketing automation software
+
+Free and premium plans
+
+Sales Hub
+
+Sales software
+
+Free and premium plans
+
+Service Hub
+
+Customer service software
+
+Free and premium plans
+
+Content Hub
+
+Content marketing software
+
+Free and premium plans
+
+Data Hub
+
+Data management software
+
+Free and premium plans
+
+Revenue Hub
+
+CPQ, billing, and payments software
+
+Free and premium plans
+
+Smart CRM
+
+AI-powered, flexible CRM software
+
+Learn more
+
+Agent Hub
+
+Your central home for building and managing AI agents across the platform
+
+Learn more
+
+Small Business Bundle
+
+The Starter edition of each product, built for startups and small businesses
+
+Learn more
+
+AEO (Beta)
+
+Answer engine optimization tools that track and improve your brand's visibility in AI results
+
+Learn more
+
+HubSpot Marketplace
+
+Connect your favorite apps to HubSpot
+
+See all integrations
+
+Solutions
+
+Solutions
+
+By Use Case
+
+By Team Size
+
+Why HubSpot?
+
+Marketing
+
+Generate leads
+
+Convert visitors into contacts for your database.
+
+Automate marketing
+
+Create campaigns with automation and AI.
+
+Sales
+
+Build pipeline
+
+Generate a pipeline of high-quality prospects.
+
+Close deals
+
+Streamline your process and close more deals faster.
+
+Customer Service
+
+Scale support
+
+Support customers at scale with AI and a help desk.
+
+Drive retention
+
+Identify opportunities to improve customer health.
+
+Content
+
+Create content
+
+Easily craft content for your audience, with help from AI.
+
+Manage content
+
+Organize, update, and distribute content in one place.
+
+Startups & Small Businesses
+
+Find and reach customers
+
+Generate leads through content, AI, and automation.
+
+Grow sales and get paid
+
+Prospect smarter and automate payments.
+
+Organize customer data
+
+Unify your team and data on one platform.
+
+Artificial Intelligence
+
+Resolve customer queries 24/7
+
+Scale customer service with an AI customer agent.
+
+Automate sales prospecting
+
+Identify and engage high-value leads with an AI prospecting agent.
+
+Research customers faster
+
+Get instant answers about your customers with an AI data agent.
+
+By Team Size
+
+For Small Businesses & Startups
+
+HubSpot’s all-in-one Starter Customer Platform helps your growing startup or small business find and win customers from day one.
+
+Learn more
+
+about HubSpot’s Starter Customer Platform
+
+For Enterprises
+
+With HubSpot’s integrated Enterprise Customer Platform, you don’t have to sacrifice power for ease of use.
+
+Learn more
+
+about HubSpot’s Enterprise Customer Platform
+
+Why HubSpot?
+
+Why Choose HubSpot?
+
+After just one year, HubSpot customers acquire 129% more leads, close 36% more deals, and see a 37% improvement in ticket closure rates.
+
+Learn more
+
+about why how HubSpot’s solution is different
+
+Case Studies
+
+Explore examples of companies like yours from all over the globe that use HubSpot to unite their teams, empower their businesses, and grow better.
+
+See all case studies
+
+Spotlight: Product Updates
+
+Learn about HubSpot’s featured product releases and announcements in this semi-annual product showcase.
+
+Explore product updates
+
+Pricing
+
+Resources
+
+Resources
+
+Featured Links
+
+Spotlight: Product Updates
+
+What's New in HubSpot
+
+Why Choose HubSpot?
+
+Sustainability
+
+Community & Events
+
+UNBOUND Event
+
+Webinars
+
+HubSpot Community
+
+HubSpot User Groups
+
+Partners
+
+Solutions Partner Program
+
+Technology Partner Program
+
+Affiliate Partner Program
+
+Education Partner Program
+
+Startup Partner Program
+
+Education
+
+The Loop Marketing Playbook
+
+What Is Inbound Marketing?
+
+HubSpot Blogs
+
+Free Courses & Certifications
+
+Ebooks, Guides & More
+
+HubSpot Knowledge Base
+
+Tools
+
+Website Templates
+
+Developer Tools
+
+Services
+
+Onboarding
+
+Premium Support
+
+Hire a Solutions Partner
+
+Products
+
+Products
+
+The HubSpot Customer Platform
+
+All of HubSpot's marketing, sales, and customer service software on one agentic platform.
+
+Free HubSpot CRM
+
+Overview of all products
+
+Marketing Hub
+
+Marketing automation software
+
+Sales Hub
+
+Sales software
+
+Service Hub
+
+Customer service software
+
+Content Hub
+
+Content marketing software
+
+Data Hub
+
+Data management software
+
+Revenue Hub
+
+CPQ, billing, and payments software
+
+Smart CRM
+
+AI-powered, flexible CRM software
+
+Agent Hub
+
+Your central home for building and managing AI agents across the platform
+
+Small Business Bundle
+
+The Starter edition of each product, built for startups and small businesses
+
+AEO (Beta)
+
+Answer engine optimization tools that track and improve your brand's visibility in AI results
+
+HubSpot Marketplace
+
+Connect your favorite apps to HubSpot
+
+Solutions
+
+Solutions
+
+By Use Case
+
+Marketing
+
+Generate leads
+
+Automate marketing
+
+Sales
+
+Build pipeline
+
+Close deals
+
+Customer Service
+
+Scale support
+
+Drive retention
+
+Content
+
+Create content
+
+Manage content
+
+Startups & Small Businesses
+
+Find and reach customers
+
+Grow sales and get paid
+
+Organize customer data
+
+Artificial Intelligence
+
+Resolve customer queries 24/7
+
+Automate sales prospecting
+
+Research customers faster
+
+By Team Size
+
+By Team Size
+
+For Small Businesses & Startups
+
+HubSpot’s all-in-one Starter Customer Platform helps your growing startup or small business find and win customers from day one.
+
+Learn more
+
+about HubSpot’s Starter Customer Platform
+
+For Enterprises
+
+With HubSpot’s integrated Enterprise Customer Platform, you don’t have to sacrifice power for ease of use.
+
+Learn more
+
+about HubSpot’s Enterprise Customer Platform
+
+Why HubSpot?
+
+Why HubSpot?
+
+Why Choose HubSpot?
+
+After just one year, HubSpot customers acquire 129% more leads, close 36% more deals, and see a 37% improvement in ticket closure rates.
+
+Learn more
+
+about why how HubSpot’s solution is different
+
+Case Studies
+
+Explore examples of companies like yours from all over the globe that use HubSpot to unite their teams, empower their businesses, and grow better.
+
+See all case studies
+
+Spotlight: Product Updates
+
+Learn about HubSpot’s featured product releases and announcements in this semi-annual product showcase.
+
+Explore product updates
+
+Pricing
+
+Resources
+
+Resources
+
+Featured Links
+
+Spotlight: Product Updates
+
+What's New in HubSpot
+
+Why Choose HubSpot?
+
+Sustainability
+
+Community & Events
+
+UNBOUND Event
+
+Webinars
+
+HubSpot Community
+
+HubSpot User Groups
+
+Partners
+
+Solutions Partner Program
+
+Technology Partner Program
+
+Affiliate Partner Program
+
+Education Partner Program
+
+Startup Partner Program
+
+Education
+
+The Loop Marketing Playbook
+
+What Is Inbound Marketing?
+
+HubSpot Blogs
+
+Free Courses & Certifications
+
+Ebooks, Guides & More
+
+HubSpot Knowledge Base
+
+Tools
+
+Website Templates
+
+Developer Tools
+
+Services
+
+Onboarding
+
+Premium Support
+
+Hire a Solutions Partner
+
+About
+
+About
+
+About Us
+
+Careers
+
+Contact Us
+
+Investor Relations
+
+Management Team
+
+Get a demo of agent hub
+
+Log in
+
+English
+
+Select a language
+
+日本語
+
+Deutsch
+
+English
+
+Español
+
+Português
+
+Français
+
+High Contrast
+
+Customer Support
+
+Contact Sales
+
+Agent Hub
+
+Customer Agent
+
+CUSTOMER AGENT
+
+Your always-on support agent. Built to handle more.
+
+Customer agent resolves questions, takes action in your CRM, and hands off to your team with full context. That means faster resolutions and happier customers.
+
+Get a demo
+
+of agent hub
+
+Real results from customer agent users.
+
+70%
+
+average resolution rate (top teams hit 90%)
+
+74%
+
+more tickets closed by customers using customer agent, on average
+
+84%
+
+higher ticket resolution rate by customers using customer agent, on average
+
+Customer support that works the way you do.
+
+Customer support that works the way you do.
+
+Built for your business. Your voice, your rules.
+
+No two businesses are alike, and your agent should reflect that. Train it on your content and brand voice, personalize it by audience segment, and let it take action in your CRM, Shopify, and the other tools your team uses. Your agent works the way your business does.
+
+Launch with confidence.
+
+You shouldn't have to guess how your agent will perform with real customers. Test before you go live, roll out at your own pace, and step in whenever you need to. Conversations are tracked in the same help desk your team already works from, so your team has the full picture.
+
+Gets smarter with every conversation.
+
+The best support agents get better over time. Customer agent doesn't just handle volume; it learns from it. See what's working, coach the agent where it needs work, and improve quickly so your support keeps up as your business scales.
+
+TRUSTED BY 306,000 CUSTOMERS WORLDWIDE
+
+See customer agent in action.
+
+Pay when work gets done.
+
+Customer agent is available at half the price of leading competitors. Professional and Enterprise editions of HubSpot are required to access customer agent, which runs on HubSpot Credits.
+
+See pricing
+to learn more about HubSpot Credits
+
+Messaging
+
+$0.50
+
+per resolution
+
+Voice
+
+$0.50
+
+per minute
+
+One agent. All of your channels.
+
+Voice
+
+Customers who call don't want to wait. Customer agent handles inbound calls in real time with natural, conversational responses. It transfers to your team with full context when they need to step in.
+
+Email, Chat, and Forms
+
+Your highest-volume channels, handled automatically. Customer agent responds from your domain using each customer's full history, so answers are accurate and personal.
+
+WhatsApp and Messenger
+
+Give your customers instant, on-brand support inside the social apps they already use. Use customer agent on WhatsApp and Facebook Messenger.
+
+How real teams are using customer agent.
+
+Explore more customer stories.about Breeze
+
+Previous
+
+Next
+
+Synergym resolves 85% of support requests autonomously.
+
+"HubSpot’s customer agent is autonomously resolving 85% of the support requests we receive in a satisfactory way. That has freed up an enormous amount of operational time, allowing our team to focus on higher-value tasks."
+
+Alejandro Viano
+
+Brand Manager
+Read full customer storyabout Synergym
+
+ISSA cut first response time by over three hours.
+
+"We were drowning. Tessa absorbed the backlog, my team got their footing back, and our students stopped waiting. With HubSpot's customer agent, we cut first response from 7.5 hours to 4, and our team finally has the room to expand what support can be."
+
+Ashley Thompson
+
+Director of Support
+Read full customer storyabout issa
+
+Sticos finally has the capacity to do real customer success work.
+
+"With customer agent and Service Hub, Sticos finally has the capacity to do real customer success work, and our accountants and auditors get the instant, reliable answers their clients depend on."
+
+Petter Aspås
+
+Customer Success Manager
+Read full customer storyabout Sticos
+
+AI that's easy to use and easy to trust.
+
+HubSpot’s AI runs on a secure infrastructure, giving you full visibility into how your data is used and the controls to manage it.
+
+You control what AI can access.
+
+Third-party AI providers are contractually prohibited from training their models on your data — and you can control what they have access to.
+
+No surprises. Full transparency.
+
+HubSpot publishes model cards that explain how its AI features work, what data they use, and what safeguards are in place — so your security team can review and verify. Visit HubSpot's AI Trust Center.
+
+Built on enterprise-grade security.
+
+Your data is protected wherever it lives. HubSpot enforces least-privilege access controls, encryption, logging, and monitoring. We validate our safeguards through regular penetration testing, vulnerability scans, and independent security audits such as SOC 2 Type 2.
+
+All of your AI tools, built on the same data.
+
+See more of HubSpot's AI tools, all connected to your CRM.
+
+Previous
+
+Next
+
+Prospecting agent
+
+Watch accounts for buying signals, find the right contacts, and draft outreach before your rep picks up the phone.
+
+See more
+
+Agent builder
+
+Build a custom agent on one canvas, using your own prompts and CRM data. No coding needed.
+
+See more
+
+Breeze Assistant
+
+Get answers grounded in your CRM data, draft content, and build agents.
+
+See more
+
+Data agent
+
+Ask questions about contacts or companies in plain language and get answers pulled from your CRM, calls, and documents.
+
+See more
+
+Frequently asked questions
+
+Get answers to frequently asked questions about HubSpot’s AI customer agent.
+
+What is an AI customer agent?
+
+HubSpot's customer agent is an AI-powered support agent that automatically handles customer inquiries, resolves tickets, and escalates complex issues to your team — with full context.
+
+Unlike traditional chatbots, customer agent understands natural language, works across chat, email, social, and voice channels, and continuously improves based on real customer interactions. It runs 24/7 without human intervention, so customers get answers instantly and your team focuses on higher-value work.
+
+How much does customer agent cost?
+
+Customer agent is priced per conversation resolved, at $0.50 per resolution.
+
+A resolution means support was provided by the agent, and the conversation was not handed to a human rep for 72 hours. A resolution can also occur if customer agent qualifies a lead. Learn more about how customer agent resolves conversations in our knowledge base.
+
+Customer agent is available to Professional and Enterprise subscriptions and runs on HubSpot Credits. Some subscriptions include monthly credits; more can be purchased as needed. Visit our pricing page for full details.
+
+How do I control how HubSpot's AI customer agent represents my brand?
+
+HubSpot's AI customer agent reflects your brand in every conversation because it's trained on your specific business content: your knowledge base, website, CRM data, and historical conversations, not generic AI defaults.
+
+You control the brand voice, set rules for how it responds, and personalize interactions by audience segment. Before going live, you can batch test different scenarios and roll out gradually so you scale only when you're confident. When a question needs action, like sending order status updates via Shopify or taking action in your CRM, customer agent handles that too, within the rules you set. It maintains your brand voice across every channel your customers use, including chat, email, voice, and messaging apps.
+
+Which languages does customer agent support?
+
+Customer agent is available in all HubSpot-supported languages.
+
+What's the difference between AI customer support and traditional chatbots?
+
+Traditional chatbots follow decision trees and break on unexpected questions. Customer agent uses AI to understand context, respond naturally, and improve over time. It can handle nuanced questions, know when to escalate, and deliver fast, human-like support — without feeling robotic.
+
+How does customer agent automate customer conversations?
+
+Customer agent uses AI to handle customer inquiries in real-time, provide instant responses, and intelligently route complex issues to human agents when needed. It can handle multiple conversations at once — all while staying accurate and on-brand.
+
+Can you customize agents?
+
+Yes! Customer agent is highly customizable.
+
+You can feed unstructured data like PDFs, meeting transcripts, and company documents, so customer agent provides accurate, contextual responses based on your business information. You can also tailor how customer agent interacts with customers and convert existing context into helpful answers — all without any coding required.
+
+Additionally, HubSpot Marketplace offers a library of HubSpot-built agents and custom assistants that you can discover and install to expand your AI capabilities.
+
+Better support starts before your team picks up the ticket.
+
+Customer agent handles the volume so your team can focus on the conversations that need them most.
+
+Get a demo
+of agent hub
+
+Back
+
+Close
+
+Popular Features
+
+All Products and Features
+
+All Products and Features
+
+HubSpot AEO
+
+HubSpot AEO
+
+Free Meeting Scheduler App
+
+Free Meeting Scheduler App
+
+Email Tracking Software
+
+Email Tracking Software
+
+AI Content Writer
+
+AI Content Writer
+
+AI Website Generator
+
+AI Website Generator
+
+Email Marketing Software
+
+Email Marketing Software
+
+Lead Management Software
+
+Lead Management Software
+
+AI Prospecting Agent
+
+AI Prospecting Agent
+
+Free Website Builder
+
+Free Website Builder
+
+Free Landing Page Builder
+
+Free Landing Page Builder
+
+Free Online Form Builder
+
+Free Online Form Builder
+
+Free Chatbot Builder
+
+Free Chatbot Builder
+
+Free Live Chat Software
+
+Free Live Chat Software
+
+Marketing Analytics
+
+Marketing Analytics
+
+Breeze Assistant
+
+Breeze Assistant
+
+Free Web Hosting
+
+Free Web Hosting
+
+Free Tools
+
+See All Free Business Tools
+
+See All Free Business Tools
+
+AI Search Grader opens in a new tab
+
+AI Search Grader
+
+AI Search Sensor opens in a new tab
+
+AI Search Sensor
+
+Make My Persona opens in a new tab
+
+Make My Persona
+
+Email Signature Generator
+
+Email Signature Generator
+
+Free Business Templates
+
+Free Business Templates
+
+Software Comparisons Library
+
+Software Comparisons Library
+
+Website Templates
+
+Website Templates
+
+Connector for Claude
+
+Connector for Claude
+
+Company
+
+About Us
+
+About Us
+
+Careers
+
+Careers
+
+Management Team
+
+Management Team
+
+Board of Directors
+
+Board of Directors
+
+Investor Relations opens in a new tab
+
+Investor Relations
+
+Blog opens in a new tab
+
+Blog
+
+Sustainability
+
+Sustainability
+
+Contact Us
+
+Contact Us
+
+Customers
+
+Customer Support opens in a new tab
+
+Customer Support
+
+Join a Local User Group
+
+Join a Local User Group
+
+Partners
+
+All Partner Programs
+
+All Partner Programs
+
+Solutions Partner Program
+
+Solutions Partner Program
+
+Technology Partner Program
+
+Technology Partner Program
+
+HubSpot for Startups opens in a new tab
+
+HubSpot for Startups
+
+Affiliate Program
+
+Affiliate Program
+
+Facebook
+
+Instagram
+
+Youtube
+
+Twitter
+
+Linkedin
+
+Reddit
+
+Tiktok
+
+Copyright HubSpot, Inc.
+
+Legal Center
+
+Privacy Policy
+
+Security
+
+Website Accessibility

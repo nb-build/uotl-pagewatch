@@ -1,0 +1,1280 @@
+FenceCRM - Professional Fence Estimating Software
+
+FFenceCRMHow it worksPricingFAQAbout
+Log inStart free trial
+
+Fence Estimate to Paid Invoice.
+
+Without the Late Nights.
+
+Profit is in the details. FenceCRM counts every post, tracks every change and sends every invoice. Our team sets it up with you.
+
+Start free trial
+
+Draw it your wayStart a layout from any of these
+
+Satellite photoTrace the yard from above
+
+GridSketch it to scale on site
+
+Plot plan or survey PDFUpload it and set the scale
+
+Draw it your way:SatelliteGridSurvey PDF
+
+fencecrm.com/leads
+
+Live preview: click around
+
+T
+
+Thomas Fence Co
+
+DashboardTasksLeadsProjectsCompletedSchedule
+
+PricebookEstimate BookProposal BookReports
+
+Settings
+Mitch
+
+Sent$253K
+
+Sold$84.2K
+
+Collected$61.5K
+
+Backlog$52.8K
+
+Outstanding$12.9K
+
+NEW LEAD
+
+TodayMon, Nov 17
+
+Sales
+
+7 AM8 AM9 AM10 AM11 AM12 PM1 PM2 PM3 PM4 PM5 PM
+
+Ruiz Family9:30 – 10:30 AMLD
+
+Patel11:00 AM – 12:00 PMMT
+
+Dana Kim1:00 – 2:00 PMLD
+
+St. Mark's School3:30 – 4:30 PMMT
+
+Needs attention
+
+2new leads to contact
+
+1visit done, no proposal sent
+
+3proposals going cold$24.6K
+
+1sold job needs an install date$8.4K
+
+1job stuck in a stage
+
+2invoices overdue$6.3K
+
+Invoices due3
+
+Lewis Property Mgmt · Deposit5 days overdue
+$3,150
+
+Morales · BalanceDue today
+$1,240
+
+Patel · BalanceDue Fri
+$1,980
+
+Tasks
+
+MineEveryone
+
+NEW TASK
+
+Overdue · 2
+
+Call HOA board about gate colorOak Ridge HOANov 12You
+
+Order cedar for KimKim ResidenceNov 13Sam
+
+Today · 3
+
+Submit permit applicationGarcia ResidenceTodaySam
+
+Mark utilities before digRiverside StorageTodayLuis
+
+Send revised layout with 2 gatesSt. Mark's SchoolTodayJordan
+
+Upcoming · 7
+
+Final walkthrough with customerHenderson FamilyNov 18You
+
+Pick up vinyl panelsOak Ridge HOANov 19Dre
+
+Collect balance after installPatel ResidenceNov 19Sam
+
+Confirm 811 ticket is clearHenderson FamilyNov 20Luis
+
+Send HOA approval letterOak Ridge HOANov 20You
+
+Follow up on proposalDana KimNov 21Jordan
+
+Schedule final inspectionGarcia ResidenceNov 21Sam
+
+DetailsLayoutEstimateProposalFilesNEW LAYOUT
+
+BackyardSaved
+
+100%
+
+FGRE
+
+KEY
+
+6' Cedar Dog-Ear Privacy
+
+Fence segment88'
+
+Run
+
+Length (ft)
+
+88
+
+Tear out existing fence here
+
+Material
+
+6' Cedar Dog-Ear Privacy
+
+Dimension label
+
+Duplicate ⌘DDelete
+
+220' fence + 4' gatesGridPosts
+
+Projects
+
+TableBoard
+
+Name
+
+Address
+
+Progress
+
+Permit
+
+Materials
+
+Install
+
+Accepted
+
+Henderson Family
+
+412 Maple Ave
+
+5/9
+
+Done
+
+Ordered
+
+Scheduled
+
+Nov 10
+
+Riverside Storage
+
+2200 River Rd
+
+6/9
+
+Done
+
+Done
+
+Scheduled
+
+Nov 7
+
+Patel Residence
+
+9 Birch Ct
+
+7/9
+
+Not Needed
+
+Done
+
+Scheduled
+
+Nov 4
+
+Oak Ridge HOA
+
+Oak Ridge Pkwy
+
+3/9
+
+Waiting
+
+Waiting
+
+Scheduled
+
+Nov 12
+
+Sullivan Family
+
+5 Lakeview Dr
+
+6/9
+
+Done
+
+Done
+
+Scheduled
+
+Nov 2
+
+Morales Residence
+
+77 Elm St
+
+7/9
+
+Not Needed
+
+Done
+
+Scheduled
+
+Nov 11
+
+Brooks Residence
+
+301 Pine St
+
+4/9
+
+Done
+
+Ordered
+
+Scheduled
+
+Nov 9
+
+Kim Residence
+
+18 Cedar Ln
+
+4/9
+
+Done
+
+Waiting
+
+Scheduled
+
+Nov 13
+
+Garcia Residence
+
+60 Hill Rd
+
+2/9
+
+Waiting
+
+—
+
+—
+
+Nov 14
+
+Thompson Residence
+
+88 Orchard Ln
+
+8/9
+
+Done
+
+Done
+
+Done
+
+Oct 28
+
+Greenway Dental
+
+1500 Main St
+
+5/9
+
+Done
+
+Ordered
+
+Scheduled
+
+Nov 1
+
+Westfield Apartments
+
+400 Westfield Blvd
+
+4/9
+
+Waiting
+
+Ordered
+
+Scheduled
+
+Nov 6
+
+Nguyen Family
+
+23 Spruce Ct
+
+6/9
+
+Not Needed
+
+Done
+
+Scheduled
+
+Nov 8
+
+Completed
+
+42 jobs this year
+
+Name
+
+Address
+
+Completed
+
+Total
+
+Paid
+
+Thompson Residence
+
+88 Orchard Ln
+
+Nov 13
+
+$7,240.00
+
+Done
+
+Greenway Dental
+
+1500 Main St
+
+Nov 12
+
+$11,860.00
+
+Done
+
+Nguyen Family
+
+23 Spruce Ct
+
+Nov 10
+
+$4,980.00
+
+Done
+
+Baker Residence
+
+702 Hillcrest Dr
+
+Nov 7
+
+$3,215.00
+
+Done
+
+Westfield Apartments
+
+400 Westfield Blvd
+
+Nov 6
+
+$18,400.00
+
+Done
+
+Carter Family
+
+15 Meadow Rd
+
+Nov 4
+
+$6,120.00
+
+Done
+
+Lopez Residence
+
+9 Sunset Ct
+
+Nov 3
+
+$2,890.00
+
+Done
+
+Pine Valley Church
+
+3100 Valley Rd
+
+Oct 31
+
+$9,775.00
+
+Done
+
+Allen Residence
+
+61 Brook St
+
+Oct 30
+
+$5,430.00
+
+Done
+
+Hughes Residence
+
+27 Fox Run
+
+Oct 28
+
+$4,360.00
+
+Done
+
+Maple Grove Park
+
+1 Park Dr
+
+Oct 27
+
+$14,925.00
+
+Done
+
+Diaz Family
+
+310 Ridge Rd
+
+Oct 24
+
+$6,780.00
+
+Done
+
+Foster Residence
+
+45 Aspen Ct
+
+Oct 23
+
+$3,940.00
+
+Done
+
+Schedule
+
+SalesInstalls
+
+Nov 16 – 21
+Crews
+
+Crew
+
+Mon
+
+16
+
+Tue
+
+17
+
+Wed
+
+18
+
+Thu
+
+19
+
+Fri
+
+20
+
+Sat
+
+21
+
+Crew A
+
+Lead · Luis
+
+HendersonReady
+
+Wood182 ft
+
+412 Maple Ave
+
+PatelReady
+
+Aluminum48 ft
+
+9 Birch Ct
+
+Oak Ridge HOA2/4
+
+Vinyl310 ft
+
+Oak Ridge Pkwy
+
+Crew B
+
+Lead · Dre
+
+MoralesReady
+
+WoodGate
+
+77 Elm St
+
+Riverside StorageReady
+
+Chain link640 ft
+
+2200 River Rd
+
+Kim3/4
+
+Wood96 ft
+
+18 Cedar Ln
+
+Crew C
+
+Lead · Marcus
+
+SullivanReady
+
+Vinyl220 ft
+
+5 Lakeview Dr
+
+BrooksReady
+
+Aluminum64 ft
+
+301 Pine St
+
+Unassigned
+
+2 jobs need a crew
+
+Garcia1/4
+
+Wood140 ft
+
+60 Hill Rd
+
+Lewis2/4
+
+Chain link300 ft
+
+14 Mill St
+
+Pricebook
+
+MaterialsLaborSuppliers
+
+NEW MATERIAL
+
+Item
+
+Category
+
+Supplier
+
+Unit
+
+Cost
+
+4x4x8 Pressure Treated Post
+
+Posts
+
+Valley Lumber
+
+Each
+
+$14.86
+
+2x4x8 Pressure Treated Rail
+
+Rails
+
+Valley Lumber
+
+Each
+
+$6.02
+
+1x6x6 Cedar Dog-Ear Picket
+
+Pickets
+
+Valley Lumber
+
+Each
+
+$3.48
+
+6' x 8' White Vinyl Privacy Panel
+
+Panels
+
+Northline Vinyl
+
+Each
+
+$92.00
+
+5x5x9 Vinyl Line Post
+
+Posts
+
+Northline Vinyl
+
+Each
+
+$38.50
+
+2-3/8" Galvanized Terminal Post
+
+Framework
+
+Metro Fence Supply
+
+Each
+
+$29.75
+
+11.5 ga Chain Link Fabric, 6'
+
+Fabric
+
+Metro Fence Supply
+
+Roll (50 ft)
+
+$118.00
+
+60 lb Concrete Mix
+
+Concrete
+
+Valley Lumber
+
+Bag
+
+$5.98
+
+Heavy Duty Gate Hinge Set
+
+Hardware
+
+Metro Fence Supply
+
+Set
+
+$24.40
+
+4' Black Aluminum Panel, Flat Top
+
+Panels
+
+Northline Vinyl
+
+Each
+
+$71.00
+
+Cedar 2x4x8 Top Cap
+
+Trim
+
+Valley Lumber
+
+Each
+
+$9.12
+
+Tension Band, 2-3/8"
+
+Fittings
+
+Metro Fence Supply
+
+Each
+
+$0.86
+
+Gravity Gate Latch
+
+Hardware
+
+Metro Fence Supply
+
+Each
+
+$11.25
+
+Estimate Book6' Cedar Dog-Ear PrivacyBestEdit
+
+Build configuration
+
+6' tallDog-ear privacySet in concreteLabor per foot
+
+Rails & pickets
+
+Rail type2x4 cedar, 8'
+
+Rails per section3
+
+Picket type1x6 dog-ear, 6'
+
+Posts
+
+Post spacing8 ft
+
+Post size4x4 treated
+
+Post length8'
+
+Concrete
+
+Bags per post2
+
+Concrete type60 lb
+
+Gates
+
+Hinge & latch posts4x6 treated, 2 bags
+
+Double gates, 10' wide2x4x10 rails, 6x6 posts
+
+Price tiers
+
+Standard$40/ft
+4' gate $660 · 5' gate $720 · double +$240
+
+Premium$46/ft
+4' gate $760 · 5' gate $820 · double +$280
+
+Build summary182 ft at 8 ft spacing
+
+Line posts22
+
+Hinge & latch posts2
+
+Rails69
+
+Pickets412
+
+Concrete bags48
+
+Gate kits1
+
+Usage
+
+Times used48
+
+Last used2 days ago
+
+Proposal Book6' Cedar PrivacyWoodBestPreviewSave
+
+Sections
+
+Our WorkImage gallery · 14 photos
+
+What Our Customers SayReviews · 6 reviews
+
+Frequently Asked QuestionsFAQ · 8 questions
+
+ContractContract terms · Locked at signing
+
+AttachmentsAttachments · Warranty.pdf
+
+Add section
+
+Payment terms
+
+Deposit50% · due on signing
+
+Balancedue on completion
+
+Contract
+
+Section title
+Contract
+
+Terms
+
+1.Thomas Fence Co. will install the fence shown on the attached layout, following the grade of the yard unless noted.
+
+2.Customer is responsible for marking property lines. Thomas Fence Co. will call 811 before digging.
+
+3.A 50% deposit is due at signing. The balance is due when the job is marked complete.
+
+4.Changes after signing are made by a signed change order and itemized on the final invoice.
+
+The contract, the approved quote and the layout are frozen when the customer signs.
+
+Sales
+This quarterAll reps
+
+Sold
+$304K18%
+47 jobs
+
+Sent
+$701K11%
+129 proposals
+
+Close rate
+41%3 pts
+47 of 115 leads quoted
+
+Avg job
+$6,4806%
+per sold job
+
+Lost
+21
+vs 24 in last quarter
+
+Sold vs sentSep 1 – Nov 30
+
+SentSold
+
+Sep 7Sep 14Sep 21Sep 28Oct 5Oct 12Oct 19Oct 26Nov 2Nov 9Nov 16
+
+By fence typesold jobs, by the quote that signed
+
+Fence typeJobsSoldClose rate
+
+Wood privacy19$118K44%
+
+Vinyl12$96K39%
+
+Chain link9$52K47%
+
+Aluminum7$38K35%
+
+Settings
+
+My Account
+
+Profile
+
+Company
+
+Company
+
+Team
+
+Communications
+
+Work
+
+Sales
+
+Layouts
+
+Milestones
+
+Customer portal
+
+Money
+
+Invoicing
+
+Payments
+
+Billing
+
+Company
+
+Shows on your proposals, invoices and customer portal.
+
+T
+Change logo
+
+Company name
+
+Thomas Fence Co.
+
+Phone
+
+(555) 214-0198
+
+Address
+
+1200 Industrial Way
+
+Currency
+
+USD
+
+Hey there,
+
+If you're reading this, you probably spend the day in driveways and on jobsites, measuring, selling and keeping crews moving. Then the other job starts at night: typing up quotes, counting materials and ordering extra just in case. On top of that, you're tracking permits and 811 tickets, sending invoices and remembering who's waiting on what.
+
+That all has to happen somewhere. Right now it's probably a notepad, a spreadsheet, a whiteboard, your camera roll and a few apps that don't talk to each other. And something always slips: a short material order, a quote redone from scratch because they want vinyl, an invoice that never went out.
+
+I know because I lived it. I'm a fence guy, and the job was never as clear as it should have been. Customer expectations didn't always match our scope of work, and they were always asking when their install date was. The crew showed up without a detailed layout, notes or site photos, and changes made between the signed quote and install day didn't always reach them.
+
+Nothing out there was built for how fence companies actually work. So I built FenceCRM: draw the fence once, and the materials, the proposal, the schedule and the invoice all come from that one drawing.
+
+And you don't set it up alone. When you sign up, we load your materials and prices, build your presets the way your crews build, and set up your proposals with your photos, reviews and contract. If something isn't right, you reach me directly, not a ticket queue.
+
+Build your next quote in FenceCRM. If it's not faster and more accurate than how you do it now, email me and tell me why.
+
+Mitch
+
+Mitch, Developer of FenceCRM
+mitch@getfencecrm.com
+
+Layout > Proposal sent in just 4.3 min.
+
+Draw the fence on site, and FenceCRM prices it as you go.
+
+Satellite, grid or plot plan. Trace the yard on a satellite photo, sketch on a grid, or upload the survey PDF and set the scale.
+
+Presets for how you build. Pick 6' cedar privacy and every post, rail and picket is priced.
+
+Your brand, with follow-ups built in. Your logo, photos, reviews and contract on every proposal, and a reminder goes out on its own if they haven't signed.
+
+Sent 9:51 AMOpened by customer
+
+T
+Thomas Fence Co.Proposal #1042
+
+Valid 30 days
+
+Prepared forThe Henderson Family
+
+6' cedar privacy fence182 ft with a 4' walk gate, old fence removed
+$8,420
+
+Optional, add what you like
+Post caps+$180
+
+Stain and seal+$960
+
+Total$8,420
+
+Deposit due at signing (50%)$4,210
+
+J. HendersonCustomer signature
+Accept and sign
+
+Order it once. Load it once.
+
+The material list comes from the layout, counted the way your crews build.
+
+Takeoffs from the layout. Every post, rail, picket and bag of concrete, for every run and gate.
+
+Your suppliers' prices. Pick the supplier for each item and the job cost updates with it.
+
+A handoff packet for the crew. Site plan, material list, scope and access notes in one packet, in English or Spanish, so they build what you sold.
+
+Materials for
+
+Henderson · 182 ft 6' cedar privacy
+
+From the layout
+
+ItemQty
+
+4x4 treated posts, 8'22
+
+4x6 treated gate posts, 8'2
+
+2x4 cedar rails, 8'69
+
+1x6 dog-ear pickets, 6'412
+
+Concrete, 60 lb bags48
+
+Walk gate kit, 4'1
+
+Counted the way your crews buildAdd to handoff packet
+
+Homeowner wants options? No problem.
+
+When a customer changes their mind, before or after they sign, it's a quick edit, not a new quote.
+
+Duplicate the layout. Show cedar and vinyl side by side without redrawing.
+
+Signed change orders. Add or credit work after the contract, approved by the office and signed by the customer.
+
+Changes flow to the invoice. Every change order is itemized on the bill, so there's no argument at the end.
+
+Proposal for
+
+The Henderson Family
+
+Duplicate layout
+
+Option A
+
+6' cedar privacy
+
+$8,420
+
+Option B
+
+6' white vinyl
+
+$11,180
+
+After signing: change orders on contract #1042
+
+CO #1Add 12 ft along the driveway
+
++$520Signed
+
+CO #2Drop the side gate
+
+−$660Credit, signed
+
+Itemized on the final invoice$8,280
+
+Stop running your company from memory.
+
+Permits, 811, scheduling, photos and invoices are tracked on every job, and customers stay up to date.
+
+Every step on one board. Permit, 811 locate, materials and install day on every job, set up the way you run.
+
+Flags when a job stalls. A permit or locate that's been waiting too long gets flagged before it costs you an install day.
+
+Photos, documents and invoices on the job. Not in your camera roll or inbox, and customers see theirs in their own portal.
+
+Contract #1042Henderson · 6' cedar privacy
+$8,280
+
+Proposal signedNov 10
+
+Deposit paid by cardNov 10
+$4,210
+
+Permit approvedNov 12, customer emailed
+
+811 locate clearedNov 14
+
+Scheduled, Crew AMon–Tue, Nov 17
+
+InstalledNov 18, 14 photos
+
+Balance invoice sentNov 18, change orders itemized
+$4,070
+
+Every step tracked on the jobQuickBooks synced
+
+One plan, everything included
+
+Every feature, every job, one price.
+
+What you get back
+
+Your evenings, your margins and fewer phone calls.
+
+Layout > Proposal sent in just 4.3 minMultiple options, layouts and details become enjoyable.
+
+No more short ordersPosts, rails, pickets and concrete calculated with accuracy.
+
+Changes without starting overDuplicate the layout, sign the change order, itemize the invoice.
+
+Crews that know the jobA handoff packet with the site plan, materials, notes and photos.
+
+Customers who aren't callingUpdate emails and a portal with dates, documents and payments.
+
+Permits and 811 trackedStalled jobs get flagged before they cost you an install day.
+
+FenceCRM
+Unlimited estimates
+
+$150/month
+
+Billed monthly. Cancel anytime.
+
+MonthlyAnnual · save $300
+Start free trial
+No credit card required to start. Cancel anytime.
+
+Our guarantee
+We'll set FenceCRM up with you, with your materials, your prices and your proposals. If your first quote isn't faster and more accurate than how you do it now, tell me and I'll make it right.
+
+Mitch, Developer of FenceCRM
+
+See everything that's included
+
+Quote
+
+Draw on satellite, grid or survey PDF
+
+Fence presets and pricebook
+
+Material takeoffs
+
+Supplier pricing per item
+
+Duplicate layouts for options
+
+Online lead intake form
+
+Sell
+
+Branded proposal templates
+
+Optional line items
+
+Automatic follow-ups
+
+Scheduled sends
+
+Open and delivery tracking
+
+E-signed contracts and addenda
+
+Build
+
+Crew scheduling
+
+Handoff packet in English or Spanish
+
+Installer access without pricing
+
+Permit, 811 and install milestones
+
+Stalled-job flags
+
+Visit confirmations and reminders
+
+Get paid
+
+Change orders with credits
+
+Collect deposits
+
+Send invoices
+
+Card and ACH payments
+
+QuickBooks sync
+
+Customer portal
+
+USD and CAD
+
+Run the company
+
+Dashboard for owners and reps
+
+Reports
+
+Tasks and reminders
+
+Revisit reminders on old leads
+
+Customer update emails
+
+Project photo gallery
+
+Roles and permissions
+
+Need something that isn't here? We build what fence companies ask for. Email me.
+
+Questions fence owners ask
+
+Don't see yours? Email mitch@getfencecrm.com and you'll hear back from me.
+
+Can I switch from what I use now?
+
+Do my crews need training?
+
+Can I cancel anytime?
+
+How accurate are the material calculations?
+
+Can I customize material pricing for my suppliers?
+
+Can I save estimate templates?
+
+How long does it take to create an estimate?
+
+Can I collaborate with my team?
+
+What types of fences can I estimate?
+
+Is there a free trial?
+
+Fence estimate to paid invoice. Without the late nights.
+
+Start free trial
+
+FFenceCRM
+
+One place to run your fence company, from the first call to the final payment.
+
+Product
+
+How it works
+
+Features
+
+Pricing
+
+Free Tools
+
+Company
+
+About
+
+Log in
+
+Support
+
+Contact Support
+
+Privacy Policy
+
+Terms of Service
+
+FenceCRM. All rights reserved.
