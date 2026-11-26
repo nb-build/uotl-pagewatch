@@ -1,0 +1,1646 @@
+Product Updates - thanks.io Direct Mail Automation Toolkit
+
+Documentation Index
+
+Fetch the complete documentation index at: /llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Skip to main content
+
+thanks.io Direct Mail Automation Toolkit home page
+
+Search...
+
+⌘K
+
+Schedule API Consult
+
+Dashboard
+
+Create Free Account w/ $10 in Credits
+
+Create Free Account w/ $10 in Credits
+
+Search...
+
+Navigation
+
+Get Started
+
+Product Updates
+
+Guides
+
+Design Gallery
+
+API Reference
+
+Native Integrations
+
+Webhooks
+
+Get Started
+
+Welcome
+
+Quickstart
+
+MCP Server for AI Assistants
+
+Docs MCP Server
+
+Product Updates
+
+Common Workflows
+
+Add Recipient to Campaign
+Popular
+
+Postcard Order
+
+PDF Letter Order
+
+Giftcard Order
+
+FAQs
+
+Quick Implementation
+Popular
+
+Front Images
+
+Message Content
+
+Order Preview
+
+QR Codes
+
+Return Address
+
+Get Started
+
+Product Updates
+
+Copy pageCopy page
+
+New Features, Updates and Announcements
+
+Copy pageCopy page
+
+November 24
+New FeatureAPI
+
+Typed Fonts for Letters, with Point Sizes and Bold
+You can now send a clean, typed-looking message with five Typed fonts: Letter Serif, Business Sans, Typewriter, Rosario and Lexend. They’re listed first in every style picker.
+
+Point sizes: pick a size from the Size menu and your message prints at exactly that size, laid out like a typed letter with a blank line between paragraphs. Auto fits the message to the space instead.
+
+Bold: wrap words in **double asterisks**, or use the Bold button in the message editor. The AI message writer can bold a key detail, like an offer or deadline, when you’ve chosen a typed font.
+
+API and MCP: font_size now also accepts a point size from 8 to 24 for typed fonts. See handwriting styles.
+
+Messages that already use Normal Print print exactly as before.
+
+November 15
+New Feature
+
+Set Up Seller Assist QR Links from Your Dashboard
+Seller Assist (formerly iList) now has a card on the Integrations page. Click Set Up and save your Seller Assist web address once.After that, every QR code destination field shows a Use Seller Assist button that fills in the link for you:
+
+Owner occupied: the mailing address is the property.
+
+Absentee (property address in Custom 2): for absentee owners, with the property address in Custom 2.
+
+Both links also pass along the recipient’s name, email and phone. The setup dialog lists both links with Copy buttons, so you can use them in your CRM or a Zap too.Recipients without an Apt/Unit now open Seller Assist with a clean address when they scan.
+
+November 14
+New Feature
+
+Add a Tracked QR Code to Any Uploaded Front
+An uploaded front no longer needs a QR code printed on it to be tracked. When you upload a front without one, answer Add a tracked QR code?, choose where scans go, then drag the code into place and resize it by its corner.
+
+Where scans go: Message QR code follows each send’s message QR code, or goes to your thanks.io landing page when a send has none. You can also pick Use thanks.io default or A web address.
+
+Change it later: Change QR code in the front step’s Tracked QR code panel changes where any tracked code’s scans go, and moves or resizes a code you placed. A code covering one printed in your design stays put, so the original never shows.
+
+Your upload prints exactly as it was, each piece gets its own unique code, and every scan counts in Analytics. This isn’t available on free plans.
+
+November 13
+New Feature
+
+Organize Creatives, Campaigns and Mailing Lists into Folders
+You can now sort your work into folders. Folders show as chips above the Creatives, Campaigns and Mailing Lists pages, so you can filter to what’s inside, and Move to folder on any item files it.
+
+Two kinds of folders: creatives have their own. Mailing lists and campaigns share folders, because a campaign is built on its list, so filing either one files both.
+
+Make them yours: rename a folder, or give it an emoji in place of the folder icon.
+
+Nothing is lost: deleting a folder never deletes what’s in it. Those items just become unfiled.
+
+Moving an item into a folder doesn’t change its place when you sort by Updated (Newest). Each account and sub-account has its own folders, up to 50 of each kind, with names up to 60 characters.
+
+November 12
+Improvement
+
+Choose Which Columns Show on a Mailing List
+A Columns button on a mailing list’s recipients table lets you show or hide Contact, Email, Phone, Added, Dates and Custom 1-10. Check that an import filled your custom fields, or scan emails and phone numbers, without opening each recipient.Your choice applies to every list in that browser, and Reset to default brings back the usual columns.
+
+November 11
+New Feature
+
+Launch a Done For You Campaign with MailMatch
+MailMatch sets up a campaign that makes your phone ring. Sign in with your thanks.io account, and it mails a three-letter, AI-written campaign to local people already researching what you sell, with an AI receptionist answering the number on your letters.
+
+Your account, your prices: it runs on your thanks.io account at your normal prices, with no extra fee. Find it under Done For You Mail in your dashboard.
+
+Labeled and editable: what it sets up is labeled “Set up by MailMatch” and stays yours to edit.
+
+The AI Receptionist needs the Business plan or higher.
+
+November 5
+Improvement
+
+New Pricing for the AI Receptionist
+The AI Receptionist is now available on the Business, Professional and Enterprise plans, with a lower monthly fee and a per-minute rate for the calls it answers. It isn’t available on the Free or Mail Then Text plans.
+
+Your main account’s number is free: the number on your main account has no monthly fee. Each sub-account’s number is $3/month, even if it’s the only number you have.
+
+Pay per answered minute: answered calls are $0.20 per minute, rounded up per call. Missed calls and voicemail aren’t charged. Each call shows in your billing history.
+
+Negative balance: fees and call minutes are charged even if they take your balance below zero. While it’s negative, your numbers pause and stop answering, you get a notification, and you can’t buy another number. They start answering again on their own once your balance is back to zero or above.
+
+Changing plans: moving to a plan without the AI Receptionist pauses your numbers, and upgrading again resumes them.
+
+Release after 60 days: a number paused for a negative balance or your plan is released after 60 days if that hasn’t changed. Your call history stays available. Numbers you pause yourself are never released, and their monthly fee still applies.
+
+Everything else, including your scripts, voices, call logs, Lead Board cards and %YOUR_AI_PHONE%, works as before.
+
+November 3
+New FeatureMCP
+
+Find and Buy Leads from Your AI Assistant
+AI assistants connected to the thanks.io MCP server can now work with the same leads you add from Add Recipients > Lead Feed in your dashboard.
+
+Search and preview for free: search-lead-topics and suggest-lead-locations help choose interests and places, and preview-targeted-leads with get-targeted-leads-preview shows how many people match. Previews are limited to 20 an hour per account.
+
+Buy once or keep a feed: buy-targeted-leads adds up to 100 leads to a mailing list, and create-lead-feed starts a daily or weekly feed. Each new lead is $0.10, as in your dashboard.
+
+Manage feeds: list-lead-feeds shows your feeds, and update-lead-feed pauses, resumes or stops one, or changes how often it runs or how many leads a run can add. Stopping is final, so pause a feed you may want back.
+
+Buying leads, starting or resuming a feed, or letting one spend more (running daily or adding more leads per run) needs Allow lead purchases via MCP, under Settings > API & MCP Access > MCP Permissions. Everything else works without it. Repeating the same purchase or feed within 24 hours is refused, so a retry doesn’t charge you twice. Test Mode doesn’t make leads free.
+
+October 30
+New Feature
+
+Answer Calls from Your Mail with an AI Receptionist
+You can now get a phone number for your mail that an AI receptionist answers for you. Open Phone & Calls > AI Receptionist in your dashboard and pick a US number by area code.
+
+A script written for you: describe what you’re trying to do, and AI writes the greeting and the questions to ask callers. You can edit all of it. Choose from four voices, each with a preview.
+
+Hear it first: the receptionist can give you a demo call before you buy.
+
+Every call reported: the receptionist takes each caller’s details and lets them know you’ll call back. After every call you get an email with the caller’s details, plus a text if you have text notifications on, and Call Logs lists each call with its summary, transcript and recording.
+
+Callers on your Lead Board: each caller gets a card on the Lead Board, and repeat calls update the same card.
+
+Recording consent: calls are recorded. If your number’s area code is in a state that requires everyone on a call to agree to recording, you choose between a recording notice in the greeting (the default) and not recording, which keeps only the summary and caller details.
+
+AI Receptionist pricing changed on November 5. See the November 5 update, “New Pricing for the AI Receptionist,” for the current plans and prices.
+Put your number on your mail
+Use %YOUR_AI_PHONE% in messages, or ~YOUR_AI_PHONE~ in dynamic designs and QR code URLs, to print your AI Receptionist number. When you send as a sub-account, it prints that sub-account’s number. From the AI Receptionist page you can also add a “call us” line with your number to your message templates in one step. You see how many templates will change first, and the change can’t be undone.A send that uses %YOUR_AI_PHONE% before you have a number is refused, whether it comes from your dashboard, a campaign, the API or an AI assistant, so your mail never goes out without it.
+
+October 30
+ImprovementWebhooks
+
+The Scan Board Is Now the Lead Board
+The Scan Board, under Reports in your dashboard, is now called the Lead Board, since it holds callers to your AI Receptionist as well as people who scanned your mail. Its webhook is now labeled Lead Board Stage Change.There’s nothing you need to change. The webhook type scan_board.status_update, the scan_board_status field and the board’s address in your dashboard all stay the same. Stage webhooks still need the Business plan or higher, and they fire for scanned-mailer cards, not caller cards.
+
+October 30
+New Feature
+
+Find Prospects Showing Intent with Lead Feed
+You can now add people who are researching what you sell straight to a mailing list. On any list, choose Add Recipients > Lead Feed, pick Consumers / Homeowners or Businesses, and choose up to five interests, such as solar panels or a roof replacement.
+
+Narrow it down: filter by ZIP code, city or state (or go nationwide) and by intent strength. For consumers, you can also filter by homeowner, high net worth, age, gender, married and children at home.
+
+Preview for free: see an estimated count and a sample before you buy.
+
+Once or ongoing: add 25, 50 or 100 leads now, or keep a feed running daily or weekly with up to 100 new leads per run. Pause, resume or stop any feed from Lead Feeds under Audience.
+
+Ready to mail: consumer leads include a name and home mailing address, plus email and mobile phone when available. Business leads include name, company and business address, plus business email and phone when available.
+
+Each new lead is $0.10, charged only for people not already on the list, and a payment method on file is required. If a payment fails, the feed pauses and lets you know in your dashboard notifications.New leads trigger your webhooks and “days after added” campaigns like any import, so a feed paired with a campaign mails new prospects automatically. Lead Feed is available in your dashboard and isn’t part of the API.
+
+October 19
+New FeatureMCP
+
+Check Who You Mailed and Manage Webhooks from Your AI Assistant
+AI assistants connected to the thanks.io MCP server can now answer more questions about your mail and set up your integrations for you.
+
+Who did we mail? list-order-recipients lists everyone an order mailed, and search-order-recipients finds whether a person or street address was mailed by any of your orders. Useful for checking contacts against your CRM.
+
+Results across many orders: get-order reads up to 50 orders at once, and get-order-stats can narrow to one campaign, creative or mail type.
+
+Webhooks: list-webhooks, create-webhook, update-webhook and delete-webhook manage your webhooks, including Scan Board stage webhooks, with the same plan rules as your dashboard. Your assistant confirms the URL with you first.
+
+October 18
+ImprovementAPI
+
+A Dedicated Field for Absentee Property Addresses
+Recipients now have their own absentee_address field for the property a mailer is about, such as a home whose owner lives elsewhere. Mail still goes to the recipient’s address, while ~STREET_VIEW~, ~ABSENTEE_STREET~ and %ABSENTEE_STREET% show the property.Set it when adding recipients or on each recipient of a send, with optional absentee_city, absentee_province and absentee_postal_code. It’s returned on recipients, order items and webhooks.You can keep using custom1 and custom2 alongside it. Integrations that already set custom1 to absentee and the property in custom2 keep working unchanged, and designs that print %CUSTOM2% still show the property.
+
+October 18
+New FeatureWebhooks
+
+Follow Up on QR Code Scans with the Scan Board
+When someone scans the QR code on one of your mailers, that piece now shows up as a card on the Scan Board, under Reports in your dashboard. Each card shows the recipient’s name and address, a Street View photo, how many times they’ve scanned and when they last did.Drag cards through four follow-up columns, New, Contacted, Follow Up and Done, or use Move to. A repeat scan updates the scan time but leaves the card in the column you put it in.
+
+Notes: add follow-up notes to any card.
+
+One card per piece: two mailers sent to the same address get two cards.
+
+A head start: mailers scanned in the last 30 days are already on your board.
+
+Stage webhooks: on the Business plan and up, get a webhook when a card enters a stage, with variables like ~FIRST_NAME~ filled into the URL for each lead. Set one up from a column on the board, under Settings > Webhooks, or with the Webhooks API.
+
+The Scan Board itself is included on every plan.
+
+October 16
+New Feature
+
+Track the QR Code in Your Own Uploaded Design
+If you upload a front design that already has a QR code printed on it, you can now make that code tracked. When the creative editor finds a QR code in your upload, choose Make it tracked and enter where scans should go.Each piece you mail then gets its own unique QR code in that spot, and scans count toward your scan notifications and analytics like any other tracked QR code. The rest of your design prints exactly as you uploaded it.
+
+Where it works: postcard, notecard and magnacard fronts you uploaded yourself. Letters, shared stock designs and dynamic designs aren’t eligible.
+
+Change your mind: turn tracking off at any time to go back to your original upload, or make it tracked again with a new address to change where scans go.
+
+Replacing the image with a new upload, a Canva export or an inspiration removes the tracking, and the dashboard tells you when that happens.
+
+See where scans go in your Creatives library, as tracked_qr_url in the Creatives API, and through AI assistants connected to the thanks.io MCP server.
+
+October 15
+New FeatureAPI
+
+Choose First Class or Standard Mail for Each Send
+You can now pick the postage class for each send and each campaign, not just for your whole account. Standard Mail, also known as Marketing Mail, costs less for US addresses but takes longer, with no tracking status and no return-to-sender.
+
+Send Mail: choose First Class or Standard Mail when you review the order, with the price of each shown.
+
+Campaigns: set a postage class for the campaign, or leave it on Account default.
+
+API: every Send Mailer and Estimate endpoint accepts postage_class, set to first_class or standard.
+
+AI assistants connected to the thanks.io MCP server can set postage_class when sending, previewing an order or creating a campaign, and get-account-info shows your default_postage_class.
+
+For example, add this to a send request to mail it by Standard Mail:
+
+{
+"postage_class": "standard"
+}
+
+Leave it out and the send follows Standard Mail Mode under Settings > Mail Preferences, which is now your default. Standard Mail is a paid-plan feature: free-plan accounts always mail First Class, and nonprofit accounts keep their nonprofit rate.
+
+If your integration sends send_standard_mail: it keeps working, but it’s deprecated in favor of postage_class, which can also choose First Class. A request that includes both fields is rejected with a 422.
+
+October 15
+New Feature
+
+Save a Return Address for Each Office
+If you mail from more than one location, you can now save several return addresses under Settings > Mail Preferences > Saved Return Addresses and choose which one each piece of mail uses.
+
+Send Mail: pick one from the Send from dropdown, or type a new address and tick Save as a new saved address.
+
+Campaigns: choose one on the Review step. Campaigns without one keep using your default return address.
+
+AI assistants connected to the thanks.io MCP server can see your saved addresses in get-account-info and send with return_address_id.
+
+Every order keeps the address it was sent with, even if you later edit or delete that saved address. Deleting one moves any campaigns using it back to your default return address.
+
+October 14
+New Feature
+
+Add the Current Month to Your Mail
+You can now use the %CURRENT_MONTH% merge tag in messages, and ~CURRENT_MONTH~ in dynamic designs and QR code URLs, to print the month your mail goes out, such as “Your October offer is here.”It fills in automatically each time a piece is printed, so recurring campaigns stay timely without editing your templates every month.
+
+October 10
+New FeatureAPI
+
+Creatives: Save a Design Once, Send It from Anywhere
+Your designs now live in one Creatives library. A creative pairs a front design with a message, including its handwriting, QR code and background, and is saved for one mail type. Your existing designs and message templates are already in it.Each card shows whether it’s Ready to send or what it still needs, and lets you Make default, duplicate it, share a copy with a link, or copy its creative ID. Use that ID to send the creative from anywhere you mail:
+
+n8n: every send operation has a Creative field. Update the thanks.io node to get it.
+
+HubSpot: the record tab shows Your creatives above the design picker, and the workflow send actions have a creative dropdown.
+
+AI assistants connected to the thanks.io MCP server can list, read, create and update creatives, and send with creative_id.
+
+Learn about Creatives.
+What changed in the API
+
+Every Send Mailer and Estimate endpoint accepts creative_id and sends that complete creative exactly as saved. Only qrcode_url and, for letters, additional_pages_url can be added; other design or message parameters return a 422.
+
+GET /api/v2/creatives and GET /api/v2/creatives/{id} read your library, filtered by mailer_type, complete_only or search. See how creatives work.
+
+If you use ThanksAI Studio through an AI assistant: the Studio tools are now create-studio-design, get-studio-design, list-studio-designs, refine-studio-design, update-studio-design and save-studio-design-templates, and take a design_id, which is not a creative ID. create-creative, get-creative, list-creatives and update-creative now work with your Creatives library instead, so update any saved prompts that use them for Studio.
+
+October 10
+Improvement
+
+A Redesigned Dashboard
+The thanks.io dashboard has a new look and a simpler layout. The sidebar is organized around what you do: Send, Audience, Creatives and Reports.
+
+Creatives is the home for every design, with ThanksAI Studio built in.
+
+Send Mail starts from a creative, a separate front and message, or a creative you make on the spot. Previews show the print zones, and one Add Recipients dialog combines manual entry, CSV or Excel upload, your mailing lists and radius search.
+
+Campaigns are organized by mailing list, each with its stats, a 12-month projected sends chart, and Start all and Pause all. New campaigns take four steps: Who, What, When and Review.
+
+Branding pairs the Brand builder with Branded designs, where you see and replace the default design each mail piece uses.
+
+Settings and billing are redesigned, and every charge asks you to confirm first.
+
+Your lists, campaigns, orders and API integrations carry on unchanged, and old bookmarks redirect to the new pages automatically. Take the dashboard tour.
+
+October 9
+New Feature
+
+Sign In with Google and Microsoft
+You can now sign in or create a free account with Google or Microsoft, using Continue with Google or Continue with Microsoft on the login and register pages. Microsoft sign-in works with personal accounts (Outlook.com, Hotmail, Live) and with work or school Microsoft 365 accounts. New accounts don’t need a password.Already have an account? Sign in with the Google or Microsoft account that uses the same email address, and the two are linked the first time.Google and Microsoft sign-ins skip the emailed verification code, since the provider has already confirmed your email. Password sign-ins work as before. To add a password to an account you created with Google or Microsoft, use Forgot Password? on the login page, and either method works.
+
+September 29
+ImprovementAPI
+
+6x9 Postcards Get Their Own Designs and Message Templates
+6x9 postcards are now their own mail type, postcard6x9, alongside 4x6 (postcard) and 6x11 (postcard6x11). Until now, 6x9 shared your 4x6 designs and message templates. Now you can build for the full 6x9 canvas: upload designs at 2738 × 1838 px (9.125in × 6.125in with bleed), exactly what prints, and keep separate 6x9 message templates, a separate custom handwriting background, and 6x9 designs from ThanksAI Studio. See the upload specs.To give you a head start, every existing postcard design and message template in your account has a 6x9 copy, resized to the new canvas. Your originals are unchanged, and 6x9 sends still accept your 4x6 designs and message templates, so current campaigns and integrations keep working.
+What changed in the API
+
+POST /api/v2/send/postcard with size: "6x9" works as before. message_template_id accepts a postcard6x9 or a postcard message template. An omitted or "default" size uses your account’s default postcard size.
+
+dynamic_image_url accepts images at 2738 × 1838 or 1875 × 1275.
+
+Message templates can be created, updated, and listed with type: "postcard6x9", and image templates can be listed with type=postcard6x9.
+
+The image template builder (GET /api/v2/build/image-template) takes a size parameter, 4x6 or 6x9, to render the design on the 6x9 canvas.
+
+If your integration checks type == "postcard": orders and estimates for 6x9 postcards now report type: "postcard6x9", and postcard means 4x6 only, including when you filter orders by type. Update any code that identifies 6x9 orders by type: "postcard" to also match postcard6x9.
+
+September 27
+New FeatureAPI
+
+Estimate an Order’s Cost Before You Send It
+You can now price a mailing through the API without placing it. Post the same request body you’d send to a Send Mailer endpoint to its estimate counterpart, such as /api/v2/estimate/postcard, and get back the order’s total cost in total_cost_in_cents. Nothing is charged and no order is created.
+
+costs_in_cents breaks the total down into US recipients, international recipients, additional letter pages, and gift card face value. On paid plans, gift card face value is charged only when a recipient redeems the card, so for gift cards the total is the most the order can cost.
+
+covered_by_balance tells you whether your current account balance covers the order.
+
+Recipients with only an email address are priced as if their address is found, and counted in pending_email_lookups. Any whose address can’t be found when you send aren’t mailed or charged.
+
+The request is validated exactly like the send, so you catch errors before you commit.
+
+Estimates are available for postcards, letters, windowless letters, notecards, magnacards, and gift cards.
+
+September 27
+New FeatureAPI
+
+Track and Invalidate Gift Cards Through the API
+Gift card items from the List Order Items endpoint now include redeemed_at and invalidated_at, so your integration can see which cards recipients have claimed.You can also invalidate an unredeemed gift card with PUT /api/v2/order-items/{id}/invalidate-giftcard, just like invalidating it from the Order Details page. Once invalidated, the card can no longer be redeemed.
+
+September 23
+New FeatureHubSpot
+
+Add HubSpot Records to a Mailing List from Workflows
+HubSpot’s workflow builder now has a seventh thanks.io action: Add to Mailing List. Instead of mailing anything, it adds each enrolled contact or company to the thanks.io mailing list you pick in the step. The dropdown shows your own lists, and a list you create in thanks.io or from the record’s Add to a mailing list card appears there right away.Recipient fields default to the record’s own name, company, address, and email, and each can be mapped to a different HubSpot property, just like the send actions. Ten Custom field 1-10 inputs map any HubSpot property onto the recipient’s custom fields, ready to use as merge variables in later mail. A custom field left blank keeps whatever value is already stored.
+
+Enrolling the same record again updates it in place rather than adding a duplicate, and it’s the same recipient as one added from the record card.
+
+A record missing its street address or postal code is looked up from its email by Email to Address lookup, billed only for each address it finds. The lookup is on by default; set it to Off and an address-less record fails its enrollment instead of being looked up. A record that already has an address, or is already on the list, is never looked up.
+
+The step outputs a Result (added, updated, or already on list), the list and recipient IDs, and where the address came from, so later workflow steps can branch on it.
+
+Pair the list with an automated campaign and every record your workflow adds gets mailed. Read more.
+
+September 22
+New Feature
+
+See How Your Referral Links Are Performing
+Your Refer & Earn page now has a Link Performance card. Pick a period - 7 days, 30 days, 90 days, or all time - and see total clicks, unique visitors, signups, and your conversion rate, alongside a day-by-day chart of visits and signups.A breakdown below gives you the same figures for each link on its own, starting with your main link and followed by every campaign link you’ve shared. Clicks and visitors count real people: link previews and crawlers are left out, and we don’t store your visitors’ IP addresses or browser details.
+
+September 20
+New FeatureHubSpot
+
+Send Mail from HubSpot Workflows
+The thanks.io app for HubSpot now adds six actions to HubSpot’s workflow builder: Send 4x6 Postcard, Send 6x9 Postcard, Send 6x11 Postcard, Send Letter, Send Windowless Letter, and Send Notecard. Add one as a workflow step and every contact or company that reaches it gets a real piece of mail, with no Zapier step, webhook, or manual send in between.In the step you pick a front design (the list only shows templates that fit that mail type and size), a saved message template or a typed custom message (replacement variables work in either), a handwriting style, and an optional QR code URL for tracking. Recipient fields default to the enrolled record’s own name, company, address, and email, and any of them can be mapped to a different HubSpot property instead. If the record has an email but no mailing address, thanks.io looks the address up.
+
+Each send is logged as a note on the HubSpot record, just like sends from the record tab.
+
+The step outputs the thanks.io order ID, status, and a link to the order, so later steps in the workflow can use them.
+
+A retried workflow run never mails the same piece twice.
+
+Read more.
+
+September 18
+New FeatureHubSpot
+
+Add HubSpot Contacts and Companies to a Mailing List
+The thanks.io app for HubSpot now has an Add to a mailing list card on Contact and Company records. From it you can see which of your lists the record is already on, add it to one using the address on the record, create a new list on the spot, or remove it from a list.If a record only has an email address, the card can run Address Append to find a mailing address and add the record with it. It’s the same pay-per-use service as elsewhere in thanks.io, charged only when a match is found.Adding the same record to a list again updates it in place rather than duplicating it. Pair the list with an automated campaign and a HubSpot record becomes mail in one click. Read more.
+
+September 16
+New Feature
+
+Ask Gift Card Recipients for Permission to Contact Them
+If you require contact info to redeem gift cards, you can now also collect a documented opt-in for follow-up at the same time. Turn on Ask recipients to confirm it’s okay to contact them, under the contact requirement in Mail Preferences, and the claim page adds a required checkbox reading “It’s okay for [your company name] to contact me.” Recipients confirm before their gift card is revealed, so you get consent to email or text them at the moment they’re most engaged.
+
+The checkbox uses the company name from your Branding.
+
+Consent is recorded with that gift card’s order, along with when it was given.
+
+Preview what recipients see shows the checkbox once it’s on.
+
+It’s off by default, and only applies while the contact requirement itself is on.
+
+September 15
+New Feature
+
+Refer & Earn: Get Paid When the People You Refer Send Mail
+You can now earn from every account you bring to thanks.io. Refer & Earn replaces the previous affiliate program in the dashboard sidebar, and every account gets a personal referral link. Anyone who signs up through it is credited to you.You earn two ways: a signup bonus on the referred account’s first subscription payment, and a commission on every order they send, for as long as they keep sending. Current rates are shown on your Refer & Earn page.
+What’s new
+
+Share a campaign, not just a link. Publish any campaign as a shareable link and new signups get a free starter copy: the mailing list and its automations, with your image and message templates. They never get your recipients, tracking, or branding, and the copy arrives inactive so they review it before anything sends. You preview exactly what strangers will see before you publish, and each campaign link can be paused or resumed and shows its visits and signups.
+
+A branded landing page. Your link opens a page carrying your company logo and accent color from Branding, with a preview of the shared campaign’s design.
+
+Self-serve payouts. Once your available balance reaches $50, convert it to thanks.io credits instantly.
+
+Everything in one place. See who you’ve referred, what you’ve earned, what’s available to convert, and an activity feed of signups and commissions.
+
+If you were part of the previous affiliate program, your balance has been carried over and is ready to convert.
+
+September 9
+New FeatureAPI
+
+Require Contact Info Before Gift Cards Are Claimed
+You can now ask gift card recipients for an email address or phone number before they claim their card, so a mailed gift card also collects the contact details you don’t have yet.Turn it on in Mail Preferences, under Gift Card Redemption, with Require contact info to redeem gift cards. Existing accounts have it switched off, so your redemptions stay exactly as they are today until you turn it on.
+
+Recipients are only asked when their email or phone isn’t already on file for that piece.
+
+The claim page carries your own Branding: your logo, company name, and accent color, or the sub-account’s branding if the card was sent from one.
+
+What a recipient provides is added back to the mailing list the card was mailed from, filling in blanks only, so contact details you already have are never overwritten.
+
+Preview what recipients see, next to the toggle, shows you the page before you turn the requirement on.
+
+September 4
+New FeatureAPI
+
+List the Individual Mail Pieces in an Order
+You can now list every mail piece in an order through the API, instead of only order-level totals. Each item returns its delivery status, delivery date, QR scan count, any delivery failure reason, and the recipient’s details including all ten custom fields, and results are paginated with per_page and page.Gift card orders also include each card’s brand and amount. Useful for reconciling a mailing piece by piece or syncing per-recipient delivery status into your CRM.See the List Order Items API reference to get started.
+
+September 3
+New Feature
+
+AI House Effects: Put the Recipient’s Own Home on the Mail
+Dynamic image templates can now render each recipient’s own house, restyled by an AI effect you pick from a visual, grouped picker. The recipient recognizes their address the moment the mail lands, which is the whole point.Sixteen effects across four groups:
+
+Illustration styles like Watercolor Home and Cartoon Home — the house redrawn as art, still unmistakably theirs.
+
+Seasonal looks including Christmas Lights, Cartoon Christmas Lights, Halloween Decorations, Snow Day, and Twilight.
+
+Photo enhancement such as Curb Appeal — a photoreal version of the same home at its best.
+
+Home improvement effects like Lush Lawn, New Roof, Fresh Paint, and Solar Panels, which change one specific element of the home so the pitch matches the product.
+
+Effects are a 10¢ per mailer add-on and are available on every plan, including Pay as you go.
+
+September 3
+New Feature
+
+New Gift Cards: Cracker Barrel, Smoothie King, Fortnite, Topgolf, Petco, PetSmart, and Airbnb
+Seven new gift card brands are now available on thanks.io:
+
+Brand
+
+Category
+
+Cracker Barrel Old Country Store
+
+Dining
+
+Smoothie King
+
+Dining
+
+Fortnite
+
+Entertainment
+
+Topgolf
+
+Entertainment
+
+Petco
+
+Pets
+
+PetSmart
+
+Pets
+
+Airbnb
+
+Travel
+
+Send any of these gift cards as a standalone mailer or include them in your existing campaigns. Select them from the gift card brand picker when building your order.
+
+August 27
+New FeatureAPI
+
+Replay a Placed Order
+You can now replay any placed order with a single API call. Replay resends the original order’s creative as a brand-new order, charged and mailed again, and leaves the original untouched. By default the replay goes to the recipients the original order actually reached, so a failed delivery isn’t repeated. Pass a recipients list to send the same creative to a fresh audience instead. Only settled, non-cancelled orders can be replayed.
+
+August 26
+New Feature
+
+Restore Deleted Mailing Lists
+You can now bring back a mailing list you deleted. On the Mailing Lists page, a Show Deleted button appears whenever you have deleted lists. Toggle it to reveal a Deleted Lists section, then click Restore on any list to recover it along with its recipients.
+
+August 19
+New FeatureAPI
+
+Attach Your Own Metadata to API Orders
+You can now send a metadata object with any Send Mailer order and get it back unchanged — on the order endpoints and on every webhook event for that order, as order.metadata. Store a CRM record ID, a campaign name, or whatever your system needs to match an order and its delivery events back to your own data.See Order Metadata to get started.
+
+August 12
+New FeatureAPIZapier
+
+Google Drive PDF Links Now Supported via API and Zapier
+You can now pass Google Drive PDF links when sending PDF-based letter orders through the API or Zapier. This makes it easier to use PDFs already stored in Google Drive without first downloading and re-hosting the file.
+
+August 7
+New FeatureThanksAI Studio
+
+Clone Existing ThanksAI Studio Designs
+You can now clone an existing ThanksAI Studio design in one click. This makes it easier to reuse a design you already like, then quickly update copy, branding, or offer details for a new audience or campaign.
+
+August 4
+New FeatureAPI
+
+Webhook Event Documentation Added to the API Reference
+We’ve added webhook event documentation to the API reference, including payload examples for order status updates, order item status changes, delivered events, and QR code scan updates. This makes it easier to review the available webhook data and integrate event handling into your own systems.See the Webhook Events API reference to get started.
+
+August 4
+New FeatureAPI
+
+Message Templates Management Now Available in the API
+You can now manage Message Templates directly through the public API. New endpoints let you list, create, retrieve, update, and delete message templates programmatically, so you can automate template management as part of your own workflows.See the Message Templates API reference to get started.
+
+July 28
+New Feature
+
+Import Mailing Lists from Excel Files
+You can now bring recipient lists into thanks.io from Excel files as well as CSV files, making it easier to work from the spreadsheets you already use.
+
+July 25
+New Feature
+
+Personalize Mail with Street Names
+You can now use the %STREET_ONLY% merge tag to personalize messages and dynamic designs with a recipient’s street name without including their house number - ideal for neighborhood outreach such as “Your neighbor on Main Street just got a new roof.”
+
+July 24
+Improvement
+
+Updated Look for the Login Page
+We’ve refreshed the visual design of the login page.This is a visual update only, so there’s nothing you need to change. You’ll keep using the same login page, the same credentials, and the same sign-in process as before.
+
+July 23
+Improvement
+
+ThanksAI Studio Now Includes a Dedicated Message Step
+ThanksAI Studio now includes a dedicated Message step, making it easier to go from creating a design to sending a personalized mail piece - all within a single workflow. Write your own message or let AI generate one for you directly within ThanksAI Studio, then preview exactly how it will appear with a live handwriting preview before moving on to the next step.
+
+July 16
+Improvement
+
+Hide Realtor Logos in Branding Builder
+For our real estate agent clients, Branding Builder now includes a Hide Realtor Logos toggle. When enabled, it removes the Realtor logo and compliance badge from generated branding previews and template outputs so your materials stay aligned with your own branding requirements.
+
+July 14
+New Feature
+
+Major Upgrade to Message Templates
+We’ve rolled out a major upgrade to Message Templates with a redesigned editor, a new chat-based AI Builder, and smarter quality tools.
+What’s new
+
+Switch between Manual Edit, AI Builder, and Real Estate CMA modes
+
+Get clearer guidance while editing each mail type
+
+Use an improved Rate My Content workflow with one-click recommendation apply
+
+Experience faster, more responsive save and preview behavior
+
+July 10
+Improvement
+
+Re-Submit Order Improvements
+Added a third option to the Re-Submit dropdown on the Order Detail page and renamed all options for clarity.
+What changed
+
+Keep Same Addresses — resubmits the order with all original recipients pre-loaded, dropping you on the Review step (previously “All Items”)
+
+Only Failed Addresses — resubmits with only the failed recipients pre-loaded, dropping you on the Review step (previously “Failed Items Only”; still only appears when there are failures)
+
+Choose New Addresses (new) — resubmits the order with the same design and message, but with an empty recipient list, dropping you on the Select Recipients step so you can send to a completely different audience
+
+June 17
+New Feature
+
+Upload PDFs to Create Image Templates
+You can now upload PDF files when creating image templates. All PDF types are supported — the first page of the PDF is used as the template image.
+
+June 5
+New Feature
+
+Auto-Recharge Disable Toggle
+You now have full control over auto-recharge directly from Billing settings.Turn it off when you want tighter spend control, then turn it back on anytime with your preferred settings ready to go.
+What’s new
+
+A clear on/off toggle for auto-recharge
+
+Prominent Billing warnings before and after disabling
+
+Your saved recharge amount is kept for when you turn it back on
+
+How it works
+
+Auto-recharge on: sending continues as usual, with automatic charging if your balance would go below $0.
+
+Auto-recharge off: sends that would push your balance below $0 are paused.
+
+You’ll see a clear message and can add credits manually or re-enable auto-recharge.
+
+Important impact
+
+Outbound mail can pause if your balance is too low
+
+Keep a positive balance or top up manually to avoid delivery interruptions
+
+Manual Add Credits always works
+
+Heads up
+Disabling auto-recharge means mailers can stop once your balance goes below $0. Keep credits available or add funds manually to avoid delivery interruptions.
+
+June 5
+New Feature
+
+Dynamic Image Fields Now Support Custom Field Image URLs
+You can now use recipient custom field tokens in dynamic image URL fields, including Background Image, Logo Image URL, and Overlay Graphic.Supported tokens:
+
+~CUSTOM1~ through ~CUSTOM10~
+
+At send time, each token resolves to the recipient’s custom field value, allowing that value to point to a PNG or JPG URL and render in the final generated image.
+What this enables
+
+Recipient-specific background images
+
+Recipient-specific logos or brand images
+
+Recipient-specific overlay graphics
+
+Flexible templates that source image assets from recipient data instead of hardcoded URLs
+
+How it works
+
+The dynamic image editor recognizes custom field tokens in image URL fields
+
+Preview rendering shows placeholder images when a custom field token is used as an image source
+
+At send time, the system resolves the recipient’s custom field value into the final image URL
+
+If the custom field is missing or not a valid image URL, that recipient is skipped and the order is flagged with an error instead of printing a broken card
+
+Important behavior
+
+If a custom field value does not include http:// or https://, the system automatically prepends https://
+
+This applies to dynamic image fields only, not ordinary text personalization
+
+Why this matters
+
+More personalized creative
+
+Fewer manual template variations
+
+Safer production handling when image data is missing or invalid
+
+June 4
+New Feature
+
+Custom Fields Expanded to custom1–custom10
+Recipients now support ten custom fields — custom1 through custom10 — up from the previous limit of four. The additional fields are available everywhere custom fields are supported:
+
+Mailing Lists — add and manage all ten fields per recipient
+
+API — pass custom5 through custom10 in recipient objects on any send-mailer endpoint
+
+Zapier — map up to ten custom fields when creating or updating recipients
+
+All ten fields can be used as merge tags in message templates and as dynamic variables in image templates, just like the original four.
+
+June 4
+New Feature
+
+Invalidate Unredeemed Gift Cards from Order Details
+You can now invalidate gift cards that have not been redeemed yet, directly from the Order Details page.This gives you more control when a gift card is sent by mistake, no longer needed, or should be disabled before use.
+
+May 28
+New Feature
+
+Clone Campaign Automations
+You can now clone any campaign automation directly from the campaign list. Instead of rebuilding the same trigger logic, schedule, and mailer settings from scratch, duplicate an existing automation and adjust only what you need.This is useful when running similar campaigns for different mailing lists, seasonal variations of a proven automation, or setting up A/B structures across separate campaigns.
+How it works
+
+Open the Campaigns page
+
+Find the automation you want to duplicate
+
+Click the Clone option from the campaign actions menu
+
+The cloned automation opens ready to edit — rename it, swap the mailing list, or adjust the schedule
+
+All trigger settings, mailer selections, and timing rules are copied over. The clone starts in a paused state so you can review it before activating.
+
+May 25
+New Feature
+
+New Gift Cards: Wawa, Sheetz, and Chevron
+Three new gift card brands are now available on thanks.io:
+
+Brand
+
+Category
+
+Wawa
+
+Convenience & fuel
+
+Sheetz
+
+Convenience & fuel
+
+Chevron
+
+Fuel
+
+Send any of these gift cards as a standalone mailer or include them in your existing campaigns. Select them from the gift card brand picker when building your order.
+
+May 24
+Improvement
+
+Sort Recipients on Mailing List Details
+You can now sort the recipient list on any mailing list details page. Use the new Sort recipients dropdown to reorder the list by:
+
+Option
+
+Description
+
+Date Added (Newest)
+
+Most recently added recipients first
+
+Date Added (Oldest)
+
+Earliest added recipients first
+
+Name (A–Z)
+
+Alphabetical by name
+
+Name (Z–A)
+
+Reverse alphabetical by name
+
+Upcoming Birthday
+
+Recipients with birthdays coming up soonest
+
+Upcoming Anniversary
+
+Recipients with anniversaries coming up soonest
+
+City (A–Z)
+
+Alphabetical by city
+
+State / Province (A–Z)
+
+Alphabetical by state or province
+
+Country (A–Z)
+
+Alphabetical by country
+
+Deliverability (Invalid first)
+
+Undeliverable addresses surfaced at the top
+
+May 24
+New Feature
+
+Automated Anniversary Mailings
+You can now save an Anniversary date on recipients and use it to trigger recurring anniversary campaigns automatically.This is useful for house purchase anniversaries, move-in dates, client anniversaries, membership dates, renewal milestones, or any yearly moment you want to recognize with direct mail.
+What’s new
+
+Add an optional anniversary date to recipient profiles
+
+Import anniversary dates from CSV files using the new Anniversary mapping option
+
+View anniversary dates alongside birthdays in mailing list recipient details
+
+Create campaigns that send on a recipient’s anniversary
+
+Schedule anniversary campaigns to mail 10 days before the matching date to help cards arrive on time
+
+Send and receive the anniversary field through recipient API endpoints
+
+May 15
+New Feature
+
+ThanksAI Studio is here
+We’ve shipped something we’re genuinely excited about. ThanksAI Studio is an AI-powered creative workspace built directly into thanks.io that turns a plain-English description into a print-ready direct mail design - in under a minute.Describe what you want. Paste your website. Hit send.No design software. No creative agency. No waiting.
+What you can create
+ThanksAI Studio supports all 7 of our mailer formats:
+
+Format
+
+Size
+
+Postcard
+
+4×6 and 6×9
+
+Jumbo Postcard
+
+6×11
+
+Windowed Letter
+
+8.5×11”
+
+Windowless Letter
+
+8.5×11”
+
+Notecard / Greeting Card
+
+5.625×4.3125”
+
+Gift Card
+
+5.625×4.3125”
+
+Dynamic QR Codes - built in, not bolted on
+
+Every design generated by ThanksAI Studio includes a live, trackable QR code composited directly into the artwork at print resolution.
+
+Here’s what makes them special:
+
+Any destination URL. Point the QR code anywhere — your homepage, a landing page, a property listing, a booking link. You control it.
+
+Merge tag support. The QR destination is personalized per recipient at send time. Include ~FIRST_NAME~, address fields (~ADDRESS~), or any custom attribute(~CUSTOM1~) — each recipient gets a QR code that links to their unique URL.
+
+Click tracking included. Every scan is routed through thanks.io’s tracking layer, so you see exactly who scanned and when.
+
+Flexible placement. Ask for the QR in the top-right, bottom-center, or anywhere else in natural language. The AI positions it precisely on the canvas.
+
+Optional. Don’t want a QR code? Just say so and the AI removes it entirely.
+
+Intelligent brand detection
+Paste any URL and ThanksAI Studio automatically extracts your brand identity - or your client’s:
+
+Logo and accent color pulled directly from the domain
+
+Company name, phone, email, and disclaimer resolved automatically
+
+Works with listing pages on Zillow, Redfin, Yelp, and other aggregator sites — the AI extracts the business being promoted, not the platform
+
+Account Branding overrides everything: store your name, logo, colors, and contact info once and they apply to every design you create
+
+Iterate with chat
+Your design isn’t locked after the first generation. ThanksAI Studio includes a full conversational workspace:
+
+Describe changes in plain English — “Make the background warmer,” “Move the QR code to the bottom-left,” “Add our phone number in white text”
+
+Attach reference images — upload a photo, logo, or inspiration image directly in the chat
+
+The AI remembers context across messages, so you don’t repeat yourself
+
+Every iteration builds on the previous design, changing only what you asked
+
+From concept to campaign in 4 steps
+
+1
+
+Write your brief
+
+Describe the mailer in plain English and (optionally) paste your website URL. The AI detects the right format automatically.
+
+2
+
+Review your design
+
+Your AI-generated design appears in seconds. Chat to refine it as many times as you need.
+
+3
+
+Run the checklist
+
+Before saving, confirm the design looks right: no AI artifacts, accurate text, QR code properly placed.
+
+4
+
+Save and send
+
+Save as a reusable template and jump directly into Card Builder to start your campaign.
+
+ThanksAI Studio is live for all thanks.io accounts. Find it under ThanksAI Studio in the main navigation, or Click Here to get started.
+
+May 6
+New Feature
+
+Search Image Templates, Message Templates, and Mailing Lists by Description and Content
+Finding the right asset is now faster than ever. You can now search your image templates, message templates, and mailing lists by their description and content — not just their names.
+
+Image templates — search by template description to quickly surface the design you need
+
+Message templates — search across the actual message body to find templates that mention a specific offer, product, or phrase
+
+Mailing lists — search by description to locate the right list without scrolling
+
+Spend less time hunting through assets and more time sending mail that converts.
+
+April 27
+New Feature
+
+Radius Search Now Supports Referencing the Subject Property in Your Design
+When building a radius search mailing list, you can now enable Enable Absentee Owner Mailing to include the subject property’s address in your image and message templates — even though the mail is going to nearby recipients.This is ideal for:
+
+Absentee owner outreach — reference the subject property while mailing to the surrounding area
+
+Just Listed campaigns — show neighbors the specific property that was just listed
+
+Just Sold campaigns — let nearby recipients know exactly which property sold
+
+April 16
+New Integration
+
+Sure Send Integration Is Now Available
+Send automated handwritten postcards, letters, notecards, and gift cards directly from your workflows.Use thanks.io with Sure Send for lead follow-up, customer retention, reactivation, gifting, and post-close outreach without adding manual work. It’s a simple way to turn digital conversations into real-world touchpoints that actually get noticed.See the Sure Send setup guide →
+
+April 14
+Improvement
+
+Inspiration Library Now Built Into the Platform
+The Inspiration Library is now available directly inside the platform. Browse creative examples and use them as image templates with one click — no downloading or re-uploading required.
+
+Browse inspiration designs right from your Image Templates page
+
+Use any inspiration as a template instantly — select a design and it’s ready to send
+
+Postcards and notecards inspiration designs are all included
+
+April 11
+New Feature
+
+Rate My Content — AI-Powered Message Scoring
+Stop guessing whether your message will land. Rate My Content gives you instant, AI-powered feedback on your message templates before a single piece of mail goes out.When you save a template or click the “Rate My Content” button, AI evaluates your message on a 1–10 scale across four key areas:
+
+Personalization — Does the message feel tailored to the recipient?
+
+Call to Action — Is the next step clear and compelling?
+
+Readability — Is the message easy to scan and understand?
+
+Tone — Does it strike the right balance for your audience?
+
+If your score is 8 or below, you’ll get specific critiques along with an improved version you can accept with one click — no rewriting required.Write better mail. Get better results.
+
+March 30
+New Feature
+
+Added Way to Filter Orders by Image Template
+You can now filter your orders by image template, making it easier to track and manage sends associated with a specific design.
+
+March 28
+New Feature
+
+Added Subaccount-Specific Webhooks
+You can now set webhooks for individual subaccounts, giving you precision control over event routing at scale.
+
+March 25
+New Integration
+
+thanks.io is Now on n8n Cloud
+thanks.io is now a verified integration on n8n Cloud. You can add it directly to any n8n workflow without installing a community package — it’s ready to use out of the box.Use the thanks.io node in n8n to:
+
+Add recipients to mailing lists
+
+Trigger direct mail sends as part of automated workflows
+
+Connect thanks.io to 1,000+ apps including your CRM, helpdesk, e-commerce platform, and more
+
+See the integration on n8n →
+
+March 22
+New Feature
+
+Move Recipient to a New Mailing List After Sending
+You can now seamlessly move recipients to a new mailing list as soon as a campaign is sent - no manual steps required. This makes it easier to segment audiences, trigger follow-ups, and keep your lists clean and up to date.Enable this feature in Campaign Settings under “Move recipient to new mailing list after sending”.
+
+March 19
+New Integration
+
+Send 6x11 Postcards via Zapier
+You can now send 6x11 postcards through Zapier.
+
+Include 6x11 postcard sends in your automated workflows
+
+Trigger larger-format postcard campaigns from your connected apps
+
+March 10
+New Feature
+
+Manage Webhooks via API
+You can now manage webhooks directly through the API so your direct-mail workflows stay connected to the rest of your business systems in real time.Use webhook automation to:
+
+Trigger follow-up actions in your CRM when order or delivery statuses change
+
+Route events into Zapier, Make, n8n, or internal services for hands-off workflows
+
+Keep teams in sync by automatically notifying sales, ops, and support systems
+
+Reduce manual checking and build reliable, event-driven business processes
+
+Explore the Webhooks API section to get started.
+
+February 18
+Improvement
+
+Add CSV Preview When Uploading to Mailing Lists
+
+Preview the first 5 rows of your CSV file during upload to confirm your data is correct.
+
+Helps prevent errors and ensures your mailing list is accurate before sending campaigns.
+
+February 3
+Improvement
+
+Improved Canva Integration
+
+Create new designs in Canva and automatically sync them to thanks.io as Image Templates
+
+Update and reuse your existing Canva designs anytime with one click
+
+January 26
+New Feature
+
+Added Two-Factor Authentication
+
+Login now requires a one-time verification code sent to your email, in addition to your password. This code expires after 10 minutes.
+
+Stronger account security – Protects against unauthorized access, even if your password is compromised
+
+January 25
+Improvement
+
+Added Invalid Address Filter
+
+You can now filter your mailing list to show only invalid addresses. This makes it easier to quickly identify and correct entries that could cause delivery issues.
+
+Additionally, if you’re on a paid plan, addresses will be automatically validated during the creation process, helping to ensure that your mailing list is as accurate as possible from the start.
+
+January 22
+New Feature
+
+Added Duplicate Prevention Toggle
+You can now enable or disable Duplicate Prevention from the Mailer Settings page.This setting controls whether duplicate mail pieces are allowed on your account.
+
+Note: This setting does not apply to gift cards.
+
+On — Prevents multiple mail pieces from being sent to the same recipient within a 36-hour window.
+
+Off — Disables duplicate checks. You are responsible for preventing duplicates.
+
+January 16
+Improvement
+
+Added way to preview campaign action
+When creating or editing a campaign, you can now preview the mailer that will be sent when a campaign action is triggered. The preview shows the exact mailer, including the selected image template and message template.If the action uses a mailing list, the first recipient on the list is used for the preview. If the list has no recipients, a placeholder recipient is used instead.
+
+January 14
+New Integration
+
+Added n8n Integration for thanks.io
+You can now automate thanks.io directly from your n8n workflows using our official community package.
+
+Install in n8n: Settings → Community Nodes → Install → n8n-nodes-thanks-io
+
+npm: https://www.npmjs.com/package/n8n-nodes-thanks-io
+
+GitHub: https://github.com/thanks-io/n8n-nodes-thanks-io
+
+Get started with our n8n Setup Details.
+
+January 13
+Improvement
+
+Added More Order Details in QR Scan Email Notifications
+QR scan email notifications now include additional order details to make follow-ups easier and more informative. When you receive a QR scan notification, the email will now show:
+
+Campaign details — If the order is part of a Campaign, you’ll see the Campaign action type (such as Days After Added, Neighbor Blast, or evenFLOW).
+
+Mailing list details — If the order is associated with a Mailing List, the Mailing List name will be included.
+
+This added context helps you quickly understand where the scan originated and take the right next steps.
+
+December 28
+New Feature
+
+New Recipient Search Page
+You can now search for recipients across all mailing lists and orders from a dedicated page in the dashboard.With this update, you can:
+
+Quickly find recipients without navigating individual mailing lists
+
+Search across all mailing lists and past orders in one place
+
+Access the Recipient Search page:
+
+Visit https://dashboard.thanks.io/recipient-search
+
+Open it from the action menu button on the Mailing Lists page
+
+New Webhook Management Page
+You can now manage all of your Webhooks from a dedicated page in the dashboard. This centralized view makes it easy to add, edit, test, and delete webhooks across your account.What you can do:
+
+Create, edit, and delete Webhooks
+
+Test webhook deliveries
+
+View number of invocations for each webhook
+
+You can access this page from API section of the settings drop down or directly here.
+
+December 26
+New Feature
+
+New Sub-Account Management Page
+You can now manage all of your Sub-Accounts from a dedicated page in the dashboard. This centralized view makes it easy to oversee activity, usage, and billing across your account.What you can do:
+
+Create, edit, and delete Sub-Accounts
+
+View usage and billing details for each Sub-Account
+
+Download a CSV report of Sub-Account usage and billing
+
+Review monthly usage by selecting a month from the dropdown
+
+You can access the Sub-Accounts page from Account Settings or directly here.
+
+December 20
+New Feature
+
+Added Ability to Re-Submit Order
+You can now easily reorder a previous order using the Re-Submit Order button on the Order Details page. This creates a new order with the same settings, recipients, image template, and message template.
+
+December 19
+Improvement
+
+Added Bulk Actions for Recipients
+You can now perform bulk actions on recipients directly from the mailing list page. Select one or more recipients and choose from the following options:
+
+Delete - Remove the selected recipients from the mailing list
+
+Move to Another List - Transfer the selected recipients to a different mailing list within your account
+
+Send Mailer - Start the process of sending a mailer to the selected recipients
+
+Added Ability to Select the Neighbor Blast Property to Display in Google Street View
+When creating a Neighbor Blast campaign using Dynamic Image Templates with Google Street View, you can now choose which property is displayed on the card:
+
+Target (search center) property — shown by default
+
+Recipient’s property
+
+This setting is available in Neighbor Blast settings when creating or editing a campaign.
+
+December 17
+New Feature
+
+Added Magnacard as a Mailer Type
+We’ve added new mailer type MagnaCards, postcards that include a pop-out magnet for easy placement on magnetic surfaces such as refrigerators or metal boards.MagnaCards are fully supported across all sending methods:
+
+Card Builder
+
+Campaigns
+
+API
+
+Zapier
+
+No workflow changes required — simply select MagnaCards and send.
+
+November 30
+New Feature
+
+evenFLOW Daily Limit Campaign Type
+We’ve added a new campaign type — evenFLOW Daily Limit — designed to help you send to a fixed number of recipients each day.
+
+Choose a daily send limit (e.g., 50 mailers/day), and we’ll automatically send that amount from your selected mailing list each day until the list runs out.
+
+This allows you to pace your outreach and keep engagement steady over time.
+
+You can also opt to have the campaign loop back to the beginning of the list once it reaches the end, ensuring continuous sending without any manual effort. If this option is turned off, the campaign will pause until new recipients are added.
+
+November 12
+New Feature
+
+Mailer Report Emails
+We’ve introduced Mailer Report Emails — a convenient summary delivered straight to your inbox.
+
+Each report includes:
+
+Recent QR scans with contact details
+
+Recently delivered mailers with recipient info
+
+Campaign activity and order counts
+
+The latest feature updates and improvements
+
+Stay up to date with everything happening in your account — automatically.
+
+November 9
+New Feature
+
+Default QR Code Scan Landing Page
+We’ve added a default landing page that greets your recipient by name, lets them know you’ll reach out soon, and displays your contact info (if set in the Branding Builder).
+
+If you’re using a Branding Builder background with a “Scan Me” image but haven’t set a custom QR Code URL, this default page will automatically be used.
+
+This ensures recipients always land on a friendly page, even if a QR Code URL wasn’t configured.
+
+Optional use
+You can also manually apply the default landing page in any Message Template:
+
+Open the Message Template editor.
+
+Click Use thanks.io Default under the QR Code settings.
+
+November 7
+New Feature
+
+Append on Scan
+
+If a recipient scans a mailer and we don’t have their email or phone, we’ll research and add it. Each lookup costs 20¢, and some records may require two lookups for best accuracy.
+
+To Toggle this feature on/of visit your Mailer Settings.
+
+Creative library
+
+We’ve added a library of example creatives to use. Use these ideas however you like-customize them with your branding or use them right out of the box. When you’re finished, upload your designs to your thanks.io Image Templates
+
+Postcards Inspirations
+
+Notecards Inspirations
+
+Context About Scans
+
+When adding a recipient to the ‘All QR Scans’ list, we’ll now include the Order the mailer was made from and the mailing list the recipient was on if available. This will help you understand the context of the scan and make it easier to follow up with the recipient.
+
+November 5
+New Feature
+
+API/Audit Log
+
+We’ve added an API/Audit log to the dashboard. We’ll show API calls, Zapier calls, logins, webhooks, and some basic dashboard activity.
+
+The API calls will show info including the endpoint, method, status code, and timestamp. This will help you track and debug any issues with your API calls.
+
+The Zapier Calls will allow you to verify Zapier actions are working as expected and troubleshoot any issues with your Zaps.
+
+The Login section will show you when users have logged in to your account.
+
+The Webhooks section will show you when webhooks are triggered and the payload that was sent. This will help you verify that your webhooks are working as expected.
+
+The Dashboard Activity section will show you when users have made changes to your account, such as adding or removing image/message templates and toggling on/off campaigns.
+
+The API/Audit log can be found Here
+
+October 29
+New Feature
+
+6x11 Postcards
+
+6x11 Postcards are now available to use in campaigns or sent through the Card Builder.
+
+October 18
+Improvement
+
+Neighbor Blast Recipients added to one list
+
+Neighbor Blast recipients will now be added to a single list for easier management and tracking.
+
+Mailing List name is ‘All Campaign Neighbor Blasts’
+
+You can use this list in campaign actions to send follow-up mailers to all recipients of Neighbor Blasts.
+
+Image Template previews on campaigns
+
+Image Templates can now be previewed directly within the Campaigns section, making it easier to select and customize templates for your mailers.
+
+QR Code Scans added to Notifications dropdown
+
+QR Code Scans will now be included in the Notifications dropdown, allowing you to easily see new QR Scans in one location.
+
+October 7
+Improvement
+
+Outside of envelope now uses Blue color font
+
+The text outside of the envelope will now use a blue color font for better visibility and branding.
+
+During testing we’ve found blue color font gets more attention and is more likely to be opened by recipients.
+
+October 2
+Improvement
+
+Add White as a font color
+
+White is now available as a font color option for your mailers.
+
+This will allow you to use white text on dark backgrounds for better contrast and visibility.
+
+September 24
+Improvement
+
+Add ability to delete subaccounts
+
+You can now delete subaccounts from your account. This will help you manage your subaccounts more effectively and keep your account organized.
+
+Subaccounts can be deleted Here - just click the Trash icon next to the subaccount you want to delete.
+
+Mailing Lists and Orders are moved to the main account.
+
+Image Templates, Message Templates, and Campaigns are deleted when the subaccount is deleted.
+
+August 24
+Improvement
+
+API defined with OpenAPI Spec
+
+The API is now defined with OpenAPI Spec, making it easier to understand and integrate with.
+
+This will provide a clear and consistent structure for the API, including endpoints, request/response formats, and authentication methods.
+
+You can find the OpenAPI Spec Here.
+
+MCP Server added
+
+The documentation MCP server for the thanks.io API is now available.
+
+You can add the documentation MCP server URL directly to your tools: https://docs.thanks.io/mcp
+
+More information about the documentation MCP server can be found here
+
+August 12
+New Feature
+
+Non Profit postage rates
+
+Non Profit postage rates are now available for eligible organizations.
+
+This will help non profits save on mailing costs and reach their audience more effectively.
+
+To apply for Non Profit postage rates, please visit Here.
+
+August 11
+Improvement
+
+International 6x9 Postcards
+
+6x9 Postcards are now available for international mailings.
+
+August 10
+New Feature
+
+Mail Than Text
+
+thanks.io is thrilled to now offer a Mail Than Text plan
+
+For just $999/month, you’ll get $800 in free monthly credits plus a professionally crafted quarterly mailer sent to a targeted list of 2,000 high-value prospects. We’ll automatically trigger a text message to your leads upon delivery, turning your mailer into real-time conversations!
+
+August 2
+New Feature
+
+Send Windowed and Windowless Letters with PDF file only
+
+You can now send windowed and windowless letters using a PDF file only.
+
+This is a great option if you have a newletter or other document that you want to send without having to create a custom cover page.
+
+The PDF Only mailers are available as a new option in the Type dropdown on the Message Templates edittor Here.
+
+July 23
+Improvement
+
+Add QR Code Scan URL to Text Notifications
+
+When we text you about a new QR Code Scan, we’ll now include a link the QR Code took the recipient to in the text message.
+
+July 21
+Improvement
+
+Add ‘Export Scans to CSV’ button
+
+Added an ‘Export Scans to CSV’ button to the Mailing List Page.
+
+This will allow you to easily export all the QR Code Scans for a mailing list to a CSV file for further analysis or follow-up.
+
+July 9
+New Feature
+
+Added OAuth Clients
+
+Added support for OAuth clients to enhance authentication and authorization for API access.
+
+This will allow you to securely connect your applications with thanks.io using OAuth 2.0.
+
+More information on setting up OAuth clients can be found Here.
+
+New OAuth clients can be created in the dashboard under API Settings.
+
+June 23
+New Feature
+
+Webhook for QR Code Scans
+
+Added support for webhooks to notify your application when a QR code is scanned.
+
+This will allow you to take real-time actions based on QR code scans, such as updating user records or triggering workflows.
+
+More information on setting up webhooks can be found Here.
+
+June 14
+New Feature
+
+Analytics Page
+
+Added a new Analytics page to the dashboard to provide insights into your campaigns and mailers.
+
+This page includes metrics on QR code scans for Image Templates, Message Templates, and Mailing Lists.
+
+The scan percentage rates help you optimize your marketing efforts by showing you which templates and lists are performing best.
+
+The Analytics page can be found Here.
+
+May 25
+Improvement
+
+Text Notifications for Landing Pages
+
+Added support for text notifications when a recipient submits info on Mailing List Landing Page.
+
+This option can be toggled On/Off in the Mailing List settings under ‘Address Collection Landing Page’ setting ‘Text on Submissions’
+
+April 25
+Improvement
+
+Add Branding Info as Message Template Replacement Variables
+
+Added support for using branding information as replacement variables in Message Templates. This allows you to easily include your company name, phone, and other branding elements in your mailers without having to hardcode them into each template.
+
+The following replacement variables are now available for use in Message Templates:
+
+%YOUR_FULL_NAME% - Your Full Name
+
+%YOUR_FIRST_NAME% - Your First Name
+
+%YOUR_PHONE% - Your Phone
+
+%YOUR_COMPANY% - Your Company
+
+%YOUR_EMAIL% - Your Email Address
+
+April 18
+New Feature
+
+Add Neighbor Blast Campaign Sending Style
+
+Added ‘Neighbor Blast’ as a new campaign sending style.
+
+This allows you to send mailers to a close radius around a specific address, making it ideal for local marketing campaigns.
+
+You can choose the neighbor types and number of neights to target.
+
+You can also change how long after the search address is added to the list that the mailer will be sent.
+
+More Info can be found Here
+
+April 16
+New Feature
+
+Add Text Notifications On QR Scans
+
+Added support for text notifications when a QR code is scanned.
+
+This option can be toggled On/Off in the Account Settings Setting ‘Send Notify Text on QR Scan’
+
+April 7
+New Feature
+
+HubSpot Integration
+
+Added support for HubSpot integration to streamline your marketing efforts.
+
+This integration allows you to send a Mailer right from your Contacts profile page.
+
+More information on setting up the HubSpot integration can be found Here.
+
+March 3
+New Feature
+
+Added Enterprise Plan
+
+Introduced a new Enterprise Plan for users with high volume sends and dedicated support needs.
+
+The Enterprise Plan includes the most competitive pricing available.
+
+For more information on the Enterprise Plan, please visit our Pricing Page.
+
+December 23
+New Feature
+
+Lookup Physical Address via Email
+
+Added support for looking up physical addresses using email addresses.
+
+This feature allows you to find the mailing address of a contact by their email, making it easier to send targeted mailers.
+
+More information on using the address lookup feature can be found Here.
+
+Sept 10
+New Feature
+
+Send via Standard Mail
+
+Added support for sending mailers via standard mail.
+
+Send for a cheaper rate at longer delivery times. Receive 5 cents off all Postcard items & 21 cents off all Letters, Notecards, & Giftcards items. Mail item delivery times will be an extra 5+ days, will not have tracking status, and will not be returned to sender on incorrect delivery.
+
+To turn On/Off this feature, visit your Mailer Settings and toggle the ‘Standard Mail Mode’ option.
+
+August 21
+New Feature
+
+AI Fonts
+
+Added support for AI-generated fonts for your mailers.
+
+These fonts totally randomize character placement and spacing to create a unique look for each mailer. This can help increase engagement and make your mailers stand out in the mailbox.
+
+Realism mode will automatically add crossouts and other imperfections to make the font look more like it was handwritten by a human.
+
+To use AI fonts, simply select the ‘AI Font’ option when creating or editing a Message Template. You can also toggle the ‘Realism Mode’ option to add imperfections to the font
+
+August 21
+New Feature
+
+Global Scan List
+
+Added a global scan list to the dashboard to provide a comprehensive view of all QR code scans across your account.
+
+This list can be used in Campaign Actions to send follow-up mailers to all recipients who have scanned any of your mailers, regardless of the mailing list they were on.
+
+Was this page helpful?
+
+YesNo
+
+Docs MCP Server
+
+Add Recipient to Campaign
+
+thanks.io Direct Mail Automation Toolkit home page
+facebookgithublinkedinyoutubexinstagram
+
+Resources
+Help DocsSchedule API ConsultPostman
+
+Company
+WebsiteContact
+
+facebookgithublinkedinyoutubexinstagram
+
+Powered byThis documentation is built and hosted on Mintlify, a developer documentation platform
