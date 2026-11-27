@@ -1,0 +1,1814 @@
+Quote approvals | Jobber Help Center
+
+Skip to content
+Help Center
+Search for answers⌘K
+
+🇺🇸English (en)🇪🇸Español (es)
+
+Chat now
+
+Get Started
+
+First Steps
+
+First steps: Basic account set up
+
+First steps: Advanced account set up
+
+Jobber workflow overview
+
+First steps: Just for Core
+
+Get Started
+
+Business goals
+
+Spanish language in Jobber FAQ
+
+Joining an existing Jobber account
+
+Learn More About Jobber
+
+Developer Center
+
+Jobber glossary
+
+The Plus plan
+
+The Grow plan
+
+The Connect plan
+
+The Core plan
+
+Benefits of using Jobber for your clients
+
+Get Help
+
+Jobber AI voice and chat (beta)
+
+How to get help
+
+Troubleshooting tips: How to help us help you
+
+FAQ: Frequently asked questions
+
+How Jobber Works for Different Roles in a Company
+
+Overview: How Jobber works for different roles in a company
+
+Company owner or admin: How Jobber works for different roles in a company
+
+Admin or dispatcher: How Jobber works for different roles in a company
+
+Sales: How Jobber works for different roles in a company
+
+Fieldworkers- how Jobber works for different roles in a company
+
+Schedule
+
+Legacy Schedule
+
+Schedule overview | Legacy Schedule
+
+Month and week view | Legacy Schedule
+
+Day view | Legacy Schedule
+
+Map view | Legacy Schedule
+
+List view | Legacy Schedule
+
+Daily route optimization | Legacy Schedule
+
+Assigning multiple visits at once to users | Legacy Schedule
+
+Move visits | Legacy Schedule
+
+New Schedule
+
+Schedule overview | New Schedule
+
+Route optimization | New Schedule
+
+Day view of the schedule | New Schedule
+
+Week view of the schedule | New Schedule
+
+Month view of the schedule | New Schedule
+
+New Schedule
+
+Create new visits for existing recurring jobs (snow removal workflow) | New Schedule
+
+Events on the Schedule
+
+How permanent daylight saving time changes affect your schedule
+
+Visits
+
+Tasks
+
+Events
+
+Reminders on the schedule
+
+Manage Your Schedule
+
+Crew scheduling
+
+Day sheets
+
+How to remind your team about their assignments
+
+Calendar colors
+
+Calendar syncing
+
+Work
+
+Work Overview
+
+Activity feed
+
+Automations
+
+Home
+
+List pages and key metrics basics
+
+Receptionist–powered by Jobber AI
+
+Revenue goals
+
+Sales pipeline
+
+Dashboard
+
+Navigating Jobber
+
+Requests
+
+Request basics
+
+Requests and bookings settings
+
+Requests list page and key metrics
+
+Add your request and booking forms to your website and social media
+
+Schedule an assessment
+
+Converting a request to a quote or job
+
+Jobber WordPress plugin for online booking and requests
+
+Quotes
+
+Import quotes
+
+Quote and invoice import columns
+
+Quote basics
+
+Quote list page and key metrics
+
+Quote templates
+
+Quoting on the Grow plan
+
+Deposits on quotes
+
+Markups on quotes
+
+Adding text to quotes
+
+Converting a quote to a job
+
+Quote approvals
+
+Optional line items on quotes
+
+Line item images on quotes
+
+Salesperson performance
+
+Advanced quote customization
+
+Jobs
+
+Google Analytics tracking for requests and bookings
+
+Import jobs
+
+Import your jobs from Google Calendar
+
+Job costing
+
+Jobber and Google AI Mode integration
+
+Jobber and Google Business Profiles
+
+Jobs list page and key metrics
+
+Online booking
+
+Job basics
+
+Checklists
+
+Arrival Windows
+
+Create a recurring job
+
+Create a one-off job
+
+Snow removal workflow (or how to schedule new visits for multiple jobs)
+
+What if a job gets canceled?
+
+Invoices, Payments, and Deposits
+
+Import invoices
+
+Invoice basics
+
+Invoices list page and key metrics
+
+Payments list page and key metrics
+
+Payment schedules and progress invoicing
+
+Set invoice payment terms
+
+Invoice reminders
+
+How to collect payment on an invoice
+
+Batch create invoices
+
+Batch deliver invoices
+
+Client billing history
+
+Discounts
+
+Bad debt
+
+Notes
+
+Files and media library
+
+Notes and attachments
+
+Timesheets
+
+Set up and approve pay periods
+
+Set up overtime rules
+
+Timesheets
+
+Track time categories and breaks
+
+Approving timesheets
+
+Confirm payroll
+
+Expenses
+
+Supplier invoice scanning
+
+Expenses
+
+Clients
+
+Client Management
+
+Client basics
+
+Clients list page and key metrics
+
+Merge duplicate clients
+
+Client archiving
+
+Lead generation
+
+Lead management
+
+Tags
+
+How to make mass updates to clients
+
+Import or Export Clients
+
+Import clients
+
+Import clients from QuickBooks Desktop
+
+Export client information
+
+Properties
+
+Properties
+
+How to measure property distance and size
+
+View property enrichment data
+
+Jobber App
+
+Receptionist in the Jobber app
+
+Tap to Pay
+
+Use Jobber with Apple CarPlay and Android Auto
+
+Jobber Payments in the Jobber app
+
+Tip collection in the Jobber app
+
+Location timers in the Jobber app
+
+Jobber app troubleshooting
+
+Schedule in the Jobber app
+
+Jobber app basics
+
+Push notifications from the Jobber app
+
+Home in the Jobber app
+
+Two-way text messaging in the Jobber app
+
+Timers and timesheets in the Jobber app
+
+Notes and attachments in the Jobber app
+
+Client information in the Jobber app
+
+Requests in the Jobber app
+
+Quotes in the Jobber app
+
+Jobs in the Jobber app
+
+Invoices in the Jobber app
+
+Collecting card payments in the field using Jobber Payments with the Jobber app
+
+Expenses in the Jobber app
+
+Tasks in the Jobber app
+
+On my way text messages in the Jobber app
+
+Use the Jobber app offline
+
+Client Communications
+
+Automated texts & emails
+
+Emails and text messages settings
+
+Assessment and visit reminders
+
+Booking confirmation
+
+Job follow-ups
+
+Send a general email
+
+Variables
+
+Enabling text messages for multiple clients
+
+Text message and email deliverability checklist
+
+Two-Way Text Messaging
+
+Terms of service requirements for your dedicated phone number application
+
+Two-way text messaging
+
+Dedicated phone number
+
+Two-way text messaging FAQ
+
+Register your dedicated phone number
+
+Register your number (UK)
+
+Troubleshoot your dedicated phone number registration
+
+Privacy policy requirements for your dedicated phone number application
+
+Client messages
+
+View client messages in Comms
+
+Marketing Tools
+
+Brand Center | Marketing Tools
+
+Job Showcase | Marketing Tools
+
+Manage your Google Business Profile in Jobber
+
+Marketing focus | Marketing Tools
+
+Marketing Plan | Marketing Tools
+
+Set up a custom domain for your website | Marketing Tools
+
+Social Posting | Marketing Tools
+
+Marketing Dashboard | Marketing Tools
+
+Marketing performance | Marketing Tools
+
+Add Marketing Tools to your Jobber plan subscription
+
+Website | Marketing Tools
+
+Referrals | Marketing Tools
+
+Reviews | Marketing Tools
+
+Campaigns | Marketing Tools
+
+Settings
+
+Business Management
+
+Company settings
+
+Custom automation builder
+
+Tax settings
+
+Business profile
+
+Client document settings
+
+Custom fields
+
+Business hours
+
+Products & Services list
+
+Chemical tracking
+
+Team Organization
+
+Manage team members and seats
+
+User permissions
+
+Work settings
+
+Route optimization through the settings menu
+
+How to route
+
+Client Hub
+
+Client hub settings
+
+What do your clients see in client hub?
+
+Referrals in client hub
+
+A guide for your clients: How to navigate client hub
+
+Jobber Payments
+
+Getting Started with Jobber Payments
+
+Jobber Payments basics
+
+Jobber Payments payout window
+
+How to set up Jobber Payments
+
+Jobber Capital
+
+Manage your Jobber Payments settings
+
+Tip collection with Jobber Payments
+
+Setting up Jobber Payments in the UK
+
+Bank payments (ACH)
+
+Bank holidays
+
+Let clients pay by scanning a check
+
+Jobber Money
+
+Jobber Money
+
+Jobber Money FAQ
+
+Saving and Charging Cards
+
+Saving and charging payment methods with Jobber Payments
+
+Request your clients save a payment method for Jobber Payments
+
+Instant payouts
+
+Debit cards compatible with instant payouts
+
+Automatic payments
+
+Jobber Card Reader
+
+Card reader troubleshooting
+
+Jobber Payments refunds
+
+Jobber Payments Account and Security
+
+Why is my info required for Jobber Payments?
+
+Jobber Payments verification
+
+Jobber Payments card changed banner
+
+Jobber Payments and 1099-K
+
+Changing payment integration providers
+
+What is a review?
+
+Credit and Risk Management for Jobber Payments
+
+Jobber Payments disputes
+
+How Jobber manages credit risk and account reviews
+
+How your processing limits for Jobber Payments are set and reviewed
+
+Credit underwriting process for Jobber Payments
+
+Jobber Payments holds and reviews
+
+Why are funds being held? A guide to payment reserves
+
+Why you're being asked for documents (and what happens next)
+
+Business Health
+
+Checklists report
+
+Clients report
+
+Create a custom report with Jobber AI
+
+Delete log report
+
+Insights dashboard
+
+Invoices report
+
+Jobber Bookkeeping
+
+Lead source report
+
+Quotes report
+
+Recurring jobs report
+
+Reports basics
+
+Requests report
+
+Team productivity report
+
+Visits report
+
+Client communications report
+
+GPS waypoint tracking
+
+One-off jobs report
+
+Invoice and payment reports
+
+Client re-engagement report
+
+Taxation report
+
+Products and services report
+
+Client balance summary report
+
+Projected income report
+
+Jobber Payments reports
+
+Account
+
+Account
+
+Account ownership
+
+Book-a-demo promo terms and conditions
+
+Enter the keys to growth giveaways
+
+Protecting your Jobber account after a security concern
+
+Two-step verification
+
+Jobber Labs
+
+Granting Jobber access to your account
+
+Franchising (adding another account)
+
+How to update your Jobber account for a new owner
+
+Why am I being notified about an "Unusual Login on your Jobber Account"?
+
+How do I permanently close my account?
+
+Your Jobber Subscription
+
+Add-on features to your Jobber plan subscription
+
+How to subscribe
+
+Refer a friend to Jobber
+
+Retry a failed subscription payment
+
+Subscription in the Jobber app
+
+How to change your billing information and plan
+
+Cancel your Jobber subscription
+
+Jobber Central
+
+Campaigns | Jobber Central
+
+Jobber Central basics | Jobber Central
+
+Royalty management | Jobber Central
+
+Reviews | Jobber Central
+
+Lead sources | Jobber Central
+
+Lead funnel | Jobber Central
+
+Top performing sources | Jobber Central
+
+Average review | Jobber Central
+
+Invoice tracking | Jobber Central
+
+Quote tracking | Jobber Central
+
+Personal Settings
+
+Personal settings
+
+Password reset troubleshooting
+
+Security and passwords
+
+App Marketplace
+
+App Marketplace
+
+App Marketplace
+
+Connect Jobber to AI assistants
+
+Connect Yelp leads to Jobber
+
+Jobber and Angi Leads integration
+
+Jobber and Azuga Fleet integration
+
+Jobber and CallRail integration
+
+Jobber and DocuSign integration
+
+Jobber and Eagleview integration
+
+Jobber and Force fleet tracking
+
+Jobber and Gusto integration
+
+Jobber and Quo integration
+
+Jobber and the Home Depot integration
+
+Jobber and Xero integration
+
+Jobber Wix plugin for online booking and requests
+
+Jobber and LoyalAs integration
+
+Jobber and Google's Local Services Ads
+
+Report scheduler app
+
+Jobber and Thumbtack integration
+
+Jobber and CompanyCam integration
+
+Jobber and Wisetack consumer financing integration
+
+Jobber and FleetSharp GPS tracking integration
+
+Jobber and Zapier integration
+
+Jobber and Mailchimp integration
+
+Payment integrations
+
+Jobber and ResponsiBid integration
+
+Jobber and Broadly integration
+
+Jobber and SendJim integration
+
+Jobber and NiceJob Reviews and Referrals
+
+Jobber and NiceJob Convert websites
+
+How clients sync with Mailchimp
+
+FleetSharp tracker devices
+
+Jobber and Hatch integration
+
+Jobber and Fundbox integration
+
+QuickBooks (New)
+
+Migrate to the new QuickBooks integration
+
+QuickBooks integration FAQs: New QuickBooks integration
+
+How to connect Jobber and QuickBooks Online: New QuickBooks integration
+
+How items sync between Jobber and QuickBooks Online: New QuickBooks integration
+
+How Jobber Payments fees and payouts sync to QuickBooks Online
+
+Common QuickBooks sync errors and how to fix them: New QuickBooks integration
+
+QuickBooks (Legacy integration)
+
+How to set up QuickBooks Online sync
+
+How items sync between Jobber and QuickBooks Online
+
+QuickBooks Online sync error messages
+
+QuickBooks automated sales tax sync error
+
+How to reconcile Jobber Payments with QuickBooks
+
+QuickBooks integration FAQs
+
+Videos
+
+Videos
+
+Jobber Help Center on YouTube
+
+Past Webinars
+
+Become a Jobber super-user
+
+Impress clients, get paid faster, and get back valuable time with online invoicing and payment collection
+
+Provide a convenient payment experience while getting paid faster
+
+Take back your time by putting your admin work on autopilot
+
+Win more jobs worth more money
+
+Keep your records clean for more insightful reporting
+
+Fill your pipeline with new leads and win the work, faster
+
+Home/Work/Quotes
+OverviewSend quotes to clientsWhat your client sees: approving a quote in client hubClient hub settingsWhen a quote has changes requestedManually approve a quoteConvert a quote to a jobEdit an approved quoteFollow up on quotes
+
+Quote approvals
+
+9 min readUpdated August 11, 2026
+
+Overview
+
+Give your clients a self-serve experience where they can view their quotes online and approve them with a signature via client hub. You’ll be notified when the quote is approved so you can move onto the next step of the work. Clients can also request changes online and pay a deposit using Jobber Payments while approving the quote.
+
+First you’ll need to have a quotes created so you can send it off for approval. To learn more about creating a quote, check out Quote Basics or to level up your quotes further, Quoting on the Grow Plan.
+
+Send quotes to clients
+
+When you first save a quote after creating it, the quote status will be “Draft”.
+
+Quotes stay in draft status until they have either been:
+
+sent to the client (via either email or text message); OR
+
+marked as awaiting response
+
+Sending the quote to your client will change the status from “Draft” to “Awaiting Response”.
+
+Via email
+
+To send a quote via email:
+
+Create a new quote or navigate to an existing quote.
+
+From the quote click More then select Email from the menu.
+
+You will see a preview of the email message sent with the link to the quote in client hub. Review the message content, recipients, and attachments. If all looks good, select Send email.
+
+Note: The default message sent with your quote is managed in your Email and Text Messages Settings.
+
+When you email a quote to your client, it looks like this:
+
+If you are using Jobber Payments and your quote has a required deposit, the button to view the quote says Review & Pay Deposit. If you are not using Jobber Payments, the button says View Quote. In both cases, clicking the button will open the quote in client hub.
+
+Via text message
+
+To send a quote via text message:
+
+Create a new quote or navigate to an existing quote.
+
+From the quote click More then select Send Text from the menu.
+
+You will see a preview of the email message sent with the link to the quote in client hub. Review the message content and recipients If all looks good, select Send Text. Keep in mind that if you have attachments to send your client, you may wish to send an email rather than text message so you can share those attachments with your client.
+
+Note: The default text message sent with your quote is managed in your Email and Text Messages Settings.
+
+This is a quote sent via text message:
+
+The link takes your client to client hub where clients can review and approve the quote. This link expires after 24 hours, but after that your client can still access the quote by entering the last 4 digits of their phone number in order to sign back into the client hub.
+
+Your client’s primary phone number will be the default recipient as long as it’s text message enabled. You can also enter another phone number or add multiple numbers.
+
+What your client sees: approving a quote in client hub
+
+Whether you’ve sent the quote via email or via text message (or both!), your client will be able to view the quote in client hub where they have the option to approve the quote, among other options.
+
+To approve the quote, the client can select the Approve button.
+
+When Jobber Payments is enabled and the quote includes a required deposit, your clients will see a button to Approve and Pay Deposit instead of the Approve button. To learn more about quote deposits and how to secure a payment upfront before the work, check out our article on Deposits on Quotes.
+
+After clicking Approve (or Approve and Pay Deposit), the client will be prompted to sign the quote. They can select to draw or type their name to approve the quote, and when done, select the Approve button.
+
+If the client is paying a deposit through Jobber Payments, next they will be prompted to add their payment details, including:
+
+Name
+
+Card number
+
+Expiry
+
+CVC
+
+Billing address
+
+After approving the quote, the client automatically receives an email notification that the quote has been approved with next steps. This message template is customizable in your Emails and Text Messages Settings.
+
+Within Jobber, the quote status will change from “Awaiting Response” to “Approved” and the client’s signature will be saved as an internal note on the quote. Admin users in your Jobber account will see an activity feed notification and a push notification from the Jobber app notifying them that a quote has been approved.
+
+Client hub settings
+
+There are some settings for client hub that will change the experience of what your clients may see when approving a quote through client hub. These settings are found in your client hub settings and include:
+
+Menu visibility: When enabled, this setting allows clients to navigate through their sent quotes and invoices in client hub. This setting adds tabs for “Quotes” and “Invoices” to the side navigation in client hub.
+
+Quote approvals:
+
+Require client signatures: When enabled, clients will be prompted to sign the quote as part of the quote approval process.
+
+Clients can request changes: When enabled, this adds the Request Changes button to your quotes in client hub, allowing clients to ask for changes on their quotes. Learn more about what to do when a quote has changes requested.
+
+Show scheduled time for appointments: When enabled, this setting adds the scheduled appointment time to the list of appointments in client hub.
+
+When a quote has changes requested
+
+Before they feel comfortable approving the quote, your client may want to request some changes.
+
+If you want your clients to have the ability to request changes, enable the Clients can request changes toggle in your client hub settings. This will add a button for Request Changes to your quotes in client hub.
+
+When a client clicks Request Changes, a popup will appear where they can type in their request.
+
+Once they’ve selected Send Request their changes will be submitted. You will be notified by:
+
+The status on the quote changing to “changes requested”
+
+An email to the designated team member who receives replies about quotes
+
+An activity feed notification (for admin users only)
+
+The requested changes submitted by your clients will also show directly on the quote.
+
+Quotes in “changes requested” status will no longer be visible in client hub. This means you will need to amend the original quote (or create a new one) and send it back to the client, or mark the quote as “Awaiting Response” from the More menu in order for your client to be able to approve in in client hub.
+
+Manually approve a quote
+
+If your client lets you know verbally that they approve the quote you can manually mark the quote as approved in Jobber. From the quote click the More button then select Approved.
+
+Convert a quote to a job
+
+Now that the quote is approved, the next step is to convert it into a job to set up the schedule and get the work on your calendar. To convert an approved quote to a job, click Convert to Job from the top of the page, or find the same option under the More dropdown. This creates a job based on the line items approved on the quote.
+
+Learn more about creating jobs.
+
+Edit an approved quote
+
+If a quote is in “Approved” status and an edit is made to the quote total, deposit, line items, client message, contract/disclaimer, or quote number; the client’s signature will be removed from the quote’s signature line and from client hub. You will be asked to acknowledge this by checking an I understand box prior to updating the quote. The previous version of the quote, including the client’s signature will be saved as a PDF as an internal note.
+
+Learn more about editing quotes.
+
+Note
+
+Since signatures aren’t required to approve a quote, editing an approved quote won’t remove the approved status from the quote.
+
+If you need your client to sign off on the changes:
+
+Mark the quote as “Awaiting Response” (navigate to the quote, then select the More button, then Awaiting Response).
+
+Re-send the quote to your client. They will now be able to approve the updated quote in client hub.
+
+Follow up on quotes
+
+In order to get your quotes approved, you may need to follow up on your quotes after they’re sent.
+
+Jobber has some tools to help you follow up on your sent quote, including:
+
+Quote follow-ups: Available on select plans, quote follow-ups will automatically send out a reminder after a certain number of days after the quote was originally sent if hasn’t been approved yet. The follow-up is sent in the same method as the quote (either by text message or email).
+
+Quote reminders: Quote reminders are available on all plans as a way of keeping track of quotes that you will be following up on manually. The quote reminder feature adds a reminder to your schedule in red (like an invoice reminder) and will be automatically assigned to the user who created the quote to follow up. Quote reminders are managed in your work settings and you can customize how many days after the quote is initially set up that you would like to see a reminder on your calendar to follow up. We recommend using the general email template to contact to your client to follow up, that way you will have a record of this reach out in Jobber.
+
+accept estimate, approve quote, client approval
+
+Was this article helpful?
+
+YesNo
+
+PreviousConverting a quote to a jobUp nextOptional line items on quotes
+
+Related articles
+
+Client hub settingsClient hub is a self-serve, online experience that allows your clients to approve quotes, check appointment details, pay invoices, print rec…8 min readQuote basicsQuotes serve as professional estimates you provide to clients, outlining the services and costs associated with a potential job. Within Jobb…15 min readEmails and text messages settingsEasily edit all your communications from one convenient place.15 min read
+
+On this page
+
+Overview
+
+Send quotes to clients
+
+What your client sees: approving a quote in client hub
+
+Client hub settings
+
+When a quote has changes requested
+
+Manually approve a quote
+
+Convert a quote to a job
+
+Edit an approved quote
+
+Follow up on quotes
+
+Menu
+Help home
+
+Get Started
+
+First Steps
+
+First steps: Basic account set up
+
+First steps: Advanced account set up
+
+Jobber workflow overview
+
+First steps: Just for Core
+
+Get Started
+
+Business goals
+
+Spanish language in Jobber FAQ
+
+Joining an existing Jobber account
+
+Learn More About Jobber
+
+Developer Center
+
+Jobber glossary
+
+The Plus plan
+
+The Grow plan
+
+The Connect plan
+
+The Core plan
+
+Benefits of using Jobber for your clients
+
+Get Help
+
+Jobber AI voice and chat (beta)
+
+How to get help
+
+Troubleshooting tips: How to help us help you
+
+FAQ: Frequently asked questions
+
+How Jobber Works for Different Roles in a Company
+
+Overview: How Jobber works for different roles in a company
+
+Company owner or admin: How Jobber works for different roles in a company
+
+Admin or dispatcher: How Jobber works for different roles in a company
+
+Sales: How Jobber works for different roles in a company
+
+Fieldworkers- how Jobber works for different roles in a company
+
+Schedule
+
+Legacy Schedule
+
+Schedule overview | Legacy Schedule
+
+Month and week view | Legacy Schedule
+
+Day view | Legacy Schedule
+
+Map view | Legacy Schedule
+
+List view | Legacy Schedule
+
+Daily route optimization | Legacy Schedule
+
+Assigning multiple visits at once to users | Legacy Schedule
+
+Move visits | Legacy Schedule
+
+New Schedule
+
+Schedule overview | New Schedule
+
+Route optimization | New Schedule
+
+Day view of the schedule | New Schedule
+
+Week view of the schedule | New Schedule
+
+Month view of the schedule | New Schedule
+
+New Schedule
+
+Create new visits for existing recurring jobs (snow removal workflow) | New Schedule
+
+Events on the Schedule
+
+How permanent daylight saving time changes affect your schedule
+
+Visits
+
+Tasks
+
+Events
+
+Reminders on the schedule
+
+Manage Your Schedule
+
+Crew scheduling
+
+Day sheets
+
+How to remind your team about their assignments
+
+Calendar colors
+
+Calendar syncing
+
+Work
+
+Work Overview
+
+Activity feed
+
+Automations
+
+Home
+
+List pages and key metrics basics
+
+Receptionist–powered by Jobber AI
+
+Revenue goals
+
+Sales pipeline
+
+Dashboard
+
+Navigating Jobber
+
+Requests
+
+Request basics
+
+Requests and bookings settings
+
+Requests list page and key metrics
+
+Add your request and booking forms to your website and social media
+
+Schedule an assessment
+
+Converting a request to a quote or job
+
+Jobber WordPress plugin for online booking and requests
+
+Quotes
+
+Import quotes
+
+Quote and invoice import columns
+
+Quote basics
+
+Quote list page and key metrics
+
+Quote templates
+
+Quoting on the Grow plan
+
+Deposits on quotes
+
+Markups on quotes
+
+Adding text to quotes
+
+Converting a quote to a job
+
+Quote approvals
+
+Optional line items on quotes
+
+Line item images on quotes
+
+Salesperson performance
+
+Advanced quote customization
+
+Jobs
+
+Google Analytics tracking for requests and bookings
+
+Import jobs
+
+Import your jobs from Google Calendar
+
+Job costing
+
+Jobber and Google AI Mode integration
+
+Jobber and Google Business Profiles
+
+Jobs list page and key metrics
+
+Online booking
+
+Job basics
+
+Checklists
+
+Arrival Windows
+
+Create a recurring job
+
+Create a one-off job
+
+Snow removal workflow (or how to schedule new visits for multiple jobs)
+
+What if a job gets canceled?
+
+Invoices, Payments, and Deposits
+
+Import invoices
+
+Invoice basics
+
+Invoices list page and key metrics
+
+Payments list page and key metrics
+
+Payment schedules and progress invoicing
+
+Set invoice payment terms
+
+Invoice reminders
+
+How to collect payment on an invoice
+
+Batch create invoices
+
+Batch deliver invoices
+
+Client billing history
+
+Discounts
+
+Bad debt
+
+Notes
+
+Files and media library
+
+Notes and attachments
+
+Timesheets
+
+Set up and approve pay periods
+
+Set up overtime rules
+
+Timesheets
+
+Track time categories and breaks
+
+Approving timesheets
+
+Confirm payroll
+
+Expenses
+
+Supplier invoice scanning
+
+Expenses
+
+Clients
+
+Client Management
+
+Client basics
+
+Clients list page and key metrics
+
+Merge duplicate clients
+
+Client archiving
+
+Lead generation
+
+Lead management
+
+Tags
+
+How to make mass updates to clients
+
+Import or Export Clients
+
+Import clients
+
+Import clients from QuickBooks Desktop
+
+Export client information
+
+Properties
+
+Properties
+
+How to measure property distance and size
+
+View property enrichment data
+
+Jobber App
+
+Receptionist in the Jobber app
+
+Tap to Pay
+
+Use Jobber with Apple CarPlay and Android Auto
+
+Jobber Payments in the Jobber app
+
+Tip collection in the Jobber app
+
+Location timers in the Jobber app
+
+Jobber app troubleshooting
+
+Schedule in the Jobber app
+
+Jobber app basics
+
+Push notifications from the Jobber app
+
+Home in the Jobber app
+
+Two-way text messaging in the Jobber app
+
+Timers and timesheets in the Jobber app
+
+Notes and attachments in the Jobber app
+
+Client information in the Jobber app
+
+Requests in the Jobber app
+
+Quotes in the Jobber app
+
+Jobs in the Jobber app
+
+Invoices in the Jobber app
+
+Collecting card payments in the field using Jobber Payments with the Jobber app
+
+Expenses in the Jobber app
+
+Tasks in the Jobber app
+
+On my way text messages in the Jobber app
+
+Use the Jobber app offline
+
+Client Communications
+
+Automated texts & emails
+
+Emails and text messages settings
+
+Assessment and visit reminders
+
+Booking confirmation
+
+Job follow-ups
+
+Send a general email
+
+Variables
+
+Enabling text messages for multiple clients
+
+Text message and email deliverability checklist
+
+Two-Way Text Messaging
+
+Terms of service requirements for your dedicated phone number application
+
+Two-way text messaging
+
+Dedicated phone number
+
+Two-way text messaging FAQ
+
+Register your dedicated phone number
+
+Register your number (UK)
+
+Troubleshoot your dedicated phone number registration
+
+Privacy policy requirements for your dedicated phone number application
+
+Client messages
+
+View client messages in Comms
+
+Marketing Tools
+
+Brand Center | Marketing Tools
+
+Job Showcase | Marketing Tools
+
+Manage your Google Business Profile in Jobber
+
+Marketing focus | Marketing Tools
+
+Marketing Plan | Marketing Tools
+
+Set up a custom domain for your website | Marketing Tools
+
+Social Posting | Marketing Tools
+
+Marketing Dashboard | Marketing Tools
+
+Marketing performance | Marketing Tools
+
+Add Marketing Tools to your Jobber plan subscription
+
+Website | Marketing Tools
+
+Referrals | Marketing Tools
+
+Reviews | Marketing Tools
+
+Campaigns | Marketing Tools
+
+Settings
+
+Business Management
+
+Company settings
+
+Custom automation builder
+
+Tax settings
+
+Business profile
+
+Client document settings
+
+Custom fields
+
+Business hours
+
+Products & Services list
+
+Chemical tracking
+
+Team Organization
+
+Manage team members and seats
+
+User permissions
+
+Work settings
+
+Route optimization through the settings menu
+
+How to route
+
+Client Hub
+
+Client hub settings
+
+What do your clients see in client hub?
+
+Referrals in client hub
+
+A guide for your clients: How to navigate client hub
+
+Jobber Payments
+
+Getting Started with Jobber Payments
+
+Jobber Payments basics
+
+Jobber Payments payout window
+
+How to set up Jobber Payments
+
+Jobber Capital
+
+Manage your Jobber Payments settings
+
+Tip collection with Jobber Payments
+
+Setting up Jobber Payments in the UK
+
+Bank payments (ACH)
+
+Bank holidays
+
+Let clients pay by scanning a check
+
+Jobber Money
+
+Jobber Money
+
+Jobber Money FAQ
+
+Saving and Charging Cards
+
+Saving and charging payment methods with Jobber Payments
+
+Request your clients save a payment method for Jobber Payments
+
+Instant payouts
+
+Debit cards compatible with instant payouts
+
+Automatic payments
+
+Jobber Card Reader
+
+Card reader troubleshooting
+
+Jobber Payments refunds
+
+Jobber Payments Account and Security
+
+Why is my info required for Jobber Payments?
+
+Jobber Payments verification
+
+Jobber Payments card changed banner
+
+Jobber Payments and 1099-K
+
+Changing payment integration providers
+
+What is a review?
+
+Credit and Risk Management for Jobber Payments
+
+Jobber Payments disputes
+
+How Jobber manages credit risk and account reviews
+
+How your processing limits for Jobber Payments are set and reviewed
+
+Credit underwriting process for Jobber Payments
+
+Jobber Payments holds and reviews
+
+Why are funds being held? A guide to payment reserves
+
+Why you're being asked for documents (and what happens next)
+
+Business Health
+
+Checklists report
+
+Clients report
+
+Create a custom report with Jobber AI
+
+Delete log report
+
+Insights dashboard
+
+Invoices report
+
+Jobber Bookkeeping
+
+Lead source report
+
+Quotes report
+
+Recurring jobs report
+
+Reports basics
+
+Requests report
+
+Team productivity report
+
+Visits report
+
+Client communications report
+
+GPS waypoint tracking
+
+One-off jobs report
+
+Invoice and payment reports
+
+Client re-engagement report
+
+Taxation report
+
+Products and services report
+
+Client balance summary report
+
+Projected income report
+
+Jobber Payments reports
+
+Account
+
+Account
+
+Account ownership
+
+Book-a-demo promo terms and conditions
+
+Enter the keys to growth giveaways
+
+Protecting your Jobber account after a security concern
+
+Two-step verification
+
+Jobber Labs
+
+Granting Jobber access to your account
+
+Franchising (adding another account)
+
+How to update your Jobber account for a new owner
+
+Why am I being notified about an "Unusual Login on your Jobber Account"?
+
+How do I permanently close my account?
+
+Your Jobber Subscription
+
+Add-on features to your Jobber plan subscription
+
+How to subscribe
+
+Refer a friend to Jobber
+
+Retry a failed subscription payment
+
+Subscription in the Jobber app
+
+How to change your billing information and plan
+
+Cancel your Jobber subscription
+
+Jobber Central
+
+Campaigns | Jobber Central
+
+Jobber Central basics | Jobber Central
+
+Royalty management | Jobber Central
+
+Reviews | Jobber Central
+
+Lead sources | Jobber Central
+
+Lead funnel | Jobber Central
+
+Top performing sources | Jobber Central
+
+Average review | Jobber Central
+
+Invoice tracking | Jobber Central
+
+Quote tracking | Jobber Central
+
+Personal Settings
+
+Personal settings
+
+Password reset troubleshooting
+
+Security and passwords
+
+App Marketplace
+
+App Marketplace
+
+App Marketplace
+
+Connect Jobber to AI assistants
+
+Connect Yelp leads to Jobber
+
+Jobber and Angi Leads integration
+
+Jobber and Azuga Fleet integration
+
+Jobber and CallRail integration
+
+Jobber and DocuSign integration
+
+Jobber and Eagleview integration
+
+Jobber and Force fleet tracking
+
+Jobber and Gusto integration
+
+Jobber and Quo integration
+
+Jobber and the Home Depot integration
+
+Jobber and Xero integration
+
+Jobber Wix plugin for online booking and requests
+
+Jobber and LoyalAs integration
+
+Jobber and Google's Local Services Ads
+
+Report scheduler app
+
+Jobber and Thumbtack integration
+
+Jobber and CompanyCam integration
+
+Jobber and Wisetack consumer financing integration
+
+Jobber and FleetSharp GPS tracking integration
+
+Jobber and Zapier integration
+
+Jobber and Mailchimp integration
+
+Payment integrations
+
+Jobber and ResponsiBid integration
+
+Jobber and Broadly integration
+
+Jobber and SendJim integration
+
+Jobber and NiceJob Reviews and Referrals
+
+Jobber and NiceJob Convert websites
+
+How clients sync with Mailchimp
+
+FleetSharp tracker devices
+
+Jobber and Hatch integration
+
+Jobber and Fundbox integration
+
+QuickBooks (New)
+
+Migrate to the new QuickBooks integration
+
+QuickBooks integration FAQs: New QuickBooks integration
+
+How to connect Jobber and QuickBooks Online: New QuickBooks integration
+
+How items sync between Jobber and QuickBooks Online: New QuickBooks integration
+
+How Jobber Payments fees and payouts sync to QuickBooks Online
+
+Common QuickBooks sync errors and how to fix them: New QuickBooks integration
+
+QuickBooks (Legacy integration)
+
+How to set up QuickBooks Online sync
+
+How items sync between Jobber and QuickBooks Online
+
+QuickBooks Online sync error messages
+
+QuickBooks automated sales tax sync error
+
+How to reconcile Jobber Payments with QuickBooks
+
+QuickBooks integration FAQs
+
+Videos
+
+Videos
+
+Jobber Help Center on YouTube
+
+Past Webinars
+
+Become a Jobber super-user
+
+Impress clients, get paid faster, and get back valuable time with online invoicing and payment collection
+
+Provide a convenient payment experience while getting paid faster
+
+Take back your time by putting your admin work on autopilot
+
+Win more jobs worth more money
+
+Keep your records clean for more insightful reporting
+
+Fill your pipeline with new leads and win the work, faster
+
+Chat now🇪🇸Español (es)Dark mode
+
+Help Center
+Get StartedScheduleWorkClientsJobber AppSettingsJobber Payments
+Resources
+Jobber GlossaryJobber Help Center on YouTubeApp MarketplaceJobber AcademyCommunity
+Jobber
+Back to Jobber
+
+Get in touch
+Contact Us1-888-721-1115
+
+Download on theApp StoreGet it onGoogle Play
+
+© Jobber 2026PrivacyAccessibilityTerms of ServiceSecuritySitemapCookie Preferences
+
+esc
+
+Browse a topic
+Get StartedScheduleWorkClientsJobber AppView 8 more
+
+↑ ↓ navigate↵ openesc close
