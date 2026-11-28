@@ -1,0 +1,464 @@
+Janitorial software compared: Swept, CleanGuru, Jobber
+
+FeaturesPricingCompare
+Free tools
+
+All free toolsCalculators, templates, makers
+
+Cleaning checklistsBy room, clean and building
+
+Price calculatorA flat price for every home size
+
+In ChatGPT and ClaudeOur calculators in your AI assistant
+
+Guides
+
+Guides for ownersStart, price, staff and grow
+
+How to clean anythingStep-by-step home cleaning
+
+DashboardLog inGet it freeFree
+
+Home
+
+/
+
+Guides
+
+/
+
+Run the day to day
+
+Run the day to dayMore guides on this topicNext: Carpet cleaning software: quoting by the square foot, scheduling trucks and 7 options compared
+
+Janitorial software: what commercial cleaning companies need, and six tools compared
+
+Janitorial software runs a commercial cleaning company’s night crews, sites and contracts: shift scheduling by location, clock-in with GPS, inspections with photos, checklists per building, supply tracking, bidding and monthly invoicing. Swept (from $150/mo), Janitorial Manager (from $1,000/mo) and CleanGuru (from $79/mo) are built for that work; Aspire serves large operators; Jobber and Housecall Pro are general field service tools; Broombook fits residential and small commercial recurring accounts. Prices below come from each vendor’s own page.
+Go to section10
+1What does a janitorial company need from its software?
+
+2Janitorial software programs compared: prices and who each fits
+
+3Swept: janitorial management software priced by location
+
+4Janitorial Manager and Aspire: for operations with many buildings
+
+5CleanGuru: janitorial bidding software with invoicing and timekeeping added
+
+6Jobber and Housecall Pro: general field service software for cleaning and other trades
+
+7Where Broombook fits, and where it does not
+
+8How to choose janitorial software: a worked comparison at 5 and 15 sites
+
+9Frequently asked questions
+
+10Sources
+
+Written by BroombookPublished November 6, 2026 15 min read 8 sections 9 sources cited
+
+Key takeaways
+
+A janitorial company needs five things a house cleaning app does not: site-based shift scheduling, clock-in tied to the building, scored inspections, bidding by square footage and task, and contract invoicing by site.
+
+Swept starts at $150/mo for up to 15 locations (Optimize) and $225/mo (Scale), with clock-in, GPS site checks, inspections with photos and checklists per location on every plan.
+
+CleanGuru is the cheapest bidding tool: $79/mo for one module and 5 users, $129/mo for all modules and 10 users, $159/mo for 15 users, with a 14-day free trial.
+
+Janitorial Manager starts at $1,000/mo on a custom quote, and Aspire (part of the ServiceTitan family) does not publish prices: both are for operations with many buildings.
+
+Jobber and Housecall Pro handle quotes, scheduling and invoicing for many trades; Housecall Pro is $79, $189 or $329 a month by plan, with users included and $35/mo per extra user on Max.
+
+Broombook is not a janitorial platform. It fits residential cleaners and small commercial recurring accounts: booking, scheduling, reminders, card on file and a crew app with checklists, at a flat price.
+
+Jump to section
+
+What does a janitorial company need from its software?
+
+A janitorial company sells recurring cleaning of buildings on contract, done by crews at night. Its software has to answer four questions every morning: did the crew show up at each site, did they do the work, did it pass inspection, and is the account making money. Residential cleaning software answers a different set of questions, about homes, bookings and card payments, which is why the two categories rarely overlap.
+
+The features that matter, roughly in the order owners mention them:
+
+Scheduling by site and shift. A building has a recurring shift, often five nights a week, with a crew assigned to it, not a one-off appointment with a customer. Changes are about coverage: who takes site 14 when Maria is out.
+
+Timekeeping tied to the building. Clock in and out from a phone, with GPS or a geofence that shows the cleaner was on site, missed-shift and late alerts, and hours that flow to payroll without retyping.
+
+Inspections and checklists. A checklist per building that the crew works from, and an inspection a supervisor scores with photos, which is the proof a client wants when they call about the third floor.
+
+Bidding and workloading. Turning square footage, floor types and task frequencies into labor hours and a monthly price, and producing a proposal. Our commercial cleaning prices guide covers the math by hand.
+
+Supplies and work orders. Supply requests from the field, consumables by site, and one-off work such as a floor strip or a carpet extraction billed on top of the contract.
+
+Contract invoicing and job costing. One invoice a month per client, often with several sites on it, and a profit figure by site so you know which buildings to renegotiate or drop.
+
+A CRM for the bid pipeline. Walkthroughs, proposals sent, follow-ups and renewals, because most janitorial sales take weeks and several visits.
+
+Multilingual crew tools. Many crews work in Spanish or other languages, so checklists and messages that translate matter more than they do in an office app.
+
+Not every company needs all eight. A two-person operation cleaning six small offices can run on a bidding tool and a calendar. A company with 30 sites and night supervisors needs the full set. The comparison below is organized by that difference.
+
+Janitorial software programs compared: prices and who each fits
+
+Three tools are built specifically for janitorial companies (Swept, Janitorial Manager and CleanGuru), one serves large operators across landscaping and cleaning (Aspire), two are general field service platforms used by many trades (Jobber and Housecall Pro), and one is a residential cleaning tool that fits small commercial accounts (Broombook, which we make). Prices are monthly, in US dollars, as shown on each vendor’s pricing page on October 28, 2026, and they change, so check the page on the day you decide.
+
+Tool
+
+Built for
+
+Pricing (monthly)
+
+Best fit
+
+Swept
+
+Commercial janitorial, multilingual crews, many locations
+
+Optimize from $150 (up to 15 locations); Scale from $225 (up to 15 locations); Accelerate custom, no location cap. 20 percent off billed annually.
+
+Janitorial companies from a handful of sites to 50 or more
+
+Janitorial Manager
+
+Commercial cleaning operations, bid to inspection to inventory
+
+Custom quote, from $1,000; scales with buildings, square footage, users and features
+
+Established companies with many buildings and supervisors
+
+CleanGuru
+
+Janitorial bidding, plus invoicing, scheduling, timekeeping and inspections
+
+Basic $79 (1 module, 5 users); Guru $129 (all modules, 10 users); Guru Plus $159 (15 users); extra cleaners $5 each. 14-day free trial.
+
+Small janitorial companies that bid often
+
+Aspire
+
+Landscaping and commercial cleaning operators, estimating to job costing
+
+Not published; quote by demo. Part of the ServiceTitan family.
+
+Larger operators, typically well past $1M in revenue
+
+Jobber
+
+Home and commercial service businesses in many trades
+
+Core $49 (1 user); Connect from $139, Grow from $199 (1 user), Plus from $499 (5 users), rising with team size; $29 per extra user. Cheaper billed annually.
+
+Companies with several trades or quote-heavy work
+
+Housecall Pro
+
+Home and commercial service businesses in many trades
+
+Basic $79 (1 user); Essentials $189 (5 users); Max $329 (8 users, $35 per extra user). Cheaper billed annually.
+
+Companies that want one tool across trades, with card payments
+
+Broombook
+
+Residential cleaning companies and small commercial recurring accounts
+
+Free for you and 1 cleaner (40 visits a month); Pro $39 a month for up to 10 users, with unlimited visits, texts and the AI office assistant. No card to start.
+
+House cleaners, maid services, and small office or turnover accounts
+
+Sources: Swept pricing, Janitorial Manager pricing, CleanGuru pricing, Aspire, Housecall Pro pricing, Jobber pricing and Broombook pricing. For a wider look that includes residential tools, see our comparison of the best cleaning business software.
+
+Swept: janitorial management software priced by location
+
+Swept is the most direct answer to “janitorial software” for a company that is past a few sites: it is built around locations, night crews and proof of work, and it prices by the number of locations you manage rather than by user.
+
+Its pricing page lists three plans. Optimize starts at $150 a month for up to 15 locations and includes scheduling and shift management, mobile clock in and out, inspections with photo proof, GPS site verification, cleaning checklists per location, location messaging and announcements, and works in more than 150 languages. Scale, marked as most popular, starts at $225 a month for up to 15 locations and adds a client portal, direct messages and group channels with teams and clients, profit and loss by location, time-off requests, supply requests from the field, work orders and one-time cleanings, and a QuickBooks Online payroll integration, with an API available as an add-on. Accelerate is custom priced for 50 or more locations and multi-unit franchises, with no cap on locations, invoicing and purchase-order terms, and the API included. Annual billing saves 20 percent, and the page says checkout is through Stripe.
+
+The features page fills in the operating details: time tracking with GPS check-ins and an automatic geofence on Optimize and Scale to keep clock-ins honest, missed-shift and late-arrival alerts, inspections with notes, photos and reports, checklists with translation, job costs and margins by location, and supply management. Billing of clients is not the center of the product; the QuickBooks integration is for payroll hours, so check how you will invoice before you commit.
+
+Who it fits: a janitorial company with several buildings, crews that work alone at night, and clients who ask for proof. If you have three sites, $150 a month is a lot for what you will use; if you have twelve, the inspections and the GPS clock-in usually pay for the tool the first time a client disputes a shift.
+
+Janitorial Manager and Aspire: for operations with many buildings
+
+Janitorial Manager and Aspire are both quote-based and both aimed at companies that already have supervisors, many sites and a sales pipeline. They are the tools you move to, not the ones you start on.
+
+Janitorial Manager
+
+Janitorial Manager’s pricing page says plans start at $1,000 a month and that pricing is customized for each operation based on the number of buildings, cleanable square footage, employees and users, and the features and service level you turn on. It describes three tiers, Small Operations (a single facility or a lean crew, from $1,000 a month with training, support and upgrades included), Growing Multi-Building, and Multi-Site and Multi-State, the last two priced by scope. The feature set it describes covers time tracking with several ways to clock in, work loading and bidding, checklists and instructions by location, inspections, work order management, job costing, equipment and inventory tracking, and a messenger for crews and clients.
+
+Who it fits: a company whose problem is running many buildings the same way and proving it, with a budget that treats $12,000 a year as an operating cost. At that price it is not a tool for a startup, and the vendor says so by starting the smallest tier at a single facility with a full crew.
+
+Aspire
+
+Aspire describes itself on its site as field service software that landscaping and commercial cleaning businesses use to streamline, automate and optimize processes, with bidding, real-time job costing and performance insights, and lists estimating, scheduling, job costing, CRM, invoicing and reporting as its key features. It is part of the ServiceTitan family, and the site says it has 70,000 users in nearly 1,500 locations. It does not publish prices; the demo form asks for your annual revenue in bands from under $1 million to over $8 million and your industry, which tells you the customer it is built for.
+
+Who it fits: a commercial cleaning operator with a sales team, an accounting department and a strong interest in job costing, usually one that also does landscaping or facility services. If you are a janitorial company under $1 million in revenue, start with Swept or CleanGuru and come back when you have the staff to run an implementation.
+
+CleanGuru: janitorial bidding software with invoicing and timekeeping added
+
+CleanGuru started as a bidding calculator for janitorial companies and grew into a small suite: bids and proposals, invoicing, scheduling, timekeeping with a geofence, checklists, an inspection app, coaching videos and a QuickBooks connection. It is the cheapest serious option for a company whose biggest problem is producing bids.
+
+The pricing page lists three plans with a 14-day free trial. Basic is $79 a month for one bidding module (you choose janitorial, construction cleanup, disinfecting, move-in and move-out, maid, tile, carpet or window) with 5 users included. Guru is $129 a month for all the modules with 10 users included, and Guru Plus is $159 a month with 15 users, and extra cleaners are $5 a month each. All three list unlimited bids, drag-and-drop scheduling, timekeeping with a geofence, mobile checklists, the inspection app, a CRM with auto follow-up, ready-to-use marketing, alerts, employee messaging and the QuickBooks connection.
+
+Who it fits: a one- to fifteen-person janitorial company that bids weekly and wants the proposal, the invoice and the timesheet in one place without paying by location. The inspection and scheduling tools are simpler than Swept’s, and you give up GPS site verification depth and the client portal, but for a company with a few accounts and a lot of bids to write, it covers the day.
+
+Whatever bidding tool you use, the math inside it is the same: square footage and floor types, tasks and frequencies, production rates, labor cost, supplies, overhead and margin. Our free commercial cleaning calculator runs that math for a quick number before you commit to a tool, and the cleaning proposal template gives you the document.
+
+Jobber and Housecall Pro: general field service software for cleaning and other trades
+
+Jobber and Housecall Pro are the two best-known platforms for home and commercial service businesses of every trade. Both do quotes, scheduling, dispatch, invoicing and card payments well, and both are used by cleaning companies. Neither is a janitorial system: there is no site-based inspection scoring, no workloading, and no supply tracking by building, so a janitorial company uses them for the office side and runs the crew side on paper or a second app.
+
+Housecall Pro
+
+Housecall Pro’s pricing page lists Basic at $79 a month with 1 user, Essentials at $189 a month with 5 users, and Max at $329 a month with 8 users and $35 a month for each additional user, with lower prices billed annually ($59, $149 and $299). The page lists a commercial services business type, and Max includes a sales proposal tool and recurring service plans. Our Housecall Pro pricing page works the full cost out for teams of 1, 5 and 10, including card fees and add-ons.
+
+Jobber
+
+Jobber prices its plans by team size. Its pricing page lists Core at $49 a month for 1 user, Connect from $139 (1 user) to $399 (15 users), Grow from $199 to $499, and Plus from $499 (5 users) to $699 (15 users), with extra users at $29 a month and lower prices billed annually. Its AI receptionist is a $29/mo add-on, included on Plus. Our Jobber pricing page works the cost out by team size, and our Jobber vs Housecall Pro page compares the two side by side.
+
+Who they fit: a company that does janitorial work alongside other trades, such as carpet cleaning, pressure washing or handyman work, and wants one tool for quotes, invoices and payments across all of it. If janitorial contracts are most of your revenue, you will still want a janitorial tool for the crews, or you will accept that inspections and timekeeping live somewhere else.
+
+Where Broombook fits, and where it does not
+
+Broombook is not janitorial software. We make it, and it is built for residential cleaning companies: house cleaning, maid services, move-outs, apartment turnovers and Airbnb cleans, with small commercial recurring accounts, such as a dental office cleaned twice a week or a small office cleaned nightly, as a natural extension. For a company whose business is contract janitorial across many buildings, pick Swept, CleanGuru or Janitorial Manager.
+
+What Broombook does, as described on our features page:
+
+An online booking page with instant prices, and recurring schedules with skips.
+
+Text and email confirmations and reminders, with the client’s own link to move, skip or cancel into times the crew is free.
+
+A card on file, charged after the clean into your own Stripe account, or cash, cheque and e-transfer in one tap; receipts after each charge.
+
+A crew link on the cleaner’s phone with the day’s route, checklists with photos, and clock-in and clock-out, with hours and tip splits exported for payroll.
+
+Client and property records with access notes and alarm codes, and AI translation of job notes into Spanish, French or Portuguese.
+
+Pricing is flat: free for you and 1 cleaner with up to 40 visits a month, or Pro at $39 a month for up to 10 users with unlimited visits, reminders by email and text, card payments, payroll export and the AI office assistant, with no per-seat fee. There is no credit card to start.
+
+What it does not do, so you are not surprised: no site-based inspection scoring, no workloading or square-footage bidding, no supply tracking by building, no client portal, no QuickBooks sync, and no app to install from an app store (the crew uses a link). A janitorial company that also runs a residential division sometimes uses Broombook for that division and a janitorial tool for the contracts; a residential company that picks up a few small offices usually does not need anything else.
+
+If the budget is $0, two free plans cover the crew side: Connecteam is free for up to 10 users, with a time clock, scheduling, checklists and forms, and DoTimely Essential is free with unlimited staff and appointments (both checked November 6, 2026). We compare them, with the free bidding tools, in free janitorial software.
+
+How to choose janitorial software: a worked comparison at 5 and 15 sites
+
+Pick the tool by the number of sites you will have in a year and the one problem that costs you the most today: proof of work, bidding, or billing. Then price it at that size, because the pricing models differ: by location (Swept), by users (CleanGuru, Housecall Pro), by quote (Janitorial Manager, Aspire) or flat (Broombook).
+
+Two hypothetical companies, with list prices from the pricing pages above, monthly billing:
+
+Company
+
+Swept
+
+CleanGuru
+
+Housecall Pro
+
+Janitorial Manager
+
+5 sites, 6 cleaners, owner bids and inspects
+
+$150 (Optimize)
+
+$129 (Guru, 10 users)
+
+$189 (Essentials, 5 users) if only five log in; $329 (Max, 8 users) for all seven
+
+From $1,000
+
+15 sites, 20 cleaners, 2 supervisors, client reporting
+
+$225 (Scale)
+
+$159 (Guru Plus, 15 users) plus 7 extra cleaners at $5: $194
+
+$329 (Max, 8 users) plus $35 for each of 14 extra users: $819
+
+Custom quote
+
+At five sites, CleanGuru is the cheapest full suite and the best if bidding is the bottleneck; Swept costs a little more and wins if proof of work is. At fifteen sites with supervisors and clients who want reports, Swept’s Scale plan is the natural fit; CleanGuru stays cheap because extra cleaners are $5 each, but Housecall Pro reaches $819 a month once every cleaner needs a login. Note that user-based tools can stay cheap if only supervisors log in and cleaners use a shared device or paper, which is how many small companies run Housecall Pro.
+
+Before you sign up for anything, check:
+
+Clock-in proof. Does it show where the cleaner was, and does it alert you when a shift is missed? For night crews this is the feature.
+
+Inspections. Can a supervisor score a site on a phone with photos, and can the client see the result?
+
+Billing. Does it produce one monthly invoice per client with several sites on it, and does it sync to your accounting tool? Our accounting software guide covers the QuickBooks side.
+
+Languages. Can your crew read the checklist in their language?
+
+The exit. Can you export your clients, sites and history if you leave? Ask before you import anything.
+
+Run a 14-day trial with one real site and one real crew, not a demo account. The owner who learns the most is the one who makes a supervisor do an inspection on a phone on night two. For the sales side of the business, our guide on winning commercial cleaning contracts covers where bids are posted and how to respond, and how to start a commercial cleaning business covers the setup before you need any of these tools.
+
+Key takeaways
+
+A janitorial company needs five things a house cleaning app does not: site-based shift scheduling, clock-in tied to the building, scored inspections, bidding by square footage and task, and contract invoicing by site.
+
+Swept starts at $150/mo for up to 15 locations (Optimize) and $225/mo (Scale), with clock-in, GPS site checks, inspections with photos and checklists per location on every plan.
+
+CleanGuru is the cheapest bidding tool: $79/mo for one module and 5 users, $129/mo for all modules and 10 users, $159/mo for 15 users, with a 14-day free trial.
+
+Janitorial Manager starts at $1,000/mo on a custom quote, and Aspire (part of the ServiceTitan family) does not publish prices: both are for operations with many buildings.
+
+Jobber and Housecall Pro handle quotes, scheduling and invoicing for many trades; Housecall Pro is $79, $189 or $329 a month by plan, with users included and $35/mo per extra user on Max.
+
+Broombook is not a janitorial platform. It fits residential cleaners and small commercial recurring accounts: booking, scheduling, reminders, card on file and a crew app with checklists, at a flat price.
+
+On this page
+
+What does a janitorial company need from its software?
+
+Janitorial software programs compared: prices and who each fits
+
+Swept: janitorial management software priced by location
+
+Janitorial Manager and Aspire: for operations with many buildings
+
+CleanGuru: janitorial bidding software with invoicing and timekeeping added
+
+Jobber and Housecall Pro: general field service software for cleaning and other trades
+
+Where Broombook fits, and where it does not
+
+How to choose janitorial software: a worked comparison at 5 and 15 sites
+
+Frequently asked questions
+
+Sources
+
+Run your cleaning business from one app
+
+Broombook gives clients an instant price and online booking, keeps recurring schedules on track, and charges the card on file after each clean.
+
+Start Broombook free See every feature
+
+FAQ
+
+Frequently asked questions
+
+What is the best software for a janitorial business?
+For a company cleaning several buildings with night crews, Swept is the most complete janitorial tool at a published price (from $150 a month for up to 15 locations). CleanGuru is the cheapest full suite and the best for bidding (from $79 a month). Janitorial Manager and Aspire fit larger operations on custom quotes. Jobber and Housecall Pro suit companies that mix janitorial with other trades.
+How much does janitorial software cost?
+From about $79 a month (CleanGuru Basic) to $225 a month (Swept Scale) for small and mid-size companies, and from $1,000 a month for Janitorial Manager. Housecall Pro runs $79 to $329 a month by plan plus $35 per extra user on Max. Aspire does not publish prices. All figures are from the vendors’ pricing pages on October 28, 2026.
+What is janitorial scheduling software?
+Software that assigns recurring shifts to crews by building rather than booking appointments with customers, with clock-in tied to the site, missed-shift alerts and a way to cover absences. Swept, CleanGuru and Janitorial Manager all include it; general field service tools schedule jobs rather than site shifts.
+Does janitorial software handle invoicing?
+Most do, in different depths. CleanGuru and Housecall Pro invoice from the same tool. Swept tracks hours, supplies and profit by location and sends approved hours to QuickBooks Online for payroll, so check how you will bill clients. Janitorial Manager and Aspire include invoicing and job costing on their quote-based plans.
+Can I use Jobber or Housecall Pro for a janitorial company?
+Yes for quotes, scheduling, invoicing and card payments, and many cleaning companies do. Neither has site-based inspection scoring, workloading or supply tracking by building, so a janitorial company usually pairs them with a crew tool or paper checklists.
+Is Broombook janitorial software?
+No. Broombook is built for residential cleaning companies and fits small commercial recurring accounts, with online booking, scheduling, reminders, card on file and a crew app with checklists, free or at a flat $39 a month on Pro. It has no inspection scoring, workloading or client portal, so a contract janitorial company should look at Swept, CleanGuru or Janitorial Manager.
+Is there free janitorial software?
+Not a complete one. Connecteam is free for up to 10 users, with a time clock, scheduling, checklists and forms, and DoTimely Essential is free with unlimited staff and appointments (both checked November 6, 2026). CleanGuru offers a 14-day free trial and Swept starts with a demo. Broombook has a free plan with no end date that fits small recurring accounts, and our free commercial cleaning calculator and proposal template cover the bidding step without a subscription. Our page on free janitorial software compares them all.
+
+Sources
+
+Swept pricing page (checked October 28, 2026)
+
+Swept features page (checked November 7, 2026)
+
+Janitorial Manager plans and pricing (checked October 28, 2026)
+
+CleanGuru plans and pricing (checked November 7, 2026)
+
+Aspire, field service management software (checked October 28, 2026)
+
+Housecall Pro pricing page (checked October 28, 2026)
+
+Jobber pricing page (checked November 7, 2026)
+
+Connecteam pricing page (checked November 6, 2026)
+
+DoTimely pricing page (checked November 6, 2026)
+
+General information for cleaning business owners, not legal, tax or insurance advice. Rules and prices vary by state and city.
+
+Keep reading
+
+ComparisonFree janitorial software: what is really free, and what is only a trial
+
+ComparisonThe best cleaning business software in 2026: 7 tools compared
+
+ProductBroombook pricing
+
+GuideHow to get commercial cleaning contracts: find, bid and win them
+
+GuideOffice cleaning prices: commercial cleaning rates per hour and per sq ft
+
+GuideBest accounting software for cleaning business owners (2026)
+
+Free toolCommercial cleaning calculator
+
+Scheduling, booking and crew app for residential cleaning businesses.
+
+Get Broombook free Go to my dashboard
+
+Free plan · No credit card needed · No per-cleaner fees
+
+Product
+
+Features
+
+Pricing
+
+Get Broombook free
+
+Software
+
+Free cleaning software
+
+Free scheduling app
+
+Scheduling software
+
+Maid service software
+
+Online booking
+
+Quotes and estimates
+
+CRM for cleaning businesses
+
+Cleaning business app
+
+Payroll and time tracking
+
+Airbnb cleaning software
+
+Compare
+
+Best cleaning business software
+
+Jobber alternatives
+
+ZenMaid alternative
+
+Jobber vs Housecall Pro
+
+Jobber pricing
+
+Housecall Pro pricing
+
+Housecall Pro alternatives
+
+Resources
+
+Free tools
+
+Tools for ChatGPT and Claude
+
+Guides
+
+How to clean anything
+
+Privacy
+
+Terms
+
+Broombook
+
+Broombook. All rights reserved. Questions? hello@broombook.com
+Back to top
+
+Ask Broomie
